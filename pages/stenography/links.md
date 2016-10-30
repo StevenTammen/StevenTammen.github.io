@@ -61,7 +61,7 @@ title: Stenography Links
 
 ### Steno Machines
 - [SOFT/HRUF](https://softhruf.love/)
-- [StenoMod](https://stenomod.blogspot.com/2016/09/stenomod-for-sale.html)
+- [Stenomod](https://stenomod.blogspot.com/2016/09/stenomod-for-sale.html)
 - [Infinity Ergonomic](http://www.infinitytraditional.com/infinity-ergonomic-student/)
 - [Lightspeed](https://www.stenovations.com/lightspeed/)
 - [Stenosaurus](http://stenosaurus.blogspot.com/)
