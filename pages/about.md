@@ -10,7 +10,9 @@ title: About
 
 My name is Steven Tammen and I am an undergraduate student at the University of Georgia studying Latin, Greek, Hebrew, and Classical culture. I am also interested in philology, the ancient Near East, and ancient history in general.
 
-My other interests cluster around the theme of practical efficiency -- optimizing objects and processes through systematic study and continuous improvement to make them the best they can be according to the constraints inherent to reality.## Purpose
+My other interests cluster around the theme of practical efficiency -- optimizing objects and processes through systematic study and continuous improvement to make them the best they can be according to the constraints inherent to reality.
+
+## Purpose
 
 This site exists to
 
