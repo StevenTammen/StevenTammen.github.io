@@ -18,44 +18,49 @@ title: HIEAM
    
 </div>
 
-## TODO: Explain base layer features
+## Base layer features
 
-- Hotstrings for medial ' ` ^ ~ : \| diacritical marks (cogit\|o --> cogitō). Allows relatively painless writing of German, French, Spanish, Italian, Latin, etc.
-- Use , key as command mode key in Spacemacs
-- The sequence ", " acts as normal. After any other keys are pressed, space operates as normal on Spacemacs command mode (Vim) layer
-- Use the sequence " ," to access space leader straight from base layer
-- Use ) as command leader key: )enter changes the number layer to correspond to the enter number layout, )writing to the writing number layout, )vim disables the editing layer and turns the comma key into Esc, etc.
-- Main modifiers accessed by holding down home row keys, common combinations by holding down the more easily accessible non-homerow keys.
+- Hotstrings for medial ' ` ^ ~ :. For example, \| as a Latin macron (cogit\|o --> cogitō). Allows relatively painless writing of German, French, Spanish, Italian, Latin, etc. without remembering complicated Alt codes, combining diacritics, dead keys, etc.
+- Use the , key as the normal mode key (i.e., as a replacement binding to Esc) in Vim-flavored Spacemacs
+   - The sequence ", " acts as normal, outputting those two characters.
+   - However, if the , key is followed by any key other than space, space will thereafter function regularly as the space leader in normal mode
+   - Use the sequence " ," to access the space leader straight from the base layer
+- Use ) as command leader key, regardless of mode: )enter changes the number layer to correspond to the enter number layout, )tab to the tab number layout, )vim disables the editing layer normally accessed by the , key and enables the bahvaior described above, etc.
+- Main modifiers accessed by holding down home row keys, common combinations (Ctrl+Sh, Ctrl+Alt) by holding down the more easily accessible non-homerow keys.
 - M and period keys can be used for arbitrary macros upon holding them down.
-- yy and jj aren't native sequences in english and can be mapped to whatever you want.
+- yy, jj, fd, etc. aren't native sequences in English and can be mapped to whatever you want.
 
-## TODO: Explain Greek character placements
+## Greek character placements
 
 - Not a native Greek speaker, and won't use language for extended periods of time (i.e., won't be typing it very much). Means that memorability is much more important than typical optimization parameters like same finger, inward rotation, travel distance, etc. Not going to spend hours and hours learning an optimized Greek layout that gets used 0.01% of the time: marginal cost is too high, illogical.
 - (But if you want to design such a thing for ancient Greek: go for it! Just not really useful for Classcists, IMO: time is better spent getting the more intuitive layout up to a reasonable wpm, which will take a lot less time)
-- Match up similar letters with English equivalents: by sound (p --> π), by appearance (h --> η because capital characters are identical), etc. Will catalyze learning process immensely, and make things easy to remember.
-- y and j are unused in Greek alphabet, so get the two completely unrelated letters from Greek assigned to them: θ and ψ.
-- ζ matches z on the Punctuation Layer. Switching to the Greek Base Layer will Automatically also switch the English Punctuation Layer to the Greek Punctuation Layer.
+- Match up similar letters with English equivalents: by sound (p --> π), or by appearance (h --> η because capital characters are identical, y --> ψ). Will catalyze learning process immensely, and make things easy to remember.
+- y and j are unused in Greek alphabet and on the base layer, so get the two completely unrelated letters from Greek assigned to them: ψ and θ.
+- ζ matches z on the Punctuation Layer. Switching to the Greek Base Layer will Automatically also switch the English Punctuation Layer to the Greek Punctuation Layer. For the purposes of historical comparisons, v and q can be used for earlier letters like digamma.
 
-## TODO: Explain Greek accentuation and breathing system
+## Greek accentuation and breathing system
 
-- Observation: apostrophe not used in Greek (or Latin etc.) because of genetive case (and these languages don't use contractions). So we can use it for accentuation.
-- When Greek Base is active we won't be coding, so we can just steal apostrophe compltely for this use (without worrying about strings and such). Likewise, we can get along just fine without our ) commands for the duration that Greek Base is active, so we can also steal ).
-- An apostrophe before a vowel will lead to a grave accent: 'o --> ὸ
-- An apostrophe after a vowel will lead to an acute accent: o' --> ό
-- Two apostrophes after a vowel will lead to a circumflex: ω'' --> ῶ
-- Smooth breathing automatic: words starting with rho or vowels will automatically have the smooth breathing mark added. Saves time.
-- Rough breathing will be added by prepending the initial vowel (or rho) with ): )o --> ὁ. 
-- Breathings and accents will work together just fine as well: )αι''μα' --> αἷμά
+- ) commands will still function as normal, and Spacemacs normal mode editing will remain unaffected
+- Observation: apostrophe not used in Greek (or Latin etc.) because of genetive case (and these languages don't use contractions). So we can use it for other things n the language.
+- When Greek Base is active we won't be coding, so we can just steal apostrophe completely for this use (without worrying about strings and such). Likewise, we can get along just fine without the characters on the coding and symbol layers, so the thumb keys normally used to access these layers are available. Of these, it is best to have the right thumb handle accents since accents are more commonly used than breathings and the right side provides alternation with the vowels. Therefore:
+   - Right thumb key before a vowel will lead to a grave accent: {RTK}o --> ὸ. (Avoids same finger with space)
+   - Right thumb key after a vowel will lead to an acute accent: o{RTK} --> ό. (Acute accents, except for a small few exceptions, do not end words, thereby preventing same finger with space).
+   - Double tapping the right thumb key before a vowel will lead to a circumflex: {RTK}{RTK}ω --> ῶ. RTK
+   - Left thumb key after a vowel will lead to smooth breathing: o{LTK} --> ὀ. (Smooth breathing is more common than rough breathing, so leaving hand in a more neutral position by giving time for fingers to get back to home row is more valuable here than with rough breathing).
+   - Left thumb key before a vowel or rho will lead to rough breathing: o{LTK} --> ὁ. 
+   - Breathings and accents will work together just fine as well: α{RTK}{RTK}ι{LTK}μα{RTK} --> αἷμά. (Order of application will not matter).
 
-## TODO: Explain the reasoning for every key placement on every layer in excruciating detail
+## The reasoning for key placements
 
 - Minimize same finger, travel distance, favor inward rotation
 - Don't try to weight dominant hand: balance is important, so right/left key pairs have identical scores (it doesn't matter which side you pick). Side may matter in relation to the other factors above.
 - \` on Code layer because of Vim commands like \`]. $ on thumb because of its frequency in shell scripting and perl. Want to minimize same finger when using it as sigil, so it goes on a thumb. Other sigil keys (@, %) go opposite consonants because more consonants start variable names than vowels/punctuation.
-- heuristics << algorithms like AdNW, and you will likely miss some stuff, but likely very near-optimal anyway, probably within a couple percent.
+- heuristics << algorithms like AdNW, so I undoubtedly missed some stuff, but the layout is likely near-optimal anyway, probably within a couple percent.
 
-## TODO: Explain mouse layer
+## Mouse layer
+
+- Arrow keys on right hand, navigation keys (home, end, pgup, pgdn) on left.
+- Maintain capabilities to use Ctrl, Sh, and Ctrl+Sh commands for navigations and highlighting
 
 ## TODO: Put modifiers into KBLE files/pictures, swap base and middle click on mouse layer, fix duplicated ffw char on media base
 
