@@ -49,6 +49,7 @@ title: HIEAM
    - Left thumb key after a vowel will lead to smooth breathing: o{LTK} --> ὀ. (Smooth breathing is more common than rough breathing, so having the thumb key following is better here for similar reasons as for why it is better for acute accents: more time for vowel fingers to get back to home row).
    - Left thumb key before a vowel or rho will lead to rough breathing: {LTK}o --> ὁ. 
    - Breathings and accents will work together just fine as well: α{RTK}{RTK}ι{LTK}μα{RTK} --> αἷμά. (Order of application will not matter).
+   - Apostrophe after a vowel will lead to an iota subscript (after again due to resetting reasons explained above, and also because it leads to inward rolls on the vowel hand)
 
 ## The reasoning for key placements
 
