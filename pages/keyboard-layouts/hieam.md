@@ -44,18 +44,18 @@ title: HIEAM
 - Observation: apostrophe not used in Greek (or Latin etc.) because of genetive case (and these languages don't use contractions). So we can use it for other things n the language.
 - When Greek Base is active we won't be coding, so we can just steal apostrophe completely for this use (without worrying about strings and such). Likewise, we can get along just fine without the characters on the coding and symbol layers, so the thumb keys normally used to access these layers are available. Of these, it is best to have the right thumb handle accents since accents are more commonly used than breathings and the right side provides alternation with the vowels. Therefore:
    - Right thumb key before a vowel will lead to a grave accent: {RTK}o --> ὸ. (Avoids same finger with space)
-   - Right thumb key after a vowel will lead to an acute accent: o{RTK} --> ό. (Acute accents, except for a small few exceptions, do not end words, thereby preventing same finger with space).
-   - Double tapping the right thumb key before a vowel will lead to a circumflex: {RTK}{RTK}ω --> ῶ. RTK
-   - Left thumb key after a vowel will lead to smooth breathing: o{LTK} --> ὀ. (Smooth breathing is more common than rough breathing, so leaving hand in a more neutral position by giving time for fingers to get back to home row is more valuable here than with rough breathing).
-   - Left thumb key before a vowel or rho will lead to rough breathing: o{LTK} --> ὁ. 
+   - Right thumb key after a vowel will lead to an acute accent: o{RTK} --> ό. (Acute accents, except for a small few exceptions, do not end words, thereby preventing same finger with space. Also better here than grave because acute is more common and additional thumb key press gives vowel fingers time to get back to home row).
+   - Double tapping the right thumb key before a vowel will lead to a circumflex: {RTK}{RTK}ω --> ῶ. (Also avoids same finger with space)
+   - Left thumb key after a vowel will lead to smooth breathing: o{LTK} --> ὀ. (Smooth breathing is more common than rough breathing, so having the thumb key following is better here for similar reasons as for why it is better for acute accents: more time for vowel fingers to get back to home row).
+   - Left thumb key before a vowel or rho will lead to rough breathing: {LTK}o --> ὁ. 
    - Breathings and accents will work together just fine as well: α{RTK}{RTK}ι{LTK}μα{RTK} --> αἷμά. (Order of application will not matter).
 
 ## The reasoning for key placements
 
-- Minimize same finger, travel distance, favor inward rotation
+- Minimize same finger, travel distance; favor inward rotation
 - Don't try to weight dominant hand: balance is important, so right/left key pairs have identical scores (it doesn't matter which side you pick). Side may matter in relation to the other factors above.
-- \` on Code layer because of Vim commands like \`]. $ on thumb because of its frequency in shell scripting and perl. Want to minimize same finger when using it as sigil, so it goes on a thumb. Other sigil keys (@, %) go opposite consonants because more consonants start variable names than vowels/punctuation.
-- heuristics << algorithms like AdNW, so I undoubtedly missed some stuff, but the layout is likely near-optimal anyway, probably within a couple percent.
+- \` on Code layer because of Vim commands like \`]. $ on thumb because of its frequency in shell scripting and perl. Want to minimize same finger when using it as sigil, so it goes on a thumb. Other (less common) sigil keys (e.g., @, %) go opposite consonants because more consonants start variable names than vowels/punctuation.
+- heuristics << algorithms like AdNW, so I undoubtedly missed some stuff. This said, the layout is likely near-optimal anyway, probably within a few percent. I would be very happy to have my layout compared to something produced by an algorithm that optimizes across multiple layers, but *I* probably wouldn't change even if it was shown that my layout could be improved in several ways; benefits gained from the layout would be less than time cost of retraining muscle memory. For younger folks learning how to type, however, I would of course recommend the better layout!
 
 ## Mouse layer
 
