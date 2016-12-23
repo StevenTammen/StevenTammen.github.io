@@ -12,7 +12,7 @@ Kanban-like boards have been utilized by agile software development teams for ye
 
 There are many proprietary options to choose from (such as [Jira](https://www.atlassian.com/software/jira), [LeanKit](https://leankit.com/), [KanbanTool](http://kanbantool.com/), [KanbanFlow](https://kanbanflow.com/), etc.), but I wanted to choose something that was open source at its core, so the project managment for this site is done through [Waffle.io](https://waffle.io/).
 
-You can see this site's Waffle.io board here. The board shows all of the things that I am currently working on, plan to work on, etc. -- both for content and design. Put simply, this is where you should start if you want to contribute to this site because this is the roadmap for the future. If you see something you want to help with, go for it! (I'll explain how in a second).
+You can see this site's Waffle.io board here. The board shows all of the things that I am currently working on, plan to work on, etc. -- both for content and design. Put simply, this is where you should start if you want to contribute to this site, because this is the roadmap for the future. If you see something you want to help with, go for it! (I'll explain how in a second).
 
 Over time, if you take on an active role in development, I'll add you as a contributor to the board, and you'll be able to edit it directly.
 
@@ -20,7 +20,7 @@ This is the side of contribution that is structured: everyone works together to 
 
 ## Ad Hoc Contributions
 
-Things can also be improved over time without any sort of overarching plan to bind contributions together: "organic growth", if you will. If there is something about the content or design on the site that you think could be done better, that is valid grounds for contributing. Nothing on this site is off limits -- you are free to contribute, as you see fit, in whatever way you want, pending my approval. Below are some examples of what *ad hoc* contributions could look like.
+Things can also be improved over time without any sort of overarching plan to bind contributions together: "organic growth", if you will. If there is something about the content or design of the site that you think could be done better, that is valid grounds for contributing. Nothing on this site is off limits -- you are free to contribute, as you see fit, in whatever way you want, pending my approval. Below are some examples of what *ad hoc* contributions could look like.
 
 Example Content Contributions:
 
