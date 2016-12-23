@@ -28,7 +28,7 @@ This site does not exist to
 
 ## Backend
 
-Please have a look at the Readme in [this site's Github repository](https://github.com/StevenTammen/steventammen.github.io) for a concise technical summary of how everything works.
+Please have a look at the Readme in [this site's Github repository](https://github.com/StevenTammen/steventammen.github.io) for a concise technical summary of the backend.
 
 ## Stucture
 
