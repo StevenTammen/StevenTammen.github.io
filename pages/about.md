@@ -48,13 +48,13 @@ I am strong believer in publishing content before it is finished completely. Thi
 
 1. Multiple people working on the same thing will yield better results than a single individual
 2. This is true at all stages of the creation process, not just for edits of an already-finished work
-3. Therefore (*modus ponens*), enabling multiple people to contribute at all stages of the process will yield optimal quality
+3. Therefore, enabling multiple people to contribute at all stages of the process will yield optimal quality
 4. Optimal quality is a desirable thing that should be pursued
-5. Therefore (*modus ponens*), policies enabling multiple people to contribute at all stages of the process should be pursued
+5. Therefore, policies enabling multiple people to contribute at all stages of the process should be pursued
 
 ## Open Source
 
-If it wasn't obvious from that chain of propositions, opensourcing stuff is something that I think is important. Code has been opensourced for a while now, and hardware is beginning to get there (see: crowdsourced tech startups), but, to my knowledge, there has not been much of a push to opensource *websites themselves*. I find this somewhat puzzling, since open projects offer so many advantages and so few disadvantages. I have designed this website to be entirely open source, and the content is licensed under open source licenses (see below). Contribution guidelines may be found on the "Contribute" page.
+If it wasn't obvious from that chain of propositions, opensourcing stuff is something that I think is important. Code has been opensourced for a while now, and hardware is beginning to get there (see: crowdsourced tech startups), but, to my knowledge, there has not been much of a push to opensource *websites themselves*. I find this somewhat puzzling, since open projects offer so many advantages and so few disadvantages. I have designed this website to be entirely open source, and the content is licensed under open source licenses (see below). Contribution guidelines may be found on the [Contribute page](https://steventammen.com/contribute/).
 
 ## Continuous Improvement
 
