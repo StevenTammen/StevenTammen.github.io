@@ -42,9 +42,9 @@ HSTS is enabled to prevent downgrade attacks, SSL stripping, and cookie hijackin
 ### Email
 [Mailgun](https://mailgun.com) is used to handle all email through the site (rather than, say, Google Apps for Business).
 
-## Pull Requests
+## Contribution Guidelines
 
-I encourage you to submit pull requests for any improvements you can make to content (such as correcting typos or improving phrasing) or the site's design (such as improving the mobile UX). You can also check the [open issues](https://github.com/StevenTammen/steventammen.github.io/issues) for things that I'd like to get implemented eventually. I'm not a web developer by profession, so many of the things that I want done are out of my present knowledge range.
+Please have a look at [this page](https://steventammen.com/contribute/).
 
 ## Copyright and Terms of Use
 
