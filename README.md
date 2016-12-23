@@ -1,6 +1,4 @@
-# About
-
-## Technical Rundown 
+## Technical Summary
 
 Note: All this is liable to change once I get a block of free time to optimize the backend further. Things planned:
 
