@@ -6,7 +6,7 @@ Note: All this is liable to change once I get a block of free time to optimize t
 
 - Changing the origin file text markup language from [Markdown](http://daringfireball.net/projects/markdown/) to [Org](http://orgmode.org/org.html#Markup)
 - Changing the static site generator from [Jekyll](https://jekyllrb.com/) to [Hugo](https://gohugo.io/)
-- Incorporating [Pandoc](http://pandoc.org/) into the build process, or writing an Org parser for [Go](https://golang.org/)
+- Incorporating [Pandoc](http://pandoc.org/) into the build process, or an Org parser for [Go](https://golang.org/)
 - Using [Netlify](https://www.netlify.com/) instead of [Github Pages](https://pages.github.com/) for hosting
 - Using [Netlify](https://www.netlify.com/) instead of [Cloudflare](https://www.cloudflare.com/) for CDN services, minification, SSL, and max-age headers
 - Using [Zopfli Encoding](https://en.wikipedia.org/wiki/Zopfli) for seldom changed assets and pictures (rather than a less size-efficient DEFLATE encoder).
