@@ -1,3 +1,5 @@
+[![Stories in Ready](https://badge.waffle.io/StevenTammen/steventammen.github.io.png?label=ready&title=Ready)](http://waffle.io/StevenTammen/steventammen.github.io)
+
 ## Technical Summary
 
 Note: All this is liable to change once I get a block of free time to optimize the backend further. Things planned:
