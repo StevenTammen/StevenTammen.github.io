@@ -10,9 +10,9 @@ title: About
 
 My name is Steven Tammen and I am an undergraduate student at the University of Georgia studying Latin, Greek, Hebrew, and Classical culture. I am also interested in philology, the ancient Near East, and ancient history in general.
 
-My other interests cluster around the theme of practical efficiency -- optimizing objects and processes through systematic study and continuous improvement to make them the best they can be according to the constraints inherent to reality.
+My other pursuits cluster around the theme of practical efficiency -- optimizing objects and processes through systematic study and continuous improvement to make them the best they can be according to the constraints inherent to reality.
 
-## Purpose
+### Purpose
 
 This site exists to
 
@@ -26,15 +26,35 @@ This site does not exist to
 - Make money by locking content behind exclusive mailing lists, paid eBooks, monthly subscriptions, or other things of the sort
 - Make money through advertising or affiliate marketing
 
-## Markdown Source
+## Backend
+
+Please have a look at the readme in [this site's Github repository](https://github.com/StevenTammen/steventammen.github.io) for a brief summary of the backend.
+
+## Stucture
+
+The "Home" page of this site gives a brief overview of what has been published recently, and will also have other items as the need arises (requests for help with projects, announcements, etc.). The "Contact" and "CV" pages are exactly what they sound like -- there are links to my publications/writings in the CV.
+
+The "Pages" page contains all the pages that have been completed, organized into alphabetically-sorted categories. If you know what you are looking for, you can use CTRL+F (or CMD+F) to rapidly navigate to it. The "In Progress" page is organized in exactly the same manner, but contains pages that are not yet completed. These pages may range from barely started (a collection of research links and bullet points with preliminary thoughts), to almost finished (complete expositions waiting for proofreading and polishing).
+
+The "Search" page contains an embedded Google custom search object. You may search using the same syntax as normal (e.g., enclosing things in quotes, prepending things with dashes, etc.), but results will show up on the page rather than in another window, and will be limited to results on this site.
+
+The "Settings" page will eventually contain various customization options for the site, such as adjusting font size, line spacing, background color, and so forth. Please check back later -- I will try to implement customization as soons as I can.
+
+## Workflow
+
+### Transparency From Square One
+
+I am strong believer in publishing content before it is finished completely. This is so for two reasons: 1) waiting until pages are "finished" before publishing means that they aren't useful to anyone else until the very end of the research and writing process, and 2) I am far from a perfect writer (and my knowledge in many areas is less than complete), so giving people an opportunity to give feedback from the very beginning of the process will help improve 
+
+### Markdown Source
 
 At the top of every page I have included two buttons that link to its [markdown](https://daringfireball.net/projects/markdown/) source: one links to the page's location in the site's [GitHub Repository](https://github.com/StevenTammen/steventammen.github.io) and the other links to the page's location on [Prose.io](http://prose.io/), an online markdown editor for GitHub.
 
-## Continuous Improvement
+### Continuous Improvement And Open Source Ideals
 
 Although I do my best to provide good content when I first publish a page, I will continue to edit and update pages to improve them over time. That is to say, I view this site as a perpetual "work in progress" rather than a collection of static documents. This constant refinement over time is, in my opinion, essential to long-term quality. Changes to individual pages can be tracked by viewing the commit history of their markdown source in the site's GitHub Repository. I may clean out the commit history every once in a while if it gets too cluttered, but, for any given page, you'll generally be able to get a pretty good idea of what's happened in the last few commits.
 
-## Open Source Content
+### Open Source Content
 
 You can help improve the site's content by submitting pull requests with editorial changes on Github, or by editing the pages on Prose.io and then pressing "Save" --> "Submit Change Request", which will automatically create the pull request for you. Prose.io is great if you don't have a lot of experience with Git and GitHub -- even though you need a GitHub account to propose changes through Prose.io, you need no other knowledge, so once you [set up a GitHub account](https://github.com/join), you can contribute freely without having to know all the complicated programmer stuff. If you aren't comfortable contributing through GitHub or Prose.io, you can also just email improvements to <a href="mailto:edits@steventammen.com">edits@steventammen.com</a>.
 
@@ -50,7 +70,7 @@ Example Content Improvements:
 - Adding visual aids, such as diagrams, to enhance comprehension
 - Anything else you think could make the content better
 
-## Open Source Design
+### Open Source Design
 
 You can help improve the site itself by submitting pull requests with design improvements. If you are comfortable with web development languages but not GitHub pull requests, you can send implementations to <a href="mailto:design@steventammen.com">design@steventammen.com</a> and I'll incorporate them into the repository myself. If you aren't comfortable with web development languages or GitHub pull requests, your ideas are still valuable, and you can send them to that same address.
 
