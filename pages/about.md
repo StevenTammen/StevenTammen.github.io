@@ -28,7 +28,7 @@ This site does not exist to
 
 ## Backend
 
-Please have a look at the Readme in [this site's Github repository](https://github.com/StevenTammen/steventammen.github.io) for a concise technical summary of the backend.
+Please have a look at the Readme in the [Github repository](https://github.com/StevenTammen/steventammen.github.io) for a concise technical summary of this site's backend.
 
 ## Stucture
 
@@ -38,7 +38,7 @@ The [Pages page](https://steventammen.com/pages/) contains all the pages that ha
 
 The [Search page](https://steventammen.com/search/) contains an embedded Google custom search object. You may search using the same syntax as normal (enclosing things in quotes, prepending things with dashes, etc.), but results will show up on the page rather than in another window, and will be limited to results on this site.
 
-The [Settings page](https://steventammen.com/settings/) will eventually contain various customization options for the site, such as adjusting font size, line spacing, background color, and so forth. Please check back later -- I will try to implement customization as soons as I can.
+The [Settings page](https://steventammen.com/settings/) will eventually contain various customization options for the site, such as adjusting font size, line spacing, background color, and so forth. Please check back later -- I will try to implement customization as soon as I can.
 
 The [Contribute page](https://steventammen.com/contribution-guidelines/) explains how you can help contribute to this site.
 
