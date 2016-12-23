@@ -1,10 +1,10 @@
 ---
-permalink: /contribute/
+permalink: /contribution-guidelines/
 layout: layout
-title: Contribute
+title: Contribution Guidelines
 ---
 
-<h1 class="center"> Contribute To The Site</h1>
+<h1 class="center"> Contribution Guidelines</h1>
 
 ## Planned Contributions: Waffle.io
 
@@ -60,6 +60,6 @@ For pull requests requiring significant amounts of work, it would be a good idea
 
 Like Python's Guido van Rossum and Vim's Bram Moolenaar, this site has a Benevolent Dictator For Life: me. I love working with others collaboratively, but ultimately, decisions about the direction of this site come down to me. In particular, this means that I will choose what gets written about, and choose which improvements find their way into the main repository.
 
-I do not view this as limiting. If there is something that you are really passionate about but I am not, it is better all the way around if you create a site of your own to write about it (I'd be happy to help and contribute!). Because of how I have licensed everything, you are free to borrow as much of this site's design and content as you wish, as long as you give proper attribution and license your content the same way.
+I do not view this as limiting. If there is something that you are really passionate about but I am not, it is better all the way around if you create a site of your own to write about it (I'd be happy to help and contribute!). Because of how I have licensed everything, you are free to borrow as much of this site's design and content as you wish, as long as you give proper attribution and license the same way.
 
 What I envision, in the long run, is a community of people writing about the things they are passionate about, freely helping each other improve while at the same time maintaining their own autonomy. This encourages the collaboration that open source projects are known for without causing the conflicts of leadership that they are also known for (for just one example, cf. Vim and NeoVim).
