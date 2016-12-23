@@ -28,7 +28,7 @@ This site does not exist to
 
 ## Backend
 
-Please have a look at the readme in [this site's Github repository](https://github.com/StevenTammen/steventammen.github.io) for a brief technical summary of how it operates.
+Please have a look at the readme in [this site's Github repository](https://github.com/StevenTammen/steventammen.github.io) for a concise technical summary of how everything works.
 
 ## Stucture
 
@@ -54,21 +54,21 @@ I am strong believer in publishing content before it is finished completely. Thi
 4. better results are a desirable thing that should be pursued
 5. Therefore (*modus ponens*), policies enabling multiple people to contribute at all stages of the process should be pursued
 
-If it wasn't obvious from that chain of propositions, open sourcing stuff is something that I think is important. Code has been opensourced for a while now, and hardware is beginning to get there (see: crowdsourced tech startups), but, to my knowledge, there has not been much of a push to open source *websites themselves* and *the processes for creating meaningful content*. I find this somewhat puzzling, since open/collaborative projects offer so many advantages and so few disadvantages. Below I have layed out my implementation of a completely opensource website and workflow.
+If it wasn't obvious from that chain of propositions, open sourcing stuff is something that I think is important. Code has been opensourced for a while now, and hardware is beginning to get there (see: crowdsourced tech startups), but, to my knowledge, there has not been much of a push to open source *websites themselves* and *the processes for creating meaningful content*. I find this somewhat puzzling, since open projects offer so many advantages and so few disadvantages. Below I have layed out my implementation of a completely opensource website and workflow.
 
-### Direction
+### Workflow
 
-One of the biggest problems in collaborative projects is determining direction: setting the agenda. Kanban-like boards have been utilized by agile software development teams for years, and they have made the leap into business organization as well. I am fully convinced that they are the best solution to organizing cross-functional teams of people in parallel, especially when there is no heirarchichal leadership structure.
+Kanban-like boards have been utilized by agile software development teams for years, and they have made the leap into business organization as well. I am fully convinced that they are the best solution to organizing cross-functional teams of people in parallel, especially when there is no heirarchichal leadership structure. They are a perfect match for managing the workflows of open source projects that are organized horizontally.
 
 There are many proprietary options to choose from (such as [Jira](https://www.atlassian.com/software/jira), [LeanKit](https://leankit.com/), [KanbanTool](http://kanbantool.com/), [KanbanFlow](https://kanbanflow.com/), etc.), but I wanted to choose something that was open source at its core, so the project managment from this ste is done through [Waffle.io](https://waffle.io/).
 
-You can see the Waffle.io board for this site here. If you wish to help guide the direction this project takes, you're going to have to get added as a contributor by me, so shoot me an email at <a href="mailto:direction@steventammen.com">edits@steventammen.com</a>, or message me on GitHub, and I'll get you direct access to the board. If you don't want to play such an active role, you can always just let me know your thoughts and opinions about what should be covered and where the site should go by emailing that same address.
+You can see the Waffle.io board for this site here. If you wish to contribute, you're going to have to get added as a contributor by me, so shoot me an email at <a href="mailto:workflow@steventammen.com">workflow@steventammen.com</a>, or message me on GitHub, and I'll get you direct access to the board. If you don't want to play such an active role, you can always just let me know your thoughts and opinions about what should be covered in what order by emailing that same address.
 
 ### Content
 
 At the top of every page I have included two buttons that link to its [markdown](https://daringfireball.net/projects/markdown/) source: one links to the page's location in the site's [GitHub Repository](https://github.com/StevenTammen/steventammen.github.io) and the other links to the page's location on [Prose.io](http://prose.io/), an online markdown editor for GitHub.
 
-You can help improve the site's content by submitting pull requests with editorial changes on Github, or by editing the pages on Prose.io and then pressing "Save" --> "Submit Change Request", which will automatically create the pull request for you. Prose.io is great if you don't have a lot of experience with Git and GitHub -- even though you need a GitHub account to propose changes through Prose.io, you need no other knowledge, so once you [set up a GitHub account](https://github.com/join), you can contribute freely without having to know all the complicated programmer stuff. If you aren't comfortable contributing through GitHub or Prose.io, you can also just email improvements to <a href="mailto:content@steventammen.com">edits@steventammen.com</a>.
+You can help improve the site's content by submitting pull requests with editorial changes on Github, or by editing the pages on Prose.io and then pressing "Save" --> "Submit Change Request", which will automatically create the pull request for you. Prose.io is great if you don't have a lot of experience with Git and GitHub -- even though you need a GitHub account to propose changes through Prose.io, you need no other knowledge, so once you [set up a GitHub account](https://github.com/join), you can contribute freely without having to know all the complicated programmer stuff. If you aren't comfortable contributing through GitHub or Prose.io, you can also just email improvements to <a href="mailto:content@steventammen.com">content@steventammen.com</a>.
 
 At the present time, I am not aware of any easy way for me to make content editable in a rich text environment, so if you want to contribute through GitHub or Prose.io, you are going to have to learn the basics of [markdown syntax](https://daringfireball.net/projects/markdown/syntax). You won't have to know anywhere near the whole specification to help -- if you skim the sections related to paragraphs, links, lists, and emphasis and you should have a good working knowledge in just a few minutes.
 
