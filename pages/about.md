@@ -32,24 +32,24 @@ Please have a look at the Readme in [this site's Github repository](https://gith
 
 ## Stucture
 
-The "Home" page of this site gives a brief overview of what has been published recently, and will also have other items as the need arises (requests for help with projects, announcements, etc.). The "Contact" and "CV" pages are exactly what they sound like -- there are links to my publications/writings in the CV.
+The [Home page](https://steventammen.com/) of this site gives a brief overview of what has been published recently, and will also have other items as the need arises (requests for help with projects, announcements, etc.). The [Contact page](https://steventammen.com/contact/) and [CV page](https://steventammen.com/CV.pdf) are exactly what they sound like -- there are links to my publications/writings in the CV.
 
-The "Pages" page contains all the pages that have been completed, organized into alphabetically-sorted categories. If you know what you are looking for, you can use Ctrl+F (or your hotkey equivalent) to rapidly navigate to it. The "In Progress" page is organized in exactly the same manner, but contains pages that are not yet completed. These pages may range from barely started (a collection of research links and bullet points with preliminary thoughts), to almost finished (complete expositions waiting for proofreading and polishing).
+The [Pages page](https://steventammen.com/pages/) contains all the pages that have been completed, organized into alphabetically-sorted categories. If you know what you are looking for, you can use Ctrl+F (or your hotkey equivalent) to rapidly navigate to it. The [In Progress page](https://steventammen.com/in-progress/) is organized in exactly the same manner, but contains pages that are not yet completed. These pages may range from barely started (a collection of research links and bullet points with preliminary thoughts), to almost finished (complete expositions waiting for proofreading and polishing).
 
-The "Search" page contains an embedded Google custom search object. You may search using the same syntax as normal (e.g., enclosing things in quotes, prepending things with dashes, etc.), but results will show up on the page rather than in another window, and will be limited to results on this site.
+The [Search page](https://steventammen.com/search/) contains an embedded Google custom search object. You may search using the same syntax as normal (e.g., enclosing things in quotes, prepending things with dashes, etc.), but results will show up on the page rather than in another window, and will be limited to results on this site.
 
-The "Settings" page will eventually contain various customization options for the site, such as adjusting font size, line spacing, background color, and so forth. Please check back later -- I will try to implement customization as soons as I can.
+The [Settings page](https://steventammen.com/settings/) will eventually contain various customization options for the site, such as adjusting font size, line spacing, background color, and so forth. Please check back later -- I will try to implement customization as soons as I can.
 
-The "Contribute" page explains how you can help contribute to the workflow, content, and design of this site.
+The [Contribute page](https://steventammen.com/contribute/) explains how you can help contribute to this site.
 
 ## Publishing In-Progress Pages
 
 I am strong believer in publishing content before it is finished completely. This is so for two reasons: 1) waiting until pages are "finished" before publishing means that they aren't useful to anyone else until the very end of the research and writing process, and 2) I am far from a perfect writer (and my knowledge in many areas is less than complete), so giving people opportunities for feedback and constructive criticism from the very beginning of the process will help improve the content more than waiting until some arbitrary point of "good enough for others to see". To use an anology, open source code projects don't wait until their code is "good enough" to push to GitHub, it starts open source from the get go, and is better for it. Obviously prose is not code, but the same general logic applies: 
 
-1. multiple people working on the same thing will yield better results than a single individual
-2. this is true at all stages of the creation process, not just for edits of an already-finished work
+1. Multiple people working on the same thing will yield better results than a single individual
+2. This is true at all stages of the creation process, not just for edits of an already-finished work
 3. Therefore (*modus ponens*), enabling multiple people to contribute at all stages of the process will yield optimal quality
-4. optimal quality is a desirable thing that should be pursued
+4. Optimal quality is a desirable thing that should be pursued
 5. Therefore (*modus ponens*), policies enabling multiple people to contribute at all stages of the process should be pursued
 
 ## Open Source
