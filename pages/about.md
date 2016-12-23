@@ -40,7 +40,7 @@ The [Search page](https://steventammen.com/search/) contains an embedded Google 
 
 The [Settings page](https://steventammen.com/settings/) will eventually contain various customization options for the site, such as adjusting font size, line spacing, background color, and so forth. Please check back later -- I will try to implement customization as soons as I can.
 
-The [Contribute page](https://steventammen.com/contribute/) explains how you can help contribute to this site.
+The [Contribute page](https://steventammen.com/contribution-guidelines/) explains how you can help contribute to this site.
 
 ## Publishing In-Progress Pages
 
@@ -54,7 +54,7 @@ I am strong believer in publishing content before it is finished completely. Thi
 
 ## Open Source
 
-If it wasn't obvious from that chain of propositions, opensourcing stuff is something that I think is important. Code has been opensourced for a while now, and hardware is beginning to get there (see: crowdsourced tech startups), but, to my knowledge, there has not been much of a push to opensource *websites themselves*. I find this somewhat puzzling, since open projects offer so many advantages and so few disadvantages. I have designed this website to be entirely open source, and the content is licensed under open source licenses (see below). Contribution guidelines may be found on the [Contribute page](https://steventammen.com/contribute/).
+If it wasn't obvious from that chain of propositions, opensourcing stuff is something that I think is important. Code has been opensourced for a while now, and hardware is beginning to get there (see: crowdsourced tech startups), but, to my knowledge, there has not been much of a push to opensource *websites themselves*. I find this somewhat puzzling, since open projects offer so many advantages and so few disadvantages. I have designed this website to be entirely open source, and the content is licensed under open source licenses (see below). Contribution guidelines may be found on the [Contribute page](https://steventammen.com/contribution-guidelines/).
 
 ## Continuous Improvement
 
