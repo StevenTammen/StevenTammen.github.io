@@ -56,7 +56,7 @@ You can help improve the site itself by submitting pull requests with design imp
 
 For pull requests requiring significant amounts of work, it would be a good idea to check with me early on to make sure I approve of the changes or enhancements being considered. I don't want to put you in a situation where you put a lot of work into something that I wouldn't ultimately use.
 
-## Benevolent Dictator For Life (BDFL)
+## Benevolent Dictator For Life Powers
 
 Like Python's Guido van Rossum and Vim's Bram Moolenaar, this site has a Benevolent Dictator For Life: me. I love working with others collaboratively, but ultimately, decisions about the direction of this site come down to me. In particular, this means that I will choose what gets written about, and choose which improvements find their way into the main repository.
 
