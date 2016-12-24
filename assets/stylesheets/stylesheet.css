@@ -271,7 +271,8 @@ body {
 }
 
 #toggle {
-    display: none
+    display: none;
+    background: #f7f7f7
 }
 
 @media screen and (max-width: 40em) {
@@ -315,7 +316,7 @@ body {
         margin: 0 -2em 1em 0;
         text-indent: -9999px;
         overflow: hidden;
-        background: #f7f7f7 url("hamburger.gif") no-repeat 50% 33%
+        background: #444 url("hamburger.gif") no-repeat 50% 33%
     }
 
     .main {
