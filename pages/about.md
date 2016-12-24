@@ -54,7 +54,7 @@ I am strong believer in publishing content before it is finished completely. Thi
 
 ## Open Source
 
-As the chain of propositions above shows, I believe that open source projects will yield the best results, in the long run. Software has been part of the open source movement for a while now, and hardware is beginning to get there (see: crowdsourced tech startups), but, to my knowledge, there has not been much of a push to opensource *websites themselves*. I find this somewhat puzzling, since open projects offer so many advantages and so few disadvantages. I have designed this website to be entirely open source, and the content is licensed under an open source license (see below). Contribution guidelines may be found on the [Contribute page](https://steventammen.com/contribution-guidelines/).
+As the chain of propositions above shows, I believe that open source projects will yield the best results, in the long run. Software has been part of the open source movement for a while now, and hardware is beginning to get there (see: crowdsourced tech startups), but, to my knowledge, there has not been much of a push to opensource *websites themselves*. I find this somewhat puzzling, since open projects offer so many advantages and so few disadvantages. I have designed this website to be entirely open source, and the content is licensed under open source licenses (see below). Contribution guidelines may be found on the [Contribute page](https://steventammen.com/contribution-guidelines/).
 
 ## Continuous Improvement
 
