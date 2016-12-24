@@ -309,7 +309,7 @@ body {
         -ms-user-select: none;
         user-select: none;
         display: block;
-        width: 100%;
+        width: 70px;
         height: 55px;
         float: right;
         margin: 0 -2em 1em 0;
