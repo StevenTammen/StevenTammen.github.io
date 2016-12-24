@@ -8,4 +8,4 @@ title: In-Progress Pages
 
 ## Keyboard Layouts
 
-- Keyboard Layout Design: The HIEAM Layout
+- [Keyboard Layout Design: The HIEAM Layout](https://steventammen.com/keyboard-layouts/hieam/)
