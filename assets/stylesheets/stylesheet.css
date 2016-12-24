@@ -62,11 +62,13 @@ a {
 @media screen and (min-width: 64em) {
   .page-header {
     padding: 1rem 1rem;
+    position: fixed;
   } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {
     padding: 0.5rem 1rem;
+    position: fixed;
     } }
 
 @media screen and (max-width: 42em) {
