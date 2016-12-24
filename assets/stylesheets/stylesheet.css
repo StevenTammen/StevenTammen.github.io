@@ -80,11 +80,6 @@ body {
     border-radius: 0;
     background-color: rgba(0,0,0,.4)
 }
-
-.main-content {
-    margin: 0, auto;
-    max-width: 64em;
-}
        
 .main-content img {
   max-width: 100%; 
@@ -263,7 +258,7 @@ body {
 }
 
 .nav-collapse .active a {
-    color: #fff;
+    color: #f7f7f7;
     background: rgba(0,0,0,.3)
 }
 
