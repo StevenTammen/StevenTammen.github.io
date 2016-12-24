@@ -10,7 +10,7 @@ title: Contribution Guidelines
 
 Kanban-like boards have been utilized by agile software development teams for years, and they have made the leap into business organization as well. I am fully convinced that they are the best way to organize cross-functional teams of people in parallel, especially when there is no heirarchichal leadership. They are a perfect match for managing the workflows of open source projects that have horizontal organizational structures.
 
-There are many proprietary options to choose from (such as [Jira](https://www.atlassian.com/software/jira), [LeanKit](https://leankit.com/), [KanbanTool](http://kanbantool.com/), [KanbanFlow](https://kanbanflow.com/), [Trello](https://trello.com/) etc.), but I wanted to choose something that was open source at its core, so the project managment for this site is done through [Waffle.io](https://waffle.io/).
+There are many proprietary options to choose from (such as [Jira](https://www.atlassian.com/software/jira), [LeanKit](https://leankit.com/), [KanbanTool](http://kanbantool.com/), [KanbanFlow](https://kanbanflow.com/), [Trello](https://trello.com/), etc.), but I wanted to choose something that was open source at its core, so the project managment for this site is done through [Waffle.io](https://waffle.io/).
 
 You can see this site's Waffle.io board [here](https://waffle.io/StevenTammen/steventammen.github.io). The board shows all of the things that I am currently working on, plan to work on soon, or plan to work on eventually -- both for content and design. Put simply, this is where you should start if you want to contribute to this site, because this is the roadmap for the future. If you see something you want to help with, go for it! (I'll explain how in a second).
 
