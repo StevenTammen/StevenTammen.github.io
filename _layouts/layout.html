@@ -16,15 +16,15 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     <meta charset="utf-8">
     <title>{{page.title}}</title>
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link rel="stylesheet" type="text/css" href="/assets/stylesheets/responsive-nav.css">
-    <link rel="stylesheet" type="text/css" href="/assets/stylesheets/stylesheet.css">
+    <!--[if lte IE 8]><link rel="stylesheet" type="text/css" href="/assets/stylesheets/responsive-nav.css"><![endif]-->
+    <!--[if gt IE 8]><!--><link rel="stylesheet" type="text/css" href="/assets/stylesheets/stylesheet.css"><!--<![endif]-->
     <script src="/assets/scripts/responsive-nav.min.js"></script>
   </head>
   <body>
 
-    <nav class="nav-collapse">
+    <div role="navigation" id="siteNav" class="nav-collapse">
       <ul>
-        <li><a href="https://steventammen.com/" class="btn">Home</a></li>
+        <li class="active"><a href="https://steventammen.com/" class="btn">Home</a></li>
         <li><a href="https://steventammen.com/about/" class="btn">About</a></li>
         <li><a href="https://steventammen.com/contact/" class="btn">Contact</a></li>
         <li><a href="https://steventammen.com/CV.pdf" class="btn">CV</a></li>
@@ -34,27 +34,14 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         <li><a href="https://steventammen.com/settings/" class="btn">Settings</a></li>
         <li><a href="https://steventammen.com/contribution-guidelines/" class="btn">Contribute</a></li>
       </ul>
-    </nav>
-    
-    {{content}}
-    
-    <script>
-      var navigation = responsiveNav(".nav-collapse", {
-        animate: true,                    // Boolean: Use CSS3 transitions, true or false
-        transition: 284,                  // Integer: Speed of the transition, in milliseconds
-        label: "Menu",                    // String: Label for the navigation toggle
-        insert: "after",                  // String: Insert the toggle before or after the navigation
-        customToggle: "",                 // Selector: Specify the ID of a custom toggle
-        closeOnNavClick: false,           // Boolean: Close the navigation when one of the links are clicked
-        openPos: "relative",              // String: Position of the opened nav, relative or static
-        navClass: "nav-collapse",         // String: Default CSS class. If changed, you need to edit the CSS too!
-        navActiveClass: "js-nav-active",  // String: Class that is added to <html> element when nav is active
-        jsClass: "js",                    // String: 'JS enabled' class which is added to <html> element
-        init: function(){},               // Function: Init callback
-        open: function(){},               // Function: Open callback
-        close: function(){}               // Function: Close callback
-      });
-    </script>
+    </div>
 
+    <div role="main" class="main">
+    {{content}}
+    </div>
+
+    <script>
+      var navigation = responsiveNav("siteNav", {customToggle: ".nav-toggle"});
+    </script>
   </body>
 </html>
