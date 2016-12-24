@@ -64,7 +64,7 @@ Like Python's Guido van Rossum and Vim's Bram Moolenaar, this site has a Benevol
 2. which improvements find their way into the main repository, and 
 3. how things are shared and licensed
 
-I want to be transparent about this: all contributions to this site are subject to the three statements above. Now, I am perfectly happy to discuss my reasoning for any given decsion I make. As a human being, I am subject to many [cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases) that can lead to irrational decisionmaking: sometimes I am wrong. If you think I am wrong, tell me *why*. I can't promise that I'll always change my mind to agree with you, but I can promise that I will give your view as fair a hearing as I can.
+I want to be transparent about this: all contributions to this site are subject to the three statements above. Now, I am perfectly happy to discuss my reasoning for any given decision I make. As a human being, I am subject to many [cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases) that can lead to irrational decisionmaking: sometimes I am wrong. If you think I am wrong, tell me *why*. I can't promise that I'll always change my mind to agree with you, but I can promise that I will give your view as fair a hearing as I can.
 
 If it works out that there is a writing topic that you are really passionate about but I am not (for whatever reason), or something you think should be changed but I do not (for whatever reason), or work that you did that you don't want to be opensourced under copyleft (for whatever reason), it is better all the way around if you create a site of your own to do things your way (I'd be happy to help and contribute!).
 
