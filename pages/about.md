@@ -28,11 +28,11 @@ This site does not exist to
 
 ## Backend
 
-Please have a look at the Readme in the [Github repository](https://github.com/StevenTammen/steventammen.github.io) for a concise technical summary of this site's backend.
+Please have a look at the Readme in the [Github repository](https://github.com/StevenTammen/steventammen.github.io) for a concise technical summary of this site's operation.
 
 ## Stucture
 
-The [Home page](https://steventammen.com/) of this site gives a brief overview of what has been published recently, and will also have other items as the need arises (requests for help with projects, announcements, etc.). The [Contact page](https://steventammen.com/contact/) and [CV page](https://steventammen.com/CV.pdf) are exactly what they sound like -- there are links to my publications/writings in the CV.
+The [Home page](https://steventammen.com/) of this site gives a brief overview of what has been published recently, and will also host other items as the need arises (requests for help with projects, announcements, etc.). The [Contact page](https://steventammen.com/contact/) and [CV page](https://steventammen.com/CV.pdf) are exactly what they sound like -- there are links to my publications/writings in the CV.
 
 The [Pages page](https://steventammen.com/pages/) contains all the pages that have been completed, organized into alphabetically-sorted categories. If you know what you are looking for, you can use Ctrl+f (or your hotkey equivalent) to rapidly navigate to it. The [In Progress page](https://steventammen.com/in-progress/) is organized in exactly the same manner, but contains pages that are not yet completed. These pages may range from barely started (a collection of research links and bullet points with preliminary thoughts), to almost finished (complete expositions waiting for proofreading and polishing).
 
@@ -44,17 +44,17 @@ The [Contribute page](https://steventammen.com/contribution-guidelines/) explain
 
 ## Publishing In-Progress Pages
 
-I am strong believer in publishing content before it is finished completely. This is so for two reasons: 1) waiting until pages are "finished" before publishing means that they aren't useful to anyone else until the very end of the research and writing process, and 2) I am far from a perfect writer (and my knowledge in many areas is less than complete), so giving people opportunities for feedback and constructive criticism from the very beginning of the process will help improve the content more than waiting until some arbitrary point of "good enough for others to see". To use an anology, open source code projects don't wait until their code is "good enough" to push to GitHub, they start open source from the get go, and are better for it. Obviously prose is not code, but the same general logic applies: 
+I am strong believer in publishing content before it is finished completely. This is so for two reasons: 1) waiting until pages are "finished" before publishing means that they aren't useful to anyone else until the very end of the research and writing process, and 2) I am far from a perfect writer (and my knowledge in many areas is less than complete), so giving other people opportunities to critique my writing from the very beginning of the process will help improve the content more than waiting until some arbitrary point of "good enough for others to see". To use an anology, open source code projects don't wait until their code is "good enough" to push to GitHub, they start open source from the get go, and are better for it. Obviously prose is not code, but the same general logic applies: 
 
 1. Multiple people working on the same thing will yield better results than a single individual
-2. This is true at all stages of the creation process, not just for edits of an already-finished work
+2. This is true at all stages of the creative process, not just for edits of an already-finished work
 3. Therefore, enabling multiple people to contribute at all stages of the process will yield optimal quality
 4. Optimal quality is a desirable thing that should be pursued
 5. Therefore, policies enabling multiple people to contribute at all stages of the process should be pursued
 
 ## Open Source
 
-If it wasn't obvious from that chain of propositions, opensourcing stuff is something that I think is important. Code has been opensourced for a while now, and hardware is beginning to get there (see: crowdsourced tech startups), but, to my knowledge, there has not been much of a push to opensource *websites themselves*. I find this somewhat puzzling, since open projects offer so many advantages and so few disadvantages. I have designed this website to be entirely open source, and the content is licensed under open source licenses (see below). Contribution guidelines may be found on the [Contribute page](https://steventammen.com/contribution-guidelines/).
+As the chain of propositions above shows, I believe that open source projects will yield the best results, in the long run (it just makes good sense -- more people working on something will lead to higher quality). Software has been part of the open source movement for a while now, and hardware is beginning to get there (see: crowdsourced tech startups), but, to my knowledge, there has not been much of a push to opensource *websites themselves*. I find this somewhat puzzling, since open projects offer so many advantages and so few disadvantages. I have designed this website to be entirely open source, and the content is licensed under open source licenses (see below). Contribution guidelines may be found on the [Contribute page](https://steventammen.com/contribution-guidelines/).
 
 ## Continuous Improvement
 
