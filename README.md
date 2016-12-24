@@ -44,7 +44,7 @@ HSTS is enabled to prevent downgrade attacks, SSL stripping, and cookie hijackin
 
 ## Contribution
 
-Please have a look at [this page](https://steventammen.com/contribute/) on contribution guidelines, and the site's [Waffle.io board](https://waffle.io/StevenTammen/steventammen.github.io). Design issues on the board tagged with "help wanted" are those that are at least partially out out of my present knowledge range: I'm not a web developer by profession, and am only beginning to learn HTML, CSS, and Javascript.
+Please have a look at [this page](https://steventammen.com/contribution-guidelines/) on contribution guidelines, and the site's [Waffle.io board](https://waffle.io/StevenTammen/steventammen.github.io). Design issues on the board tagged with "help wanted" are those that are at least partially out out of my present knowledge range: I'm not a web developer by profession, and am only beginning to learn HTML, CSS, and Javascript.
 
 ## Copyright and Terms of Use
 
