@@ -8,11 +8,11 @@ title: Contribution Guidelines
 
 ## Planned Contributions: Waffle.io
 
-Kanban-like boards have been utilized by agile software development teams for years, and they have made the leap into business organization as well. I am fully convinced that they are the best solution to organizing cross-functional teams of people in parallel, especially when there is no heirarchichal leadership structure. They are a perfect match for managing the workflows of open source projects that are organized horizontally.
+Kanban-like boards have been utilized by agile software development teams for years, and they have made the leap into business organization as well. I am fully convinced that they are the best way to organize cross-functional teams of people in parallel, especially when there is no heirarchichal leadership. They are a perfect match for managing the workflows of open source projects that have horizontal organizational structures.
 
-There are many proprietary options to choose from (such as [Jira](https://www.atlassian.com/software/jira), [LeanKit](https://leankit.com/), [KanbanTool](http://kanbantool.com/), [KanbanFlow](https://kanbanflow.com/), etc.), but I wanted to choose something that was open source at its core, so the project managment for this site is done through [Waffle.io](https://waffle.io/).
+There are many proprietary options to choose from (such as [Jira](https://www.atlassian.com/software/jira), [LeanKit](https://leankit.com/), [KanbanTool](http://kanbantool.com/), [KanbanFlow](https://kanbanflow.com/), [Trello](https://trello.com/) etc.), but I wanted to choose something that was open source at its core, so the project managment for this site is done through [Waffle.io](https://waffle.io/).
 
-You can see this site's Waffle.io board [here](https://waffle.io/StevenTammen/steventammen.github.io). The board shows all of the things that I am currently working on, plan to work on, etc. -- both for content and design. Put simply, this is where you should start if you want to contribute to this site, because this is the roadmap for the future. If you see something you want to help with, go for it! (I'll explain how in a second).
+You can see this site's Waffle.io board [here](https://waffle.io/StevenTammen/steventammen.github.io). The board shows all of the things that I am currently working on, plan to work on soon, or plan to work on eventually -- both for content and design. Put simply, this is where you should start if you want to contribute to this site, because this is the roadmap for the future. If you see something you want to help with, go for it! (I'll explain how in a second).
 
 Over time, if you take on an active role in development, I'll add you as a collaborator on GitHub, and you'll be able to edit pages and the Waffle.io board directly, with write permissions to the repository.
 
@@ -58,8 +58,14 @@ For pull requests requiring significant amounts of work, it would be a good idea
 
 ## Benevolent Dictator For Life Powers
 
-Like Python's Guido van Rossum and Vim's Bram Moolenaar, this site has a Benevolent Dictator For Life: me. I enjoy working with other people -- and benefit immensely from constructive criticism and new perspectives -- but ultimately, decisions about the direction of this site come down to me. In particular, this means that I will choose what gets written about, and choose which improvements find their way into the main repository.
+Like Python's Guido van Rossum and Vim's Bram Moolenaar, this site has a Benevolent Dictator For Life: me. I enjoy working with other people -- and benefit immensely from constructive criticism and new perspectives -- but ultimately, decisions about the direction of this site come down to me. In particular, this means that I alone will choose:
 
-I do not view this as limiting. If there is something that you are really passionate about but I am not, it is better all the way around if you create a site of your own to write about it (I'd be happy to help and contribute!). Because of how I have licensed everything, you are free to borrow as much of this site's design and content as you wish, as long as you give proper attribution and license the same way.
+1) what gets written about
+2) which improvements find their way into the main repository, and 
+3) how things are shared and licensed
 
-What I envision, in the long run, is a community of people writing about the things they are passionate about, freely helping each other improve while at the same time maintaining their own autonomy. This encourages the collaboration that open source projects are known for without causing the conflicts of leadership that they are also known for (for just one example, cf. Vim and NeoVim).
+I want to be transparent about this: all contributions to this site are subject to the three statements above. Now, I am perfectly happy to discuss my reasoning for any given decsion I make. As a human being, I am subject to many [cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases) that can lead to irrational decisionmaking: sometimes I am wrong. If you think I am wrong, tell me *why*. I can't promise that I'll always change my mind to agree with you, but I can promise that I will give your view as fair a hearing as I can.
+
+If it works out that there is a writing topic that you are really passionate about but I am not (for whatever reason), or something you think should be changed but I do not (for whatever reason), or work that you did that you don't want to be opensourced under copyleft (for whatever reason), it is better all the way around if you create a site of your own to do things your way (I'd be happy to help and contribute!).
+
+What I envision, in the long run, is a community of people writing about the things they are passionate about, freely helping each other improve while at the same time maintaining their own autonomy. This encourages the collaboration that open source projects are known for without causing the conflicts of leadership that they are also known for.
