@@ -238,6 +238,7 @@ body {
 
 .nav-collapse a {
     color: #aaa;
+    text-decoration: none;
     font-weight: 700;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
