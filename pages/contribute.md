@@ -14,7 +14,7 @@ There are many proprietary options to choose from (such as [Jira](https://www.at
 
 You can see this site's Waffle.io board [here](https://waffle.io/StevenTammen/steventammen.github.io). The board shows all of the things that I am currently working on, plan to work on, etc. -- both for content and design. Put simply, this is where you should start if you want to contribute to this site, because this is the roadmap for the future. If you see something you want to help with, go for it! (I'll explain how in a second).
 
-Over time, if you take on an active role in development, I'll add you as a contributor to the board, and you'll be able to edit it directly.
+Over time, if you take on an active role in development, I'll add you as a collaborator, and you'll be able to edit the Waffle.io board directly, with write permissions to the repository.
 
 This is the side of contribution that is structured: everyone works together to achieve planned goals in an orderly fashion.
 
