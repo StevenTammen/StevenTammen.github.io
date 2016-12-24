@@ -22,7 +22,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   </head>
   <body>
 
-    <div role="navigation" id="foo" class="nav-collapse">
+    <div role="navigation" id="nav" class="nav-collapse">
       <ul>
         <li class="active"><a href="https://steventammen.com/">Home</a></li>
         <li><a href="https://steventammen.com/about/">About</a></li>
@@ -37,12 +37,12 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     </div>
 
     <div role="main" class="main">
-      <a href="#nav" class="nav-toggle">Menu</a>
+      <a href="#nav" id="toggle">Menu</a>
       {{content}}
     </div>
 
     <script>
-      var navigation = responsiveNav("foo", {customToggle: ".nav-toggle"});
+      var navigation = responsiveNav("#nav", {customToggle: "#toggle"});
     </script>
   </body>
 </html>
