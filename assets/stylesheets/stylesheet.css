@@ -10,7 +10,7 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 */
 
-body,div,h1,h2,p,ol,ul,li {
+body,div,h1,h2,p,ol {
     margin: 0;
     padding: 0;
     border: 0
@@ -49,6 +49,36 @@ body {
     background: #444 url("debut_dark.png") repeat;
     color: #666;
     font: 400 100%/1.5 "Helvetica Neue",Helvetica,Arial,sans-serif
+}
+
+.main {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-overflow-scrolling: touch;
+    padding: 1em 2em;
+    position: fixed;
+    overflow: hidden;
+    overflow-y: scroll;
+    border-top-left-radius: 5px;
+    box-shadow: 0 0 15px rgba(0,0,0,.6);
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 76%;
+    background: #fff
+}
+
+.main::-webkit-scrollbar {
+    -webkit-appearance: none;
+    background-color: rgba(0,0,0,.15);
+    width: 8px;
+    height: 8px
+}
+
+.main::-webkit-scrollbar-thumb {
+    border-radius: 0;
+    background-color: rgba(0,0,0,.4)
 }
 
 .main-content img {
@@ -145,82 +175,6 @@ body {
   margin: 1rem 0;
   background-color: #999999;
   border: 0; }
-
-/*
-h1 {
-    font-size: 3em;
-    line-height: 1;
-    color: #222;
-    margin-bottom: .5em;
-    float: left;
-    width: 100%
-}
-
-h2 {
-    float: left;
-    width: 100%;
-    font-size: 1.5em;
-    color: #222;
-    margin: 1em 0 .5em
-}
-
-p {
-    float: left;
-    width: 100%;
-    margin-bottom: 1em
-}
-
-p.intro {
-    font-size: 1.25em;
-    color: #555;
-    font-weight: 700
-}
-
-a {
-    color: #0000EE;
-    text-decoration: none
-}
-
-a:visited {
-    color: #551A8B;
-    text-decoration: none;
-}
-
-a:active,a:hover {
-    color: #ff6347;
-    outline: 0
-}
-*/
-
-.main {
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    -webkit-overflow-scrolling: touch;
-    padding: 1em 2em;
-    position: fixed;
-    overflow: hidden;
-    overflow-y: scroll;
-    border-top-left-radius: 5px;
-    box-shadow: 0 0 15px rgba(0,0,0,.6);
-    top: 0;
-    right: 0;
-    bottom: 0;
-    width: 76%;
-    background: #fff
-}
-
-.main::-webkit-scrollbar {
-    -webkit-appearance: none;
-    background-color: rgba(0,0,0,.15);
-    width: 8px;
-    height: 8px
-}
-
-.main::-webkit-scrollbar-thumb {
-    border-radius: 0;
-    background-color: rgba(0,0,0,.4)
-}
 
 .nav-collapse {
     position: absolute;
