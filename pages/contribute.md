@@ -58,7 +58,7 @@ For pull requests requiring significant amounts of work, it would be a good idea
 
 ## Benevolent Dictator For Life Powers
 
-Like Python's Guido van Rossum and Vim's Bram Moolenaar, this site has a Benevolent Dictator For Life: me. I love working with others collaboratively, but ultimately, decisions about the direction of this site come down to me. In particular, this means that I will choose what gets written about, and choose which improvements find their way into the main repository.
+Like Python's Guido van Rossum and Vim's Bram Moolenaar, this site has a Benevolent Dictator For Life: me. I enjoy working with other people -- and benefit immensely from constructive criticism and new perspectives -- but ultimately, decisions about the direction of this site come down to me. In particular, this means that I will choose what gets written about, and choose which improvements find their way into the main repository.
 
 I do not view this as limiting. If there is something that you are really passionate about but I am not, it is better all the way around if you create a site of your own to write about it (I'd be happy to help and contribute!). Because of how I have licensed everything, you are free to borrow as much of this site's design and content as you wish, as long as you give proper attribution and license the same way.
 
