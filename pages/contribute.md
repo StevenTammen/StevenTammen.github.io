@@ -60,9 +60,9 @@ For pull requests requiring significant amounts of work, it would be a good idea
 
 Like Python's Guido van Rossum and Vim's Bram Moolenaar, this site has a Benevolent Dictator For Life: me. I enjoy working with other people -- and benefit immensely from constructive criticism and new perspectives -- but ultimately, decisions about the direction of this site come down to me. In particular, this means that I alone will choose:
 
-1) what gets written about
-2) which improvements find their way into the main repository, and 
-3) how things are shared and licensed
+1. what gets written about
+2. which improvements find their way into the main repository, and 
+3. how things are shared and licensed
 
 I want to be transparent about this: all contributions to this site are subject to the three statements above. Now, I am perfectly happy to discuss my reasoning for any given decsion I make. As a human being, I am subject to many [cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases) that can lead to irrational decisionmaking: sometimes I am wrong. If you think I am wrong, tell me *why*. I can't promise that I'll always change my mind to agree with you, but I can promise that I will give your view as fair a hearing as I can.
 
