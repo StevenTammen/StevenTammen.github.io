@@ -8,8 +8,6 @@ header: Steven Tammen
 
    <h1> Home </h1>
    
-   <a href="https://github.com/StevenTammen/steventammen.github.io">GitHub</a> &nbsp; &nbsp; &nbsp; <a href="https://waffle.io/StevenTammen/steventammen.github.io">Waffle.io</a>
-   
 </div>
 
 ## Recently Published
