@@ -47,7 +47,7 @@ body {
     -ms-text-size-adjust: 100%;
     text-size-adjust: 100%;
     background: #444 url("debut_dark.png") repeat;
-    color: #666;
+    color: #333;
     font: 400 100%/1.5 "Helvetica Neue",Helvetica,Arial,sans-serif
 }
 
@@ -89,11 +89,26 @@ body {
   margin-top: 1rem;
   margin-bottom: 1rem;
   font-weight: normal;
-  color: #159957; 
+  color: #333; 
 }
 
 .main-content p {
   margin-bottom: 1em; 
+}
+
+.main-content a:link {
+    color: #0000EE;
+    text-decoration: none;
+}
+
+.main-content a:visited {
+    color: #551A8B;
+    text-decoration: none;
+}
+
+.main-content a:hover, a:active {
+    color: #ff5050;
+    text-decoration: underline;
 }
 
 .main-content code {
