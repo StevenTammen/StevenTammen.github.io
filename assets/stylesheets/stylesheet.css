@@ -48,7 +48,7 @@ body {
     text-size-adjust: 100%;
     background: #444 url("debut_dark.png") repeat;
     color: #333;
-    font: 400 115%/1.5 "Verdana",sans-serif
+    font: 400 100%/1.5 "Verdana",sans-serif
 }
 
 .main {
@@ -231,8 +231,7 @@ body {
     position: absolute;
     width: 24%;
     top: 2em;
-    left: 0;
-    font-size: 100%;
+    left: 0
 }
 
 .nav-collapse ul {
