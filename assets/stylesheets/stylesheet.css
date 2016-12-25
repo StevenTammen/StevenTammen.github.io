@@ -372,3 +372,8 @@ body {
         left: 18em
     }
 }
+
+/* ---------- Added ---------- */
+.center {
+  margin: auto;
+  text-align:center; }
