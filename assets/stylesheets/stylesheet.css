@@ -48,7 +48,7 @@ body {
     text-size-adjust: 100%;
     background: #444 url("debut_dark.png") repeat;
     color: #333;
-    font: 400 100%/1.5 "Verdana",sans-serif
+    font: 400 115%/1.5 "Verdana",sans-serif
 }
 
 .main {
@@ -254,7 +254,7 @@ body {
 .nav-collapse a {
     color: #aaa;
     text-decoration: none;
-    font-weight: 700;
+    font: 700 100%
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
