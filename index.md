@@ -12,8 +12,6 @@ header: Steven Tammen
    
 </div>
 
-<h1 class="center"> Home </h1>
-
 ## Recently Published
 
 ### Stenography
