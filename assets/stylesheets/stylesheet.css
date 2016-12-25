@@ -48,7 +48,7 @@ body {
     text-size-adjust: 100%;
     background: #444 url("debut_dark.png") repeat;
     color: #333;
-    font: 400 125%/1.5 "Verdana",Arial,sans-serif
+    font: 400 100%/1.5 "Verdana",Arial,sans-serif
 }
 
 .main {
