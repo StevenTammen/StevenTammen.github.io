@@ -323,7 +323,7 @@ body {
         width: 70px;
         height: 55px;
         float: right;
-        margin: 1em -2em 1em 0;
+        margin: 0.5em -2em 1em 0;
         text-indent: -9999px;
         overflow: hidden;
         background: #333 url("hamburger.gif") no-repeat 50% 33%
