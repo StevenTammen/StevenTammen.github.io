@@ -273,11 +273,6 @@ body {
     background: rgba(255,255,255,.1)
 }
 
-.nav-collapse .active a {
-    color: #f7f7f7;
-    background: rgba(0,0,0,.3)
-}
-
 .nav-collapse li:first-child a {
     border-top: 0
 }
