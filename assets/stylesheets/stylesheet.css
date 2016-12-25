@@ -231,7 +231,8 @@ body {
     position: absolute;
     width: 24%;
     top: 2em;
-    left: 0
+    left: 0;
+    font-size: 100%;
 }
 
 .nav-collapse ul {
@@ -254,7 +255,6 @@ body {
 .nav-collapse a {
     color: #aaa;
     text-decoration: none;
-    font-size: 100%;
     font-weight: 700;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
