@@ -13,6 +13,7 @@ header: Steven Tammen
 - [Programmatically Generating Translation Dictionaries](http://steventammen.com/stenography/dictionary-generator/)
 
 
+<br/>
 ## Pages
 
 ### Stenography
@@ -20,6 +21,7 @@ header: Steven Tammen
 - [Programmatically Generating Translation Dictionaries](http://steventammen.com/stenography/dictionary-generator/)
 
 
+<br/>
 ## In-Progress Pages
 
 ### Keyboard Layouts
@@ -31,6 +33,7 @@ header: Steven Tammen
 - [Disambiguation: Redesigning The Asterisk Key](https://steventammen.com/stenography/disambiguation/)
 
 
+<br/>
 ## Links
 
 ### Stenography
