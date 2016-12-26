@@ -105,7 +105,7 @@ If it works out that there is a writing topic that you are really passionate abo
 
 What I envision, in the long run, is a community of people writing about the things they are passionate about, freely helping each other improve while at the same time maintaining their own autonomy. This encourages the collaboration that open source projects are known for without causing the conflicts of leadership that they are also known for.
 
-## Copyright and Terms of Use
+# Copyright and Terms of Use
 
 The contents of this site are licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. Any code associated with subprojects is licensed under the <a rel="license" href="http://www.gnu.org/licenses/gpl.html">GNU General Public License v3</a>, and will be located elsewhere (i.e., in project repositories separate from this one).
   
