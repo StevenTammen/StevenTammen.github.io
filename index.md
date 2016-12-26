@@ -12,11 +12,13 @@ header: Steven Tammen
 
 - [Programmatically Generating Translation Dictionaries](http://steventammen.com/stenography/dictionary-generator/)
 
+
 ## Pages
 
 ### Stenography
 
 - [Programmatically Generating Translation Dictionaries](http://steventammen.com/stenography/dictionary-generator/)
+
 
 ## In-Progress Pages
 
@@ -27,6 +29,7 @@ header: Steven Tammen
 ### Stenography
 
 - [Disambiguation: Redesigning The Asterisk Key](https://steventammen.com/stenography/disambiguation/)
+
 
 ## Links
 
