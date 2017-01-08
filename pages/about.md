@@ -22,6 +22,12 @@ I think it is only fair for authors of websites to disclose enough information a
 
 In this spirit, here is some relevant information about me:
 
+**Conflicts of Interest**
+
+- I make no money from running this site: I do not have advertisements, I do not review things I haven't bought with my own money, and there are no affiliate links on the site.
+- I am not closely tied to any organization encouraging me to write in a certain way -- the thoughts contained here are entirely my own.
+- I do not have an ideological axe to grind in any particular area. This site does not exist to convince you to adopt my point of view on a certain issue.
+
 **Personal History**
 
 - I come from a white, upper middle class family, and grew up in suburban areas without high degrees of racial or socioeconomic diversity.
@@ -39,12 +45,11 @@ In this spirit, here is some relevant information about me:
 
 - I support neither the Republicans nor the Democrats, and find modern politics distasteful in general (particularly in terms of PR, lobbying, corporate interest groups, and the tendency for regulatory agencies to be rife with conflicts of interest). In terms of the political spectrum, I consider myself a moderate. While I do not personally participate in politics, I do have views on controversial issues, and will make them known if I believe they might intefere with my objectivity in any given circumstance.
 
-
 **Epistemology**
 
 - I am skeptical of hardcore woo (e.g., ESP, alien abductions), religious dogma, and scientific theories without well-substantiated evidence behind them. My definition of "evidence" is as follows: well-designed, methodologically sound experiments that have results that have been peer reviewed and successfully replicated multiple times, preferably by different primary scholars with funding from different sources. I withhold judgment on matters for which there is insufficient evidence to come to a conclusion, even if there is societal or academic consensus. (Please see: [*argumentum ad populum*](https://en.wikipedia.org/wiki/Argumentum_ad_populum), [argument from authority](https://en.wikipedia.org/wiki/Argument_from_authority)). Put more succinctly, I trust evidence, not people.
 - I do not put a lot of weight in what the media says because of its well-documented history of systematic bias and distortion of the truth. I try to read multiple points of view for every news event, understanding that the actual truth may not be contained in any of them.
-- I consider reason and the scientific method (not emotion or subjective experience) to be the primary means of coming to truth in the world. This being said, human thought is subject to many biases and distortions, and should not be trusted without careful verification over time. I do not believe that faith in God and reason are at all mutually contradictory.
+- I consider reason and the scientific method (not emotion and subjective experience) to be the primary means of coming to truth in the world. This being said, human thought is subject to many biases and distortions, and should not be trusted without careful verification over time. I do not believe that faith in God and reason are at all mutually contradictory.
 
 If you think I am being biased in my treatment of something, please tell me *how* I am being biased, so that I can fix things. I am most certainly fallible and willing to be convinced that I am wrong. (Note: having an opinion about something does not make me wrong. Bad logic makes me wrong).
 
