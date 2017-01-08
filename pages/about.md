@@ -22,22 +22,25 @@ I think it is only fair for authors of websites to disclose enough information a
 
 In this spirit, here is some relevant information about me:
 
-**Background**
+** Personal History **
 
 - I come from a white, upper middle class family, and grew up in suburban areas without high degrees of racial or socioeconomic diversity.
 - Both of my parents have Ph.D.'s: one in physics, the other in engineering. I have a sister pursuing doctoral studies in theoretical mathematics.
 - I went through the American public education system from kindergarten to 12th grade. Before high school, I participated in various "gifted" classes; in high school, I took many AP classes. I graduated from a high school of approximately 3500.
 - Prior to my matriculation at the University of Georgia, I spent two years at Georgia Tech studying engineering. In my last semester there, I worked at a small medical consulting firm that provided business services to physicians. Many of my thought patterns are shaped by engineering's analytical approach (i.e., I very often "think like an engineer").
 
-** Religion**
+
+** Religion **
 
 - My family attended protestant churches in my time at home: first a Presbyterian church, then a Methodist church. I do not currently have ties with any Christian denomination, but actively practice a form of Christianity in the conservative evangelical tradition (meaning, among other things, that I view the Bible as divinely inspired truth).
 - I am not much on "organized religion" in general, and think it it has done more harm than good in the history of the world.
 - I disagree with many practices and doctrinal positions of the Church visible. I also disagree with many things that putative Christians have done throughout history (e.g., the Crusades, the Spanish Inquisition).
 
+
 ** Politics **
 
 - I support neither the Republicans nor the Democrats, and find modern politics distasteful in general (particularly in terms of PR, lobbying, corporate interest groups, and the tendency for regulatory agencies to be rife with conflicts of interest). In terms of the political spectrum, I consider myself a moderate. While I do not personally participate in politics, I do have views on controversial issues, and will make them known if I believe they might intefere with my objectivity in any given circumstance.
+
 
 ** Epistemology**
 
