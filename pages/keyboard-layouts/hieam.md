@@ -254,11 +254,21 @@ Thus far in my layout, ,{letter} is being used to jump into the navigation layer
 
 (in order of frequency: Latin > German, French, Italian > Spanish; presupposing prose mode not code mode; organized by decreasing freq. below)
 
-macron			o(	( never used after letter
-acute accent		‘o	‘ only used before t, s, ve
-umlaut/dieresis	:o	: never used before letter
-grave accent		o`	` after resets hand for next, code
-circumflex		^o	^ before follows superscript ^{}
+- macron
+   - o(
+   - ( never used after letter
+- acute accent
+   - ‘o
+   - ‘ only used before t, s, ve
+- umlaut/dieresis
+   - :o
+   - : never used before letter
+- grave accent
+   - o\`
+   - \` after resets hand for next, code
+- circumflex
+   - ^o
+   - ^ before follows superscript ^{}
 
 Track open \`code blocks\` (markdown) similar to open “. Code mode activated (and hence accents disabled, including grave) in open code blocks.
 
@@ -271,16 +281,28 @@ No breve is needed since the absence of a macron indicates a short syllable.
 (in order of frequency: Latin > German, French, Italian > Spanish; presupposing prose mode not code mode)
 
 German
-ß eszett			s(	( >> ‘ for these: ‘s, bot diag>top
+
+- ß eszett
+   - s(
+   - ( >> ‘ for these: ‘s, bot diag>top
 
 French
-ç c-cedilla		c(
-œ oe ligature		]e ] before rather than [ after avoids SF
-æ ae ligature		]a 
+
+- ç c-cedilla
+   - c(
+- œ oe ligature
+   - ]e
+   - ] before rather than [ after avoids SF
+- æ ae ligature
+   - ]a 
 
 Spanish
-ñ eñe			n(
-¿ inverted ?		?{letter}
-¡ inverted !		!{letter}
+
+- ñ eñe
+   - n(
+- ¿ inverted ?
+   - ?{letter}
+- ¡ inverted !
+   - !{letter}
 
 You should customize the typing of diacritics for your use case by looking at character frequency. Since most folks have no use for an automatic layer for Greek/Hebrew and also don’t need macrons, .{letter} and {letter}( should be used for different things.
