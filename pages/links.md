@@ -8,4 +8,9 @@ title: Links
 
 ### Stenography
 
-- [Links To Helpful Resources](http://steventammen.com/stenography/links/)
+- [Learning](http://steventammen.com/stenography/links/learning/)
+- [Speed Building](http://steventammen.com/stenography/links/speed-bulding/)
+- [Open Steno Project](http://steventammen.com/stenography/links/open-steno-project/)
+- [Stenography Blogs](http://steventammen.com/stenography/links/stenography-blogs/)
+- [Theories](http://steventammen.com/stenography/links/theories/)
+- [Machines](http://steventammen.com/stenography/links/machines/)
