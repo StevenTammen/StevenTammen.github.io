@@ -1,12 +1,12 @@
 ---
-permalink: /stenography/disambiguation/
+permalink: /stenography/redesigning-the-asterisk-key/
 layout: layout
-title: Disambiguation
+title: Redesigning The Asterisk Key
 ---
 
 <div class="center">
 
-   <h1>Disambiguation: Redesigning The Asterisk Key</h1>
+   <h1>Redesigning The Asterisk Key</h1>
    
    <a href="https://github.com/StevenTammen/steventammen.github.io/edit/master/pages/stenography/disambiguation.md" target="_blank">
      <img src="https://steventammen.github.io/assets/images/GitHub.png" height="30" width="30">
