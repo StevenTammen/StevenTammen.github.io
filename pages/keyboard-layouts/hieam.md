@@ -296,7 +296,7 @@ To be able to type Latin, German, French, Italian, and Spanish on the normal Eng
 - .{letter}
 - ){letter}
 - {letter}(
-- - ‘{letter}
+- ‘{letter}
 - :{letter}  =  {letter}\`
 - characters on non-thumb keys on Code and Sym layers, prioritized by memorability (see below)
 
