@@ -9,7 +9,7 @@ title: Links
 ### Stenography
 
 - [Learning](http://steventammen.com/stenography/links/learning/)
-- [Speed Building](http://steventammen.com/stenography/links/speed-bulding/)
+- [Speed Building](http://steventammen.com/stenography/links/speed-building/)
 - [Open Steno Project](http://steventammen.com/stenography/links/open-steno-project/)
 - [Stenography Blogs](http://steventammen.com/stenography/links/stenography-blogs/)
 - [Theories](http://steventammen.com/stenography/links/theories/)
