@@ -32,7 +32,7 @@ header: Steven Tammen
 
 ### Stenography
 
-- [Disambiguation: Redesigning The Asterisk Key](https://steventammen.com/stenography/disambiguation/)
+- [Disambiguation: Redesigning The Asterisk Key](https://steventammen.com/stenography/redesigning-the-asterisk-key/)
 
 <br/>
 
