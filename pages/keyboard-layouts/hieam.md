@@ -18,121 +18,269 @@ title: HIEAM
    
 </div>
 
-## Base layer features
+## Outline
 
-- Hotstrings for medial ' ` ^ ~ :. For example, \| as a Latin macron (cogit\|o --> cogitō). Allows relatively painless writing of German, French, Spanish, Italian, Latin, etc. without remembering complicated Alt codes, combining diacritics, dead keys, etc.
-- Use the , key as the normal mode key (i.e., as a replacement binding to Esc) in Vim-flavored Spacemacs
-   - The sequence ", " acts as normal, outputting those two characters.
-   - However, if the , key is followed by any key other than space, space will thereafter function regularly as the space leader in normal mode
-   - Use the sequence " ," to access the space leader straight from the base layer
-- Use ) as command leader key, regardless of mode: )enter changes the number layer to correspond to the enter number layout, )tab to the tab number layout, )vim disables the editing layer normally accessed by the , key and enables the bahvaior described above, etc.
-- Main modifiers accessed by holding down home row keys, common combinations (Ctrl+Sh, Ctrl+Alt) by holding down the more easily accessible non-homerow keys.
-- M and period keys can be used for arbitrary macros upon holding them down.
-- yy, jj, fd, etc. aren't native sequences in English and can be mapped to whatever you want.
+- Explanation of Methodology
+- Optimization Considerations
+   - Differences in Hand Morphology
+      - My Hand Morphology
+   - Differences in Optimization Goals (speed vs ergonomics)
+      - My Optimization Goals (balance)
+   - Differences in Textual Corpus
+      - My Textual Corpus (Lat, Grk, Heb, Grmn, French, Italian, Spanish, theological writing, Markdown, Org, LaTeX, programming, number entry)
+   - The Unavoidability of Opportunity Cost: Coming to an “Optimal Compromise”
+   - The Danger of Perfectionism
+- Physical Layout Design Variables
+   - Why Physical Layout Design Must Come First
+   - Design Philosophy: Everything is a Variable
+   - Comfort/Ergonomics
+      - Split-Hand Design
+      - Columnar Key Layout
+      - Adjustable Wrist Pronation (“Roll”)
+      - Adjustable Elbow Angle (“Yaw”)
+      - Adjustable Typing Angle (“Pitch”)
+      - Neutral Position Wrist Wrests
+      - Column Stagger
+      - Key Height Differentials
+      - Concave Keywells
+      - Keyswitch Actuation Force
+      - Keyswitch Travel Distance
+      - Keycap Shaping
+   - Typing Speed
+      - Concave Keywells
+      - Keyswitch Actuation Force
+      - Keyswitch Travel Distance
+      - Keycap Shaping
+   - Portability
+      - Wired/Wireless/Bluetooth Capability
+      - Combination Mechanism
+      - Combined Keyboard Fragility
+      - Combined Keyboard Length
+      - Combined Keyboard Width
+      - Combined Keyboard Height
+      - Combined Keyboard Weight
+      - Traction On Different Surfaces
+   - Durability/Ease of Maintenance
+      - Keycap Material
+      - Case Material
+      - Key Grid Construction (Hand-Wired vs. PCB)
+      - Keyswitch Stem Type
+      - Replaceable Connection Mechanism Between Keyboard Halves
+      - Replaceable Connection Mechanism To Computer
+   - Functionality
+      - Keyboard Microcontroller
+      - Key Backlighting
+      - Signalling Mechanism For Mode Lock Engagement (e.g., CapsLock, NumLock)
+      - Toggleable Noise For Key Actuation
+- Weighting of Physical Layout Design Factors
+   - Identifying Which Factor Group Is Most Important For You
+   - Portability: The Relationship Between Familiarity And Speed
+- Character Layout Design Factors
+   - Finger Travel Distance
+   - Same Finger
+   - Indirect Same Finger
+   - Shift Same Finger
+   - Hand Alternation
+   - Two Hand Alternation
+   - Inward Motion Frequency
+   - Outward Motion Frequency
+   - Inward/Outward Motion Ratio
+   - Inward Roll Frequency
+   - Outward Roll Frequency
+   - Inward/Outward Roll Ratio
+   - Roll Conformity to Standards Based Upon Hand Physiology and Subjective Analysis
+   - Vertical Hand Shift (“Row Jumping”)
+   - Number of Movements Between Rows
+   - Horizontal Hand Shift (“Column Jumping”)
+   - Number of Movements Between Columns
+   - Finger Load Conformity to Standards Based on Hand Physiology and Subjective Analysis
+   - Hand Balance
+   - Adjacency
+   - Shift Adjacency
+   - Home Position %
+   - Favorable Position %
+   - Index Extension %
+   - Pinky Extension %
+- Weighting of Character Layout Design Variables
+   - Comparison Methods
+      - Layouts: Numerical Scores Based on Percentage-Based Weighting of Variables
+      - Individual Factors: Percent Difference Between Layouts
+      - Individual Factors: Normalization by Best Performing Layout
+   - General Approaches: Specialization vs. Jack of All Trades
+      - Imperfect Knowledge of Variable Importance in General
+      - Imperfect Knowledge of Variable Importance with Respect to Individual Differences
+- Preliminary Design Considerations
+   - Additional Keys vs. Layers
+   - The Most Efficient Methods of Accessing Layers: Leader Keys vs. Modifier Keys
+   - The Most Efficient Keys to Access Layers: Thumb Keys vs. Finger Keys
+   - Key Priority for a simple 40-Key Layout
+   - Key Priority for a Multilayer 40-Key Layout
+   - Subjective Key Weighting for a simple 40-Key Layout
+   - Subjective Key Weighting for a Multilayer 40-Key Layout
+   - Dual Use: Modifiers on the Home Row
+   - Key Scope: Usage Context Driving Availability
+      - Importance
+      - The Accessibility of Control Keys Across Layers
+      - The Accessibility of Modifier Keys Across Layers
+      - Space
+      - Esc
+   - Key Clustering Patterns
+      - Importance
+      - Numbers
+      - Navigation/Editing
+      - Mousing
+   - Grouping and Consistency: Why Computer Optimized Layouts May Not Always Be Superior
+      - A Brief Discussion of Human Cognition
+      - “Chunking”
+      - Key Frequency Considerations
+- Base Layer
+   - Reasons for Including All the Letters on the Base Layer
+   - Reasons for Keeping E off of the Thumbs
+   - A Comparison of Letter Layers
+      - HIEAM as Superior Choice
+   - Determining Which Punctuation Keys Should Go on the Base Layer
+   - Determining How to Lay Out the Punctuation Keys on the Base Layer
+   - Placement of the Space Key
+   - Placement and Usage of the Shift Key
+   - Using , for Entering Navigation/Editing Mode
+      - {,} Alone Toggles on Navigation/Editing Mode
+      - {,}{Spc} Acts as Normal
+      - {, down}{Spc}{, up} Enters Vim Normal Mode With Spacemacs Leader Key Toggled
+   - Using ) for Entering Commands
+      - {)} Alone Focuses Command Box
+      - Command structure: {)}{letters/numbers}{Spc/Enter/Tab etc.}
+      - {)}{Spc} Acts as Normal
+   - Using . for Entering Greek/Hebrew Mode
+      - Either Greek or Hebrew is active mode: switch with ) commands
+      - {.} Alone Toggles on Greek/Hebrew Mode (Whichever is active)
+      - {.}{Spc} Acts as Normal
+      - Hbr and grk hotstrings (hbr —> “Hebrew: ”) activate respective mode: used when listing what a word is in both languages regardless of current active mode on . key
+- TODO Explain Nav Layer
+- TODO Explain Greek Layer
+- TODO Explain Shift Layers
+- TODO Explain Number Layers
+- TODO Explain Code Layer
+- TODO Explain Symbol Layer
+- TODO Explain Mouse Layer
+- TODO Explain Function Layer
+- TODO Explain Media Layer
+- Caveats
+   - Character frequencies based on typing out all words; do not take into account text expansion/briefs
+   - Writing Corpuses Change Over Time
+   - Individual Physiological Factors Change Over Time (e.g., Arthritis)
 
-## Greek character placements
 
-- Not a native Greek speaker, and won't use language for extended periods of time (i.e., won't be typing it very much). Means that memorability is much more important than typical optimization parameters like same finger, inward rotation, travel distance, etc. Not going to spend hours and hours learning an optimized Greek layout that gets used 0.01% of the time: marginal cost is too high, illogical.
-- (But if you want to design such a thing for ancient Greek: go for it! Just not really useful for Classcists, IMO: time is better spent getting the more intuitive layout up to a reasonable wpm, which will take a lot less time)
-- Match up similar letters with English equivalents: by sound (p --> π), or by appearance (h --> η because capital characters are identical, y --> ψ). Will catalyze learning process immensely, and make things easy to remember.
-- y and j are unused in Greek alphabet and on the base layer, so get the two completely unrelated letters from Greek assigned to them: ψ and θ.
-- ζ matches z on the Punctuation Layer. Switching to the Greek Base Layer will Automatically also switch the English Punctuation Layer to the Greek Punctuation Layer. For the purposes of historical comparisons, v and q can be used for earlier letters like digamma.
-
-## Greek accentuation and breathing system
-
-- ) commands will still function as normal, and Spacemacs normal mode editing will remain unaffected
-- Observation: apostrophe not used in Greek (or Latin etc.) because of genetive case (and these languages don't use contractions). So we can use it for other things n the language.
-- When Greek Base is active we won't be coding, so we can just steal apostrophe completely for this use (without worrying about strings and such). Likewise, we can get along just fine without the characters on the coding and symbol layers, so the thumb keys normally used to access these layers are available. Of these, it is best to have the right thumb handle accents since accents are more commonly used than breathings and the right side provides alternation with the vowels. Therefore:
-   - Right thumb key before a vowel will lead to a grave accent: {RTK}o --> ὸ. (Avoids same finger with space)
-   - Right thumb key after a vowel will lead to an acute accent: o{RTK} --> ό. (Acute accents, except for a small few exceptions, do not end words, thereby preventing same finger with space. Also better here than grave because acute is more common and additional thumb key press gives vowel fingers time to get back to home row).
-   - Double tapping the right thumb key before a vowel will lead to a circumflex: {RTK}{RTK}ω --> ῶ. (Also avoids same finger with space)
-   - Left thumb key after a vowel will lead to smooth breathing: o{LTK} --> ὀ. (Smooth breathing is more common than rough breathing, so having the thumb key following is better here for similar reasons as for why it is better for acute accents: more time for vowel fingers to get back to home row).
-   - Left thumb key before a vowel or rho will lead to rough breathing: {LTK}o --> ὁ. 
-   - Breathings and accents will work together just fine as well: α{RTK}{RTK}ι{LTK}μα{RTK} --> αἷμά. (Order of application will not matter).
-   - Apostrophe after a vowel will lead to an iota subscript (after again due to resetting reasons explained above, and also because it leads to inward rolls on the vowel hand)
-
-## The reasoning for key placements
-
-- Minimize same finger, travel distance; favor inward rotation
-- Don't try to weight dominant hand: balance is important, so right/left key pairs have identical scores (it doesn't matter which side you pick). Side may matter in relation to the other factors above.
-- \` on Code layer because of Vim commands like \`]. $ on thumb because of its frequency in shell scripting and perl. Want to minimize same finger when using it as sigil, so it goes on a thumb. Other (less common) sigil keys (e.g., @, %) go opposite consonants because more consonants start variable names than vowels/punctuation.
-- heuristics << algorithms like AdNW, so I undoubtedly missed some stuff. This said, the layout is likely near-optimal anyway, probably within a few percent. I would be very happy to have my layout compared to something produced by an algorithm that optimizes across multiple layers, but *I* probably wouldn't change even if it was shown that my layout could be improved in several ways; benefits gained from the layout would be less than time cost of retraining muscle memory. For younger folks learning how to type, however, I would of course recommend the better layout!
-
-## Mouse layer
-
-- Arrow keys on right hand, navigation keys (home, end, pgup, pgdn) on left.
-- Maintain capabilities to use Ctrl, Sh, and Ctrl+Sh commands for navigations and highlighting
-
-## TODO: Put modifiers into KBLE files/pictures, swap base and middle click on mouse layer, fix duplicated ffw char on media base
-
-- swap enter and tab (resetting reasons wrt thumb key position)
-- colon on writing number thumkey instead of period, which moves where comma was (medial * becomes comma instead of :).
-- also swap . and enter/tab on other layers
-- en dash to thumbkey on verse layer, asterisk replaced with ,_
-
-<div class="center">
-
-  <h2><a href="http://www.keyboard-layout-editor.com/##@_backcolor=%23cccccc%3B&@_c=%23151515&t=%23ffffff&a:7&f:1&w:0.675&h:0.85%3B&=&_x:0.07499999999999996&w:0.675&h:0.85%3B&=&_x:0.07499999999999996&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:4.825&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=%3B&@_x:2.25&f:3%3B&=&=&=&=&_x:5.5%3B&=&=&=&=%3B&@_y:-0.75&w:1.25%3B&=&=&_x:13.5%3B&=&_w:1.25%3B&=%3B&@_y:-0.25&x:2.25&f:6%3B&=y&=o&=u&='&_x:5.5%3B&=k&=d&=c&=l%3B&@_y:-0.75&f:3&w:1.25%3B&=&_f:6%3B&=b&_x:13.5%3B&=p&_f:3&w:1.25%3B&=%3B&@_y:-0.25&x:2.25&c=%231e3697&f:6%3B&=i&=e&=a&_c=%23151515%3B&=.&_x:5.5%3B&=m&_c=%231e3697%3B&=t&=s&=r%3B&@_y:-0.75&c=%23151515&f:3&w:1.25%3B&=&_c=%231e3697&f:6%3B&=h&_x:13.5%3B&=n&_c=%23151515&f:3&w:1.25%3B&=%3B&@_y:-0.25&x:2.25&f:6%3B&=)&=%22&=,&=(&_x:5.5%3B&=w&=g&=f&=j%3B&@_y:-0.75&f:3&w:1.25%3B&=&_f:6%3B&=x&_x:13.5&f:3%3B&=&_w:1.25%3B&=%3B&@_y:-0.25&x:2.25%3B&=&_f:5%3B&=&=&_x:7.5%3B&=&=&_f:3%3B&=%3B&@_y:-0.75&x:1.25%3B&=&_x:13.5%3B&=%3B&@_r:15&rx:5.25&ry:4&x:1.5%3B&=&=%3B&@_x:0.5&a:4&h:2%3B&=%0A%3Ci%20class%2F='fa%20fa-toggle-on'%3E%3C%2F%2Fi%3E%0A%0AA%0A%0A%0A%0A%0APunc&_a:5&h:2%3B&=Sym%0AMouse&_a:7%3B&=%3B&@_x:2.5%3B&=%3B&@_r:-15&rx:12.75&x:-3.5%3B&=&=%3B&@_x:-3.5%3B&=&_a:5&h:2%3B&=Code%0AFunc&_a:4&h:2%3B&=%0A%3Ci%20class%2F='fa%20fa-terminal'%3E%3C%2F%2Fi%3E%0A%0A%3Ci%20class%2F='fa%20fa-arrow-down'%3E%0A%0A%0A%0A%0ASpace%20%2F%2F%20Num%3B&@_x:-3.5&a:7%3B&=">Base: English</a></h2><br/>
-
-  <img src="/assets/images/hieam/base_english.png"><br/><br/><br/><hr><br/>
-  
-  
-  <h2><a href="http://www.keyboard-layout-editor.com/##@_backcolor=%23cccccc%3B&@_c=%23151515&t=%23ffffff&a:7&f:1&w:0.675&h:0.85%3B&=&_x:0.07499999999999996&w:0.675&h:0.85%3B&=&_x:0.07499999999999996&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:4.825&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=%3B&@_x:2.25&f:3%3B&=&=&=&=&_x:5.5%3B&=&=&=&=%3B&@_y:-0.75&w:1.25%3B&=&=&_x:13.5%3B&=&_w:1.25%3B&=%3B&@_y:-0.25&x:2.25&f:6%3B&=%CE%B8&=%CE%BF&=%CF%85&_c=%237d1d1d%3B&='&_x:5.5&c=%23151515%3B&=%CE%BA&=%CE%B4&=%CF%87&=%CE%BB%3B&@_y:-0.75&f:3&w:1.25%3B&=&_f:6%3B&=%CE%B2&_x:13.5%3B&=%CF%80&_f:3&w:1.25%3B&=%3B&@_y:-0.25&x:2.25&c=%231e3697&f:6%3B&=%CE%B9&=%CE%B5&=%CE%B1&_c=%23151515%3B&=.&_x:5.5%3B&=%CE%BC&_c=%231e3697%3B&=%CF%84&_a:4%3B&=%CF%83%0A%0A%0A%CF%82&_a:7%3B&=%CF%81%3B&@_y:-0.75&c=%23151515&f:3&w:1.25%3B&=&_c=%231e3697&f:6%3B&=%CE%B7&_x:13.5%3B&=%CE%BD&_c=%23151515&f:3&w:1.25%3B&=%3B&@_y:-0.25&x:2.25&c=%237d1d1d&f:6%3B&=)&_c=%23151515%3B&=%22&=,&=(&_x:5.5%3B&=%CF%89&=%CE%B3&=%CF%86&=%CF%88%3B&@_y:-0.75&f:3&w:1.25%3B&=&_f:6%3B&=%CE%BE&_x:13.5&f:3%3B&=&_w:1.25%3B&=%3B&@_y:-0.25&x:2.25%3B&=&_f:5%3B&=&=&_x:7.5%3B&=&=&_f:3%3B&=%3B&@_y:-0.75&x:1.25%3B&=&_x:13.5%3B&=%3B&@_r:15&rx:5.25&ry:4&x:1.5%3B&=&=%3B&@_x:0.5&a:4&h:2%3B&=%0A%3Ci%20class%2F='fa%20fa-toggle-on'%3E%3C%2F%2Fi%3E%0A%0AA%0A%0A%0A%0A%0APunc&_a:5&h:2%3B&=Sym%0AMouse&_a:7%3B&=%3B&@_x:2.5%3B&=%3B&@_r:-15&rx:12.75&x:-3.5%3B&=&=%3B&@_x:-3.5%3B&=&_a:5&h:2%3B&=Code%0AFunc&_a:4&h:2%3B&=%0A%3Ci%20class%2F='fa%20fa-terminal'%3E%3C%2F%2Fi%3E%0A%0A%3Ci%20class%2F='fa%20fa-arrow-down'%3E%0A%0A%0A%0A%0ASpace%20%2F%2F%20Num%3B&@_x:-3.5&a:7%3B&=">Base: Greek</a></h2><br/>
-  
-  <img src="/assets/images/hieam/base_greek.png"><br/><br/><br/><hr><br/>
+## Unorganized Thoughts
 
 
-  <h2><a href="http://www.keyboard-layout-editor.com/##@_backcolor=%23cccccc%3B&@_c=%23151515&t=%23ffffff&a:7&f:1&w:0.675&h:0.85%3B&=&_x:0.07499999999999996&w:0.675&h:0.85%3B&=&_x:0.07499999999999996&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:4.825&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=%3B&@_x:2.25&f:6%3B&=&=&=&=&_x:5.5%3B&=&=&=&=%3B&@_y:-0.75&w:1.25%3B&=&=&_x:13.5%3B&=&_w:1.25%3B&=%3B&@_y:-0.25&x:2.25%3B&=&=&=&=&_x:5.5%3B&=&=&=&=%3B&@_y:-0.75&w:1.25%3B&=&=&_x:13.5%3B&=&_w:1.25%3B&=%3B&@_y:-0.25&x:2.25&c=%231e3697%3B&=%3Ci%20class%2F='fa%20fa-backward'%3E%3C%2F%2Fi%3E&=%3Ci%20class%2F='fa%20fa-forward'%3E%3C%2F%2Fi%3E&=%3Ci%20class%2F='fa%20fa-forward'%3E%3C%2F%2Fi%3E&_c=%23151515%3B&=&_x:5.5%3B&=&_c=%231e3697%3B&=%3Ci%20class%2F='fa%20fa-play'%3E%3C%2F%2Fi%3E&=%3Ci%20class%2F='fa%20fa-stop'%3E%3C%2F%2Fi%3E&=%3Ci%20class%2F='fa%20fa-volume-up'%3E%3C%2F%2Fi%3E%3B&@_y:-0.75&c=%23151515&w:1.25%3B&=&_c=%231e3697%3B&=%3Ci%20class%2F='fa%20fa-fast-backward'%3E%3C%2F%2Fi%3E&_x:13.5%3B&=%3Ci%20class%2F='fa%20fa-volume-down'%3E%3C%2F%2Fi%3E&_c=%23151515&w:1.25%3B&=%3B&@_y:-0.25&x:2.25%3B&=&=&=&=&_x:5.5%3B&=&=&=&=%3B&@_y:-0.75&w:1.25%3B&=&=&_x:13.5%3B&=&_w:1.25%3B&=%3B&@_y:-0.25&x:2.25%3B&=&=&=&_x:7.5%3B&=&=&=%3B&@_y:-0.75&x:1.25%3B&=&_x:13.5%3B&=%3B&@_r:15&rx:5.25&ry:4&x:1.5%3B&=&=%3B&@_x:0.5&h:2%3B&=%3Ci%20class%2F='fa%20fa-step-backward'%3E%3C%2F%2Fi%3E&_h:2%3B&=%3Ci%20class%2F='fa%20fa-eject'%3E%3C%2F%2Fi%3E&=%3B&@_x:2.5%3B&=%3B&@_r:-15&rx:12.75&x:-3.5%3B&=&=%3B&@_x:-3.5%3B&=&_f:8&h:2%3B&=%3Ci%20class%2F='kb%20kb-Multimedia-Mute-2'%3E%3C%2F%2Fi%3E&_f:6&h:2%3B&=%3Ci%20class%2F='fa%20fa-step-forward'%3E%3C%2F%2Fi%3E%3B&@_x:-3.5%3B&=">Base: Media</a></h2><br/>
-  
-  <img src="/assets/images/hieam/base_media.png"><br/><br/><br/><hr><br/>
+### Tap vs. hold:
 
+- For the sake of easy numbers, let’s assume a few things:
+   - Selecting a key to press takes 0.25 seconds (the decisionmaking time to press this key instead of that key )
+      - The decisionmaking time for a second down movement of a key will be less, assuming the presses are next to each other in the key-stream (i.e., aa or aba instead of abca or abcda). Presses directly contiguous take between 0 and 0.125 seconds rather than normal 0.25; presses indirectly contiguous take between 0.125 and 0.25 seconds. These reductions are due to the fact that the cognitive load of this second press is less than acquiring an entirely different key to press.
+   - The decisionmaking process for pressing down another key begins as soon as the down movement for the prior key begins, or, in the case of a key getting pressed for a second time, as soon as the first up movement is completed, or, in the case of same finger, as soon as the up movement of the first key is completed.
+   - each down movement takes 0.25 seconds to complete 
+      - Deciding to release a key takes 0 seconds if done immediately after pressing it, and between 0 and 0.125 seconds if not done immediately after pressing it.
+   - Each up movement takes 0.25 seconds to complete
+   - For cases of same finger, it takes between 0.125 and 0.25 seconds to move the finger in question from one location to another
 
-  <h2><a href="http://www.keyboard-layout-editor.com/##@_backcolor=%23cccccc%3B&@_c=%23151515&t=%23ffffff&a:7&f:1&w:0.675&h:0.85%3B&=&_x:0.07499999999999996&w:0.675&h:0.85%3B&=&_x:0.07499999999999996&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:4.825&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=%3B&@_x:2.25&f:3%3B&=&=&=&=&_x:5.5%3B&=&=&=&=%3B&@_y:-0.75&w:1.25%3B&=&=&_x:13.5%3B&=&_w:1.25%3B&=%3B&@_y:-0.25&x:2.25&f:6%3B&=&_f:3%3B&=PgUp&_f:6%3B&=&=&_x:5.5%3B&=&=&=%3Ci%20class%2F='fa%20fa-long-arrow-up'%3E%3C%2F%2Fi%3E&=%3B&@_y:-0.75&f:3&w:1.25%3B&=&_f:6%3B&=&_x:13.5%3B&=&_f:3&w:1.25%3B&=%3B&@_y:-0.25&x:2.25&c=%231e3697%3B&=Home&=PgDn&=End&_c=%23151515&f:6%3B&=&_x:5.5%3B&=&_c=%231e3697%3B&=%3Ci%20class%2F='fa%20fa-long-arrow-left'%3E%3C%2F%2Fi%3E&=%3Ci%20class%2F='fa%20fa-long-arrow-down'%3E%3C%2F%2Fi%3E&=%3Ci%20class%2F='fa%20fa-long-arrow-right'%3E%3C%2F%2Fi%3E%3B&@_y:-0.75&c=%23151515&f:3&w:1.25%3B&=&_c=%231e3697%3B&=Cut&_x:13.5%3B&=Copy&_c=%23151515&w:1.25%3B&=%3B&@_y:-0.25&x:2.25&f:6%3B&=&=&_c=%23474646&f:3%3B&=Redo&_c=%23151515&f:6%3B&=&_x:5.5%3B&=&_f:3%3B&=Undo&_f:6%3B&=&=%3B&@_y:-0.75&f:3&w:1.25%3B&=&_f:6%3B&=&_x:13.5&f:3%3B&=&_w:1.25%3B&=%3B&@_y:-0.25&x:2.25%3B&=&_f:5%3B&=&=&_x:7.5%3B&=&=&_f:3%3B&=%3B&@_y:-0.75&x:1.25%3B&=&_x:13.5%3B&=%3B&@_r:15&rx:5.25&ry:4&x:1.5%3B&=&=%3B&@_x:0.5&h:2%3B&=Paste&_h:2%3B&=Base&=%3B&@_x:2.5%3B&=%3B&@_r:-15&rx:12.75&x:-3.5%3B&=&=%3B&@_x:-3.5%3B&=&_h:2%3B&=Del&_h:2%3B&=Bkspc%3B&@_x:-3.5%3B&=">Editing</a></h2><br/>
-  
-  <img src="/assets/images/hieam/editing.png"><br/><br/><br/><hr><br/>
+### TODO: add Excel Results Table
 
+### Available double-tap triggers:
 
-  <h2><a href="http://www.keyboard-layout-editor.com/##@_backcolor=%23cccccc%3B&@_c=%23151515&t=%23ffffff&a:7&f:1&w:0.675&h:0.85%3B&=&_x:0.07499999999999996&w:0.675&h:0.85%3B&=&_x:0.07499999999999996&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:4.825&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=%3B&@_x:2.25&f:3%3B&=&=&=&=&_x:5.5%3B&=&=&=&=%3B&@_y:-0.75&w:1.25%3B&=&=&_x:13.5%3B&=&_w:1.25%3B&=%3B&@_y:-0.25&x:2.25&f:6%3B&=&=&=&=&_x:5.5%3B&=&=&=&=%3B&@_y:-0.75&f:3&w:1.25%3B&=&_f:6%3B&=&_x:13.5%3B&=&_f:3&w:1.25%3B&=%3B&@_y:-0.25&x:2.25&c=%231e3697&f:6%3B&=%3F&=%2F%3B&=%2F:&_c=%23151515%3B&=&_x:5.5%3B&=&_c=%231e3697%3B&=v&=z&=q%3B&@_y:-0.75&c=%23151515&f:3&w:1.25%3B&=&_c=%231e3697&f:6%3B&=!&_x:13.5&f:4%3B&=Esc&_c=%23151515&f:3&w:1.25%3B&=%3B&@_y:-0.25&x:2.25&f:6%3B&=&=&=&=&_x:5.5%3B&=&=&=&=%3B&@_y:-0.75&f:3&w:1.25%3B&=&_f:6%3B&=&_x:13.5&f:3%3B&=&_w:1.25%3B&=%3B&@_y:-0.25&x:2.25%3B&=&_f:5%3B&=&=&_x:7.5%3B&=&=&_f:3%3B&=%3B&@_y:-0.75&x:1.25%3B&=&_x:13.5%3B&=%3B&@_r:15&rx:5.25&ry:4&x:1.5%3B&=&=%3B&@_x:0.5&c=%23474646&h:2%3B&=&_c=%23151515&h:2%3B&=Base&=%3B&@_x:2.5%3B&=%3B&@_r:-15&rx:12.75&x:-3.5%3B&=&=%3B&@_x:-3.5%3B&=&_h:2%3B&=Enter&_h:2%3B&=Bkspc%3B&@_x:-3.5%3B&=">Punctuation</a></h2><br/>
-  
-  <img src="/assets/images/hieam/punctuation.png"><br/><br/><br/><hr><br/>
+- code code
+- sym sym
+- yy
+- jj
+- xx
+- qq
 
-  <h2><a href="http://www.keyboard-layout-editor.com/##@_backcolor=%23cccccc%3B&@_c=%23151515&t=%23ffffff&a:7&f:1&w:0.675&h:0.85%3B&=&_x:0.07499999999999996&w:0.675&h:0.85%3B&=&_x:0.07499999999999996&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:4.825&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=%3B&@_x:2.25&f:6%3B&=&=&=&=&_x:5.5%3B&=&=&=&=%3B&@_y:-0.75&w:1.25%3B&=&=&_x:13.5%3B&=&_w:1.25%3B&=%3B&@_y:-0.25&x:2.25%3B&=+&_c=%237d1d1d%3B&=*&_c=%23151515%3B&=&=&_x:5.5%3B&=&=&_c=%237d1d1d%3B&=-&_c=%23151515%3B&=%2F%2F%3B&@_y:-0.75&w:1.25%3B&=&=&_x:13.5%3B&=&_w:1.25%3B&=%3B&@_y:-0.25&x:2.25&c=%231e3697%3B&=4&=6&=8&_c=%23151515%3B&=&_x:5.5%3B&=&_c=%231e3697%3B&=7&=5&=3%3B&@_y:-0.75&c=%23151515&w:1.25%3B&=&_c=%231e3697%3B&=2&_x:13.5%3B&=1&_c=%23151515&w:1.25%3B&=%3B&@_y:-0.25&x:2.25%3B&=&=&=0&=&_x:5.5%3B&=&=9&=&=%3B&@_y:-0.75&w:1.25%3B&=&=&_x:13.5%3B&=&_w:1.25%3B&=%3B&@_y:-0.25&x:2.25%3B&=&=&=&_x:7.5%3B&=&=&=%3B&@_y:-0.75&x:1.25%3B&=&_x:13.5%3B&=%3B&@_r:15&rx:5.25&ry:4&x:1.5%3B&=&=%3B&@_x:0.5&h:2%3B&=.&_h:2%3B&=,&=%3B&@_x:2.5%3B&=%3B&@_r:-15&rx:12.75&x:-3.5%3B&=&=%3B&@_x:-3.5%3B&=&_h:2%3B&=&_c=%23474646&h:2%3B&=%3B&@_x:-3.5&c=%23151515%3B&=">Numbers: Writing</a></h2><br/>
+### Available double-tap triggers when not in code mode:
+- ((
+- ‘’
 
-  <img src="/assets/images/hieam/numbers_writing.png"><br/><br/><br/><hr><br/>
+Not in code mode: keyboard/program keeps track if inside unclosed quotes, “ key will then use single quote to automatically nest (allows us to use ‘ key in accents). “” —> “‘
 
+Redesign Vim modal editing by matching most frequent commands to most frequent letters/symbols, assuming that these letters will be placed in favorable positions on kb layouts, making the vim bindings (relatively) layout independent. < Job for more dedicated/full-time person
 
-  <h2><a href="http://www.keyboard-layout-editor.com/##@_backcolor=%23cccccc%3B&@_c=%23151515&t=%23ffffff&a:7&f:1&w:0.675&h:0.85%3B&=&_x:0.07499999999999996&w:0.675&h:0.85%3B&=&_x:0.07499999999999996&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:4.825&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=%3B&@_x:2.25&f:6%3B&=&=&=&=&_x:5.5%3B&=&=&=&=%3B&@_y:-0.75&w:1.25%3B&=&=&_x:13.5%3B&=&_w:1.25%3B&=%3B&@_y:-0.25&x:2.25%3B&=+&_c=%237d1d1d%3B&=*&_c=%23151515%3B&=&=&_x:5.5%3B&=&=&_c=%237d1d1d%3B&=-&_c=%23151515%3B&=%2F%2F%3B&@_y:-0.75&w:1.25%3B&=&=&_x:13.5%3B&=&_w:1.25%3B&=%3B&@_y:-0.25&x:2.25&c=%231e3697%3B&=4&=6&=8&_c=%23151515%3B&=&_x:5.5%3B&=&_c=%231e3697%3B&=7&=5&=3%3B&@_y:-0.75&c=%23151515&w:1.25%3B&=&_c=%231e3697%3B&=2&_x:13.5%3B&=1&_c=%23151515&w:1.25%3B&=%3B&@_y:-0.25&x:2.25%3B&=&=&=0&=&_x:5.5%3B&=&=9&=&=%3B&@_y:-0.75&w:1.25%3B&=&=&_x:13.5%3B&=&_w:1.25%3B&=%3B&@_y:-0.25&x:2.25%3B&=&=&=&_x:7.5%3B&=&=&=%3B&@_y:-0.75&x:1.25%3B&=&_x:13.5%3B&=%3B&@_r:15&rx:5.25&ry:4&x:1.5%3B&=&=%3B&@_x:0.5&h:2%3B&=%2F%3B%2F_&_h:2%3B&=,%2F_&=%3B&@_x:2.5%3B&=%3B&@_r:-15&rx:12.75&x:-3.5%3B&=&=%3B&@_x:-3.5%3B&=&_h:2%3B&=&_c=%23474646&h:2%3B&=%3B&@_x:-3.5&c=%23151515%3B&=">Numbers: Verse</a></h2><br/>
+Placement of sym layer with right thumb because sym will not be prepended/followed by numbers which require right thumb while code can be (e.g., [1, 2, 3] or 5>3). Assuming accessing shift layer not much difference between code and sym layers.
 
-  <img src="/assets/images/hieam/numbers_verse.png"><br/><br/><br/><hr><br/>
+Command keys (Enter, Tab, Bkspc, Del) go on outer pinkies because don’t want to press them accidentally, not used in rolls/key combinations. Enter goes opposite punctuation. Also frequency considerations.
 
+Punctuation always followed by space/enter can go on shift layer off home row since won’t mess with same finger for most circumstances (: used as punc goes here — used as leader, accessed on number layer — typical disadvantages from holding down don’t apply with thumb key never followed by space). - also goes here so it can be accessed by leader in a home position instead of only accessible by hold-down on middle finger extension. Esc on this layer too.
 
-  <h2><a href="http://www.keyboard-layout-editor.com/##@_backcolor=%23cccccc%3B&@_c=%23151515&t=%23ffffff&a:7&f:1&w:0.675&h:0.85%3B&=&_x:0.07499999999999996&w:0.675&h:0.85%3B&=&_x:0.07499999999999996&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:4.825&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=%3B&@_x:2.25&f:6%3B&=&=&=&=&_x:5.5%3B&=&=&=&=%3B&@_y:-0.75&w:1.25%3B&=&=&_x:13.5%3B&=&_w:1.25%3B&=%3B&@_y:-0.25&x:2.25%3B&=+&=*&=&=&_x:5.5%3B&=&=&=-&=%2F%2F%3B&@_y:-0.75&w:1.25%3B&=&=&_x:13.5%3B&=&_w:1.25%3B&=%3B&@_y:-0.25&x:2.25&c=%231e3697%3B&=4&=6&=8&_c=%23151515%3B&=&_x:5.5%3B&=&_c=%231e3697%3B&=7&=5&=3%3B&@_y:-0.75&c=%23151515&w:1.25%3B&=&_c=%231e3697%3B&=2&_x:13.5%3B&=1&_c=%23151515&w:1.25%3B&=%3B&@_y:-0.25&x:2.25%3B&=&=&=0&=&_x:5.5%3B&=&=9&=&=%3B&@_y:-0.75&w:1.25%3B&=&=&_x:13.5%3B&=&_w:1.25%3B&=%3B&@_y:-0.25&x:2.25%3B&=&=&=&_x:7.5%3B&=&=&=%3B&@_y:-0.75&x:1.25%3B&=&_x:13.5%3B&=%3B&@_r:15&rx:5.25&ry:4&x:1.5%3B&=&=%3B&@_x:0.5&h:2%3B&=.&_f:3&h:2%3B&=Enter&_f:6%3B&=%3B&@_x:2.5%3B&=%3B&@_r:-15&rx:12.75&x:-3.5%3B&=&=%3B&@_x:-3.5%3B&=&_f:3&h:2%3B&=&_c=%23474646&h:2%3B&=%3B&@_x:-3.5&c=%23151515&f:6%3B&=">Numbers: Enter</a></h2><br/>
+/ on left due to URLS: more words starting/ending with consonants than vowels (?)
 
-  <img src="/assets/images/hieam/numbers_enter.png"><br/><br/><br/><hr><br/>
+## Other Languages: Goal
 
+To be able to type Latin, German, French, Italian, and Spanish on the normal English layer without dead keys or other complicated methods of character entry and without interfering with Markdown, Org, or LaTeX markup syntax. As much as allowable by optimization constraints, the characters should be easy to memorize (:e —> ë rather than ^e —> ë) and consistent (if ]e —> œ, then it would make sense to use ]a —> æ; pattern: ] + letter —> ligature).
 
-  <h2><a href="http://www.keyboard-layout-editor.com/##@_backcolor=%23cccccc%3B&@_c=%23151515&t=%23ffffff&a:7&f:1&w:0.675&h:0.85%3B&=&_x:0.07499999999999996&w:0.675&h:0.85%3B&=&_x:0.07499999999999996&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:4.825&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=%3B&@_x:2.25&f:6%3B&=&=&=&=&_x:5.5%3B&=&=&=&=%3B&@_y:-0.75&w:1.25%3B&=&=&_x:13.5%3B&=&_w:1.25%3B&=%3B&@_y:-0.25&x:2.25%3B&=+&=*&=&=&_x:5.5%3B&=&=&=-&=%2F%2F%3B&@_y:-0.75&w:1.25%3B&=&=&_x:13.5%3B&=&_w:1.25%3B&=%3B&@_y:-0.25&x:2.25&c=%231e3697%3B&=4&=6&=8&_c=%23151515%3B&=&_x:5.5%3B&=&_c=%231e3697%3B&=7&=5&=3%3B&@_y:-0.75&c=%23151515&w:1.25%3B&=&_c=%231e3697%3B&=2&_x:13.5%3B&=1&_c=%23151515&w:1.25%3B&=%3B&@_y:-0.25&x:2.25%3B&=&=&=0&=&_x:5.5%3B&=&=9&=&=%3B&@_y:-0.75&w:1.25%3B&=&=&_x:13.5%3B&=&_w:1.25%3B&=%3B&@_y:-0.25&x:2.25%3B&=&=&=&_x:7.5%3B&=&=&=%3B&@_y:-0.75&x:1.25%3B&=&_x:13.5%3B&=%3B&@_r:15&rx:5.25&ry:4&x:1.5%3B&=&=%3B&@_x:0.5&h:2%3B&=.&_f:3&h:2%3B&=Tab&_f:6%3B&=%3B&@_x:2.5%3B&=%3B&@_r:-15&rx:12.75&x:-3.5%3B&=&=%3B&@_x:-3.5%3B&=&_f:3&h:2%3B&=&_c=%23474646&h:2%3B&=%3B&@_x:-3.5&c=%23151515&f:6%3B&=">Numbers: Tab</a></h2><br/>
+### Character priority:
 
-  <img src="/assets/images/hieam/numbers_tab.png"><br/><br/><br/><hr><br/>
+- ,{letter}
+- .{letter}
+- ){letter}
+- {letter}(
+- - ‘{letter}
+- :{letter}  =  {letter}\`
+- characters on non-thumb keys on Code and Sym layers, prioritized by memorability (see below)
 
+Can’t use $ (thumb key > other fingers) since it is used in LaTeX for the inline/display modes of mathematical expressions. (It would be possible to track the opening/closing similar to \` code blocks in MD, but in some circumstances you might want to retain the ability to write accents within an expression.)
 
-  <h2><a href="http://www.keyboard-layout-editor.com/##@_backcolor=%23cccccc%3B&@_c=%23151515&t=%23ffffff&a:7&f:1&w:0.675&h:0.85%3B&=&_x:0.07499999999999996&w:0.675&h:0.85%3B&=&_x:0.07499999999999996&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:4.825&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=%3B&@_x:2.25&f:6%3B&=&=&=&=&_x:5.5%3B&=&=&=&=%3B&@_y:-0.75&w:1.25%3B&=&=&_x:13.5%3B&=&_w:1.25%3B&=%3B&@_y:-0.25&x:2.25%3B&=&=&=&=&_x:5.5%3B&=&=&=&=%3B&@_y:-0.75&w:1.25%3B&=&=&_x:13.5%3B&=&_w:1.25%3B&=%3B&@_y:-0.25&x:2.25&c=%231e3697%3B&=%7B&=%5B&=%2F_&_c=%23151515%3B&=&_x:5.5%3B&=&_c=%231e3697%3B&=%2F=&=%5D&=%7D%3B&@_y:-0.75&c=%23151515&w:1.25%3B&=&_c=%231e3697%3B&=%3C&_x:13.5%3B&=%3E&_c=%23151515&w:1.25%3B&=%3B&@_y:-0.25&x:2.25%3B&=&=&=&=&_x:5.5%3B&=&=&=&=%3B&@_y:-0.75&w:1.25%3B&=&=&_x:13.5%3B&=&_w:1.25%3B&=%3B&@_y:-0.25&x:2.25%3B&=&=&=&_x:7.5%3B&=&=&=%3B&@_y:-0.75&x:1.25%3B&=&_x:13.5%3B&=%3B&@_r:15&rx:5.25&ry:4&x:1.5%3B&=&=%3B&@_x:0.5&h:2%3B&=$&_h:2%3B&=%60&=%3B&@_x:2.5%3B&=%3B&@_r:-15&rx:12.75&x:-3.5%3B&=&=%3B&@_x:-3.5%3B&=&_c=%23474646&h:2%3B&=&_c=%23151515&f:3&h:2%3B&=Base%3B&@_x:-3.5&f:6%3B&=">Code</a></h2><br/>
+Thus far in my layout, ,{letter} is being used to jump into the navigation layer/toggle normal mode in Vim, .{letter} is being used to jump into Greek/Hebrew mode, and ){letter} is being used in command mode. The navigation and command modes are obviously more important than diacritics, and for me the Greek/Hebrew mode is more important as well since I type these languages more frequently than non-English languages with the Latin alphabet (including Latin itself). YMMV
 
-  <img src="/assets/images/hieam/code.png"><br/><br/><br/><hr><br/>
+### Memorability considerations:
+- | looks like a macron
+- ( looks like a breve or inverted breve
+- ) looks like a breve or inverted breve
+- { looks kind of like a caron
+- } looks kind of like a caron
+- : looks like an umlaut/a dieresis
+- A typographically smartened ‘ in the middle of a word looks like an acute accent (ex’ample)
+- \` looks like a grave accent
+- ^ looks like a circumflex accent for Latin scripts (the Greek/Cyrillic circumflex is a tilde accent or inverted breve) or inverted caron
+- ~ looks like a tilde accent/the top part of the Spanish letter eñe (ñ)
+- The Spanish letter eñe (ñ) looks like n
+- , looks like the tail used to form a French c-cedilla (ç), a Romanian t-comma (ț), and a Romanian s-comma (ș).
+- A c-cedilla (ç) looks like c, a t-comma (ț) looks like t, and an s-comma (ș) looks like s.
+- The German ß is phonetically similar to s, but looks kind of like a capital B
+- / looks like the slash in the Norwegian/Danish ø
+- \ looks like the slash in the Norwegian/Danish ø, except facing the wrong way
+- 0 looks like the circle above the Norwegian/Danish/Swedish å
+- The Spanish inverted question mark (¿) looks like ?
+- The Spanish inverted exclamation mark (¡) looks like !
 
+### Accents
 
-  <h2><a href="http://www.keyboard-layout-editor.com/##@_backcolor=%23cccccc%3B&@_c=%23151515&t=%23ffffff&a:7&f:1&w:0.675&h:0.85%3B&=&_x:0.07499999999999996&w:0.675&h:0.85%3B&=&_x:0.07499999999999996&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:4.825&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=%3B&@_x:2.25&f:6%3B&=&=&=&=&_x:5.5%3B&=&=&=&=%3B&@_y:-0.75&w:1.25%3B&=&=&_x:13.5%3B&=&_w:1.25%3B&=%3B&@_y:-0.25&x:2.25%3B&=&=&=&=&_x:5.5%3B&=&=&=&=%3B&@_y:-0.75&w:1.25%3B&=&=&_x:13.5%3B&=&_w:1.25%3B&=%3B&@_y:-0.25&x:2.25&c=%231e3697%3B&=%25&=%2F@&=%5C&_c=%23151515%3B&=&_x:5.5%3B&=&_c=%231e3697%3B&=%2F&&=%7C&=%23%3B&@_y:-0.75&c=%23151515&w:1.25%3B&=&_c=%231e3697%3B&=%5E&_x:13.5%3B&=~&_c=%23151515&w:1.25%3B&=%3B&@_y:-0.25&x:2.25%3B&=&=&=&=&_x:5.5%3B&=&=&=&=%3B&@_y:-0.75&w:1.25%3B&=&=&_x:13.5%3B&=&_w:1.25%3B&=%3B&@_y:-0.25&x:2.25%3B&=&=&=&_x:7.5%3B&=&=&=%3B&@_y:-0.75&x:1.25%3B&=&_x:13.5%3B&=%3B&@_r:15&rx:5.25&ry:4&x:1.5%3B&=&=%3B&@_x:0.5&f:3&h:2%3B&=Base&_c=%23474646&h:2%3B&=&_c=%23151515&f:6%3B&=%3B&@_x:2.5%3B&=%3B&@_r:-15&rx:12.75&x:-3.5%3B&=&=%3B&@_x:-3.5%3B&=&_f:3&h:2%3B&=Del&_h:2%3B&=Tab%3B&@_x:-3.5&f:6%3B&=">Symbols</a></h2><br/>
+(in order of frequency: Latin > German, French, Italian > Spanish; presupposing prose mode not code mode; organized by decreasing freq. below)
 
-  <img src="/assets/images/hieam/symbols.png"><br/><br/><br/><hr><br/>
+macron			o(	( never used after letter
+acute accent		‘o	‘ only used before t, s, ve
+umlaut/dieresis	:o	: never used before letter
+grave accent		o`	` after resets hand for next, code
+circumflex		^o	^ before follows superscript ^{}
 
+Track open \`code blocks\` (markdown) similar to open “. Code mode activated (and hence accents disabled, including grave) in open code blocks.
 
-  <h2><a href="http://www.keyboard-layout-editor.com/##@_backcolor=%23cccccc%3B&@_c=%23151515&t=%23ffffff&a:7&f:1&w:0.675&h:0.85%3B&=&_x:0.07499999999999996&w:0.675&h:0.85%3B&=&_x:0.07499999999999996&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:4.825&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=%3B&@_x:2.25&f:6%3B&=&=&=&=&_x:5.5%3B&=&=&=&=%3B&@_y:-0.75&w:1.25%3B&=&=&_x:13.5%3B&=&_w:1.25%3B&=%3B&@_y:-0.25&x:2.25%3B&=%3Ci%20class%2F='fa%20fa-terminal'%3E%3C%2F%2Fi%3E%0A%0A%0A%0AT-Warp&=%3Ci%20class%2F='fa%20fa-terminal'%3E%3C%2F%2Fi%3E%0A%0A%0A%0AWarp&=&=&_x:5.5%3B&=&=&=%3Ci%20class%2F='fa%20fa-long-arrow-up'%3E%3C%2F%2Fi%3E%0A%0A%0A%0ATop%20Rt&=%3B&@_y:-0.75&w:1.25%3B&=&=&_x:13.5%3B&=&_w:1.25%3B&=%3B&@_y:-0.25&x:2.25&c=%231e3697&f:4%3B&=%3Ci%20class%2F='fa%20fa-toggle-on'%3E%3C%2F%2Fi%3E%0A%0A%0A%0AScroll&_f:3%3B&=Decel%0A%0A%0A%0ASlow&=Accel%0A%0A%0A%0AFast&_c=%23151515&f:6%3B&=&_x:5.5%3B&=&_c=%231e3697%3B&=%3Ci%20class%2F='fa%20fa-long-arrow-left'%3E%3C%2F%2Fi%3E%0A%0A%0A%0ATop%20Lft&=%3Ci%20class%2F='fa%20fa-long-arrow-down'%3E%3C%2F%2Fi%3E%0A%0A%0A%0ABot%20Lft&=%3Ci%20class%2F='fa%20fa-long-arrow-right'%3E%3C%2F%2Fi%3E%0A%0A%0A%0ABot%20Rt%3B&@_y:-0.75&c=%23151515&w:1.25%3B&=&_c=%231e3697&f:3%3B&=Macro%0A%0A%0A%0ARecord&_x:13.5%3B&=Copy&_c=%23151515&f:6&w:1.25%3B&=%3B&@_y:-0.25&x:2.25%3B&=&=&_f:4%3B&=%3Ci%20class%2F='fa%20fa-toggle-on'%3E%3C%2F%2Fi%3E%0A%0A%0A%0AAxis&_f:6%3B&=&_x:5.5%3B&=&_f:3%3B&=&_f:6%3B&=&=%3B&@_y:-0.75&w:1.25%3B&=&=&_x:13.5%3B&=&_w:1.25%3B&=%3B&@_y:-0.25&x:2.25%3B&=&=&=&_x:7.5%3B&=&=&=%3B&@_y:-0.75&x:1.25%3B&=&_x:13.5%3B&=%3B&@_r:15&rx:5.25&ry:4&x:1.5%3B&=&=%3B&@_x:0.5&f:3&h:2%3B&=Middle%20Click&_c=%23474646&h:2%3B&=Base&_c=%23151515&f:6%3B&=%3B&@_x:2.5%3B&=%3B&@_r:-15&rx:12.75&x:-3.5%3B&=&=%3B&@_x:-3.5%3B&=&_f:3&h:2%3B&=Right%20Click&_h:2%3B&=Left%20Click%3B&@_x:-3.5&f:6%3B&=">Mouse</a></h2><br/>
+Brackets are not used with numerical superscripts (e.g., 1.2 x 10^8) in normal use. However, when the superscript is text, brackets become necessary to eliminate ambiguity: this^superscripted text vs. this^{superscripted text}. Thus, ^ before will never cause conflicts since text based superscripts will always use brackets.
 
-  <img src="/assets/images/hieam/mouse.png"><br/><br/><br/><hr><br/>
+No breve is needed since the absence of a macron indicates a short syllable.
 
+### Letters and Ligatures 
 
-  <h2><a href="http://www.keyboard-layout-editor.com/##@_backcolor=%23cccccc%3B&@_c=%23151515&t=%23ffffff&a:7&f:1&w:0.675&h:0.85%3B&=&_x:0.07499999999999996&w:0.675&h:0.85%3B&=&_x:0.07499999999999996&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:0.07500000000000018&w:0.675&h:0.85%3B&=&_x:4.825&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=&_x:0.07499999999999929&w:0.675&h:0.85%3B&=%3B&@_x:2.25&f:6%3B&=&=&=&=&_x:5.5%3B&=&=&=&=%3B&@_y:-0.75&w:1.25%3B&=&=&_x:13.5%3B&=&_w:1.25%3B&=%3B&@_y:-0.25&x:2.25%3B&=&=&=&=&_x:5.5%3B&=&=&=&=%3B&@_y:-0.75&w:1.25%3B&=&=&_x:13.5%3B&=&_w:1.25%3B&=%3B&@_y:-0.25&x:2.25&c=%231e3697%3B&=F4&=F6&=F8&_c=%23151515%3B&=&_x:5.5%3B&=&_c=%231e3697%3B&=F7&=F5&=F3%3B&@_y:-0.75&c=%23151515&w:1.25%3B&=&_c=%231e3697%3B&=F2&_x:13.5%3B&=F1&_c=%23151515&w:1.25%3B&=%3B&@_y:-0.25&x:2.25%3B&=&=&=F10&=&_x:5.5%3B&=&=F9&=&=%3B&@_y:-0.75&w:1.25%3B&=&=&_x:13.5%3B&=&_w:1.25%3B&=%3B&@_y:-0.25&x:2.25%3B&=&=&=&_x:7.5%3B&=&=&=%3B&@_y:-0.75&x:1.25%3B&=&_x:13.5%3B&=%3B&@_r:15&rx:5.25&ry:4&x:1.5%3B&=&=%3B&@_x:0.5&h:2%3B&=F11&_h:2%3B&=F12&=%3B&@_x:2.5%3B&=%3B&@_r:-15&rx:12.75&x:-3.5%3B&=&=%3B&@_x:-3.5%3B&=&_c=%23474646&f:3&h:2%3B&=&_c=%23151515&h:2%3B&=Base%3B&@_x:-3.5&f:6%3B&=">Functions</a></h2><br/>
+(in order of frequency: Latin > German, French, Italian > Spanish; presupposing prose mode not code mode)
 
-  <img src="/assets/images/hieam/functions.png"><br/>
+German
+ß eszett			s(	( >> ‘ for these: ‘s, bot diag>top
 
-</div>
+French
+ç c-cedilla		c(
+œ oe ligature		]e ] before rather than [ after avoids SF
+æ ae ligature		]a 
+
+Spanish
+ñ eñe			n(
+¿ inverted ?		?{letter}
+¡ inverted !		!{letter}
+
+You should customize the typing of diacritics for your use case by looking at character frequency. Since most folks have no use for an automatic layer for Greek/Hebrew and also don’t need macrons, .{letter} and {letter}( should be used for different things.
