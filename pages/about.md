@@ -4,15 +4,35 @@ layout: layout
 title: About
 ---
 
-<h1 class="center"> About The Site </h1>
+<h1 class="center"> About</h1>
 
 ## Author
+
+### Basic Information
 
 My name is Steven Tammen and I am an undergraduate student at the University of Georgia studying Latin, Greek, Hebrew, and Classical culture. I am also interested in philology, the ancient Near East, and ancient history in general.
 
 My other pursuits cluster around the theme of practical efficiency -- optimizing objects and processes through systematic study and continuous improvement to make them the best they can be according to the constraints inherent to reality.
 
-## Contact
+### Background
+
+I think it is only fair for authors of websites to disclose enough information about themselves for readers to make informed decisions about whether or not they are trustworthy. Transparency is obviously key for things like conflicts of interest, but because all humans are subject to [cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases), giving some degree of general background is beneficial even in cases where authors feel themselves to be above such things.
+
+In this spirit, here is some relevant information about me:
+
+- I am a white, cis, heterosexual male, and grew up in suburban areas without high degrees of racial or socioeconomic diversity.
+- Both of my parents have Ph.D.'s: one in physics, the other in engineering. I have a sister pursuing doctoral studies in theoretical mathematics.
+- I went through the American public education system from kindergarten to 12th grade. Before high school, I participated in various "gifted" classes; in high school, I took many AP classes. I graduated from a high school of approximately 3500.
+- My family attended protestant churches in my time at home: first a Presbyterian church, then a Methodist church. I do not currently have ties with any Christian denomination, but actively practice a form of Christianity in the conservative evangelical tradition (meaning, among other things, that I view the Bible as divinely inspired truth).
+- Prior to my matriculation at UGA, I spent two years at Georgia Tech studying engineering. In my last semester there, I worked at a small medical consulting firm that provided business services to physicians. Many of my thought patterns are shaped by engineering's analytical approach (i.e., I very often "think like an engineer").
+- I do not put a lot of weight in what the media says because of its well-documented history of systematic bias and distortion of the truth. I try to read multiple points of view for every news event, understanding that the actual truth may not be contained in any of them.
+- I consider myself a skeptic: both of hardcore woo (e.g., ESP, alien abductions) and scientific theories without well-substantiated evidence behind them (my definition of "evidence" is as follows: well-designed double blind experiments that have been peer reviewed and successfully replicated multiple times). I withhold judgement on matters for which there is insufficient evidence to come to a conclusion, even if there is societal or academic consensus on the matter. (Please see: [*argumentum ad populum*](https://en.wikipedia.org/wiki/Argumentum_ad_populum), and [argument from authority](https://en.wikipedia.org/wiki/Argument_from_authority)). Put more succinctly, I trust evidence, not people.
+- I support neither the Republicans nor the Democrats, and find modern politics distasteful in general. In terms of the political spectrum, I consider myself a moderate. While I do not personally participate in politics, I do have views on controversial issues, and will make them known if I believe they might intefere with my objectivity in any given circumstance.
+- I believe that the open source movement and copyleft are important. I do not like knowledge and progress getting locked behind paywalls.
+
+If you think I am being biased in my treatment of something, please tell me *how* I am being biased, being as specific as possible. I am most certainly fallible and willing to be convinced that I am wrong.
+
+### Contact
 
 To allow for selective forwarding and automatic categorization, I have set up several different email addresses for this website. If you could take a few extra seconds to look at the table below and match up your reason for contacting me with the correct email address, it would be greatly appreciated.
 
@@ -37,7 +57,9 @@ To allow for selective forwarding and automatic categorization, I have set up se
   </table>
 <br/>
 
-## Purpose
+## Website
+
+### Purpose
 
 This site exists to
 
@@ -51,11 +73,11 @@ This site does not exist to
 - Make money by locking content behind exclusive mailing lists, paid eBooks, monthly subscriptions, or other things of the sort
 - Make money through advertising or affiliate marketing
 
-## Backend
+### Backend
 
 A concise technical summary of this site's operation may be found in the section of the Readme in the [Github repository](https://github.com/StevenTammen/steventammen.github.io) titled "Technical Overview".
 
-## Publishing In-Progress Pages
+### Publishing In-Progress Pages
 
 I believe in publishing in-progress pages for two reasons: 1) waiting until pages are "finished" before publishing means that they aren't useful to anyone else until the very end of the research and writing process, and 2) I am far from a perfect writer (and my knowledge in many areas is less than complete), so giving other people opportunities to critique my writing from the very beginning of the process will help improve the content more than waiting until some arbitrary point of "good enough for others to see". To use an anology, open source code projects don't wait until their code is "good enough" to push to GitHub, they start open source from the get go, and are better for it. Obviously prose is not code, but the same general logic applies: 
 
@@ -65,15 +87,15 @@ I believe in publishing in-progress pages for two reasons: 1) waiting until page
 4. Optimal quality is a desirable thing that should be pursued
 5. Therefore, policies enabling multiple people to contribute at all stages of the process should be pursued
 
-## Open Source
+### Open Source
 
 As the chain of propositions above shows, I believe that open source projects will generally be of higher quality than non-open source projects. Software has been part of the open source movement for a while now, and hardware is beginning to get there (see: crowdsourced tech startups), but, to my knowledge, there has not been much of a push to opensource *websites themselves*. I find this somewhat puzzling, since open source projects offer so many advantages and so few disadvantages. I have designed this website to be entirely open source, and the content is licensed under open source licenses (see below). Contribution guidelines may be found in the section of the Readme in the [Github repository](https://github.com/StevenTammen/steventammen.github.io) titled "Contribution Guidelines".
 
-## Continuous Improvement
+### Continuous Improvement
 
 I view this site as a perpetual "work in progress" rather than a collection of static documents in an immutable framework. This constant refinement over time is, in my opinion, essential to long-term quality. Changes to individual pages can be tracked by viewing the commit history of their markdown source in the site's [GitHub Repository](https://github.com/StevenTammen/steventammen.github.io). I may clean out the commit history every once in a while if it gets too cluttered, but, for any given page, you'll generally be able to get a pretty good idea of what's happened in the last few commits.
 
-## Copyright and Terms of Use
+### Copyright and Terms of Use
 
 The contents of this site are licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. Any code associated with subprojects is licensed under the <a rel="license" href="http://www.gnu.org/licenses/gpl.html">GNU General Public License v3</a>.
 
