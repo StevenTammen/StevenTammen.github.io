@@ -18,10 +18,10 @@ title: Backpack
    
 </div>
 
-[Backpack: 33L Marathon Magic](http://www.aarnpacks.com/marathon-magics)
-[Balance Pockets: Mountain](http://www.aarnpacks.com/ultralite-balance-pockets)
-[Chest Straps: X-flow Straps](http://www.aarnpacks.com/accessories)
-[Dry Bag: Daypack Dry Liner](http://www.aarnpacks.com/accessories)
+- [Backpack: 33L Marathon Magic](http://www.aarnpacks.com/marathon-magics)
+- [Balance Pockets: Mountain](http://www.aarnpacks.com/ultralite-balance-pockets)
+- [Chest Straps: X-flow Straps](http://www.aarnpacks.com/accessories)
+- [Dry Bag: Daypack Dry Liner](http://www.aarnpacks.com/accessories)
 
 ### Biomechanics
 
