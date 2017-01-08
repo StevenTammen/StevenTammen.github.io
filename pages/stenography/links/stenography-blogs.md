@@ -12,7 +12,7 @@ title: Stenography Blogs
      <img src="https://steventammen.github.io/assets/images/GitHub.png" height="30" width="30">
    </a> &nbsp; &nbsp;
    
-   <a href="http://prose.io/#StevenTammen/steventammen.github.io/edit/master/pages/stenography/links/stenography-blogs" target="_blank">
+   <a href="http://prose.io/#StevenTammen/steventammen.github.io/edit/master/pages/stenography/links/stenography-blogs.md" target="_blank">
      <img src="https://steventammen.github.io/assets/images/Prose.png" height="30" width="30">
    </a>
    
