@@ -22,17 +22,30 @@ I think it is only fair for authors of websites to disclose enough information a
 
 In this spirit, here is some relevant information about me:
 
+**Background**
+
 - I come from a white, upper middle class family, and grew up in suburban areas without high degrees of racial or socioeconomic diversity.
 - Both of my parents have Ph.D.'s: one in physics, the other in engineering. I have a sister pursuing doctoral studies in theoretical mathematics.
 - I went through the American public education system from kindergarten to 12th grade. Before high school, I participated in various "gifted" classes; in high school, I took many AP classes. I graduated from a high school of approximately 3500.
-- My family attended protestant churches in my time at home: first a Presbyterian church, then a Methodist church. I do not currently have ties with any Christian denomination, but actively practice a form of Christianity in the conservative evangelical tradition (meaning, among other things, that I view the Bible as divinely inspired truth).
-- Prior to my matriculation at UGA, I spent two years at Georgia Tech studying engineering. In my last semester there, I worked at a small medical consulting firm that provided business services to physicians. Many of my thought patterns are shaped by engineering's analytical approach (i.e., I very often "think like an engineer").
-- I do not put a lot of weight in what the media says because of its well-documented history of systematic bias and distortion of the truth. I try to read multiple points of view for every news event, understanding that the actual truth may not be contained in any of them.
-- I consider myself a skeptic: both of hardcore woo (e.g., ESP, alien abductions) and scientific theories without well-substantiated evidence behind them. My definition of "evidence" is as follows: well-designed (methodologically, statistically, etc.) experiments that have results that have been peer reviewed and successfully replicated multiple times, preferably by different primary scholars with funding from different sources. I withhold judgement on matters for which there is insufficient evidence to come to a conclusion, even if there is societal or academic consensus. (Please see: [*argumentum ad populum*](https://en.wikipedia.org/wiki/Argumentum_ad_populum), [argument from authority](https://en.wikipedia.org/wiki/Argument_from_authority)). Put more succinctly, I trust evidence, not people.
-- I support neither the Republicans nor the Democrats, and find modern politics distasteful in general (particularly in terms of PR, lobbying, corporate interest groups, and the tendency for regulatory agencies to be rife with conflicts of interest). In terms of the political spectrum, I consider myself a moderate. While I do not personally participate in politics, I do have views on controversial issues, and will make them known if I believe they might intefere with my objectivity in any given circumstance.
-- I believe that the open source movement and copyleft are important. I do not like knowledge and progress getting locked behind paywalls.
+- Prior to my matriculation at the University of Georgia, I spent two years at Georgia Tech studying engineering. In my last semester there, I worked at a small medical consulting firm that provided business services to physicians. Many of my thought patterns are shaped by engineering's analytical approach (i.e., I very often "think like an engineer").
 
-If you think I am being biased in my treatment of something, please tell me *how* I am being biased, so that I can fix things. I am most certainly fallible and willing to be convinced that I am wrong.
+** Religion**
+
+- My family attended protestant churches in my time at home: first a Presbyterian church, then a Methodist church. I do not currently have ties with any Christian denomination, but actively practice a form of Christianity in the conservative evangelical tradition (meaning, among other things, that I view the Bible as divinely inspired truth).
+- I am not much on "organized religion" in general, and think it it has done more harm than good in the history of the world.
+- I disagree with many practices and doctrinal positions of the Church visible. I also disagree with many things that putative Christians have done throughout history (e.g., the Crusades, the Spanish Inquisition).
+
+** Politics **
+
+- I support neither the Republicans nor the Democrats, and find modern politics distasteful in general (particularly in terms of PR, lobbying, corporate interest groups, and the tendency for regulatory agencies to be rife with conflicts of interest). In terms of the political spectrum, I consider myself a moderate. While I do not personally participate in politics, I do have views on controversial issues, and will make them known if I believe they might intefere with my objectivity in any given circumstance.
+
+** Epistemology**
+
+- I am skeptical of hardcore woo (e.g., ESP, alien abductions), religious dogma, and scientific theories without well-substantiated evidence behind them. My definition of "evidence" is as follows: well-designed, methodologically sound experiments that have results that have been peer reviewed and successfully replicated multiple times, preferably by different primary scholars with funding from different sources. I withhold judgment on matters for which there is insufficient evidence to come to a conclusion, even if there is societal or academic consensus. (Please see: [*argumentum ad populum*](https://en.wikipedia.org/wiki/Argumentum_ad_populum), [argument from authority](https://en.wikipedia.org/wiki/Argument_from_authority)). Put more succinctly, I trust evidence, not people.
+- I do not put a lot of weight in what the media says because of its well-documented history of systematic bias and distortion of the truth. I try to read multiple points of view for every news event, understanding that the actual truth may not be contained in any of them.
+- I consider reason and the scientific method (not emotion or subjective experience) to be the primary means of coming to truth in the world. This being said, human thought is subject to many biases and distortions, and should not be trusted without careful verification over time. I do not believe that faith in God and reason are at all mutually contradictory.
+
+If you think I am being biased in my treatment of something, please tell me *how* I am being biased, so that I can fix things. I am most certainly fallible and willing to be convinced that I am wrong. (Note: having an opinion about something does not make me wrong. Bad logic makes me wrong).
 
 ### Contact
 
