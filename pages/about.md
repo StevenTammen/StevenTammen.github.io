@@ -22,7 +22,7 @@ I think it is only fair for authors of websites to disclose enough information a
 
 In this spirit, here is some relevant information about me:
 
-- I am a white, cis, heterosexual male, and grew up in suburban areas without high degrees of racial or socioeconomic diversity.
+- I come from a white, upper middle class family, and grew up in suburban areas without high degrees of racial or socioeconomic diversity.
 - Both of my parents have Ph.D.'s: one in physics, the other in engineering. I have a sister pursuing doctoral studies in theoretical mathematics.
 - I went through the American public education system from kindergarten to 12th grade. Before high school, I participated in various "gifted" classes; in high school, I took many AP classes. I graduated from a high school of approximately 3500.
 - My family attended protestant churches in my time at home: first a Presbyterian church, then a Methodist church. I do not currently have ties with any Christian denomination, but actively practice a form of Christianity in the conservative evangelical tradition (meaning, among other things, that I view the Bible as divinely inspired truth).
