@@ -21,6 +21,7 @@ title: Learning
 ### Reading Material
 
 - [Learn Plover! (Online textbook)](https://sites.google.com/site/ploverdoc/home)
+- [Plover Wiki](http://stenoknight.com/wiki/Main_Page)
 - [Qwertysteno.com](http://qwertysteno.com/Home/)
 - [Step-by-Step Steno Diary](https://docs.google.com/document/d/1fzpb_xWfiXzUo3f1jHkmLVb0pOB7py6gwL0XHyCYewA/edit)
 
