@@ -32,7 +32,7 @@ In this spirit, here is some relevant information about me:
 - I support neither the Republicans nor the Democrats, and find modern politics distasteful in general (particularly in terms of PR, lobbying, corporate interest groups, and the tendency for regulatory agencies to be rife with conflicts of interest). In terms of the political spectrum, I consider myself a moderate. While I do not personally participate in politics, I do have views on controversial issues, and will make them known if I believe they might intefere with my objectivity in any given circumstance.
 - I believe that the open source movement and copyleft are important. I do not like knowledge and progress getting locked behind paywalls.
 
-If you think I am being biased in my treatment of something, please tell me *how* I am being biased, being as specific as possible. I am most certainly fallible and willing to be convinced that I am wrong.
+If you think I am being biased in my treatment of something, please tell me *how* I am being biased, so that I can fix things. I am most certainly fallible and willing to be convinced that I am wrong.
 
 ### Contact
 
