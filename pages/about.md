@@ -36,7 +36,7 @@ If you think I am being biased in my treatment of something, please tell me *how
 
 ### Contact
 
-To allow for selective forwarding and automatic categorization, I have set up several different email addresses. If you could take a few extra seconds to look at the table below and match up your reason for contacting me with the correct email address, it would be greatly appreciated.
+To allow for selective forwarding and automatic categorization, I have several different email addresses. If you could take a few extra seconds to look at the table below and match up your reason for contacting me with the correct email address, it would be greatly appreciated.
 
 <br/>
   <table>
