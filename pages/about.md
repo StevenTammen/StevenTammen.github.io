@@ -43,7 +43,7 @@ In this spirit, here is some relevant information about me:
 
 **Politics**
 
-- I support neither the Republicans nor the Democrats, and find modern politics distasteful in general (particularly in terms of PR, lobbying, corporate interest groups, and the tendency for regulatory agencies to be rife with conflicts of interest). In terms of the political spectrum, I consider myself a moderate. While I do not personally participate in politics, I do have views on controversial issues, and will make them known if I believe they might intefere with my objectivity in any given circumstance.
+- I support no political party, and find modern politics distasteful in general (particularly in terms of PR, lobbying, corporate interest groups, and the tendency for regulatory agencies to be rife with conflicts of interest). In terms of the political spectrum, I consider myself a moderate. While I do not personally participate in politics, I do have views on controversial issues, and will make them known if I believe they might intefere with my objectivity in any given circumstance.
 
 **Epistemology**
 
