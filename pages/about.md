@@ -24,7 +24,7 @@ In this spirit, here is some relevant information about me:
 
 **Conflicts of Interest**
 
-- I make no money from running this site: I do not have advertisements, I do not review things I haven't bought with my own money, and there are no affiliate links on the site.
+- I make no money from running this site: I do not have advertisements, I do not review things I haven't bought with my own money, I do not use affiliate links, and I do not sell anything.
 - I am not closely tied to any organization encouraging me to write in a certain way -- the thoughts contained here are entirely my own.
 - I do not have an ideological axe to grind in any particular area. This site does not exist to convince you to adopt my point of view on a certain issue.
 
