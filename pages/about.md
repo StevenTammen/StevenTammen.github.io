@@ -57,12 +57,9 @@ This site does not exist to
 - Make money by locking content behind exclusive mailing lists, paid eBooks, monthly subscriptions, or other things of the sort
 - Make money through advertising or affiliate marketing
 
-### Writing And Biases
+### Writing and Biases
 
-I do my best to avoid letting personal variables (socioeconmic status, religion, politics, etc.) affect the writing on this site, which I hope to keep as objective as possible. I also do my best to avoid conflicts of interest: 
-
-- I make no money from running this site: I do not have advertisements, I do not review things I have not bought with my own money, I do not use affiliate links, and I do not sell anything.
-- I do not have instutitional or corporate ties influencing me to write in a certain way.
+I do my best to avoid letting personal variables (socioeconmic status, religious views, political views, etc.) affect the writing on this site, which I hope to keep as objective as possible. I also do my best to avoid conflicts of interest: I make no money from running this site (I do not have advertisements, I do not review things I have not bought with my own money, I do not use affiliate links, and I do not sell anything), and I do not have instutitional or corporate ties influencing me to write in a certain way.
 
 If you believe any writing on the site is biased, please tell me so, for I do not wish for this to be the case.
 
