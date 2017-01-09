@@ -18,9 +18,7 @@ More specific information about me can be found in [my CV](https://steventammen.
 
 ### Background
 
-I think it is only fair for authors of websites to disclose enough information about themselves for readers to make informed decisions about whether or not they are trustworthy. Transparency is obviously key for things like conflicts of interest, but because all humans are subject to [cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases), giving some degree of general background is beneficial even in cases where authors feel themselves to be above such things.
-
-In this spirit, here is some relevant information about me:
+I think it is only fair for authors of websites to disclose enough information about themselves for readers to make informed decisions about whether or not they are trustworthy. In this spirit, here is some relevant information about me:
 
 **Conflicts of Interest**
 
@@ -47,11 +45,11 @@ In this spirit, here is some relevant information about me:
 
 **Epistemology**
 
-- I am skeptical of hardcore woo (e.g., ESP, alien abductions), religious dogma, and scientific theories without well-substantiated evidence behind them. My definition of "evidence" is as follows: well-designed, methodologically sound experiments that have results that have been peer reviewed and successfully replicated multiple times, preferably by different primary scholars with funding from different sources. I withhold judgment on matters for which there is insufficient evidence to come to a conclusion, even if there is societal or academic consensus. (Please see: [*argumentum ad populum*](https://en.wikipedia.org/wiki/Argumentum_ad_populum), [argument from authority](https://en.wikipedia.org/wiki/Argument_from_authority)). Put more succinctly, I trust evidence, not people.
+- I am skeptical of pseudoscience (e.g., ESP, alien abductions), religious dogma, and scientific theories without well-substantiated evidence behind them. My definition of "evidence" is as follows: well-designed, methodologically sound experiments that have results that have been peer reviewed and successfully replicated multiple times, preferably by different primary scholars with funding from different sources. I withhold judgment on matters for which there is insufficient evidence to come to a conclusion, even if there is societal or academic consensus. (Please see: [*argumentum ad populum*](https://en.wikipedia.org/wiki/Argumentum_ad_populum), [argument from authority](https://en.wikipedia.org/wiki/Argument_from_authority)). Put more succinctly, I trust evidence, not people.
 - I do not put a lot of weight in what the media says because of its well-documented history of systematic bias and distortion of the truth. I try to read multiple points of view for every news event, understanding that the actual truth may not be contained in any of them.
 - I consider reason and the scientific method (not emotion and subjective experience) to be the primary means of coming to truth in the world. This being said, human thought is subject to many biases and distortions, and should not be trusted without careful verification over time. I do not believe that faith in God and reason are at all mutually contradictory.
 
-If you think I am being biased in my treatment of something, please tell me *how* I am being biased, so that I can fix things. I am most certainly fallible and willing to be convinced that I am wrong. (Note: having an opinion about something does not make me wrong. Bad logic makes me wrong).
+If you think I am being biased in my treatment of something, please tell me *how* I am being biased, so that I can fix things. I am most certainly fallible and willing to be convinced that I am wrong.
 
 ### Contact
 
