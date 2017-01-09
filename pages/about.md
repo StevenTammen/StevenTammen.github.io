@@ -16,41 +16,6 @@ My other pursuits cluster around the theme of practical efficiency -- optimizing
 
 More specific information about me can be found in [my CV](https://steventammen.com/CV.pdf).
 
-### Background
-
-I think it is only fair for authors of websites to disclose enough information about themselves for readers to make informed decisions about whether or not they are trustworthy. In this spirit, here is some relevant information about me:
-
-**Conflicts of Interest**
-
-- I make no money from running this site: I do not have advertisements, I do not review things I haven't bought with my own money, I do not use affiliate links, and I do not sell anything.
-- I am not closely tied to any organization encouraging me to write in a certain way -- the thoughts contained here are entirely my own.
-- I do not have an ideological axe to grind in any particular area. This site does not exist to convince you to adopt my point of view on a certain issue.
-
-**Personal History**
-
-- I come from a white, upper middle class family, and grew up in suburban areas without high degrees of racial or socioeconomic diversity.
-- Both of my parents have Ph.D.'s: one in physics, the other in engineering. I have a sister pursuing doctoral studies in theoretical mathematics.
-- I went through the American public education system from kindergarten to 12th grade. Before high school, I participated in various "gifted" classes; in high school, I took many AP classes. I graduated from a high school of approximately 3500.
-- Prior to my matriculation at the University of Georgia, I spent two years at Georgia Tech studying engineering. In my last semester there, I worked at a small medical consulting firm that provided business services to physicians. Many of my thought patterns are shaped by engineering's analytical approach (i.e., I very often "think like an engineer").
-
-**Religion**
-
-- My family attended protestant churches in my time at home: first a Presbyterian church, then a Methodist church. I do not currently have ties with any Christian denomination, but actively practice a form of Christianity in the conservative evangelical tradition (meaning, among other things, that I view the Bible as divinely inspired truth).
-- I am not much on "organized religion" in general, and think it it has done more harm than good in the history of the world.
-- I disagree with many practices and doctrinal positions of the Church visible. I also disagree with many things that putative Christians have done throughout history (e.g., the Crusades, the Spanish Inquisition).
-
-**Politics**
-
-- I support no political party, and find modern politics distasteful in general (particularly in terms of PR, lobbying, corporate interest groups, and the tendency for regulatory agencies to be rife with conflicts of interest). In terms of the political spectrum, I consider myself a moderate. While I do not personally participate in politics, I do have views on controversial issues, and will make them known if I believe they might intefere with my objectivity in any given circumstance.
-
-**Epistemology**
-
-- I am skeptical of pseudoscience (e.g., parapsychology and ESP), religious dogma, and scientific theories without well-substantiated evidence behind them. My definition of "evidence" is as follows: well-designed, methodologically sound experiments that have results that have been peer reviewed and successfully replicated multiple times, preferably by different primary scholars with funding from different sources. I withhold judgment on matters for which there is insufficient evidence to come to a conclusion, even if there is societal or academic consensus. (Please see: [*argumentum ad populum*](https://en.wikipedia.org/wiki/Argumentum_ad_populum), [argument from authority](https://en.wikipedia.org/wiki/Argument_from_authority)). Put more succinctly, I trust evidence, not people.
-- I do not put a lot of weight in what the media says because of its well-documented history of systematic bias and distortion of the truth. I try to read multiple points of view for every news event, understanding that the actual truth may not be contained in any of them.
-- I consider reason and the scientific method (not emotion and subjective experience) to be the primary means of coming to truth in the world. This being said, human thought is subject to many biases and distortions, and should not be trusted without careful verification over time. I do not believe that faith in God and reason are at all mutually contradictory.
-
-If you think I am being biased in my treatment of something, please tell me *how* I am being biased, so that I can fix things. I am most certainly fallible and willing to be convinced that I am wrong.
-
 ### Contact
 
 To allow for selective forwarding and automatic categorization, I have several different email addresses. If you could take a few extra seconds to look at the table below and match up your reason for contacting me with the correct email address, it would be greatly appreciated.
@@ -91,6 +56,15 @@ This site does not exist to
 - "Market myself"
 - Make money by locking content behind exclusive mailing lists, paid eBooks, monthly subscriptions, or other things of the sort
 - Make money through advertising or affiliate marketing
+
+### Writing And Biases
+
+I do my best to avoid letting personal variables (socioeconmic status, religion, politics, etc.) affect the writing on this site, which I hope to keep as objective as possible. I also do my best to avoid conflicts of interest: 
+
+- I make no money from running this site: I do not have advertisements, I do not review things I have not bought with my own money, I do not use affiliate links, and I do not sell anything.
+- I do not have instutitional or corporate ties influencing me to write in a certain way.
+
+If you believe any writing on the site is biased, please tell me so, for I do not wish for this to be the case.
 
 ### Backend
 
