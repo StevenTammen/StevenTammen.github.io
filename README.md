@@ -13,7 +13,7 @@ Note: All this is liable to change once I get a block of free time to optimize t
 Pages (located in the ["pages" subdirectory](https://github.com/StevenTammen/steventammen.github.io/tree/master/pages)) are written in GitHub flavored markdown, which [Jekyll](https://jekyllrb.com/) then converts to HTML and inserts into the template in the ["_layouts" subdirectory](https://github.com/StevenTammen/steventammen.github.io/tree/master/_layouts).
 
 ### Hosting
-This site is hosted on GitHub Pages in this repository. Because this is a so called "User Pages site" (rather than a project site), it is hosted at steventammen.github.io (rather than steventammen.github.io/project-name).
+This site is hosted on GitHub Pages in this repository. Because this is a so called "user pages site" (rather than a project site), it is hosted at steventammen.github.io (rather than steventammen.github.io/project-name).
 
 ### Custom Domain
 I have opted to use steventammen.com as a custom domain instead of sticking with steventammen.github.io. Because I'm using Cloudflare as my DNS, I have acces to [CNAME flattening](https://blog.cloudflare.com/introducing-cname-flattening-rfc-compliant-cnames-at-a-domains-root/), which basically means I can use this apex domain bare without worrying about changes in GitHub Pages' server IP addresses. I've opted to go the non-www route because I think it looks cleaner and because I have no need of cookie separation on subdomains.
