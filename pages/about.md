@@ -62,7 +62,7 @@ This site does not exist to
 
 I do my best to avoid letting my personal background (race, socioeconomic status, etc.) and personal opinions (religious, political, etc.) affect the writing on this site, which I hope to keep as objective as possible. I also do my best to avoid conflicts of interest: I make no money from running this site, and I do not have instutitional or corporate ties influencing me to write in a certain way.
 
-If you believe any writing on the site is biased, please tell me so, so that I can fix it.
+If you believe any writing on the site is biased, please tell me, so that I can fix it.
 
 ### Backend
 
