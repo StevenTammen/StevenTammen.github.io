@@ -1,18 +1,18 @@
 ---
-permalink: /gear/every-day-carry/notepad/
+permalink: /gear/notepads/
 layout: layout
-title: Notepad
+title: Notepads
 ---
 
 <div class="center">
 
-   <h1>Notepad</h1>
+   <h1>Notepads</h1>
    
-   <a href="https://github.com/StevenTammen/steventammen.github.io/edit/master/pages/gear/every-day-carry/notepad.md" target="_blank">
+   <a href="https://github.com/StevenTammen/steventammen.github.io/edit/master/pages/gear/notepads.md" target="_blank">
      <img src="https://steventammen.github.io/assets/images/GitHub.png" height="30" width="30">
    </a> &nbsp; &nbsp;
    
-   <a href="http://prose.io/#StevenTammen/steventammen.github.io/edit/master/pages/gear/every-day-carry/notepad.md" target="_blank">
+   <a href="http://prose.io/#StevenTammen/steventammen.github.io/edit/master/pages/gear/notepads.md" target="_blank">
      <img src="https://steventammen.github.io/assets/images/Prose.png" height="30" width="30">
    </a>
    
