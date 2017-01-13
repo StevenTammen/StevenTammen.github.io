@@ -55,12 +55,12 @@ title: Water Bottles
 
 ### Silicone
 
--<http://www.healthychild.org/easy-steps/from-bottle-nipples-to-baked-goods-is-silicone-safe/>
--<http://www.foodpackagingforum.org/food-packaging-health/silicones>
--<https://www.ncbi.nlm.nih.gov/pubmed/22575024>
--<https://www.ncbi.nlm.nih.gov/pubmed/19680914>
--<https://www.ncbi.nlm.nih.gov/pubmed/19890756>
--<http://www.tandfonline.com/doi/full/10.1080/19440049.2012.694374?src=recsys>
+-<http://www.healthychild.org/easy-steps/from-bottle-nipples-to-baked-goods-is-silicone-safe/><br/>
+-<http://www.foodpackagingforum.org/food-packaging-health/silicones><br/>
+-<https://www.ncbi.nlm.nih.gov/pubmed/22575024><br/>
+-<https://www.ncbi.nlm.nih.gov/pubmed/19680914><br/>
+-<https://www.ncbi.nlm.nih.gov/pubmed/19890756><br/>
+-<http://www.tandfonline.com/doi/full/10.1080/19440049.2012.694374?src=recsys><br/>
 
 ## Mouth Width
 
@@ -68,9 +68,9 @@ title: Water Bottles
 - Narrower is easier to drink out of when walking, driving, or laying down.
 - If you have an intelligently design lid you can get the advantages of both wide and narrow.
 - Pros/Cons
-   -<https://windmill12.com/2013/08/23/nalgene-bottles-narrow-or-wide-mouth/>
-   -<https://www.reddit.com/r/PKA/comments/1zhvih/what_makes_nalgene_the_superior_water_bottle/>
-   -<https://www.zombiehunters.org/forum/viewtopic.php?t=61607>
-   -<http://www.vftt.org/forums/showthread.php?11390-Narrow-or-Wide-Mouth-Nalgene>
-   -<https://forums.anandtech.com/threads/wide-or-narrow-mouth-nalgene.1366178/>
-   -<http://www.whiteblaze.net/forum/showthread.php/115595-Wide-or-narrow-mouth-bottles-and-why>
+   -<https://windmill12.com/2013/08/23/nalgene-bottles-narrow-or-wide-mouth/><br/>
+   -<https://www.reddit.com/r/PKA/comments/1zhvih/what_makes_nalgene_the_superior_water_bottle/><br/>
+   -<https://www.zombiehunters.org/forum/viewtopic.php?t=61607><br/>
+   -<http://www.vftt.org/forums/showthread.php?11390-Narrow-or-Wide-Mouth-Nalgene><br/>
+   -<https://forums.anandtech.com/threads/wide-or-narrow-mouth-nalgene.1366178/><br/>
+   -<http://www.whiteblaze.net/forum/showthread.php/115595-Wide-or-narrow-mouth-bottles-and-why><br/>
