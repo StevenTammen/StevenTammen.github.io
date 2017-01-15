@@ -18,4 +18,4 @@ title: Pencils
    
 </div>
 
-- Pentel Original Quicker Clicker](http://www.pentel.com/store/quicker-clicker-mechanical-pencil-original-config)
+- [Pentel Original Quicker Clicker](http://www.pentel.com/store/quicker-clicker-mechanical-pencil-original-config)
