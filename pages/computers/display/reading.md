@@ -1,5 +1,5 @@
 ---
-permalink: /computers/display/reading.md
+permalink: /computers/display/reading/
 layout: layout
 title: About
 ---
