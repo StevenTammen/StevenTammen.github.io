@@ -13,3 +13,7 @@ title: In-Progress Pages
 ### Stenography
 
 - [Redesigning The Asterisk Key](https://steventammen.com/stenography/redesigning-the-asterisk-key/)
+
+### Digital Reading
+
+- [Screen Reading](https://steventammen.com/computers/display/reading/)
