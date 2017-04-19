@@ -6,6 +6,10 @@ title: In-Progress Pages
 
 <h1 class="center"> In-Progress Pages </h1>
 
+### Digital Reading
+
+- [Screen Reading](https://steventammen.com/computers/display/reading/)
+
 ### Keyboard Layouts
 
 - [Keyboard Layout Design: The HIEAM Layout](https://steventammen.com/keyboard-layouts/hieam/)
@@ -13,7 +17,3 @@ title: In-Progress Pages
 ### Stenography
 
 - [Redesigning The Asterisk Key](https://steventammen.com/stenography/redesigning-the-asterisk-key/)
-
-### Digital Reading
-
-- [Screen Reading](https://steventammen.com/computers/display/reading/)
