@@ -4,7 +4,7 @@ layout: layout
 title: Reading
 ---
 
-<h1 class="center"> Digital Reading </h1>
+<h1 class="center"> Screen Reading </h1>
 
 ## As Compared to Print and eReaders
 
