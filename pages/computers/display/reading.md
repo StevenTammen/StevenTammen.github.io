@@ -1,7 +1,7 @@
 ---
 permalink: /computers/display/reading/
 layout: layout
-title: Reading
+title: Screen Reading
 ---
 
 <h1 class="center"> Screen Reading </h1>
