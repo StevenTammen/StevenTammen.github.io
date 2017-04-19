@@ -1,7 +1,7 @@
 ---
 permalink: /computers/display/reading/
 layout: layout
-title: About
+title: Reading
 ---
 
 <h1 class="center"> Digital Reading </h1>
