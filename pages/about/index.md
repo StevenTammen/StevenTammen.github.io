@@ -4,7 +4,7 @@ layout: layout
 title: About
 ---
 
-<h1 class="center"> About</h1>
+<h1 class="center">About</h1>
 
 ## Author
 
@@ -62,7 +62,9 @@ This site does not exist to
 
 I do my best to avoid letting my personal background (race, socioeconomic status, etc.) and personal opinions (religious, political, etc.) affect the writing on this site, which I hope to keep as objective as possible. I also do my best to avoid conflicts of interest: I make no money from running this site, and I do not have instutitional or corporate ties influencing me to write in a certain way.
 
-If you believe any writing on the site is biased, please tell me, so that I can fix it.
+Having said this, it is impossible to be truly free of bias, since much of it occurs on a subconscious level. For this reason, I have attempted to outline my [personal background](https://steventammen.com/about/personal-background/), [personal opinions](https://steventammen.com/about/personal-opinions/), and [relevant group ties](https://steventammen.com/about/group-ties/) so that you may read about me and decide for yourself how well I have succeeded in avoiding bias. Something important to note up front: I take my Christianity very seriously, and it has a large impact on my thinking. I have [a separate site](https://chrya.com) dedicated specifically to Christian topics that I use to maintain a division between secular and spiritual writings (so that folks who would rather not read anything overtly religious will not have to work to avoid doing so).
+
+If you believe any writing on the site is truly biased, please tell me, so that I can fix it.
 
 ### Backend
 
