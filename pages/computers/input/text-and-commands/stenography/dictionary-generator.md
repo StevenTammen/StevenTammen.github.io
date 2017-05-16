@@ -1,5 +1,5 @@
 ---
-permalink: /stenography/dictionary-generator/
+permalink: /computers/input/text-and-commands/stenography/dictionary-generator/
 layout: layout
 title: Dictionary Generator
 ---
@@ -8,11 +8,11 @@ title: Dictionary Generator
 
    <h1>Idea: Dictionary Generator</h1>
    
-   <a href="https://github.com/StevenTammen/steventammen.github.io/edit/master/pages/stenography/dictionary-generator.md" target="_blank">
+   <a href="https://github.com/StevenTammen/steventammen.github.io/edit/master/pages/computers/input/text-and-commands/stenography/dictionary-generator.md" target="_blank">
      <img src="https://steventammen.github.io/assets/images/GitHub.png" height="30" width="30">
    </a> &nbsp; &nbsp;
    
-   <a href="http://prose.io/#StevenTammen/steventammen.github.io/edit/master/pages/stenography/dictionary-generator.md" target="_blank">
+   <a href="http://prose.io/#StevenTammen/steventammen.github.io/edit/master/pages/computers/input/text-and-commands/stenography/dictionary-generator.md" target="_blank">
      <img src="https://steventammen.github.io/assets/images/Prose.png" height="30" width="30">
    </a>
    
