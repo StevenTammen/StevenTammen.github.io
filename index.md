@@ -6,8 +6,6 @@ header: Steven Tammen
 
 <h1 class="center"> Home </h1>
 
-<br/>
-
 ## Recently Published
 
 ### Stenography
