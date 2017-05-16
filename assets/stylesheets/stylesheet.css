@@ -233,7 +233,7 @@ body {
 .nav-collapse {
     position: absolute;
     width: 24%;
-    top: 0.5em;
+    top: 2em;
     left: 0
 }
 
@@ -326,7 +326,7 @@ body {
         width: 70px;
         height: 55px;
         float: right;
-        margin: 0.5em -2em 1em 0;
+        margin: 0em -2em 0em 0;
         text-indent: -9999px;
         overflow: hidden;
         background: #333 url("hamburger.gif") no-repeat 50% 33%
