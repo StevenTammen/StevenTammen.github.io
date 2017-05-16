@@ -8,9 +8,9 @@ title: Links
 
 ### Stenography
 
-- [Learning](http://steventammen.com/stenography/links/learning/)
-- [Speed Building](http://steventammen.com/stenography/links/speed-building/)
-- [Open Steno Project](http://steventammen.com/stenography/links/open-steno-project/)
-- [Stenography Blogs](http://steventammen.com/stenography/links/stenography-blogs/)
-- [Theories](http://steventammen.com/stenography/links/theories/)
-- [Machines](http://steventammen.com/stenography/links/machines/)
+- [Learning](http://steventammen.com/computers/input/text-and-commands/stenography/links/learning/)
+- [Speed Building](http://steventammen.com/computers/input/text-and-commands/stenography/links/speed-building/)
+- [Open Steno Project](http://steventammen.com/computers/input/text-and-commands/stenography/links/open-steno-project/)
+- [Stenography Blogs](http://steventammen.com/computers/input/text-and-commands/stenography/links/stenography-blogs/)
+- [Theories](http://steventammen.com/computers/input/text-and-commands/stenography/links/theories/)
+- [Machines](http://steventammen.com/computers/input/text-and-commands/stenography/links/machines/)
