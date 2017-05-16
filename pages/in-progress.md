@@ -8,7 +8,7 @@ title: In-Progress Pages
 
 ### Digital Reading
 
-- [Screen Reading](https://steventammen.com/computers/display/reading/)
+- [Screen Reading](https://steventammen.com/computers/display/screen-reading/)
 
 ### Keyboard Layouts
 
