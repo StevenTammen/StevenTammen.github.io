@@ -16,7 +16,7 @@ Pages (located in the ["pages" subdirectory](https://github.com/StevenTammen/ste
 This site is hosted on GitHub Pages in this repository. Because this is a so called "user pages site" (rather than a project site), it is hosted at steventammen.github.io (rather than steventammen.github.io/project-name).
 
 ### Custom Domain
-I have opted to use steventammen.com as a custom domain instead of sticking with steventammen.github.io. Because I'm using Cloudflare as my DNS, I have acces to [CNAME flattening](https://blog.cloudflare.com/introducing-cname-flattening-rfc-compliant-cnames-at-a-domains-root/), which basically means I can use this apex domain bare without worrying about changes in GitHub Pages' server IP addresses. I've opted to go the non-www route because I think it looks cleaner and because I have no need of cookie separation on subdomains.
+I have opted to use steventammen.com as a custom domain instead of sticking with steventammen.github.io. Because I'm using Cloudflare as my DNS, I have acces to [CNAME flattening](https://blog.cloudflare.com/introducing-cname-flattening-rfc-compliant-cnames-at-a-domains-root/), which basically means I can use this apex domain bare without worrying about changes in GitHub Pages' server IP addresses. I've opted to go the non-www route because it means less typing over time, because it is more legible and speakable, and because I have no need of cookie separation on subdomains.
 
 ### Content Delivery Network (CDN)
 Rather than sticking with Github Pages' CDN ([Fastly](https://www.fastly.com/)), this site uses [Cloudflare's CDN](https://www.cloudflare.com/features-cdn/). One of the main reasons for this is that Cloudflare offers a way to purge the CDN cache when you update pages, while GitHub's implementation of Fastly does not, as far as I can tell. Since I'm careful to individually purge files from the cache when I update them (there's [an API](https://www.cloudflare.com/docs/next/#zone-purge-individual-files-by-url-and-cache-tags)), Cloudflare lets me ensure that the CDN will never send outdated files. This is important because the files on this site tend to get updated a lot. (As to why this is, please see the "Open Source" and "Continuous Improvement" sections of the site's [About Page](https://steventammen.com/about/)).
@@ -50,7 +50,7 @@ I use a Kanban-esque [Waffle.io board](https://waffle.io/StevenTammen/steventamm
 
 Over time, if you take on an active role in development, I'll add you as a collaborator on GitHub, and you'll be able to edit pages and the Waffle.io board directly, with write permissions to the repository.
 
-This is the side of contribution that is structured: everyone works together to achieve planned goals in an orderly fashion.
+This is the side of contribution that is structured: groups of people work together to achieve planned goals in an orderly fashion.
 
 ### Ad Hoc Contributions
 
@@ -61,10 +61,8 @@ Example Content Contributions:
 - Eliminating typos
 - Eliminating unecessary verbosity or denseness of prose
 - Improving phrasing, flow, or pacing
-- Replacing technical jargon and unecessarily large words with more universally understood synonyms
-- Splitting up unecessarily long sentences into forms easier to follow, i.e., simplifying syntax as appropriate
 - Adding visual aids, such as diagrams, to enhance comprehension
-- Expanding vague sections or adding additional support for points, 
+- Expanding vague sections or adding additional support for points 
 - Anything else you think could make the content better
 
 Example Design Contributions:
@@ -93,13 +91,13 @@ For pull requests requiring significant amounts of work, it would be a good idea
 
 ### Benevolent Dictator For Life Powers
 
-Like Python's Guido van Rossum and Vim's Bram Moolenaar, this site has a Benevolent Dictator For Life: me. I enjoy working with other people -- and benefit immensely from constructive criticism and new perspectives -- but ultimately, decisions about the direction of this site come down to me. In particular, this means that I alone will choose:
+I enjoy working with other people -- and benefit immensely from constructive criticism and new perspectives -- but ultimately, decisions about the direction of this site come down to me. In particular, this means that I alone will choose:
 
 1. what gets written about
 2. which improvements find their way into the main repository, and 
 3. how things are shared and licensed
 
-I want to be transparent about this: all contributions to this site are subject to the three statements above. Now, I am perfectly happy to discuss my reasoning for any given decision I make. As a human being, I am subject to many [cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases) that can lead to irrational decisionmaking: sometimes I am wrong. If you think I am wrong, tell me *why*. I can't promise that I'll always change my mind to agree with you, but I can promise that I will give your view as fair a hearing as I can.
+I want to be transparent about this: all contributions to this site are subject to the three statements above. Now, I am perfectly happy to discuss my reasoning for any given decision I make. As a human being, I am subject to many [cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases) that can lead to irrational decision-making, meaning that I am sometimes wrong (just like everybody is from time to time). If you think I am wrong, tell me *why*. I can't promise that I'll always change my mind to agree with you, but I can promise that I will give your view as fair a hearing as I can.
 
 If it works out that there is a writing topic that you are really passionate about but I am not (for whatever reason), or something you think should be changed but I do not (for whatever reason), or work that you did that you don't want to be opensourced under copyleft (for whatever reason), it is better all the way around if you create a site of your own to do things your way (I'd be happy to help and contribute!).
 
@@ -110,4 +108,4 @@ What I envision, in the long run, is a community of people writing about the thi
 The contents of this site are licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. Any code associated with subprojects is licensed under the <a rel="license" href="http://www.gnu.org/licenses/gpl.html">GNU General Public License v3</a>, and will be located elsewhere (i.e., in project repositories separate from this one).
   
 <br/>
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "Creative Commons License")</a> &nbsp; &nbsp; &nbsp; <a rel="license", href="http://www.gnu.org/licenses/gpl.html">![GNU GPLv3 License](http://www.gnu.org/graphics/gplv3-88x31.png "GNU GPLv3 License")</a>
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png", alt="Creative Commons License"></a> &nbsp; &nbsp; &nbsp; <a rel="license", href="http://www.gnu.org/licenses/gpl.html"><img src="http://www.gnu.org/graphics/gplv3-88x31.png" alt="GNU GPLv3 License")></a>
