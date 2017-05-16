@@ -10,4 +10,4 @@ header: Steven Tammen
 
 ### Stenography
 
-- [Programmatically Generating Translation Dictionaries](http://steventammen.com/stenography/dictionary-generator/)
+- [Programmatically Generating Translation Dictionaries](http://steventammen.com/computers/input/text-and-commands/stenography/dictionary-generator/)
