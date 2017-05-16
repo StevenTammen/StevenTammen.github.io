@@ -23,7 +23,7 @@ I do not believe that the earth is ~6000 years old; such a position is not defen
 I believe in organismal adapatation to environmental stressors over time (call this what you will). I do not believe in so-called "molecules to man" evolution:
 
 1. It is impossible to experimentally test its core hypothesis, viz., that life can begin from nothing and turn into humans through the mechanism of natural selection. In much the same way theoretical astrophysics is not testable, evolution is not testable. This doesn't mean that it is not science *per se*, but it does mean that it is categorically different than testable hypotheses, and ought to be treated as such (rather than uncritically accepted).
-2. I have never seen any sort of remotely plausible explanation for abiogenesis and the first DNA/RNA self-repliction. (Lightning making amino acid soup does not abiogenesis prove).
+2. I have never seen any sort of remotely plausible explanation for abiogenesis and the first DNA/RNA self-replication. (Lightning making amino acid soup does not abiogenesis prove).
 3. Uniformitarianism is not a valid presupposition due to overwhelming evidence of mass extinctions.
 4. The so-called ["Genesis Gap"](http://ichthys.com/sr2-copy.htm) between Genesis 1:1 and Genesis 1:2 explains many of evolutionists' critiques of creationism, such as the fossil record and the age of the earth.
 
