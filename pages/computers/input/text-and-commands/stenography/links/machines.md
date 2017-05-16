@@ -1,5 +1,5 @@
 ---
-permalink: /stenography/links/machines/
+permalink: /computers/input/text-and-commands/stenography/links/machines/
 layout: layout
 title: Machines
 ---
@@ -8,11 +8,11 @@ title: Machines
 
    <h1>Machines</h1>
    
-   <a href="https://github.com/StevenTammen/steventammen.github.io/edit/master/pages/stenography/links/machines.md" target="_blank">
+   <a href="https://github.com/StevenTammen/steventammen.github.io/edit/master/pages/computers/input/text-and-commands/stenography/links/machines.md" target="_blank">
      <img src="https://steventammen.github.io/assets/images/GitHub.png" height="30" width="30">
    </a> &nbsp; &nbsp;
    
-   <a href="http://prose.io/#StevenTammen/steventammen.github.io/edit/master/pages/stenography/links/machines.md" target="_blank">
+   <a href="http://prose.io/#StevenTammen/steventammen.github.io/edit/master/pages/computers/input/text-and-commands/stenography/links/machines.md" target="_blank">
      <img src="https://steventammen.github.io/assets/images/Prose.png" height="30" width="30">
    </a>
    
