@@ -193,8 +193,7 @@ body {
 
 .main-content table {
   margin: auto;
-  word-break: normal;
-  word-break: keep-all; 
+  word-break: break all;
 }
 
   .main-content table th {
