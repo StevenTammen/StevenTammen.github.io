@@ -204,6 +204,8 @@ body {
   .main-content table th, .main-content table td {
     padding: 0.5rem 1rem;
     border: 1px solid #999999;
+    min-width: 0;
+    max-width: none;
 }
 
 .main-content dl {
