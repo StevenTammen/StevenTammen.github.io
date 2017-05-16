@@ -12,8 +12,8 @@ title: In-Progress Pages
 
 ### Keyboard Layouts
 
-- [Keyboard Layout Design: The HIEAM Layout](https://steventammen.com/keyboard-layouts/hieam/)
+- [Keyboard Layout Design: The HIEAM Layout](https://steventammen.com/computers/input/text-and-commands/typing/keyboard-layouts/)
 
 ### Stenography
 
-- [Redesigning The Asterisk Key](https://steventammen.com/stenography/redesigning-the-asterisk-key/)
+- [Redesigning The Asterisk Key](https://steventammen.com/computers/input/text-and-commands/stenography/redesigning-the-asterisk-key/)
