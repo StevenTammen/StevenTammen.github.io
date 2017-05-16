@@ -1,12 +1,12 @@
 ---
-permalink: /keyboard-layouts/hieam/
+permalink: /computers/input/text-and-commands/typing/
 layout: layout
-title: HIEAM
+title: Typing Reimagined
 ---
 
 <div class="center">
 
-   <h1>The HIEAM Layout</h1>
+   <h1>Typing Reimagined</h1>
    
    <a href="https://github.com/StevenTammen/steventammen.github.io/edit/master/pages/keyboard-layouts/hieam.md" target="_blank">
      <img src="https://steventammen.github.io/assets/images/GitHub.png" height="30" width="30">
