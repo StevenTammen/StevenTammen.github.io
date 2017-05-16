@@ -8,38 +8,11 @@ title: About
 
 ## Author
 
-### Basic Information
-
 My name is Steven Tammen and I am an undergraduate student at the University of Georgia studying Latin, Greek, Hebrew, and Classical culture. I am also interested in philology, the ancient Near East, and ancient history in general.
 
 My other pursuits cluster around the theme of practical efficiency -- optimizing objects and processes through systematic study and continuous improvement to make them the best they can be according to the constraints inherent to reality.
 
 More specific information about me can be found in [my CV](https://steventammen.com/CV.pdf).
-
-### Contact
-
-To allow for selective forwarding and automatic categorization, I have several different email addresses. If you could take a few extra seconds to look at the table below and match up your reason for contacting me with the correct email address, it would be greatly appreciated.
-
-<br/>
-  <table>
-   <tr>
-    <th>Reason</th>
-    <th>Address</th>
-   </tr>
-   <tr>
-    <td>Professional Matters</td>
-    <td><a href="mailto:steven@steventammen.com">steven@steventammen.com</a></td>
-   </tr>
-   <tr>
-    <td>Content Improvements</td>
-    <td><a href="mailto:content@steventammen.com">edits@steventammen.com</a></td>
-   </tr>
-   <tr>
-    <td>Design Improvements</td>
-    <td><a href="mailto:design@steventammen.com">design@steventammen.com</a></td>
-   </tr>
-  </table>
-<br/>
 
 ## Website
 
