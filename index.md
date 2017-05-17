@@ -8,6 +8,6 @@ header: Steven Tammen
 
 ## Recently Published
 
-### Stenography
+### Computers
 
-- [Programmatically Generating Translation Dictionaries](http://steventammen.com/computers/input/text-and-commands/stenography/dictionary-generator/)
+- [Stenography: Programmatically Generating Translation Dictionaries](http://steventammen.com/computers/input/text-and-commands/stenography/dictionary-generator/)
