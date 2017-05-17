@@ -66,4 +66,4 @@ In short, you may use these materials in any way you see fit so long as you give
 You may find information on best practices for the attribution of Creative Commons works [here](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution).
 
 <br/>
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png", alt="Creative Commons License"></a> &nbsp; &nbsp; &nbsp; <a rel="license", href="http://www.gnu.org/licenses/gpl.html"><img src="http://www.gnu.org/graphics/gplv3-88x31.png" alt="GNU GPLv3 License")></a>
+<a rel="license", href="http://creativecommons.org/licenses/by-sa/4.0/"><img src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png", alt="Creative Commons License"></a> &nbsp; &nbsp; &nbsp; <a rel="license", href="http://www.gnu.org/licenses/gpl.html"><img src="http://www.gnu.org/graphics/gplv3-88x31.png", alt="GNU GPLv3 License")></a>
