@@ -64,3 +64,6 @@ The contents of this site are licensed under the <a rel="license" href="http://c
 In short, you may use these materials in any way you see fit so long as you give attribution where it is due and share any derivative works under the same license(s). Both of these licenses are examples of what is commonly termed "copyleft" -- instead of depriving people of freedom, copyleft maximizes the freedom people have to distribute and modify materials while ensuring that this freedom is preserved. To achieve this, copyleft imposes one and only one restriction (in essence): the limitation of further restriction.
 
 You may find information on best practices for the attribution of Creative Commons works [here](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution).
+
+<br/>
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png", alt="Creative Commons License"></a> &nbsp; &nbsp; &nbsp; <a rel="license", href="http://www.gnu.org/licenses/gpl.html"><img src="http://www.gnu.org/graphics/gplv3-88x31.png" alt="GNU GPLv3 License")></a>
