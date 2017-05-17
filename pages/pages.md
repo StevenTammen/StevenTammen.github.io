@@ -6,7 +6,7 @@ title: Pages
 
 <h1 class="center"> Pages </h1>
 
-### Stenography
+### Computers
 
-- [Programmatically Generating Translation Dictionaries](http://steventammen.com/computers/input/text-and-commands/stenography/dictionary-generator/)
+- [Stenography: Programmatically Generating Translation Dictionaries](http://steventammen.com/computers/input/text-and-commands/stenography/dictionary-generator/)
 
