@@ -197,12 +197,12 @@ body {
 }
 
 .main-content tr:nth-of-type(odd) { 
-  background: #ccc; 
+  background: #e6e6e6; 
 }
 
 th { 
   background: #333; 
-  color: white; 
+  color: #f7f7f7; 
   font-weight: bold; 
 }
 
