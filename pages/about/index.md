@@ -8,9 +8,9 @@ title: About
 
 ### Author
 
-My name is Steven Tammen and I am an undergraduate student at the University of Georgia studying Latin, Greek, Hebrew, and the histories, cultures, and societies of ancient Greece and Rome. I am also interested in philology, the ancient Near East, and ancient history in general.
+My name is Steven Tammen and I am an undergraduate student at the University of Georgia studying Latin, Greek, Hebrew, and classical culture. I am also interested in philology, the ancient Near East, and ancient history in general.
 
-My other pursuits cluster around the theme of practical efficiency -- optimizing things through systematic study and continuous improvement to make them the best they can be according to the constraints inherent to reality.
+My other pursuits cluster around the the attainment of the ideal -- improving things through systematic study and continuous improvement to make them the best they can be according to the constraints inherent to reality.
 
 More specific information about me can be found in [my CV](https://steventammen.com/CV.pdf).
 
@@ -51,11 +51,11 @@ I believe in publishing in-progress pages for two reasons: 1) waiting until page
 
 ### Open Source
 
-As the chain of propositions above shows, I believe that open source projects will generally be of higher quality than non-open source projects. Software has been part of the open source movement for a while now, and hardware is beginning to get there (see: crowdsourced tech startups), but, to my knowledge, there has not been much of a push to opensource *websites themselves*. I find this somewhat puzzling, since open source projects offer so many advantages and so few disadvantages. I have designed this website to be entirely open source, and the content is licensed under open source licenses (see below). Contribution guidelines may be found in the section of the Readme in the [Github repository](https://github.com/StevenTammen/steventammen.github.io) titled "Contribution Guidelines".
+As the chain of propositions above shows, I believe that open source projects will generally be of higher quality than non-open source projects. Software has been part of the open source movement for a while now, and hardware is beginning to get there, but, to my knowledge, there has not been much of a push to opensource *websites themselves*. I find this somewhat puzzling, since open source projects offer so many advantages and so few disadvantages. I have designed this website to be entirely open source, and the content is licensed under open source licenses (see below). Contribution guidelines may be found in the section of the Readme in the [Github repository](https://github.com/StevenTammen/steventammen.github.io) titled "Contribution Guidelines".
 
 ### Continuous Improvement
 
-I view this site as a perpetual "work in progress" rather than a collection of static documents in an immutable framework. This constant refinement over time is, in my opinion, essential to long-term quality. Changes to individual pages can be tracked by viewing the commit history of their markdown source in the site's [GitHub Repository](https://github.com/StevenTammen/steventammen.github.io). I may clean out the commit history every once in a while if it gets too cluttered, but, for any given page, you'll generally be able to get a pretty good idea of what's happened in the last few commits.
+I view this site as a perpetual "work in progress" rather than a collection of static documents in an immutable framework. This constant refinement over time is, in my opinion, essential to long-term quality. Changes to individual pages can be tracked by viewing the commit history of their markdown source in the site's [GitHub repository](https://github.com/StevenTammen/steventammen.github.io). I may clean out the commit history every once in a while if it gets too cluttered, but, for any given page, you'll generally be able to get a pretty good idea of what's happened in the last few commits.
 
 ### Copyright and Terms of Use
 
