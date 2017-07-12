@@ -24,7 +24,7 @@ This site exists to
 
 This site does not exist to
 
-- "Market myself"
+- Market myself
 - Make money by locking content behind exclusive mailing lists, monthly subscriptions, or other things of the sort
 - Make money through advertising or affiliate marketing
 - Make money by selling stuff
@@ -37,7 +37,7 @@ If you believe any writing on the site is truly biased, please tell me, so that 
 
 ### Backend
 
-A concise technical summary of this site's operation may be found in the section of the Readme in the [Github repository](https://github.com/StevenTammen/steventammen.github.io) titled "Technical Overview".
+A concise technical summary of this site's operation may be found in the section of the Readme in the [Github repository](https://github.com/StevenTammen/steventammen.github.io/blob/master/README.md#technical-overview) titled "Technical Overview".
 
 ### Publishing In-Progress Pages
 
