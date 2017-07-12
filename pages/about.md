@@ -55,7 +55,7 @@ As the chain of propositions above shows, I believe that open source projects wi
 
 ### Continuous Improvement
 
-I view this site as a perpetual "work in progress" rather than a collection of static documents in an immutable framework. This constant refinement over time is, in my opinion, essential to long-term quality. Changes to individual pages can be tracked by viewing the commit history of their markdown source in the site's [GitHub repository](https://github.com/StevenTammen/steventammen.github.io). I may clean out the commit history every once in a while when it gets too cluttered, but, for any given page, you'll generally be able to get a pretty good idea of what's happened in the last few commits.
+I view this site as a perpetual "work in progress" rather than a collection of static documents in an immutable framework. This constant refinement over time is, in my opinion, essential to long-term quality. Changes to individual pages can be tracked by viewing the commit history of their markdown source in the site's [GitHub repository](https://github.com/StevenTammen/steventammen.github.io). I may clean out the commit history every once in a while if it gets too cluttered, but, for any given page, you'll generally be able to get a pretty good idea of what's happened in the last few commits.
 
 ### Copyright and Terms of Use
 
