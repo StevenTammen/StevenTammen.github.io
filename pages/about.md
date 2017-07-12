@@ -37,7 +37,7 @@ If you believe any writing on the site is truly biased, please tell me, so that 
 
 ### Backend
 
-A concise technical summary of this site's operation may be found in the ["Technical Overview" section](https://github.com/StevenTammen/steventammen.github.io#technical-overview) of the Readme in this site's [Github repository](https://github.com/StevenTammen/steventammen.github.io/).
+A concise technical summary of this site's operation may be found in the ["Technical Overview" section](https://github.com/StevenTammen/steventammen.github.io#technical-overview) of the Readme in the site's [Github repository](https://github.com/StevenTammen/steventammen.github.io/).
 
 ### Publishing In-Progress Pages
 
@@ -51,7 +51,7 @@ I believe in publishing in-progress pages for two reasons: 1) waiting until page
 
 ### Open Source
 
-As the chain of propositions above shows, I believe that open source projects will generally be of higher quality than non-open source projects. Software has been part of the open source movement for a while now, and hardware is beginning to get there, but, to my knowledge, there has not been much of a push to opensource *websites themselves*. I find this somewhat puzzling, since open source projects offer so many advantages and so few disadvantages. I have designed this website to be entirely open source, and the content is licensed under open source licenses (see below). Contribution guidelines may be found in the ["Contribution Guidelines" section](https://github.com/StevenTammen/steventammen.github.io#contribution-guidelines) of the Readme in this site's [Github repository](https://github.com/StevenTammen/steventammen.github.io).
+As the chain of propositions above shows, I believe that open source projects will generally be of higher quality than non-open source projects. Software has been part of the open source movement for a while now, and hardware is beginning to get there, but, to my knowledge, there has not been much of a push to opensource *websites themselves*. I find this somewhat puzzling, since open source projects offer so many advantages and so few disadvantages. I have designed this website to be entirely open source, and the content is licensed under open source licenses (see below). Contribution guidelines may be found in the ["Contribution Guidelines" section](https://github.com/StevenTammen/steventammen.github.io#contribution-guidelines) of the Readme in the site's [Github repository](https://github.com/StevenTammen/steventammen.github.io).
 
 ### Continuous Improvement
 
