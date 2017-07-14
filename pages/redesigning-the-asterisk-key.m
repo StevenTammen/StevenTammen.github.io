@@ -1,5 +1,5 @@
 ---
-permalink: /computers/input/text-and-commands/stenography/redesigning-the-asterisk-key/
+permalink: /redesigning-the-asterisk-key/
 layout: layout
 title: Redesigning The Asterisk Key
 ---
