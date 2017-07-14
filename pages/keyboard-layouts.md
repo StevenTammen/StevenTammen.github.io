@@ -1,5 +1,5 @@
 ---
-permalink: /computers/input/text-and-commands/typing/keyboard-layouts/
+permalink: /keyboard-layouts/
 layout: layout
 title: Keyboard Layouts
 ---
