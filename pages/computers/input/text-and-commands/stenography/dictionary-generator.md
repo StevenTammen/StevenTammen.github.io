@@ -1,5 +1,5 @@
 ---
-permalink: /computers/input/text-and-commands/stenography/dictionary-generator/
+permalink: /dictionary-generator/
 layout: layout
 title: Dictionary Generator
 ---
