@@ -1,5 +1,5 @@
 ---
-permalink: /computers/display/screen-reading/
+permalink: /screen-reading/
 layout: layout
 title: Screen Reading
 ---
