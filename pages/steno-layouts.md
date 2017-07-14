@@ -1,18 +1,18 @@
 ---
-permalink: /modified-steno-layout/
+permalink: /steno-layouts/
 layout: layout
-title: Modified Steno Layout
+title: Steno Layouts
 ---
 
 <div class="center">
 
-   <h1>Modified Steno Layout</h1>
+   <h1>Steno Layouts</h1>
    
-   <a href="https://github.com/StevenTammen/steventammen.github.io/edit/master/pages/modified-steno-layout.md" target="_blank">
+   <a href="https://github.com/StevenTammen/steventammen.github.io/edit/master/pages/steno-layouts.md" target="_blank">
      <img src="https://steventammen.github.io/assets/images/GitHub.png" height="30" width="30">
    </a> &nbsp; &nbsp;
    
-   <a href="http://prose.io/#StevenTammen/steventammen.github.io/edit/master/pages/modified-steno-layout.md" target="_blank">
+   <a href="http://prose.io/#StevenTammen/steventammen.github.io/edit/master/pages/steno-layouts.md" target="_blank">
      <img src="https://steventammen.github.io/assets/images/Prose.png" height="30" width="30">
    </a>
    
