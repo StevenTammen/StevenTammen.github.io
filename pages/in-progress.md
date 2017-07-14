@@ -8,6 +8,9 @@ title: In-Progress Pages
 
 ### Computers
 
-- [Display: Screen Reading](https://steventammen.com/computers/display/screen-reading/)
-- [Typing: Keyboard Layouts](https://steventammen.com/computers/input/text-and-commands/typing/keyboard-layouts/)
-- [Stenography: Redesigning The Asterisk Key](https://steventammen.com/computers/input/text-and-commands/stenography/redesigning-the-asterisk-key/)
+- [Screen Reading](https://steventammen.com/screen-reading/)
+- [Keyboard Layouts](https://steventammen.com/keyboard-layouts/)
+
+### Stenography
+
+- [Steno Layouts](https://steventammen.com/steno-layouts/)
