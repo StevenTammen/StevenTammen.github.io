@@ -1,18 +1,18 @@
 ---
-permalink: /redesigning-the-asterisk-key/
+permalink: /modified-steno-layout/
 layout: layout
-title: Redesigning The Asterisk Key
+title: Modified Steno Layout
 ---
 
 <div class="center">
 
-   <h1>Redesigning The Asterisk Key</h1>
+   <h1>Modified Steno Layout</h1>
    
-   <a href="https://github.com/StevenTammen/steventammen.github.io/edit/master/pages/computers/input/text-and-commands/stenography/redesigning-the-asterisk-key.md" target="_blank">
+   <a href="https://github.com/StevenTammen/steventammen.github.io/edit/master/pages/modified-steno-layout.md" target="_blank">
      <img src="https://steventammen.github.io/assets/images/GitHub.png" height="30" width="30">
    </a> &nbsp; &nbsp;
    
-   <a href="http://prose.io/#StevenTammen/steventammen.github.io/edit/master/pages/computers/input/text-and-commands/stenography/redesigning-the-asterisk-key.md" target="_blank">
+   <a href="http://prose.io/#StevenTammen/steventammen.github.io/edit/master/pages/modified-steno-layout.md" target="_blank">
      <img src="https://steventammen.github.io/assets/images/Prose.png" height="30" width="30">
    </a>
    
