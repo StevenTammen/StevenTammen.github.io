@@ -34,7 +34,6 @@ Better to have the above unconnected to merino (i.e., not merino inner liner and
 
 Vest instead of jacket: less material on arms is cooler for year round/inside use, vest allows for more uninhibited arm movement and ability to roll up merino sleeves (compromise: give up vest benefits on arms, but gain year round comfort and more free motion). Unlike pants where wear resistance is useful for the full length, wear resistance on the top half of the body is only useful in a few areas: notably, areas that come into contact with surfaces when lying, sitting, or leaning on things, areas that come into contact with straps, and areas exposed to environmental sources of wear like thorns/brambles (hiking), rocks (climbing), etc.
 
-<br/>
   <table>
    <tr>
     <th>Source of Abrasion</th>
@@ -53,6 +52,7 @@ Vest instead of jacket: less material on arms is cooler for year round/inside us
     <td>Whole torso</td>
    </tr>
   </table>
+<br/>
 
 None of these sources of wear really demand arm coverage. Environmental sources of wear are generally avoidable in the arm area: while you often can’t avoid brambles or branches in the leg and torso areas, you can usually move your arms out of the way (by raising them, for example). When climbing, the front of your torso is generally in contact with the rock face, not your arms. There are some circumstances where these observations do not hold true, but they hold true most of the time, particularly in the sorts of circumstances that arise in the urban jungle (instead of the backcountry, e.g.).
 
