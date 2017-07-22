@@ -23,7 +23,16 @@ title: Every Day Carry
 - This page is discussing the former, which includes the latter
 
 ## Components
-
+- Essentials
+   - Wallet
+   - Phone
+   - Plain Edge Folder
+   - Multitool
+   - Flashlight
+   - Bandana
+- Concealed Carry
+   - Glock 19 (with Apex Trigger, Tijicon Red Dot Sight, Crimson Trace Auto-On Weapon-Light, Guide Rod Laser)
+   - Two-clip IWB kydex holster, moderate cant.
 - Keys
   - House Key
   - Car Key
