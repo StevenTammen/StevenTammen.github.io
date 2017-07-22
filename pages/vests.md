@@ -18,6 +18,12 @@ title: Vests
    
 </div>
 
+## Best Option
+
+[Perry Ellis Vest](http://www.ebay.com/itm/122552797379)
+
+Another option: [Vintage Vest](https://www.somelikeitholy.com/lightweight-grey-black-herringbone-four-pocket-waistcoat-p-202.html)
+
 ## Vests and Concealed Carry
 
 A vest/jacket allows better concealment of a firearm than a tucked in undershirt + overshirt because a vest/jacket will cover the clips from the tuck holster on the belt, and since a vest/jacket is loose fitting and not pulled against the firearm from being tucked in, the firearm will not print as much. Having a pattern like herringbone will further hide printing lines.
