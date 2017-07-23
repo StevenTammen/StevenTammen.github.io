@@ -385,3 +385,9 @@ You should customize the typing of diacritics for your use case by looking at ch
 ## Hotstrings/Briefs
 
 KB Briefing: Python script, top 100 or 200 words by freq in english language, use csv file to list word and possible briefs, check possible briefs against Spanish/French/Italian/German/Latin words, use script to match up (non-conflicting) possible briefs to the words that lead to the maximum amount of typing saved.
+
+## AHK Dual Script Modding
+
+- Sending key combinations in combinators
+- Being able to easily toggle how Dual sends keys (send-mode input vs send-mode event).
+- Making it easy to make all keys (even those that are not dual role keys) send their character on key-up rather than key-down. Consistency would make the “lag effect” (which lessens the faster you go) much easier to bear at slower speeds.
