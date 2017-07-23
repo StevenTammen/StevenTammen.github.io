@@ -391,3 +391,8 @@ KB Briefing: Python script, top 100 or 200 words by freq in english language, us
 - Sending key combinations in combinators
 - Being able to easily toggle how Dual sends keys (send-mode input vs send-mode event).
 - Making it easy to make all keys (even those that are not dual role keys) send their character on key-up rather than key-down. Consistency would make the “lag effect” (which lessens the faster you go) much easier to bear at slower speeds.
+- Figure out non-base-layer hotstrings. Also figure out how to send key combinations in key sequences (e.g., Ctrl+Bkspc, Ctrl+Del).
+- Hotstrings for “. o” —> O etc. (auto-capitalize first words of sentences)? Do with foreign letters too?
+- Make shift work with macroned letters etc.
+- Alt lock (for unicode symbols)?
+
