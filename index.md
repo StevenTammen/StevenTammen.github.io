@@ -18,4 +18,5 @@ header: Steven Tammen
 - A split hand, columnar, keyboard (like Dactyl Cave, but slightly modified)
 - Development of an open-source universal electronic publishing standard (for novels, reference books, articles, etc.)
 - Devlopment of an open-source, cross-platform e-reading program, to be used (non-exclusively) with the standard above. Develop API for using the optimally designed reading interface in web pages.
-- Side-actuated capped mechanical pencil
+- Side-actuated mechanical pencil (like old Pentel quicker clicker)
+- Fully waterproof backpack, dynamic straps, outside pockets
