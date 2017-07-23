@@ -8,5 +8,4 @@ title: Pages
 
 ### Stenography
 
-- [Programmatically Generating Translation Dictionaries](http://steventammen.com/dictionary-generator/)
-
+- [Dictionary Generator](http://steventammen.com/dictionary-generator/)
