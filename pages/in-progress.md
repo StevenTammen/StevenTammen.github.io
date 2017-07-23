@@ -8,9 +8,30 @@ title: In-Progress Pages
 
 ### Computers
 
-- [Screen Reading](https://steventammen.com/screen-reading/)
-- [Keyboard Layouts](https://steventammen.com/keyboard-layouts/)
+[Keyboard Layouts](http://steventammen.com/keyboard-layouts/)
+[Screen Reading](http://steventammen.com/screen-reading/)
+
+### Gear
+
+- [Backpacks](http://steventammen.com/backpacks/)
+- [Guns](http://steventammen.com/guns/)
+- [Monitors](http://steventammen.com/monitors/)
+- [Multitools](http://steventammen.com/multitools/)
+- [Pots and Pans](http://steventammen.com/pots-and-pans/)
+- [Vests](http://steventammen.com/vests/)
+- [Watches](http://steventammen.com/watches/)
+
+
+### Gear Collections
+
+- [Clothing](http://steventammen.com/clothing/)
+- [Every Day Carry](http://steventammen.com/every-day-carry/)
+- [Rain Gear](http://steventammen.com/rain-gear/)
 
 ### Stenography
 
-- [Steno Layouts](https://steventammen.com/steno-layouts/)
+- [Steno Layouts](http://steventammen.com/steno-layouts/)
+
+### Writing
+
+[English Letterforms](http://steventammen.com/english-letterforms/)
