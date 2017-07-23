@@ -24,14 +24,14 @@ title: Every Day Carry
 
 ## Components
 - Essentials
-   - Wallet
+   - [Wallet](https://www.amazon.com/gp/product/B01N6AV8PQ/)
    - Phone
-   - Plain Edge Folder
-   - Multitool
-   - Flashlight
-   - Bandana
+   - [Plain Edge Folder](https://www.amazon.com/gp/product/B003X9WKOO/)
+   - [Multitool](https://www.amazon.com/gp/product/B0002T5YNW/)
+   - [Flashlight](https://www.amazon.com/gp/product/B013QHN1CM/)
+   - [Bandana](https://www.amazon.com/gp/product/B00KMAH4IE/)
 - Concealed Carry
-   - Glock 19 (with Apex Trigger, Tijicon Red Dot Sight, Crimson Trace Auto-On Weapon-Light, Guide Rod Laser)
+   - [Glock 19](https://us.glock.com/products/model/g19) (with [Apex Trigger](https://store.apextactical.com/WebDirect/Products/Details/192369), [Trijicon RMR Sight](https://www.trijicon.com/na_en/products/product3.php?pid=RM05G), [Crimson Trace Auto-On Weaponlight](https://www.crimsontrace.com/01-7040), [Guide Rod Laser](http://www.lasermax.com/products/guide-rod-lasers/lms-1131g))
    - Two-clip IWB kydex holster, moderate cant.
 - Keys
   - House Key
