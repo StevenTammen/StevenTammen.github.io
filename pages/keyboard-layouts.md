@@ -381,3 +381,7 @@ Spanish
    - !{letter}
 
 You should customize the typing of diacritics for your use case by looking at character frequency. Since most folks have no use for an automatic layer for Greek/Hebrew and also don’t need macrons, .{letter} and {letter}( should be used for different things.
+
+## Hotstrings/Briefs
+
+KB Briefing: Python script, top 100 or 200 words by freq in english language, use csv file to list word and possible briefs, check possible briefs against Spanish/French/Italian/German/Latin words, use script to match up (non-conflicting) possible briefs to the words that lead to the maximum amount of typing saved.
