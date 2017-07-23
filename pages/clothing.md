@@ -46,3 +46,8 @@ Keep suit wool because of traditional expectations or get modern technical featu
 - reason for cobra rigger’s belt vs CCW leather
 - reason for Crew vs OTC socks (or vice versa?)
 - reason for aviator sunglasses shape (vs other flat geometries)
+- Even if other people’s evaluations weren’t a factor, would high-visibility shirt/pants/backpack be desirable? Certain colors tire the eyes?
+- Color of pants, vest, shirt (printing, shows wetness, heat from sun, hides stains). How baggy should clothing be?
+- Color/material underwear? Socks?
+- Color: psychological factors (look more intelligent, etc.). Actual science behind this?
+- Is there any purpose to shirt collars?
