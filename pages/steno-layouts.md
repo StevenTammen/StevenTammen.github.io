@@ -185,6 +185,8 @@ Left Index Top (H) and Right Index Bot (-R)
 - =
 - \#
 
+
+
 Left Index Bot (R) and Right Index Bot (-R)
 
 - Chord with ^
@@ -197,3 +199,9 @@ Left Index Top (H), Right Index Top (-F), Left Pinky Top (S)
 - Chord With \#
 
 Etc.
+
+## TODO
+
+- Keyboard steno machine combined — best of both worlds or interference with both worlds?
+- Switching on same physical machine between discrete and chorded entry types depending on task — no need for fingerspelling if you have a full keyboard that you can go faster on. Figure out way to switch in and out efficiently.
+- Keyboard-like vim command mode for steno (less overall hand movement, excepting multistage commands like spacemacs commands?), or stroked out (more movement but easier to remember… but to make all commands single stroke still requires some memorization?).
