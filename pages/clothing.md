@@ -40,19 +40,6 @@ title: Clothing
 
 Keep suit wool because of traditional expectations or get modern technical features like DWR, breathbility, quick dry, 4-way stretch, etc.?
 
-## Waterproofing
-
-- Don’t need it when it’s not raining, extra unnecessary material
-  - Additionally, want to be able to take off wet layers after rain ⇒ they should be separate
-  - Additionally, having waterproof/windproof shell separate from thermal layer means that it is more versatile and can be used across a wider temperature range than a single thermal layer that is waterproof/windproof. Argument could be made that it’s one more jacket to carry around for cold, wet situations, but what if it is cold and rainy in the morning and hot and rainy in the afternoon? You’d have to carry around an extra jacket for the hot situation if you only had one thermal layer.
-  - If waterproofing fails you replace a cheaper rain jacket rather than a more expensive thermal insulating one (with down, etc.): idea of separability.
-- Abrasion resistance: better to have stronger materials on outside layer
-  - But don’t want any wet layers of clothing for continual wear after rain, so waterproof layer must go on outside
-    - Would also take longer to put on at rain onset (if layers had to be reshuffled).
-    - Would also get things in pockets wet, if applicable
-- For clothing thermal insulation is important: dry warmth layers insulate better than wet warmth layers. This is a more important consideration than abrasion resistance for clothing, so therefore, waterproof layer on outside for clothing.
-Inherent tradeoff between waterproofing and breathability: wearing waterproofed gear during situations when you don’t need the waterproofing will be hotter than well design breathable/wicking materials not design to be waterproof. Thus, don’t want it unless you need it.
-
 ## TODO
 
 - reason for boots vs Lem’s 9 to 5 dress shoes
