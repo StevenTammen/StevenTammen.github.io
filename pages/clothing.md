@@ -39,3 +39,10 @@ title: Clothing
 ## Business Formal
 
 Keep suit wool because of traditional expectations or get modern technical features like DWR, breathbility, quick dry, 4-way stretch, etc.?
+
+## TODO
+
+- reason for boots vs Lem’s 9 to 5 dress shoes
+- reason for cobra rigger’s belt vs CCW leather
+- reason for Crew vs OTC socks (or vice versa?)
+- reason for aviator sunglasses shape (vs other flat geometries)
