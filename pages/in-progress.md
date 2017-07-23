@@ -8,8 +8,8 @@ title: In-Progress Pages
 
 ### Computers
 
-[Keyboard Layouts](http://steventammen.com/keyboard-layouts/)
-[Screen Reading](http://steventammen.com/screen-reading/)
+- [Keyboard Layouts](http://steventammen.com/keyboard-layouts/)
+- [Screen Reading](http://steventammen.com/screen-reading/)
 
 ### Gear
 
@@ -34,4 +34,4 @@ title: In-Progress Pages
 
 ### Writing
 
-[English Letterforms](http://steventammen.com/english-letterforms/)
+- [English Letterforms](http://steventammen.com/english-letterforms/)
