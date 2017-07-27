@@ -20,7 +20,7 @@ title: Monitors
 
 ## Current Pick
 
-- LG Curved OLED 4K TV
+- [LG Curved OLED 4K TV](https://www.amazon.com/LG-Electronics-OLED55C6P-Curved-55-Inch/dp/B01CDDTZMK/)
 
 ## Basic Gist
 
