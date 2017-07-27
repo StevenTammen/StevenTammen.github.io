@@ -24,7 +24,7 @@ title: Vests
 
 Another option: [Vintage Vest](https://www.somelikeitholy.com/lightweight-grey-black-herringbone-four-pocket-waistcoat-p-202.html)
 
-I haven't found anything particularly close to what I think is optimal, but these appear are the best I know of.
+I haven't found anything particularly close to what I think is optimal, but these are the best I know of.
 
 ## Vests and Concealed Carry
 
