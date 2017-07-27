@@ -66,6 +66,7 @@ title: Every Day Carry
   - [Pen Holder Clip](https://www.amazon.com/gp/product/B0050YP6JG/)
   - [Multipen](https://www.amazon.com/gp/product/B00F9M2QKG/)
   - [Fountain Pen](https://www.amazon.com/gp/product/B001AX7SYW/)
+  - [Mechanical Pencil](http://www.pentel.com/store/quicker-clicker-mechanical-pencil-original-config)
 - First Aid
   - Stuff like [ITS Boo Boo Kit](https://store.itstactical.com/its-boo-boo-kit.html) (expand pill selection).
   - [ITS EDC Trauma Kit](https://store.itstactical.com/its-edc-trauma-kit.html)
