@@ -40,7 +40,7 @@ title: Every Day Carry
   - Work/School key
   - Lockbox Key
   - [Gorilla Tape](https://gearward.com/collections/frontpage/products/keychain-duct-tape)
-  - [Encrypted Flash Drive](https://www.amazon.com/Apricorn-Validated-256-bit-Encryption-ASK3-16GB/dp/B01AJNGF4W/)
+  - [Hardware Encrypted Flash Drive](https://www.amazon.com/Apricorn-Validated-256-bit-Encryption-ASK3-16GB/dp/B01AJNGF4W/)
   - [Yubikey](https://www.amazon.com/Yubico-Y-072-YubiKey-NEO/dp/B00LX8KZZ8/)
   - [Leatherman Squirt](https://www.amazon.com/Leatherman-831195-Squirt-Black-Keychain/dp/B0032Y2OT6/)
   - [Caffiene/L-Theanine Pills](https://www.amazon.com/Caffeine-L-Theanine-Smooth-Energy-Focus/dp/B01921TUGC/) and emergency cash in a 2.6" [Go Tube](https://gearward.com/collections/frontpage/products/go-tube-2-6). (Wrap with GITD tape).
