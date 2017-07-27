@@ -18,12 +18,18 @@ title: Multitools
    
 </div>
 
-## Options
+## Current Picks
 
-LM = [Leatherman Charge TTI](https://www.amazon.com/Leatherman-Charge-Multi-Tool-Stainless-Leather/dp/B019EN7RWC)
+### Compact
+
+[Leatherman Squirt PS4](https://www.amazon.com/Leatherman-831195-Squirt-Black-Keychain/dp/B0032Y2OT6/)
+
+### Full size
+
+LM = [Leatherman Charge TTI](https://www.amazon.com/Leatherman-Charge-Multi-Tool-Stainless-Leather/dp/B019EN7RWC) <br/>
 Vic = [Victorinox SwissTool Spirit](https://www.amazon.com/gp/product/B0002T5YNW/)
 
-## LM Pros
+### LM Pros
 
 - one-hand opening blades
 - S30v steel
@@ -34,12 +40,12 @@ Vic = [Victorinox SwissTool Spirit](https://www.amazon.com/gp/product/B0002T5YNW
 - better wire cutters
 - a pocket clip that is one of the best available on any pocket knife.
 
-## LM Cons
+### LM Possible Improvements
 
-- Have to open to get to smaller tools
-- Stubby bit drivers, no shank to get into places
+- Make smaller tools accessible without opening
+- Make bit drivers less stubby, ability to get into tighter places
 
-## Vic Pros
+### Vic Pros
 
 - All tools accessible from outside
 - All tools lock
@@ -47,14 +53,14 @@ Vic = [Victorinox SwissTool Spirit](https://www.amazon.com/gp/product/B0002T5YNW
 - Handle design very good for pliers ergonomically, doesn’t really inhibit use of other tools
 - Rounded edges comfortable to hold
 
-## Vic improvements
+### Vic Possible Improvements
 
-- Don’t rivet together, screws
+- Don’t rivet together, use something that can be lossened/tightened/taken apart/replaced
 - Slightly narrower pliers
 - Let pliers open little wider
 - Cutting hook
 - Diamond coated file + more medium coarse on wood/metal side
-- Improve grip of surface (not necessarily bead blasted — corrosion factors — but more grippable texture)
+- Improve grip of surface (not necessarily bead blasted — because of corrosion factors — but more grippable texture)
 - Switch scissors around to be able to cut nails
 - Make scissors openable to be able to sharpen
 - One hand opening serrated knife, some way to get it open even when cold
@@ -63,5 +69,32 @@ Vic = [Victorinox SwissTool Spirit](https://www.amazon.com/gp/product/B0002T5YNW
 - Removable wire cutter inserts (resharpen)
 - Ruler on side
 - Squared off (rather than rounded off) screwdrivers, harder steel (won’t strip as easily)
-- Doesn’t matter: pocket clip
-- Torx screw it together, make it replaceable
+-  Ability to have pocket clip
+
+## Multitools' Role in EDC
+
+- Multitools fulfill all the main tool duties not covered by a plain edge knife (which is kept searate for more ergonomic grip/controllability)
+- A compact can be carried on the keychain and should contain all of your "essential" tool functions. It should also contained a smaller plain edge knife to use for specialized tasks for which a bigger blade would be undesirable (particularly if you have a larger utility blade like a PM2 or Mini-Griptilian). I always carry my compact, even when carrying a full size multitool and plain edge knife. This is because of the aforementioned smaller plain edge, and the fact that having duplicates of some of the essential tools can come in extremely handy sometimes (particularly pliers and drivers). Additionally, you may encounter some situations in which you can give your compact to friend/colleague to effectively double the rate at which you do a job (like tightening bolts, for example).
+- A full size should carry all of the tools that you will actually have use for. It's best for your full size to have the essentials as well as your compact -- not for the purpose of gear "backups" (which are completely unecessary for EDC, statistically speaking -- survival is another matter), but because a full size will have beefier versions better suited for different tasks than the smaller compact versions. For example, I use the pliers, scissors, files, and bottle openers on my full size and compact multitools in different ways -- so they are in no way "duplicate tools". (See above for duplicating drivers).
+- Essential multitool tools, in my opinion (in no particular order)
+   - Needlenose Pliers
+   - Regular (i.e., Rounded) Pliers
+   - Wirecutters
+   - Knife (plain edge for compact, serrated blade for full size)
+   - Scissors
+   - Medium Flathead Driver
+   - Medium Phillips Driver (can be 2D on compact multitools if necessary)
+   - Wood/Metal File (preferably diamond coated)
+   - Bottle opener (vertical prying tool)
+- I would include an awl in this essential list, but almost all day-to-day awl tasks can be accomplished with a well-designed drop point knife tip (which is strong enough to take some torsional force without snapping). I don't usually need to make holes in harder materials like wood or tough plastic like ABS or PMMA (which would demand a real awl). Similarly, a file (particularly if made out of a good steel or coated with diamond) can sub in for a saw in most saw tasks encountered day-to-day. YMMV -- try to find a compact with an awl and a saw if you really think you need them. These are the only other tools that I would consider putting in the essential category, as all the tools below are much more specialized, and used significantly less frequently. (Also worth mentioning: I consider a light horizontal prying tool essential as well, but a flathead driver always doubles as this, so I don't list it separately. It's best to have two differet widths for prying -- like most SAKs and multitools do -- but this is not strictly essential).
+- Other useful multitool tools, in my opinion (in no particular order)
+   - Awl/Reamer
+   - Wood Saw
+   - Metal Saw
+   - Larger Flathead sizes
+   - Chisel
+   - Can opener
+   - Carrying Hook (for pulling twine, distrbuting load weight, etc.)
+   - Cutting Hook (for cutting things without the fear of scoring them like you might wth a knife -- more important to have if you don't carry a small plain edge, but useful even if you do just to be sure)
+   - Wire Stripping/Scraping Tool (See SwissTool Spirit)
+- Some people think bit-drivers are the best thing since sliced bread, but for an EDC multitool, they don't make very much sense (since you only commonly need a medium phillips and small/medium/large flatheads). A socket/driver combination tool ([example](https://www.amazon.com/gp/product/B00327HT5W/)) makes way more sense.
