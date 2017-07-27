@@ -91,10 +91,10 @@ Vic = [Victorinox SwissTool Spirit](https://www.amazon.com/gp/product/B0002T5YNW
    - Awl/Reamer
    - Wood Saw
    - Metal Saw
-   - Larger Flathead sizes
+   - Larger/smaller Flathead sizes
    - Chisel
    - Can opener
-   - Carrying Hook (for pulling twine, distrbuting load weight, etc.)
+   - Carrying Hook (for pulling twine, distributing load weight, etc.)
    - Cutting Hook (for cutting things without the fear of scoring them like you might wth a knife -- more important to have if you don't carry a small plain edge, but useful even if you do just to be sure)
    - Wire Stripping/Scraping Tool (See SwissTool Spirit)
 - Some people think bit-drivers are the best thing since sliced bread, but for an EDC multitool, they don't make very much sense (since you only commonly need a medium phillips and small/medium/large flatheads). A socket/driver combination tool ([example](https://www.amazon.com/gp/product/B00327HT5W/)) makes way more sense.
