@@ -18,21 +18,25 @@ title: English Letterforms
    
 </div>
 
+## Cursive vs Print
+
+- Because everything in print uses uses print letterforms, in our day and age, we are more accustomed to *reading* print letters than cursive letters. (TODO: Link Study)
+- Just think about it logically: if most of what we read uses print letterforms, it just makes intuitive sense that we will be more used to reading them, and therefore faster and better at recognizing them. (I.e., they will be more legible to us).
+- Due to the nature of writing, we generally read the things we have written more than once. Therefore, within reason, it is more important to optimize for legibility/readability than writing speed.
+   - The one exception to this general principle is for those who must frequently handwrite things at high speed for whatever reason. (Practiced typists can get up to 100 WPM and practiced stenographers up to 225... practiced handwriting maxes out around 30, leading one to ask why you are doing it anyway). In this case, it might be better to sacrifice legibility/readability for speed (which generally means connecting more and using letterforms with less strokes but reduced recognizability). Gregg shorthand or an extensive personal briefing system for fast scenarios + the letterforms shared below for everything else would make even more sense, however. (In my opinion).
+- However, strict printing is slower than connected forms since it requires frequent lifts and drops -- which add time, however little it might be. For this reason, it makes the most sense to design a writing system that is essentially "connected print" -- connecting all the letters that it makes sense to, while leaving those that significantly reduce legibility unconnected. This might sacrifice a little bit of readability/legibility, but will gain speed and fluidity of writing.
+
+
+
 ## Basic Design Methodology
 
-1. Compare letterforms from various writing styles:
-  - Regular print
-  - D’Nealian Cursive (“regular cursive”)
-  - Spencerian
-  - Copperplate
+1. Come up with different variants of regular print letterforms
 2. Evaluate forms based on
   a) Travel distance (“ink consumed”)
   b) Number of distinct direction changes (corners/180 degree turns/“direction-changing loops” rather than wide loops)
-  c) Ending position at bottom
-  d) Distinguishability from other letters/letter combinations
-  e) Broad detail vs. fine detail (broad detail is better for faster speeds/enables faster speeds)
+  c) Distinguishability from other letters/letter combinations
+  d) Broad detail vs. fine detail (broad detail is better for faster speeds/enables faster speeds)
 3. Pick the best form
-4. For forms where either a connected print form or a cursive form can be improved through a redesign, do so. Make sure that the new form is easily identifiable as the letter it represents.
 
 
 ## TODO

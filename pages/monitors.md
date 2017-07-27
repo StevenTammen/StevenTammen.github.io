@@ -18,6 +18,16 @@ title: Monitors
    
 </div>
 
+## Current Pick
+
+- LG Curved OLED 4K TV
+
+## Size and Resolution
+
+- Increased screen size without matching increases in resolution has diminishing returns. While a bigger screen will make reading easier, it also means more required travel for your eyes: your eyes have to move a greater distance to read an equivalent amount of text.
+   - For this reason it is probably best to keep 1080p monitors at or under ~27"
+- The increased readability enables you to put two windows side by side, which can increase work efficiency significantly.
+
 ## Computer Desktop
 
 - Black saves power with OLED displays: only turn on pixels that are actually being used

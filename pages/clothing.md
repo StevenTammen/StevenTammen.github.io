@@ -53,4 +53,4 @@ Keep suit wool because of traditional expectations or get modern technical featu
 - Is there any purpose to shirt collars?
 - Tencel Research
    - Surface of tencel hydrophilic or hydrophobic, how this affects feeling against skin
-   - Hygroscopic — measure of water absorption (look at Lenzing lit.: wool absorb more vapor than Tencel)
+   - Hygroscopic — measure of water absorption (look at Lenzing lit.: wool absorbs more vapor than Tencel)

@@ -46,7 +46,7 @@ title: Backpacks
    - Retroreflective panels
    - External watter bottle holders
    - External zipper pockets
-   - Slight degree of internal organization
+   - Slight degree of internal organization, but not too much
    - Aerodynamic
    - Zipper closure (rather than roll-top): allows for further opening of pack and easier access
    - Light colored interior: makes finding things easier
@@ -55,4 +55,5 @@ title: Backpacks
    - Easy to clean
    - Durable
    - Carrying handle
-   - Hooks to hang things (though not too many)
+   - Hooks/rings to hang things (though not too many)
+   - Bike light attachment
