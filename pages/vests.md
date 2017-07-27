@@ -18,11 +18,13 @@ title: Vests
    
 </div>
 
-## Best Option
+## Current Pick
 
 [Perry Ellis Vest](http://www.ebay.com/itm/122552797379)
 
 Another option: [Vintage Vest](https://www.somelikeitholy.com/lightweight-grey-black-herringbone-four-pocket-waistcoat-p-202.html)
+
+I haven't found anything particularly close to what I think is optimal, but these appear are the best I know of.
 
 ## Vests and Concealed Carry
 
