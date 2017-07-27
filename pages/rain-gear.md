@@ -36,26 +36,26 @@ Inherent tradeoff between waterproofing and breathability: wearing waterproofed 
 Rain jacket + rain pants most efficient rain gear if backpacks are waterproof: don’t obstruct movement/ flap about (ponchos) or require a hand to use/get messed up by wind (umbrellas).
 
 -Jackets (how effective is DWR?)
-  -Shell is better
-  -Don’t need extra material most of the time
-  -Can get rid of wet outer layer when not in rain/coming inside
-  -Replaceable without replacing warmth later; separation of features
-  -Don’t need to maintain DWR and use chemicals
+   -Shell is better
+   -Don’t need extra material most of the time
+   -Can get rid of wet outer layer when not in rain/coming inside
+   -Replaceable without replacing warmth later; separation of features
+   -Don’t need to maintain DWR and use chemicals
 -Waterproof jacket/pants better than umbrella
-  -Full coverage; legs/feet stay dryer
-  -Not affected by wind or rain at an angle
-  -Keeps hands free
+   -Full coverage; legs/feet stay dryer
+   -Not affected by wind or rain at an angle
+   -Keeps hands free
 -Waterproof jacket/pants better than poncho
-  -Can replace one component without replacing other; separation of features
-  -No extra material to flap about in wind or get caught on things
-  -Full leg coverage instead of partial (depending on poncho type)
-  -Disadvantage: may not be able to use jacket/pants as a tarp like you could with a poncho
+   -Can replace one component without replacing other; separation of features
+   -No extra material to flap about in wind or get caught on things
+   -Full leg coverage instead of partial (depending on poncho type)
+   -Disadvantage: may not be able to use jacket/pants as a tarp like you could with a poncho
 -Better to keep pack waterproofing separate from jacket
-  -What happens if you don’t need backpack but need the jacket? Extra material would get in the way.
+   -What happens if you don’t need backpack but need the jacket? Extra material would get in the way.
 -Pack covers insufficient
-  -Pack cover doesn’t protect inside contents from as many circumstances as a good dry-liner.
-    -Heavy rain coming in between spaces between pack cover and back/straps/etc.
-    -Pack falls into water (puddle, river, etc.)
+   -Pack cover doesn’t protect inside contents from as many circumstances as a good dry-liner.
+      -Heavy rain coming in between spaces between pack cover and back/straps/etc.
+      -Pack falls into water (puddle, river, etc.)
 -Internal dry liner vs external waterproofing
-  -Problem of making openings watertight??? Tivi Zippers?
-  -Hassle of messing with interior dry bag vs just one zipper?
+   -Problem of making openings watertight??? Tivi Zippers?
+   -Hassle of messing with interior dry bag vs just one zipper?
