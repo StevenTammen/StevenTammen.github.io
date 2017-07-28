@@ -136,9 +136,7 @@ Not being able to touch-type QWERTY means your productivity will take a hit when
 
 ### The Animosity of Others
 
-Unfortunately, even if you throw off the shackles of tradition and inefficiency, the rest of the world is not likely to do it with you. Plato describes this unpalatable state of affairs in his [Allegory of the Cave](https://en.wikipedia.org/wiki/Allegory_of_the_Cave). To paraphrase:
-
-> Once you’ve been dragged into the light, you want to go enlighten the rest of the world. But the rest of the world doesn’t want to be enlightened; they prefer darkness to light, shadows to reality. In fact, when you try to go enlighten the rest of the world, they get defensive and try to reason with you using “cave-logic”, which you are no longer well versed in. They find you silly, call you names, and live their whole lives wasting away in darkness.
+Unfortunately, even if you throw off the shackles of tradition and inefficiency, the rest of the world is not likely to do it with you. 
 
 For some inexplicable reason, people get rabid, foaming-at-the-mouth crazy in their defense of QWERTY. My best guess is that this is because your superior efficiency is a direct challenge to their self-perception as competent, effective workers. It's also possible that their defensiveness is a manifestation of the [sunk cost fallacy](https://en.wikipedia.org/wiki/Sunk_cost#Loss_aversion_and_the_sunk_cost_fallacy): having spent a significant amount of time learning to touch-type QWERTY, they don't want to admit that they picked a bad layout. There is also likely a degree of [choice-supportive bias](https://en.wikipedia.org/wiki/Choice-supportive_bias): similar to how people evangelize the make and model of the new car they bought to help convince themselves it was worth it, people are more likely to evangelize QWERTY after deciding to make it their keyboard layout.
 
