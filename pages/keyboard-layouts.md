@@ -138,13 +138,11 @@ Not being able to touch-type QWERTY means your productivity will take a hit when
 
 Unfortunately, even if you throw off the shackles of tradition and inefficiency, the rest of the world is not likely to do it with you. Plato describes this unpalatable state of affairs in his [Allegory of the Cave](https://en.wikipedia.org/wiki/Allegory_of_the_Cave). To paraphrase:
 
-<br/>
 > Once you’ve been dragged into the light, you want to go enlighten the rest of the world. But the rest of the world doesn’t want to be enlightened; they prefer darkness to light, shadows to reality. In fact, when you try to go enlighten the rest of the world, they get defensive and try to reason with you using “cave-logic”, which you are no longer well versed in. They find you silly, call you names, and live their whole lives wasting away in darkness.
-<br/>
 
 If you are not the type of person that's cool taking heat for being different, you're going to want to take that into account. For some inexplicable reason, people get rabid, foaming-at-the-mouth crazy in their defense of QWERTY. My best guess is that this is because your superior efficiency is a direct challenge to their self-perception as competent, effective workers. It's also possible that their defensiveness is a manifestation of the [sunk cost fallacy](https://en.wikipedia.org/wiki/Sunk_cost#Loss_aversion_and_the_sunk_cost_fallacy): having spent a significant amount of time learning to touch-type QWERTY, they don't want to admit that they picked a bad layout. (Cf. also the phenomenon of people evangelizing the new car they bought to help convince themselves it was worth it).
 
-I've found arguing with people is pretty pointless. If someone doesn't want to be more efficient, that's their call, not yours. It also helps if you don't go around gleefully pointing out how inefficient QWERTY is and how much better your layout is.
+It helps if you don't go around gleefully pointing out how inefficient QWERTY is and how much better your layout is.
 
 ### Most Speed Considerations Are Layout Agnostic
 
@@ -164,7 +162,7 @@ To extend this concept even further, you should drill with [this repo](https://g
 
 If you really want to ramp up the speed, you should use text expansion to abbreviate at least the first couple hundred most common words and phrases in English, making, for example, “the” just “t”, “I want to” just “iwt”, and so on. By doing this alone, you can cut down on how many keys you have to physically press down by a huge percentage (at least for prose). You can actually do the same thing for common code constructs (e.g., the basic syntax of a for loop in Python), email signatures, and really anything else you can think of. Since I’m on Windows, I personally use AutoHotkey for this purpose, but there are plenty of options for this sort of thing.
 
-Just like normal typing, you’ll need to practice this intentionally to get results, retraining your hands to type “t” every time your brain thinks “the”. You’ll also want to create a “theory” for your abbreviations, and come up with some patterns to reuse as your list grows (e.g., using consistent letter sequences for phrase enders — “iwt” for “I want to”, “hwt” for “he wants to”, “swt” for “she wants to”, etc.). A working knowledge of a brief-heavy stenographic theory will help you here (see stenography).
+Just like normal typing, you’ll need to practice this intentionally to get results, retraining your hands to type “t” every time your brain thinks “the”. You’ll also want to create a “theory” for your abbreviations, and come up with some patterns to reuse as your list grows (e.g., using consistent letter sequences for phrase enders — “iwt” for “I want to”, “hwt” for “he wants to”, “swt” for “she wants to”, etc.). A working knowledge of a brief-heavy stenographic theory will help you here.
 
 #### Modal Text Editing
 
