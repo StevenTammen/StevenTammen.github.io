@@ -8,8 +8,8 @@ header: Steven Tammen
 
 ## Recent Activity
 
-7/23/17   Added rough start for many pages
-7/27/17   Updated most in progress pages.
+7/23/17   Added rough start for many pages <br/>
+7/27/17   Updated most in progress pages
 
 ## Worthy Projects (TODO: explain. Email if interested.)
 
