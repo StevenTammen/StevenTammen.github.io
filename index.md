@@ -9,8 +9,9 @@ header: Steven Tammen
 ## Recent Activity
 
 7/23/17   Added rough start for many pages
+7/27/17   Updated most in progress pages.
 
-## Worthy Projects (TODO: explain)
+## Worthy Projects (TODO: explain. Email if interested.)
 
 - Python extension for Plover allowing for keyboard remapping, hotstrings, layers, and so forth
 - Python extension for Plover allowing for efficient dictionary editing
