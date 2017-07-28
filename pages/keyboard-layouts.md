@@ -93,7 +93,7 @@ title: Keyboard Layouts
 
 </div>
 
- ## Pre-optimization Considerations
+## Pre-optimization Considerations
 
 Before you spend time optimizing the character layout of your keyboard, you need to first make sure that you have an ergonomic keyboard, and that your work environment is setup properly. Failing to account for these things (which are really more important), no matter how good your character layout ends up being, will put you at a much higher risk for RSI and CTS.
 
@@ -174,7 +174,7 @@ You can create layers for numbers and symbols (putting them on the home row or a
 
 Most speed considerations are layout agnostic. If you are already a sufficiently fast typist with another layout, the opportunity cost of retraining may be better spent beefing up your current toolkit and optimizing other parts of your typeflow. No matter what you do, dedicated *intentional* practice can significantly improve your typing, and you shouldn’t switch without first considering if it is really the most rational decision under your circumstances. For the reasons why you *should* switch, read on.
 
-## TODO Reasons to Switch
+## TODO: Reasons to Switch
 
 ## Outline of Optimization
 
