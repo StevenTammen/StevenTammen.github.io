@@ -213,6 +213,8 @@ Etc.
 
 ## Mouse Mode
 
+   <a href="http://www.keyboard-layout-editor.com/##@@_y:0.25&a:7&f:4&h:1.5%3B&=&_h:1.5%3B&=Scroll%20Lock&_h:1.5%3B&=Tri-%20Warp&_h:1.5%3B&=Accel.%0A%0A%0A%0AFast&_h:1.5%3B&=Max&_f:9&h:1.5%3B&=&_x:1&h:1.5%3B&=&_f:4&h:1.5%3B&=Center%20Warp&_h:1.5%3B&=Up%0A%0A%0A%0ATop%20Lft&_h:1.5%3B&=Exit%20Mode&_h:1.5%3B&=&_h:1.5%3B&=%3B&@_y:0.5&h:1.5%3B&=&_h:1.5%3B&=Axis%20Lock&_h:1.5%3B&=Warp&_h:1.5%3B&=Decel.%0A%0A%0A%0ASlow&_h:1.5%3B&=Min&_f:9&h:1.5%3B&=&_x:1&h:1.5%3B&=&_f:4&h:1.5%3B&=Left%0A%0A%0A%0ABot%20Lft&_h:1.5%3B&=Down%0A%0A%0A%0ABot%20Rt&_h:1.5%3B&=Right%0A%0A%0A%0ATop%20Rt&_f:9&h:1.5%3B&=&_f:4&h:1.5%3B&=%3B&@_y:1&x:4&h:1.5%3B&=Quad%20Mod&_h:1.5%3B&=Macro%0A%0A%0A%0ARecord&_x:1&h:1.5%3B&=Left%20Click&_h:1.5%3B&=Right%20Click"></a>
+
 - Rough guide. Switch around order of commands based on frequency.
 
 ## TODO
