@@ -208,7 +208,7 @@ Etc.
 
 </div>
 
-- Have strokes for intermediate operators and characters: `+, `-, `*, `/, :, en-dash. Stroke introduces character and re-enters num mode.
+- Have strokes for intermediate operators and characters: \+, \-, \*, \/, :, en-dash. Stroke introduces character and re-enters num mode.
 - Have strokes that add two zeroes (hundreds), three zeroes (thousands), etc. Also have stroke that adds commas to the previous number (e.g., 5450.30 --> 5,450.30).
 
 ## Mouse Mode
