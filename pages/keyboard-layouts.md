@@ -136,11 +136,11 @@ Not being able to touch-type QWERTY means your productivity will take a hit when
 
 ### The Animosity of Others
 
-Unfortunately, even if you throw off the shackles of tradition and inefficiency, the rest of the world is not likely to do it with you. 
-
-For some inexplicable reason, people get rabid, foaming-at-the-mouth crazy in their defense of QWERTY. My best guess is that this is because your superior efficiency is a direct challenge to their self-perception as competent, effective workers. It's also possible that their defensiveness is a manifestation of the [sunk cost fallacy](https://en.wikipedia.org/wiki/Sunk_cost#Loss_aversion_and_the_sunk_cost_fallacy): having spent a significant amount of time learning to touch-type QWERTY, they don't want to admit that they picked a bad layout. There is also likely a degree of [choice-supportive bias](https://en.wikipedia.org/wiki/Choice-supportive_bias): similar to how people evangelize the make and model of the new car they bought to help convince themselves it was worth it, people are more likely to evangelize QWERTY after deciding to make it their keyboard layout.
+For some inexplicable reason, some people get rabid, foaming-at-the-mouth crazy in their defense of QWERTY. My best guess is that this is because your superior efficiency is a direct challenge to their self-perception as competent, effective workers. It's also possible that their defensiveness is a manifestation of the [sunk cost fallacy](https://en.wikipedia.org/wiki/Sunk_cost#Loss_aversion_and_the_sunk_cost_fallacy): having spent a significant amount of time learning to touch-type QWERTY, they don't want to admit that they picked a bad layout. There is also likely a degree of [choice-supportive bias](https://en.wikipedia.org/wiki/Choice-supportive_bias): similar to how people evangelize the make and model of the new car they bought to help convince themselves it was worth it, people are more likely to evangelize QWERTY after deciding to make it their keyboard layout.
 
 Whatever their motivations, people will frequently challenge your decision to use a layout other than QWERTY. If you are not the type of person that's cool taking heat for being different or constantly having to explain yourself, you may want to think twice about using a layout other than QWERTY.
+
+(Note: you will encounter a larger group of people that is not actively antogonistic but merely confused as to why you find using another layout necessary or prudent. By and large, people in this group are happy shrugging and letting you do your thing if that's what you want -- but they may still give you weird looks. YMMV)
 
 ### Most Speed Considerations Are Layout Agnostic
 
