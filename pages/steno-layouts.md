@@ -200,6 +200,21 @@ Left Index Top (H), Right Index Top (-F), Left Pinky Top (S)
 
 Etc.
 
+## Number Mode
+
+<div class="center">
+
+   <a href="http://www.keyboard-layout-editor.com/##@@_y:0.25&c=%236c6680&a:7&f:9&h:1.5%3B&=%23&_c=%230078a3&h:1.5%3B&=%CE%A3&_c=%23cccccc&h:1.5%3B&=T&_h:1.5%3B&=P&_h:1.5%3B&=H&_c=%230078a3&h:1.5%3B&=~&_x:1&c=%230bab4a&h:1.5%3B&=+&_c=%23cccccc&h:1.5%3B&=F&_h:1.5%3B&=P&_h:1.5%3B&=L&_h:1.5%3B&=T&_h:1.5%3B&=D%3B&@_y:0.5&c=%236c6680&h:1.5%3B&=%2F=&_c=%23cccccc&h:1.5%3B&=S&_h:1.5%3B&=K&_h:1.5%3B&=W&_h:1.5%3B&=R&_c=%230078a3&h:1.5%3B&=%5E&_x:1&c=%23ffc100&h:1.5%3B&=*&_c=%23cccccc&h:1.5%3B&=R&_h:1.5%3B&=B&_h:1.5%3B&=G&_h:1.5%3B&=S&_h:1.5%3B&=Z%3B&@_y:1&x:4&h:1.5%3B&=A&_h:1.5%3B&=O&_x:1&h:1.5%3B&=E&_h:1.5%3B&=U"><img src="https://steventammen.com/assets/images/stenography/stenography-layout.png"></a>
+
+</div>
+
+- Have strokes for intermediate operators and characters: `+, `-, `*, `/, :, en-dash. Stroke introduces character and re-enters num mode.
+- Have strokes that add two zeroes (hundreds), three zeroes (thousands), etc. Also have stroke that adds commas to the previous number (e.g., 5450.30 --> 5,450.30).
+
+## Mouse Mode
+
+- Rough guide. Switch around order of commands based on frequency.
+
 ## TODO
 
 - Keyboard steno machine combined — best of both worlds or interference with both worlds?
