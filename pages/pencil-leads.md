@@ -18,6 +18,10 @@ title: Pencil Leads
    
 </div>
 
+## Current Pick
+
+- [Pilot Neox 0.5mm 4B](https://www.amazon.com/Pilot-Mechanical-Pencil-Graphite-HRF5G-20-4B/dp/B007C0LGHM/)
+
 ## Lead Grade
 
 - Higher softness is better: darker line, writes more smoothly, takes less pressure to deposit graphite on the page. Disadvantages:
@@ -33,11 +37,6 @@ Smudges easier (especially bad if you’re a lefty)
    - Some people feel that writing with thin lead looks “more precise” and “cleaner”. (Others disagree, of course).
 - If you never need to write smaller or do technical work past a certain level of precision, additional decreases in width become unnecessary and the smoothness for general writing is more important. For most people, either 0.5mm and 0.7mm should give you best results. (For me, 0.5mm is best since it is the broadest width that gives me an acceptable level of precision for my handwriting size and use cases). Certain folks may find the precision of 0.3mm (or even 0.2mm) useful.
    - Important to note that 4B lead is currently only available in 0.5mm, so folks who think 0.7mm would work better for them theoretically should probably still opt for 0.5mm at this time because the softer lead grade determines smoothness more than lead width.
-
-## Neox
-
-- <http://www.jetpens.com/Pilot-Neox-High-Purity-Graphite-Pencil-Lead-0.5-mm-4B/pd/12331>
-
 
 # Sizing Comparisons: 0.3mm to 0.9mm
 
