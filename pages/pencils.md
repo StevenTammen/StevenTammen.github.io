@@ -30,7 +30,7 @@ title: Pencils
 
 ## Width
 
-- see <https://steventammen.com/pencil-leads/>
+- see <https://steventammen.com/pencil-leads/#lead-width>
 
 ## Advancing mechanism
 
@@ -54,10 +54,3 @@ title: Pencils
 - <http://www.fountainpennetwork.com/forum/topic/42931-lamy-2000-pencil/>
 - <http://www.fountainpennetwork.com/forum/index.php/topic/227631-lamy-2000-and-the-origins-of-lamy-design/>
 - <http://davesmechanicalpencils.blogspot.com/2009/09/lets-talk-mechanical-pencils-with-lamy.html>
-
-## Research: Graphgear 1000 (Retraction mechanism and grip)
-
-- <https://www.reddit.com/r/mechanicalpencils/comments/4ndl6u/is_there_any_wobble_in_the_tip_of_a_graphgear_1000/>
-- <http://www.jetpens.com/Pilot-Neox-High-Purity-Graphite-Pencil-Lead-0.5-mm-4B/pd/12331>
-- retractable tip
-- research vs rotring 600: carry graphgear but use rotring for drafting at home?
