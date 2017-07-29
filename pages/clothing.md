@@ -76,7 +76,7 @@ Clothing color and thermoregulation
 
 ### Merino wool vs. alpaca shape retention
 
-- <http://snarkynomad.com/why-merino-wool-t-shirts-are-the-best-travel-t-shirts/> (comments: ctrl-f: â€œalpacaâ€)
+- <http://snarkynomad.com/why-merino-wool-t-shirts-are-the-best-travel-t-shirts/> (comments: ctrl-f: "alpaca")
 - <https://backpackinglight.com/forums/topic/81962/>
 - Alpaca does not have the extreme bending strength that Merino has, and so can loose it's shape/form easier. However, this is easily remedied by putting a small amount of spandex, lycra or the like in with it. Plus, lighter/thinner garments like baselayers by nature, will have less problem with losing shape than their heavier sweater versions.
    - Bending strength is much more important to me, especially with a baselayer. I would hate a garment that loosened up around the sleeves and neck after a couple of days, especially since I roll up my sleeves often.
@@ -90,7 +90,7 @@ Just "adding lycra or spandex" to fix that issue isn't great, because those fibe
 - Be reasonably breathable (the more the better)
 - Insulate when wet
 - Not smell even after repeated, sweaty use (have a microenvironment that prevents bacterial proliferation)
-- Be light colored (for summer use: reflection of radiated heat from sun > reflected internal body heat â€” we are not pigeons. For winter use: when worn under other layers, light colors reflect more internal radiative heat than dark colors)
+- Be light colored (for summer use: reflection of radiated heat from sun > reflected internal body heat: we are not pigeons. For winter use: when worn under other layers, light colors reflect more internal radiative heat than dark colors)
 - Have enough absorption to still wick sweat even if the external surface is blocked (like sitting against something or wearing a pack)
 - Be durable under normal use conditions (the more the better)
 - Have good shape retention (therefore, not alpaca wool)
@@ -105,24 +105,24 @@ Just "adding lycra or spandex" to fix that issue isn't great, because those fibe
 - Resists pilling
 
 ### Wool
-- Has unique property of absorbing sweat while leaving the space next to your skin absolutely dry â€” all the way up until the point it gets fully saturated at ~30% its own weight. Synthetic fibers like polyester will wick sweat, but will feel cold and clammy against your skin because the water is external to the fibers (these materials do not absorb any appreciable amount of water into the fibers). Cotton and other cellulosic fibers (Rayon, Modal, Tencel/Lyocell) will absorb liquid water between fibers (losing their insulative capacities by filling up air pockets), and thus will not be dry next your skin.
+- Has unique property of absorbing sweat while leaving the space next to your skin absolutely dry all the way up until the point it gets fully saturated at ~30% its own weight. Synthetic fibers like polyester will wick sweat, but will feel cold and clammy against your skin because the water is external to the fibers (these materials do not absorb any appreciable amount of water into the fibers). Cotton and other cellulosic fibers (Rayon, Modal, Tencel/Lyocell) will absorb liquid water between fibers (losing their insulative capacities by filling up air pockets), and thus will not be dry next your skin.
 - Evaporative cooling effect is spaced out over time compared to the synthetics (would you rather get chilled for a short period of time, or be cooled by gradual evaporation over a longer period?), and you wonâ€™t experience radiative heat loss in addition to evaporative cooling like you would with wet cellulosic fabrics.
    - During strenuous activity in high heat high humidity situations, evaporative cooling will not keep up, so it is more a factor of which cooling type you would rather have once you come inside into air conditioning. During high heat low humidity situations, moisture control doesnâ€™t really matter since evaporative cooling will actually work: loose fitting, breathable clothes are the answer in such circumstances.
    - Evaporative cooling occurs on the external surface of synthetic fibers (where the water is), making them cooler than their surroundings. The evaporation of water from within wool particles still cools off the surrounding area, but the portion of the fiber in contact with your skin will not have the cold, clammy feeling.
 Anti-bacterial due to the microstructure of fibers (no external water, which bacteria need to survive â€” bacteria cause odor, not sweat itself). This is entirely natural, requires no chemical treatments, and will last the lifetime of the clothing (as opposed to a finite number of washes).
-- If evaporative cooling is a factor, it is theoretically more beneficial for evaporation to occur at the skin level rather than clothing level (i.e., the fabric should be vapor permeable, meaning that water vapor can transit the fabric). Sweating then having the liquid get wicked to the outside of the shirt and evaporate away from your body will not have an appreciable effect on body temperature (Wmich study). Since merino wool, Tencel, and most performance synthetics are all vapor permeable, this will not be a source of significant differences between the fabrics (as compared to, say, a synthetic shirt that was not vapor permeable, which would have the net effect of cooking you inside). Note that this discussion of is not related to â€œbreathabilityâ€ in the sense of air permeability: while this can increase air circulation and hence cooling by convection, it only really becomes relevant if there is some form of air movement to begin with (such as wind or airflow from rapid movement). (Wmich study)
-- Sorption â€” heat released from the exothermic reaction whereby water attaches itself to the inside of wool fibers â€” is still somewhat controversial within the scholarly literature, but it is generally agreed that it does not have any appreciable effect on body temperature (so cannot be viewed as a strong disadvantage during hotter parts of the year or strong advantage during the cooler parts of the year).
-- When fabric is in contact with things that block its exterior (such as a plastic chair back or a backpack), you still want some form of absorption so that you shirt does not â€œstickâ€ to you. Synthetics will not have anywhere for the water to go so they will accumulate moisture and stick to you, while cellulosic fabrics will absorb the sweat interstitially and will likewise stick to you. In such a situation, wool is the only type of fiber that can deal with moisture without feeling wet and clingy on the skin.
+- If evaporative cooling is a factor, it is theoretically more beneficial for evaporation to occur at the skin level rather than clothing level (i.e., the fabric should be vapor permeable, meaning that water vapor can transit the fabric). Sweating then having the liquid get wicked to the outside of the shirt and evaporate away from your body will not have an appreciable effect on body temperature (Wmich study). Since merino wool, Tencel, and most performance synthetics are all vapor permeable, this will not be a source of significant differences between the fabrics (as compared to, say, a synthetic shirt that was not vapor permeable, which would have the net effect of cooking you inside). Note that this discussion of is not related to "breathability" in the sense of air permeability: while this can increase air circulation and hence cooling by convection, it only really becomes relevant if there is some form of air movement to begin with (such as wind or airflow from rapid movement). (Wmich study)
+- Sorption: heat released from the exothermic reaction whereby water attaches itself to the inside of wool fibers -- is still somewhat controversial within the scholarly literature, but it is generally agreed that it does not have any appreciable effect on body temperature (so cannot be viewed as a strong disadvantage during hotter parts of the year or strong advantage during the cooler parts of the year).
+- When fabric is in contact with things that block its exterior (such as a plastic chair back or a backpack), you still want some form of absorption so that you shirt does not stick to you. Synthetics will not have anywhere for the water to go so they will accumulate moisture and stick to you, while cellulosic fabrics will absorb the sweat interstitially and will likewise stick to you. In such a situation, wool is the only type of fiber that can deal with moisture without feeling wet and clingy on the skin.
 
 ### Wool vs Tencel vs PES
 - Tencel: softer than silk, more wicking than polyester (is this the same kind of wicking though?), more breathable than cotton, odor resistant
 - Wool: only material that maintains insulation when wet while still be absorptive, odor resistant, sorption (?)
    - Ibex, Minus 33, Io, Stoic, Icebreaker, SmartWool
-- Polyester when working out at home: cheap, durable, and smell doesnâ€™t matter
+- Polyester when working out at home: cheap, durable, and smell doesn't matter
 
 ### Other factors:
-- UPF â€” UV resistance and sun protection (change when wet?)
-- Wool = better insulation from radiative heating of sun (direct sunlight wonâ€™t heat as much as a cellulose based fiber?)
+- UPF -- UV resistance and sun protection (change when wet?)
+- Wool = better insulation from radiative heating of sun (direct sunlight won't heat as much as a cellulose based fiber?)
 - Coming in from sweating outside into air conditioning: no insulation due to wet Tencel in this circumstance leads to radiative heat loss
 
 
