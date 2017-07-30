@@ -10,7 +10,7 @@ title: About
 
 My name is Steven Tammen and I am an undergraduate student at the University of Georgia studying Latin, Greek, Hebrew, and classical culture. I am also interested in philology, the ancient Near East, and ancient history in general.
 
-My other pursuits cluster around optimization -- using systematic study and continuous improvement to make things the best they can be according to the constraints inherent to reality.
+My other activities cluster around the pursuit of perfection -- in design, in thought patterns, in moral character, and so forth. This takes the form of research and thought on a wide variety of topics in engineering, cognitive psychology, philosophy, and other disciplines as necessary.
 
 More specific information about me can be found in [my CV](https://steventammen.com/CV.pdf).
 
