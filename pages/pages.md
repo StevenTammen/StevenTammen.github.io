@@ -16,12 +16,18 @@ Note: Pages that have an asterisk before them are still in progress to some degr
 ### Gear
 
 - \*[Backpacks](http://steventammen.com/backpacks/)
+- \*[Erasers](http://steventammen.com/erasers/)
+- \*[Gear Evaluation](http://steventammen.com/gear-evaluation/)
 - \*[Guns](http://steventammen.com/guns/)
 - \*[Monitors](http://steventammen.com/monitors/)
 - \*[Multitools](http://steventammen.com/multitools/)
+- \*[Pants](http://steventammen.com/pants/)
+- \*[Pencil Leads](http://steventammen.com/pencil-leads/)
+- \*[Pencils](http://steventammen.com/pencils/)
 - \*[Pots and Pans](http://steventammen.com/pots-and-pans/)
 - \*[Vests](http://steventammen.com/vests/)
 - \*[Watches](http://steventammen.com/watches/)
+- \*[Water Bottles](http://steventammen.com/water-bottles/)
 
 
 ### Gear Collections
