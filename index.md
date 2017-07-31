@@ -8,9 +8,9 @@ header: Steven Tammen
 
 ## Recent Activity
 
-7/23/17   Added rough start for many pages <br/>
+7/30/17   Updated watches.md <br/>
 7/27/17   Updated most in progress pages <br/>
-7/30/17   Updated watches.md
+7/23/17   Added rough start for many pages
 
 ## Worthy Projects (TODO: explain. Email if interested.)
 
