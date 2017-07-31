@@ -10,6 +10,7 @@ header: Steven Tammen
 
 7/23/17   Added rough start for many pages <br/>
 7/27/17   Updated most in progress pages
+7/30/17   Updated watches.md
 
 ## Worthy Projects (TODO: explain. Email if interested.)
 
