@@ -20,6 +20,7 @@ Note: Pages that have an asterisk before them are still in progress to some degr
 - \*[Gear Evaluation](http://steventammen.com/gear-evaluation/)
 - \*[Guns](http://steventammen.com/guns/)
 - \*[Monitors](http://steventammen.com/monitors/)
+- \*[Motorcycles](http://steventammen.com/motorcycles/)
 - \*[Multitools](http://steventammen.com/multitools/)
 - \*[Pants](http://steventammen.com/pants/)
 - \*[Pencil Leads](http://steventammen.com/pencil-leads/)
@@ -34,6 +35,7 @@ Note: Pages that have an asterisk before them are still in progress to some degr
 - \*[Clothing](http://steventammen.com/clothing/)
 - \*[Every Day Carry](http://steventammen.com/every-day-carry/)
 - \*[Rain Gear](http://steventammen.com/rain-gear/)
+- \*[Work Environment](http://steventammen.com/work-environment/)
 
 ### Stenography
 
