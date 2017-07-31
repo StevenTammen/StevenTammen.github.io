@@ -22,17 +22,27 @@ title: Monitors
 
 - [LG Curved OLED 4K TV](https://www.amazon.com/LG-Electronics-OLED55C6P-Curved-55-Inch/dp/B01CDDTZMK/)
 
-## Basic Gist
+## Essential Features
 
-You need to make sure you are not twisting or tilting your head to look at your screen, and this includes laptop screens. Ideally your eye height should be at some point in the top quarter of your display, and the screen should be adjusted in such a way that it allows you to keep your back straight instead of slouched. You should adjust screen brightness according to your surroundings: if in a bright room, you can keep it high, but dim it as light levels decrease. Try to put your monitor in a place that minimizes glare (so not across from a window or lamp). Check whether or not your display uses pulse width modulation (PWM) to dim, since its high frequency flicker can give some people headaches.
+- OLED
+- 4k resolution
+- At least a 60 Hz refresh rate
+- Capable of of 4:4:4 chroma
+- 40+ inches
+- Ability to sleep without messing with windows
+- Low input lag
 
-You should also tone down the blue light coming out your screen, especially towards evening and sundown. I use and recommend f.lux for this purpose, but there are other software programs with similar functionality. Having a warmer light tone helps minimize technology’s disruption of your circadian rhythm and melatonin levels.
+## Preferable Features
 
-If you buy a new monitor there are some basic things to keep in mind. For LED backlit LCD displays, in general, IPS panels are better than VA panels, and VA panels are better than TN panels. OLED (organic light emitting diode) displays are better than all LCD displays because they provide better contrast and have a “true black”. Curved monitors better utilize our natural field of vision, but are much overhyped, especially since the curvature doesn’t really matter very much until you get to 40+ inches.
+- Curved (to better fill field of vision at close distances)
+- Smart TV functionality/has remote
+- Modes dependent upon activity (e.g., TV, gaming, etc.). Be able to customize modes.
 
-Before you decide to upgrade your monitor, you ought to make sure you are using virtual desktops effectively (built into Macs, Windows, and many Linux distributions). Many people have been tricked into thinking they need multiple monitors when they really wouldn’t for their use case if they would learn how to better manage their windows.
+## 4k vs Multiple HD Monitors
 
-If you do decide that you could efficiently make use of more screen real estate, you should consider getting a large (greater than or equal to 40 inches) 4k monitor/TV instead of stringing together multiple smaller monitors, especially if your graphics card will support 4:4:4 Chroma 4k @60Hz. Vertical height is more important than horizontal space for virtually all computing activities other than watching videos (e.g., reading web pages, spreadsheets, coding), and 4k’s 2060 vertical pixels let you take advantage of this fact. You also avoid bezels by having one screen instead of two or three.
+- Having one large 4k monitor lets you use the monitor as a TV
+- It also avoids unecessary bezels in normal computing tasks
+- Assuming you have a good tiling window manager, the ease of laying out windows should not be significantly different between the two configurations
 
 ## Size and Resolution
 
@@ -43,5 +53,5 @@ If you do decide that you could efficiently make use of more screen real estate,
 ## Computer Desktop
 
 - Black saves power with OLED displays: only turn on pixels that are actually being used
-- Greatest distinguishability between black background and lighter color foreground windows. (foreground windows will be lighter b/c makes text more legible)
+- Greatest distinguishability between black background and lighter color foreground windows. (foreground windows will be lighter because light backgrounds make text more legible)
 - Worth tradeoff of having picture to remind you of something (e.g., wife, quote, etc.)?
