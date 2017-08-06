@@ -18,13 +18,13 @@ More specific information about me can be found in [my CV](https://steventammen.
 
 This site exists to
 
-- Give me a centralized internet presence
+- Give me a centralized internet presence and place to showcase my work
 - Give me a platform to spread my thoughts on a wide variety of otherwise unrelated topics
 - Contribute to free and open knowledge
 
 This site does not exist to
 
-- Market myself
+- Let me paint myself as more capable, educated, or experienced than I really am
 - Make money by locking content behind exclusive mailing lists, monthly subscriptions, or other things of the sort
 - Make money through advertising or affiliate marketing
 - Make money by selling stuff
