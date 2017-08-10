@@ -257,6 +257,8 @@ Most speed considerations are layout agnostic. If you are already a sufficiently
 
 ## Punctuation results from ADNW Optimizer Evaluation
 
+```
+
 HIEAM            278.108 total effort   189.249 positional effort    left right
                    1.118 same finger rp  19.943 shift same finger top 12.9 13.4
   byou' kdclpq    70.243 hand alternat.  26.526 shift hand alter. mid 32.3 31.0
@@ -315,6 +317,8 @@ SwapApos         281.110 total effort   189.254 positional effort    left right
        ┬á           4.421 no hand altern. 43.359 two hand altern.
                    2.629 seesaw           6.699 indir same finger
                   8.2  8.6 18.9 13.0 --.- --.- 19.0 11.5  9.9 10.8 Sh  1.8  1.0
+                  
+```
 
 ## Unorganized Thoughts
 
