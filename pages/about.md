@@ -8,7 +8,14 @@ title: About
 
 ### Author
 
-My name is Steven Tammen and I am an undergraduate student at the University of Georgia studying Latin, Greek, Hebrew, and classical culture. I am also interested in philology, the ancient Near East, and ancient history in general.
+My name is Steven Tammen and I am an undergraduate student at the University of Georgia. Things I am currently studying:
+
+1. Computer Science: Software Design
+2. Classics: Classical Culture (especially imperial Rome)
+3. Classical Languages: Greek
+4. Hebrew
+
+I am officially triple-majoring in the first three, although I will have also taken a substantial amount of Hebrew by the time I graduate. (There is no degree program or minor for Hebrew at UGA).
 
 My other activities cluster around the pursuit of perfection -- in design, in thought patterns, in character, and so forth. This takes the form of research and thought on a wide variety of topics in engineering, cognitive psychology, philosophy, and other disciplines as necessary.
 
