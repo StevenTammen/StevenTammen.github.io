@@ -138,14 +138,14 @@ Most speed considerations are layout agnostic. If you are already a sufficiently
       - Adjustable Elbow Angle (“Yaw”)
       - Adjustable Typing Angle (“Pitch”)
       - Neutral Position Wrist Wrests
-      - Column Stagger
-      - Key Height Differentials
-      - Concave Keywells
+      - \*Column Stagger (\* = not sure, more research required)
+      - \*Key Height Differentials
+      - \*Concave Keywells
       - Keyswitch Actuation Force
       - Keyswitch Travel Distance
       - Keycap Shaping
    - Typing Speed
-      - Concave Keywells
+      - \*Concave Keywells
       - Keyswitch Actuation Force
       - Keyswitch Travel Distance
       - Keycap Shaping
@@ -166,7 +166,7 @@ Most speed considerations are layout agnostic. If you are already a sufficiently
       - Replaceable Connection Mechanism Between Keyboard Halves
       - Replaceable Connection Mechanism To Computer
    - Functionality
-      - Keyboard Microcontroller
+      - Keyboard Microcontroller and Firmware Programmability
       - Key Backlighting
       - Signalling Mechanism For Mode Lock Engagement (e.g., CapsLock, NumLock)
       - Toggleable Noise For Key Actuation
