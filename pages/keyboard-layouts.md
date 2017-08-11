@@ -20,13 +20,15 @@ title: Keyboard Layouts
 
 ## Current Layout
 
-<img src="/assets/images/keyboard-layouts/base.png"><br/><br/>
-<img src="/assets/images/keyboard-layouts/shift.png"><br/><br/>
-<img src="/assets/images/keyboard-layouts/num.png"><br/><br/>
-<img src="/assets/images/keyboard-layouts/code.png"><br/><br/>
-<img src="/assets/images/keyboard-layouts/sym.png"><br/><br/>
-<img src="/assets/images/keyboard-layouts/func.png"><br/><br/>
-<img src="/assets/images/keyboard-layouts/media.png">
+<div class="center">
+   <img src="/assets/images/keyboard-layouts/base.png"><br/><br/>
+   <img src="/assets/images/keyboard-layouts/shift.png"><br/><br/>
+   <img src="/assets/images/keyboard-layouts/num.png"><br/><br/>
+   <img src="/assets/images/keyboard-layouts/code.png"><br/><br/>
+   <img src="/assets/images/keyboard-layouts/sym.png"><br/><br/>
+   <img src="/assets/images/keyboard-layouts/func.png"><br/><br/>
+   <img src="/assets/images/keyboard-layouts/media.png">
+</div>
 
 ## Pre-optimization Considerations
 
