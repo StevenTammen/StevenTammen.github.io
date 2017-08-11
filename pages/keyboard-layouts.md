@@ -18,6 +18,16 @@ title: Keyboard Layouts
    
 </div>
 
+## Current Layout
+
+<img src="/assets/images/keyboard-layouts/base.png"><br/>
+<img src="/assets/images/keyboard-layouts/shift.png"><br/>
+<img src="/assets/images/keyboard-layouts/num.png"><br/>
+<img src="/assets/images/keyboard-layouts/code.png"><br/>
+<img src="/assets/images/keyboard-layouts/sym.png"><br/>
+<img src="/assets/images/keyboard-layouts/func.png"><br/>
+<img src="/assets/images/keyboard-layouts/media.png">
+
 ## Pre-optimization Considerations
 
 Before you spend time optimizing the character layout of your keyboard, you need to first make sure that you have an ergonomic keyboard, and that your work environment is setup properly. Failing to account for these things (which are really more important), no matter how good your character layout ends up being, will put you at a much higher risk for RSI and CTS.
