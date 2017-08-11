@@ -92,7 +92,7 @@ Whether you code or not, you should consider learning [Vim](http://www.vim.org/)
 
 In terms of implementing this, I would suggest you not pick up vanilla Vim or gVim, but rather [Spacemacs](http://spacemacs.org/) (which uses Emacs’ evil mode to emulate Vim commands) or [NeoVim](https://neovim.io/), which supports multiple threads and allows plugins to be written in things other than Vimscript, such as Lua or Python. 
 
-Because of Org Mode, its support for non-leader key remapping of commands, and mnemonic key sequences for specialized commands (such as window commands), I personally believe Spacemacs is the superior choice for most people and situations. However, many others like [NeoVim](https://neovim.io/) combined with [Tmux](https://github.com/tmux/tmux) and [Zsh](http://www.zsh.org/). In my opinion, the decision between these two setups mostly comes down to how much you use Org Mode -- since I use Org Mode for basically everything that's not code, I use Spacemacs.
+Because of [Org Mode](http://orgmode.org/), its support for non-leader key remapping of commands, and mnemonic key sequences for specialized commands (such as window commands), I personally believe Spacemacs is the superior choice for most people and situations. However, many others like [NeoVim](https://neovim.io/) combined with [Tmux](https://github.com/tmux/tmux) and [Zsh](http://www.zsh.org/). In my opinion, the decision between these two setups mostly comes down to how much you use Org Mode -- since I use Org Mode for basically everything that's not code, I use Spacemacs.
 
 #### Symbol Layers
 
