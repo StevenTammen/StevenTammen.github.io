@@ -72,7 +72,7 @@ Not being able to touch-type QWERTY means your productivity will take a hit when
 
 ### The Animosity of Others
 
-For some inexplicable reason, some people get rabid, foaming-at-the-mouth crazy in their defense of QWERTY. My best guess is that this is because your superior efficiency is a direct challenge to their self-perception as competent, effective workers. It's also possible that their defensiveness is a manifestation of the [sunk cost fallacy](https://en.wikipedia.org/wiki/Sunk_cost#Loss_aversion_and_the_sunk_cost_fallacy): having spent a significant amount of time learning to touch-type QWERTY, they don't want to admit that they picked a bad layout. There is also likely a degree of [choice-supportive bias](https://en.wikipedia.org/wiki/Choice-supportive_bias): similar to how people evangelize the make and model of the new car they bought to help convince themselves it was worth it, people are more likely to evangelize QWERTY after deciding to make it their keyboard layout.
+Certain people get rather worked up any time someone mentions a layout other than QWERTY. My best guess is that this is because the superior efficiency of people who type on other layouts is a direct challenge to their self-perception as competent, effective workers. It's also possible that their defensiveness is a manifestation of the [sunk cost fallacy](https://en.wikipedia.org/wiki/Sunk_cost#Loss_aversion_and_the_sunk_cost_fallacy): having spent a significant amount of time learning to touch-type QWERTY, they don't want to admit that they picked a bad layout. There is also likely a degree of [choice-supportive bias](https://en.wikipedia.org/wiki/Choice-supportive_bias): similar to how people evangelize the make and model of the new car they bought to help convince themselves it was worth it, people are more likely to evangelize QWERTY after deciding to make it their keyboard layout.
 
 Whatever their motivations, people will frequently challenge your decision to use a layout other than QWERTY. If you are not the type of person that's cool taking heat for being different or constantly having to explain yourself, you may want to think twice about using a layout other than QWERTY.
 
@@ -80,7 +80,7 @@ Whatever their motivations, people will frequently challenge your decision to us
 
 ### Most Speed Considerations Are Layout Agnostic
 
-There is a very real possibility if you switch that the time lost in getting back up to speed would have been better spent honing your mastery of whatever layout you do currently use, because most of the ways you can accelerate your typing don’t depend on your layout.
+There is a very real possibility if you switch that the time lost in getting back up to speed would have been better spent honing your mastery of whatever layout you do currently use, because most of the ways you can accelerate your typing don’t depend on your layout. In other words, it may very well be better for you to spend a couple months increasing your QWERTY speed from 60 WPM to 100 WPM than getting up to 60 WPM on another layout.
 
 #### Practice
 
