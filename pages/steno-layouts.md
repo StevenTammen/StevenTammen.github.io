@@ -43,7 +43,7 @@ title: Steno Layouts
 
 <div class="center">
 
-   <a href="http://www.keyboard-layout-editor.com/##@@_y:0.25&c=%236c6680&a:7&f:9&h:1.5%3B&=%23&_c=%230078a3&h:1.5%3B&=%CE%A3&_c=%23cccccc&h:1.5%3B&=T&_h:1.5%3B&=P&_h:1.5%3B&=H&_c=%230078a3&h:1.5%3B&=~&_x:1&c=%230bab4a&h:1.5%3B&=+&_c=%23cccccc&h:1.5%3B&=F&_h:1.5%3B&=P&_h:1.5%3B&=L&_h:1.5%3B&=T&_h:1.5%3B&=D%3B&@_y:0.5&c=%236c6680&h:1.5%3B&=%2F=&_c=%23cccccc&h:1.5%3B&=S&_h:1.5%3B&=K&_h:1.5%3B&=W&_h:1.5%3B&=R&_c=%230078a3&h:1.5%3B&=%5E&_x:1&c=%23ffc100&h:1.5%3B&=*&_c=%23cccccc&h:1.5%3B&=R&_h:1.5%3B&=B&_h:1.5%3B&=G&_h:1.5%3B&=S&_h:1.5%3B&=Z%3B&@_y:1&x:4&h:1.5%3B&=A&_h:1.5%3B&=O&_x:1&h:1.5%3B&=E&_h:1.5%3B&=U"><img src="https://steventammen.com/assets/images/stenography/stenography-layout.png"></a>
+   <a href="http://www.keyboard-layout-editor.com/##@@_y:0.25&c=%236c6680&a:7&f:9&h:1.5%3B&=%23&_c=%230078a3&h:1.5%3B&=%CE%A3&_c=%23cccccc&h:1.5%3B&=T&_h:1.5%3B&=P&_h:1.5%3B&=H&_c=%230078a3&h:1.5%3B&=~&_x:1&c=%230bab4a&h:1.5%3B&=+&_c=%23cccccc&h:1.5%3B&=F&_h:1.5%3B&=P&_h:1.5%3B&=L&_h:1.5%3B&=T&_h:1.5%3B&=D%3B&@_y:0.5&c=%236c6680&h:1.5%3B&=%2F=&_c=%23cccccc&h:1.5%3B&=S&_h:1.5%3B&=K&_h:1.5%3B&=W&_h:1.5%3B&=R&_c=%230078a3&h:1.5%3B&=%5E&_x:1&c=%23ffc100&h:1.5%3B&=*&_c=%23cccccc&h:1.5%3B&=R&_h:1.5%3B&=B&_h:1.5%3B&=G&_h:1.5%3B&=S&_h:1.5%3B&=Z%3B&@_y:1&x:4&h:1.5%3B&=A&_h:1.5%3B&=O&_x:1&h:1.5%3B&=E&_h:1.5%3B&=U"><img src="https://steventammen.com/assets/images/steno-layouts/stenography-layout.png"></a>
 
 </div>
 
@@ -204,7 +204,7 @@ Etc.
 
 <div class="center">
 
-   <a href="http://www.keyboard-layout-editor.com/##@@_y:0.25&a:7&f:4&h:1.5%3B&=Tab&_f:9&h:1.5%3B&=1&_h:1.5%3B&=3&_h:1.5%3B&=5&_h:1.5%3B&=7&_h:1.5%3B&=9&_x:1&h:1.5%3B&=9&_h:1.5%3B&=7&_h:1.5%3B&=5&_h:1.5%3B&=3&_h:1.5%3B&=1&_f:4&h:1.5%3B&=Enter%3B&@_y:0.5&h:1.5%3B&=Tab&_f:9&h:1.5%3B&=2&_h:1.5%3B&=4&_h:1.5%3B&=6&_h:1.5%3B&=8&_h:1.5%3B&=0&_x:1&h:1.5%3B&=0&_h:1.5%3B&=8&_h:1.5%3B&=6&_h:1.5%3B&=4&_h:1.5%3B&=2&_f:4&h:1.5%3B&=Enter%3B&@_y:1&x:4&h:1.5%3B&=Rev.%20Order&_f:9&h:1.5%3B&=.&_x:1&f:4&h:1.5%3B&=Exit%20Mode&_h:1.5%3B&=Rev.%20Order"><img src="https://steventammen.com/assets/images/stenography/number-layout.png"></a>
+   <a href="http://www.keyboard-layout-editor.com/##@@_y:0.25&a:7&f:4&h:1.5%3B&=Tab&_f:9&h:1.5%3B&=1&_h:1.5%3B&=3&_h:1.5%3B&=5&_h:1.5%3B&=7&_h:1.5%3B&=9&_x:1&h:1.5%3B&=9&_h:1.5%3B&=7&_h:1.5%3B&=5&_h:1.5%3B&=3&_h:1.5%3B&=1&_f:4&h:1.5%3B&=Enter%3B&@_y:0.5&h:1.5%3B&=Tab&_f:9&h:1.5%3B&=2&_h:1.5%3B&=4&_h:1.5%3B&=6&_h:1.5%3B&=8&_h:1.5%3B&=0&_x:1&h:1.5%3B&=0&_h:1.5%3B&=8&_h:1.5%3B&=6&_h:1.5%3B&=4&_h:1.5%3B&=2&_f:4&h:1.5%3B&=Enter%3B&@_y:1&x:4&h:1.5%3B&=Rev.%20Order&_f:9&h:1.5%3B&=.&_x:1&f:4&h:1.5%3B&=Exit%20Mode&_h:1.5%3B&=Rev.%20Order"><img src="https://steventammen.com/assets/images/steno-layouts/number-layout.png"></a>
 
 </div>
 
@@ -213,7 +213,7 @@ Etc.
 
 ## Mouse Mode
 
-   <a href="http://www.keyboard-layout-editor.com/##@@_y:0.25&a:7&f:4&h:1.5%3B&=&_h:1.5%3B&=Scroll%20Lock&_h:1.5%3B&=Tri-%20Warp&_h:1.5%3B&=Accel.%0A%0A%0A%0AFast&_h:1.5%3B&=Max&_f:9&h:1.5%3B&=&_x:1&h:1.5%3B&=&_f:4&h:1.5%3B&=Center%20Warp&_h:1.5%3B&=Up%0A%0A%0A%0ATop%20Lft&_h:1.5%3B&=Exit%20Mode&_h:1.5%3B&=&_h:1.5%3B&=%3B&@_y:0.5&h:1.5%3B&=&_h:1.5%3B&=Axis%20Lock&_h:1.5%3B&=Warp&_h:1.5%3B&=Decel.%0A%0A%0A%0ASlow&_h:1.5%3B&=Min&_f:9&h:1.5%3B&=&_x:1&h:1.5%3B&=&_f:4&h:1.5%3B&=Left%0A%0A%0A%0ABot%20Lft&_h:1.5%3B&=Down%0A%0A%0A%0ABot%20Rt&_h:1.5%3B&=Right%0A%0A%0A%0ATop%20Rt&_f:9&h:1.5%3B&=&_f:4&h:1.5%3B&=%3B&@_y:1&x:4&h:1.5%3B&=Quad%20Mod&_h:1.5%3B&=Macro%0A%0A%0A%0ARecord&_x:1&h:1.5%3B&=Left%20Click&_h:1.5%3B&=Right%20Click"><img src="https://steventammen.com/assets/images/stenography/mouse-layout.png"></a>
+   <a href="http://www.keyboard-layout-editor.com/##@@_y:0.25&a:7&f:4&h:1.5%3B&=&_h:1.5%3B&=Scroll%20Lock&_h:1.5%3B&=Tri-%20Warp&_h:1.5%3B&=Accel.%0A%0A%0A%0AFast&_h:1.5%3B&=Max&_f:9&h:1.5%3B&=&_x:1&h:1.5%3B&=&_f:4&h:1.5%3B&=Center%20Warp&_h:1.5%3B&=Up%0A%0A%0A%0ATop%20Lft&_h:1.5%3B&=Exit%20Mode&_h:1.5%3B&=&_h:1.5%3B&=%3B&@_y:0.5&h:1.5%3B&=&_h:1.5%3B&=Axis%20Lock&_h:1.5%3B&=Warp&_h:1.5%3B&=Decel.%0A%0A%0A%0ASlow&_h:1.5%3B&=Min&_f:9&h:1.5%3B&=&_x:1&h:1.5%3B&=&_f:4&h:1.5%3B&=Left%0A%0A%0A%0ABot%20Lft&_h:1.5%3B&=Down%0A%0A%0A%0ABot%20Rt&_h:1.5%3B&=Right%0A%0A%0A%0ATop%20Rt&_f:9&h:1.5%3B&=&_f:4&h:1.5%3B&=%3B&@_y:1&x:4&h:1.5%3B&=Quad%20Mod&_h:1.5%3B&=Macro%0A%0A%0A%0ARecord&_x:1&h:1.5%3B&=Left%20Click&_h:1.5%3B&=Right%20Click"><img src="https://steventammen.com/assets/images/steno-layouts/mouse-layout.png"></a>
 
 - Rough guide. Switch around order of commands based on frequency.
 
