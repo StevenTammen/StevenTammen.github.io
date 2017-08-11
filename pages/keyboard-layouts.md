@@ -18,6 +18,8 @@ title: Keyboard Layouts
    
 </div>
 
+<br/><br/>
+
 <div class="center">
    <img src="/assets/images/keyboard-layouts/base.png"><br/><br/>
    <img src="/assets/images/keyboard-layouts/shift.png"><br/><br/>
