@@ -54,7 +54,7 @@ Your ability to succeed at literally everything you do is a function of your sel
 
 These relationships would include family, friends, and significant others. Research has shown that people that have support networks handle stress and adversity much better. They also tend to be happier and live longer.
 
-While most people don't look at relationships quite the same way as objects or processes, relationships can be studied and improved over time as well. For example, communication and trust, the foundations of any relationship, can be improved through conscious effort and work. (Though it generally requires this from both parties). These consciously-maintained relationships will always last longer and be closer than non-maintained ones, which only increase the benefits that relationships provide in the first place.
+While most people don't look at relationships quite the same way as objects or processes, relationships can be studied and improved over time as well. For example, communication and trust, the foundations of any relationship, can be improved through conscious effort and work. (Though it generally requires this from both parties). These well-maintained relationships will always last longer and be closer than other relationships, which only increase the benefits that relationships provide in the first place.
 
 #### 4. An implemented and disciplined routine of intellectual expansion through reading
 
