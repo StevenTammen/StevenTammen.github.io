@@ -27,7 +27,7 @@ title: Keyboard Layouts
    <img src="/assets/images/keyboard-layouts/code.png"><br/><br/>
    <img src="/assets/images/keyboard-layouts/sym.png"><br/><br/>
    <img src="/assets/images/keyboard-layouts/func.png"><br/><br/>
-   <img src="/assets/images/keyboard-layouts/media.png">
+   <img src="/assets/images/keyboard-layouts/media.png"><br/><br/>
 </div>
 
 ## Pre-optimization Considerations
@@ -40,19 +40,11 @@ Optimizing the character layout of your keyboard without first dealing with your
 
 ### Priorities
 
-An axiom of existence is the limited nature of time. With normal life responsibilities, there are only so many things that we can focus on and optimize. The more we build discipline and focus, the more we can perfect for our particular set of circumstances. But we will never be able to get to everything. It is necessary that we decide on a method for determining what we focus on, and structure our lives from most important to least important.
+Please have a look at [this page](https://steventammen.com/priorities/).
 
 Keyboard layout optimization must be taken as an investment of lower marginal benefit than many things before it. It is a worthy investment, but it is not the worthiest of your consideration unless several more important things have been taken care of beforehand.
 
-I would encourage you to go through this list and make sure you have these things in good order before you even consider sinking in time on the keyboard optimization front.
-
-1. A personal philosophy of spiritual and existential reality.
-2. Purposefully cultivated and frequently exercised habits of self-control, mindfulness, and thought.
-3. An implemented and disciplined routine of intellectual expansion through reading.
-4. An implemented and disciplined exercise routine that includes both cardio and resistance training.
-5. An implemented and disciplined common-sense diet (free or low in processed foods, added sugar, and processed/high omega-6 oils, and high in vegetables, naturally occurring antioxidants, and omega-3's).
-
-By “implemented” I mean you have thought it through and are capable of giving a reasoned defense of why you are doing what you are doing. By “disciplined” I mean you generally stick to what you say you are going to do.
+I would encourage you to go through that link and make sure you have those things in good order before you even consider sinking in time on the keyboard optimization front. Also consider how much you really type in your everyday life (and thus how big a priority optimization is): programmers and secretaries, for example, type far more than park rangers or bakers. What this means is that it is really probably not worth going through the effort if you don't type enough to break even in net time saved (i.e., it costs more time up front doing the optimization than it will save you in the long run).
 
 ### The Difficulty of Retraining Your Fingers
 
