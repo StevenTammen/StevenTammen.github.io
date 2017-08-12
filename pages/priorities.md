@@ -42,13 +42,11 @@ In my opinion, if you don't have your individual purpose figured out, all your o
 
 If you honestly don't think there is any basis for finding meaning in human life (either physically or metaphysically), I would suggest that you take a hard look at why you believe this. In my experience and observation, conviction on individual purpose is the single most powerful predictor of life success... and it's not something where you can "fake it until you make it."
 
-#### 2. Purposefully cultivated and frequently exercised habits of self-control, mindfulness, and thought
+#### 2. Purposefully cultivated and frequently exercised habits of discipline and thought
 
-By self-control, I mean the ability to do what you want to do. By mindfulness, I mean the ability to live in the moment and focus on the present, amongst the things in life that you can actually materially affect. By thought, I mean the ability to reason about and struggle with things at a level deeper than superficial.
+By discipline, I mean the ability to do what you want to do when you want to do it. By thought, I mean the ability to reason about and struggle with things at a level deeper than superficial. Thought gives you the ability to figure out what the best things to do are, and discipline gives you the ability to do them, and do them effectively (instead of getting distracted by things in the past you can't change, things in the future you can't control, self-doubt, hunger, etc.).
 
-Thought gives you the ability to figure out what the best things to do are, self-control gives you the ability to do them, and mindfulness gives you the ability to do them much more effectively (instead of getting distracted by things in the past you can't change, things in the future you can't control, self-doubt, etc.).
-
-Your ability to succeed at literally everything you do is a function of your self-control, mindfulness, and thought. People who have more self-control, better mindfulness, and more practiced habits of thought get more things done, better, in less time. It ought to go without saying, then, that these three are incredibly important to actively cultivate and exercise.
+Your ability to succeed at literally everything you do is a function of your discipline and thought. People who have more discipline and more practiced habits of thought get more things done, better, in less time. It ought to go without saying, then, that these two are incredibly important to actively cultivate and exercise.
 
 #### 3. Stable and well-maintained interpersonal relationships
 
