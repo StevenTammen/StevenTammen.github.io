@@ -20,16 +20,6 @@ title: Keyboard Layouts
 
 <br/>
 
-<div class="center">
-   <img src="/assets/images/keyboard-layouts/base.png"><br/><br/>
-   <img src="/assets/images/keyboard-layouts/shift.png"><br/><br/>
-   <img src="/assets/images/keyboard-layouts/num.png"><br/><br/>
-   <img src="/assets/images/keyboard-layouts/code.png"><br/><br/>
-   <img src="/assets/images/keyboard-layouts/sym.png"><br/><br/>
-   <img src="/assets/images/keyboard-layouts/func.png"><br/><br/>
-   <img src="/assets/images/keyboard-layouts/media.png"><br/><br/>
-</div>
-
 ## Pre-optimization Considerations
 
 Before you spend time optimizing the character layout of your keyboard, you need to first make sure that you have an ergonomic keyboard, and that your work environment is setup properly. Failing to account for these things (which are really more important), no matter how good your character layout ends up being, will put you at a much higher risk for RSI and CTS.
@@ -106,11 +96,43 @@ You can create layers for numbers and symbols (putting them on the home row or a
 
 Most speed considerations are layout agnostic. If you are already a sufficiently fast typist with another layout, the opportunity cost of retraining may be better spent beefing up your current toolkit and optimizing other parts of your typing. No matter what you do, dedicated *intentional* practice can significantly improve your typing, and you shouldn’t switch without first considering if it is really the most rational decision under your circumstances. For the reasons why you *should* switch, read on.
 
-## TODO: Reasons to Switch
+## Reasons Why You Should Optimize
+
+### Reduced Typing Effort
+
+Far and away the biggest benefits optimized keyboard layouts give is a greatly reduced overall typing effort. As will be discussed below, optimized layouts significantly reduce the amount of distance your fingers need to travel by putting frequently used keys in favorable positions (like the home row), and balance finger and hand distribution so that effort is spread out. They also strive to make frequent two-letter combinations (called digraphs) and three-letter combinations (called trigraphs) easy to type: he, th, tha, str, and so forth.
+
+It is perhaps easiest to demonstrate the benefits of optimized layouts by counterexample: using "problem words" from QWERTY.
+
+1. On QWERTY try typing the word "stewardesses." It should be immediately obvious what the problem here is: your left hand does all the work while your right hand just sits there doing nothing!
+2. Now try typing the word "minimum." Aside from being another example of one hand doing all the work, QWERTY's minimum has additional problems: you have to jump over the home row to get from M and N to I and U, and you have to use the same finger to type M and U in succession. As variables, these are usually called "row jumping" and "same-finger", respectively, and most optimized layouts try to minimize them as much as possible.
+
+Basically, optimized layouts have less words like QWERTY's "stewardesses" and "minimum" -- words that are hard to type, split the load unequally among fingers and/or hands, and require your fingers to travel further. Consequently, typing is more comfortable overall on optimized layouts.
+
+### Reduced Repetitive Stress Injury (RSI)
+
+Theoretically, the reduced overall effort needed to type on an optimized layout could lead to a delay in onset and/or remission of symptoms for those suffering from RSI, but there currently isn't a great deal of statistically useful data out there (though anecdotal success stories abound, they are not verifiable, and may be demonstrating the power of the placebo effect rather than the power of optimized keyboard layouts). On the other hand, it would make sense if less use over time led to less "repretitive stress" overall (even if science hasn't verified this yet), so giving it a shot may still be worth it.
+
+It is once more worth pointing out that a good keyboard and proper workstation ergonomics are much more important than a character layout ever will be on this front, so if you don't have these things in order, an optimized keyboard layout won't save you from RSI.
+
+### Increased Typing Speed
+
+While this is perhaps the most controversial of the benefits (and is yet to be verified in a rigorous way, like RSI reduction above), there is a theoretical basis for faster typing on optimized layouts. For example:
+
+- Optimized layouts require less overall finger travel distance, with most of the most frequent letters and combinations requiring no movement from the home row. Less required movement ought to lead to faster speeds, all other things being equal.
+- Optimized layouts have higher hand alternation than QWERTY. Hand alternation makes it easier to line up the next letter when typing the previous one, since your fingers on the next-letter hand will not be out of position from typing letters on the top or bottom rows. (Cf. the QWERTY digraphs "he" and "in". For the former -- an example of hand alternation -- E can easily be lined up while you are pressing the H key since they are on different hands despite being on different rows. For the latter, it is harder to line up N when you are pressing I since I is on the top row of the right hand and N is on the bottom row of the right hand). This too should theoretically lead to faster speeds.
+- Optimized layouts have less same-finger (as in QWERTY "fr" or "ed"). It is not possible to line up subsequent letters in any way for same-finger digraphs, making them the slowest letter combinations. It follows then that layouts with less same-finger combinations will enable faster typing.
+
+I'm sure there are other such features that could be mentioned in support of optimized layouts being faster (i.e., this list is not intended to be comprehensive); however, until rigorous studies are done, all of this is theoretical. The effects mentioned above are going to be much less significant than practice overall -- which is why some QWERTY typists like [Sean Wrona](https://www.youtube.com/watch?v=4GDusA21cEA) will destroy the vast majority of people who type on optimized layouts. It's not because QWERTY somehow enables faster typing than other layouts that Sean Wrona is fast, he is fast because he practiced a lot (and likely had a knack for it as well). But he would probably be even faster if he grew up typing on an optimized layout -- at least that would make sense in theory.
 
 ## Outline of Optimization
 
-- Explanation of Methodology
+### Introduction and Explanation of Methodology
+
+I have, in some form or another, been working on optimizing my keyboard layout for a couple years now. This is not to say I've spent a great deal of total time on it, or that you should automatically listen to me. There are plenty people much smarter than I who have worked on the problem and come up with different solutions. But I hope by documenting the process it might be made less mysterious overall, especially for people who haven't ever compiled C++ code from a shell instance and think that a genetic algorithm is something related to DNA.
+
+In this section I will first go over each of the relevant factors in optimization, then discuss how we ought to go about weighting them (which is really the tricky part). Finally, I will go over some of the preliminary design considerations that must be taken into account when designing a layout.
+
 - Optimization Considerations
    - Differences in Hand Morphology
       - My Hand Morphology
@@ -251,7 +273,6 @@ Most speed considerations are layout agnostic. If you are already a sufficiently
 - TODO Explain Number Layers
 - TODO Explain Code Layer
 - TODO Explain Symbol Layer
-- TODO Explain Mouse Layer
 - TODO Explain Function Layer
 - TODO Explain Media Layer
 - Caveats
