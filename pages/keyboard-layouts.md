@@ -44,7 +44,7 @@ Please have a look at [this page](https://steventammen.com/priorities/).
 
 Keyboard layout optimization must be taken as an investment of lower marginal benefit than many things before it. It is a worthy investment, but it is not the worthiest of your consideration unless several more important things have been taken care of beforehand.
 
-I would encourage you to go through that link and make sure you have those things in good order before you even consider sinking in time on the keyboard optimization front. Also consider how much you really type in your everyday life (and thus how big a priority optimization is): programmers and secretaries, for example, type far more than park rangers or bakers. What this means is that it is really probably not worth going through the effort if you don't type enough to break even in net time saved (i.e., it costs more time up front doing the optimization than it will save you in the long run).
+I would encourage you to go through that link and make sure you have those things in good order before you even consider sinking in time on the keyboard optimization front. Also consider how much you really type in your everyday life (and thus how big a priority optimization is): programmers and secretaries, for example, type far more than park rangers or bakers, so keyboard optimization makes more sense for them.
 
 ### The Difficulty of Retraining Your Fingers
 
@@ -117,7 +117,7 @@ It is perhaps easiest to demonstrate the benefits of optimized layouts by counte
 1. On QWERTY try typing the word "stewardesses." It should be immediately obvious what the problem here is: your left hand does all the work while your right hand just sits there doing nothing!
 2. Now try typing the word "minimum." Aside from being another example of one hand doing all the work, QWERTY's minimum has additional problems: you have to jump over the home row to get from M and N to I and U, and you have to use the same finger to type M and U in succession. As variables, these are usually called "row jumping" and "same-finger", respectively, and most optimized layouts try to minimize them as much as possible.
 
-Basically, optimized layouts have less words like QWERTY's "stewardesses" and "minimum" -- words that are hard to type, split the load unequally among fingers and/or hands, and require your fingers to travel further. Consequently, typing is more comfortable overall on optimized layouts.
+Basically, optimized layouts have less words like QWERTY's "stewardesses" and "minimum" -- words that are hard to type, split the load unequally among fingers and/or hands, require your fingers to travel further, etc. Consequently, typing is less effortful on optimized layouts.
 
 ### Reduced Repetitive Stress Injury (RSI)
 
