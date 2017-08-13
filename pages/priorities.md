@@ -46,7 +46,7 @@ If you honestly don't think there is any basis for finding meaning in human life
 
 By discipline, I mean the ability to do what you want to do when you want to do it. By thought, I mean the ability to reason about and struggle with things at a level deeper than superficial. Thought gives you the ability to figure out what the best things to do are, and discipline gives you the ability to do them, and do them effectively (instead of getting distracted by things in the past you can't change, things in the future you can't control, self-doubt, hunger, etc.).
 
-Your ability to succeed at literally everything you do is a function of your discipline and thought. People who have more discipline and more practiced habits of thought get more things done, better, in less time. It ought to go without saying, then, that these two are incredibly important to actively cultivate and exercise.
+Your ability to succeed at literally everything you do is a function of your discipline and thought. People who are better at thinking and have more discipline get more things done, better, in less time. It ought to go without saying, then, that these two are incredibly important to actively cultivate and exercise.
 
 #### 3. Stable and well-maintained interpersonal relationships
 
