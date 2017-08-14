@@ -8,7 +8,7 @@ title: About
 
 ### Author
 
-My name is Steven Tammen and I am an undergraduate student at the University of Georgia. Things I am currently studying at the university:
+My name is Steven Tammen and I am an undergraduate student at the University of Georgia. Things I am currently studying:
 
 1. Computer Science
 2. Classical Culture (especially imperial Rome)
