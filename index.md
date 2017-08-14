@@ -8,6 +8,7 @@ header: Steven Tammen
 
 ## Recent Activity
 
+8/13/17   Worked on keyboard-layouts.md; updated layout images
 7/31/17   Added motorcycles.md and work-envrionment.md <br/>
 7/30/17   Updated watches.md <br/>
 7/27/17   Updated most in progress pages <br/>
