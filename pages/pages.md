@@ -10,38 +10,46 @@ Note: Pages that have an asterisk before them are still in progress to some degr
 
 ### Computers
 
-- \*[Keyboard Layouts](http://steventammen.com/keyboard-layouts/)
-- \*[Screen Reading](http://steventammen.com/screen-reading/)
+- \*[Keyboard Layouts](https://steventammen.com/keyboard-layouts/)
+- \*[Screen Reading](https://steventammen.com/screen-reading/)
 
 ### Gear
 
-- \*[Backpacks](http://steventammen.com/backpacks/)
-- \*[Erasers](http://steventammen.com/erasers/)
-- \*[Gear Evaluation](http://steventammen.com/gear-evaluation/)
-- \*[Guns](http://steventammen.com/guns/)
-- \*[Monitors](http://steventammen.com/monitors/)
-- \*[Motorcycles](http://steventammen.com/motorcycles/)
-- \*[Multitools](http://steventammen.com/multitools/)
-- \*[Pants](http://steventammen.com/pants/)
-- \*[Pencil Leads](http://steventammen.com/pencil-leads/)
-- \*[Pencils](http://steventammen.com/pencils/)
-- \*[Vests](http://steventammen.com/vests/)
-- \*[Watches](http://steventammen.com/watches/)
-- \*[Water Bottles](http://steventammen.com/water-bottles/)
+- \*[Backpacks](https://steventammen.com/backpacks/)
+- \*[Erasers](https://steventammen.com/erasers/)
+- \*[Gear Evaluation](https://steventammen.com/gear-evaluation/)
+- \*[Guns](https://steventammen.com/guns/)
+- \*[Monitors](https://steventammen.com/monitors/)
+- \*[Motorcycles](https://steventammen.com/motorcycles/)
+- \*[Multitools](https://steventammen.com/multitools/)
+- \*[Pants](https://steventammen.com/pants/)
+- \*[Pencil Leads](https://steventammen.com/pencil-leads/)
+- \*[Pencils](https://steventammen.com/pencils/)
+- \*[Vests](https://steventammen.com/vests/)
+- \*[Watches](https://steventammen.com/watches/)
+- \*[Water Bottles](https://steventammen.com/water-bottles/)
 
 
 ### Gear Collections
 
-- \*[Clothing](http://steventammen.com/clothing/)
-- \*[Every Day Carry](http://steventammen.com/every-day-carry/)
-- \*[Rain Gear](http://steventammen.com/rain-gear/)
-- \*[Work Environment](http://steventammen.com/work-environment/)
+- \*[Clothing](https://steventammen.com/clothing/)
+- \*[Every Day Carry](https://steventammen.com/every-day-carry/)
+- \*[Rain Gear](https://steventammen.com/rain-gear/)
+- \*[Work Environment](https://steventammen.com/work-environment/)
+
+### Learning
+
+- \*[Learning Styles](https://steventammen.com/learning-styles/)
+
+### Philosophy
+
+- \*[Priorities](https://steventammen.com/priorities/)
 
 ### Stenography
 
-- [Dictionary Generator](http://steventammen.com/dictionary-generator/)
-- \*[Steno Layouts](http://steventammen.com/steno-layouts/)
+- [Dictionary Generator](https://steventammen.com/dictionary-generator/)
+- \*[Steno Layouts](https://steventammen.com/steno-layouts/)
 
 ### Writing
 
-- \*[English Letterforms](http://steventammen.com/english-letterforms/)
+- \*[English Letterforms](https://steventammen.com/english-letterforms/)
