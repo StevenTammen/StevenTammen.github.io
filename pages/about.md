@@ -8,7 +8,7 @@ title: About
 
 ### Author
 
-My name is Steven Tammen and I am an undergraduate student at the University of Georgia. Things I am currently studying:
+My name is Steven Tammen and I am an undergraduate student at the University of Georgia. Things I am studying:
 
 1. Computer Science
 2. Classical Culture (especially imperial Rome)
@@ -16,8 +16,6 @@ My name is Steven Tammen and I am an undergraduate student at the University of 
 4. Biblical/Modern Hebrew
 
 I am officially triple-majoring in the first three, although I will have also taken six semesters of Hebrew by the time I graduate. (There is no degree program or minor for Hebrew at UGA).
-
-Outside of school, I spend much of my time studying and teaching the Bible. I am a Christian, and consider my faith a central part of my life and identity.
 
 My other activities cluster around the pursuit of perfection -- in design, in thought patterns, in character, and so forth. This takes the form of research and thought on a wide variety of topics in engineering, cognitive psychology, philosophy, and other disciplines as necessary.
 
