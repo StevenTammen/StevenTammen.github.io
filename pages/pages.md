@@ -43,7 +43,7 @@ Note: Pages that have an asterisk before them are still in progress to some degr
 
 ### Philosophy
 
-- \*[Priorities](https://steventammen.com/priorities/)
+- [Priorities](https://steventammen.com/priorities/)
 
 ### Stenography
 
