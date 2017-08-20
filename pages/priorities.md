@@ -81,7 +81,7 @@ Whether you believe in evolution through natural selection or divine creation (o
 
 Some practical tips:
 
-- If you substitute "vegetables and vegetables" for "fruits and vegetables," you will be better off every time. Most fruits are not bad *per se*, but their ratio of nutrients to sugar is much, much lower than that of vegetables.
+- If you substitute "vegetables and vegetables" for "fruits and vegetables," you will be better off every time. Most fruits are not bad *per se*, but their ratio of nutrients and fiber to sugar is much, much lower than that of vegetables.
 - Anyone that is trying to get you to buy their diet books/"special foods" is probably wrong in large or small part about something. Don't get sucked in by unrealistic promises of efficacy or marketing hype. A good rule of thumb is this: paradoxically, the more testimonials something has, the more you should avoid it. If somebody needs testimonials to push their products, usually it means the science doesn't support their claims or they are not intelligent enough to understand one way or the other (neither of which says very good things about them or their products).
 - Avoid extreme positions and authors that make use of sweeping condemnation or praise for any common food. Also avoid authors that talk about "the lost knowledge of our Paleolithic ancestors," "Eastern wisdom," etc. or advocate sourcing some uncommon food as a sort of cure-all health booster. Use common sense.
 - Trust methodologically-sound, peer-reviewed, double-blind scientific studies conducted by qualified and respected researchers without conflicts of interest and funded by entities without an axe to grind. Don't trust anything or anyone else, including the USDA and the AHA.
