@@ -8,6 +8,7 @@ header: Steven Tammen
 
 ## Recent Activity
 
+8/20/17   Published [priorities](https://steventammen.com/priorities)<br/>
 8/13/17   Worked on keyboard-layouts.md; updated layout images <br/>
 8/12/17   Added learning-styles.md and priorities.md <br/>
 7/31/17   Added motorcycles.md and work-envrionment.md <br/>
