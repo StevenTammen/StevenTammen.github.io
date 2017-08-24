@@ -46,11 +46,11 @@ By discipline, I mean the ability to do what you want to do when you want to do 
 
 Your ability to succeed at literally everything you do is a function of your discipline and thought. People who are better at thinking and have more discipline get more things done, better, in less time. It ought to go without saying, then, that these two are incredibly important to actively cultivate and exercise.
 
-#### 3. Stable and well-maintained interpersonal relationships
+#### 3. Stable and strong interpersonal relationships
 
 These relationships would include family, friends, and significant others. Research has shown that people that have support networks handle stress and adversity much better. They also tend to be happier and live longer.
 
-While most people don't look at relationships quite the same way as objects or processes, relationships can be studied and improved over time as well. For example, communication and trust, the foundations of any relationship, can be improved through conscious effort and work. (Though it generally requires this from both parties). Well-maintained relationships will always last longer and be closer than other relationships, increasing the benefits that relationships provide in the first place.
+While most people don't look at relationships quite the same way as objects or processes, relationships can be studied and improved over time as well. For example, communication and trust, the foundations of any relationship, can be improved through conscious effort and work. (Though it generally requires this from both parties). Relationships of this variety -- those that have been strengthened over time and invested in -- will always last longer and be closer than other relationships, increasing the benefits that relationships provide in the first place.
 
 #### 4. An implemented and disciplined routine of intellectual expansion through reading
 
@@ -97,4 +97,3 @@ I would suggest starting with "meta-skills" like typing. Learning how to touch-t
 - Learning about effective time/project management systems like GTD, Kanban, the Pomodoro method, etc., and combining them in various ways to come up with the productivity system that works best for you
 - Adopting functional minimalism, wherein you only own the things that give you value; simplifying your possessions
 - Learning about another culture, and learning their language and way of thought
-- Learning how to track indvidual performance metrics and make use of the data to improve your weaknesses
