@@ -1,4 +1,4 @@
-  ---
+---
 permalink: /life-meaning/
 layout: layout
 title: Life Meaning
@@ -175,7 +175,7 @@ I say negative absolute moral value because right is never determined by action 
 Put into logical terms, if n = "I do something with a negative absolute moral value," i = "I have right intent," r = "I do right," and w = "I do wrong," then:
 
 1. n implies w
-2. ¬n and i implies r
+2. r is equivalent to ¬n and i
 
 Truth tables:
 
@@ -211,78 +211,37 @@ Truth tables:
   <tr>
     <th>n</th>
     <th>i</th>
-    <th>r</th>
     <th>¬n</th>
     <th>¬n ∧ i</th>
-    <th>(¬n ∧ i )→ r</th>
-  </tr>
-  <tr>
-    <td>T</td>
-    <td>T</td>
-    <td>T</td>
-    <td>F</td>
-    <td>F</td>
-    <td>T</td>
   </tr>
   <tr>
     <td>T</td>
     <td>T</td>
     <td>F</td>
     <td>F</td>
-    <td>F</td>
-    <td>T</td>
-  </tr>
-  <tr>
-    <td>T</td>
-    <td>F</td>
-    <td>T</td>
-    <td>F</td>
-    <td>F</td>
-    <td>T</td>
   </tr>
   <tr>
     <td>T</td>
     <td>F</td>
     <td>F</td>
     <td>F</td>
-    <td>F</td>
-    <td>T</td>
   </tr>
   <tr>
     <td>F</td>
     <td>T</td>
     <td>T</td>
     <td>T</td>
-    <td>T</td>
-    <td>T</td>
-  </tr>
-  <tr>
-    <td>F</td>
-    <td>T</td>
-    <td>F</td>
-    <td>T</td>
-    <td>T</td>
-    <td>F</td>
   </tr>
   <tr>
     <td>F</td>
     <td>F</td>
     <td>T</td>
-    <td>T</td>
     <td>F</td>
-    <td>T</td>
-  </tr>
-  <tr>
-    <td>F</td>
-    <td>F</td>
-    <td>F</td>
-    <td>T</td>
-    <td>F</td>
-    <td>T</td>
   </tr>
 </table>
 
 
+Notice that the only way to do right is to not do something with negative absolute moral value and to do something with right intent, while it is possible to 
 
 
 
