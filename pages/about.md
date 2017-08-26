@@ -18,7 +18,8 @@ More specific information about me can be found in [my CV](https://steventammen.
 
 This site exists to
 
-- Give me a centralized internet presence and place to showcase my work
+- Give me a centralized internet presence
+- Give me a place to showcase my work
 - Give me a platform to spread my thoughts on a wide variety of otherwise unrelated topics
 - Contribute to free and open knowledge
 
