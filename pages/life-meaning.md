@@ -35,21 +35,21 @@ I will argue in no uncertain terms that this particular position (i.e., a reject
 
 The argument:
 
-1) If there is no absolute morality, then there is no rational basis for declaring any action worse than any other action.
+1) If absolute morality does not exist, then there is no rational basis for declaring any action worse than any other action.
 2) Some actions are worse than other actions.
 3) Therefore, absolute morality exists.
 
 ### Propositon 1
 
-In propositional logic, the first propistion is what is known as an *implication*. If we let p = "there is absolute morality" and q = "there is a rational basis for declaring an action worse than another action," then proposition one can be written out formally as "not p implies not q" or "not q is necessary for not p." Here is the truth table for this particular implication:
+In propositional logic, the first propistion is what is known as an *implication*. If we let a = "absolute morality exists" and w = "there is a rational basis for declaring an action worse than another action," then proposition one can be written out formally as "not a implies not w" or "not w is necessary for not a." Here is the truth table for this particular implication:
 
 <table>
   <tr>
-    <th>p</th>
-    <th>q</th>
-    <th>¬p</th>
-    <th>¬q</th>
-    <th>¬p → ¬q</th>
+    <th>a</th>
+    <th>w</th>
+    <th>¬a</th>
+    <th>¬w</th>
+    <th>¬a → ¬w</th>
   </tr>
   <tr>
     <td>T</td>
@@ -81,11 +81,11 @@ In propositional logic, the first propistion is what is known as an *implication
   </tr>
 </table>
 
-If the implication holds, then any time ¬p is true, ¬q must also be true (hence why say that ¬q is *necessary* for ¬p). To argue that the implication does not hold would require another basis than morality for evaluating things as "better" and "worse." In fact, many philosophers have attempted over the years to convince us that behavior can be classified as better or worse using ethics without any moral judgements of right or wrong being necessary (for example, actions that maximize the pleasure and minimizing the pain of the most people are "better"). By engaging in a healthy amount of sophistry and redirection, sometimes it appears that there are no moral underpinnings to such arguments. However, morality is inescapable. Why should pleasure be maximized instead of pain? Is it not because maximizing pain for the most people is "bad" while maximizing pleasure for the most people is "good"?
+If the implication holds, then any time ¬a is true, ¬w must also be true (hence why say that ¬w is *necessary* for ¬a). To argue that the implication does not hold would require another basis than morality for evaluating things as "better" and "worse." In fact, many philosophers have attempted over the years to convince us that behavior can be classified as better or worse using ethics without any moral judgements of right or wrong being necessary (for example, actions that maximize the pleasure and minimize the pain of the most people are "better"). By engaging in a healthy amount of sophistry and redirection, sometimes it appears that there are no moral underpinnings to such arguments. However, morality is inescapable. Why should pleasure be maximized instead of pain? Is it not because maximizing pain for the most people is "bad" while maximizing pleasure for the most people is "good"?
 
 ### Proposition 2
 
-Proposition 2 can be shown to be true using a simple *reductio ad absurdum* argument:
+Proposition 2 can be shown to be true using a simple [*reductio ad absurdum*](https://en.wikipedia.org/wiki/Reductio_ad_absurdum) argument:
 
 If no actions are worse than any other actions, then [insert terrible action] is no worse than saving starving children.
 
@@ -98,13 +98,75 @@ Here's some examples to put in the [insert terrible action] slot:
 
 If you seriously want to argue that torturing puppies is no worse than saving starving children that is your perogative. This proposition is necessary for the rest of the argument on this page, so you can go ahead and ignore my conclusions if you like.
 
-If you have yourself convinced that my response to such atrocities is simply a product of cultural indoctrination from childhood (etc.), I might suggest that you have never been inside my head. The way that murdered children make me feel -- the way my blood rises, the way my mouth pulls into a grimace, the way my eyes flash darkly -- this is not a product of manufactured societal propogranda. It's real.
+Perhaps you have yourself convinced that my response to such atrocities is simply a product of cultural indoctrination from childhood (etc.). I might suggest that you have never been inside my head: the way that murdered children make me feel -- the way my blood rises, the way my fists clench, the way my eyes flash darkly -- this is not a product of manufactured societal propogranda. It's real.
 
 I can accept that you may not feel the same way (i.e., that this *reductio ad absurdum* argument relies on a subjective experience and therefore is not logically certain), but that doesn't make me wrong. Just because humans can learn to sear their consciences over time does not mean that they do not exist in the first place.
 
 ### Conclusion
 
-The conclusion follow
+The conclusion follows because we have established that a) the implication holds, and that b) w is true (i.e., "there is a rational basis for declaring an action worse than another action"). If you look at the single row in the truth table for which the implication holds and w is true, ¬a is false, and a is true. In other words, absolute morality exists.
+
+## There is such a thing as meaning in life
+
+This argument should require a little less explanation:
+
+1. Absolute morality exists
+2. Humans are capable of discerning right from wrong
+3. Discerning right from wrong is a necessary but not sufficient condition for doing right
+4. Doing right is the source of true meaning in life
+5. Therefore, it is possible for life to have meaning
+
+### Proposition 1
+
+We just proved this above. Implicit in this proposition are the existence of two categories called "right" and "wrong," which are central to the rest of the argument.
+
+### Proposition 2
+
+I hold that this proposition is self-evident. Our entire justice system, for example, is based upon the assumption that this is true.
+
+While this proposition does not need to be true 100% of the time for the argument to hold, I personally believe that it is actually true 100% of the time. People know what is right and wrong in their hearts, even if all the world tells them otherwise. No person who ran a concentration camp in Germany, for example, could use the "but they told me it was right" excuse to defend their behavior -- even though their whole higher governmental system told them it was right, they still knew it was wrong. At least in my opnion.
+
+### Proposition 3
+
+We can put this into propositional logic like the implication of the argument above. If d = "I discern right from wrong" and r = "I do right," then this implication reads "r implies d." Here's the truth table:
+
+<table>
+  <tr>
+    <th>r</th>
+    <th>d</th>
+    <th>r → d</th>
+  </tr>
+  <tr>
+    <td>T</td>
+    <td>T</td>
+    <td>T</td>
+  </tr>
+  <tr>
+    <td>T</td>
+    <td>F</td>
+    <td>F</td>
+  </tr>
+  <tr>
+    <td>F</td>
+    <td>T</td>
+    <td>T</td>
+  </tr>
+  <tr>
+    <td>F</td>
+    <td>F</td>
+    <td>T</td>
+  </tr>
+</table>
+
+
+
+We just proved proposition 1 above. Proposition 2 depends upon the categories of "good" and "evil" existing, hence why proposition one is necessary for the argument. 
+
+
+
+and if proposition 3 is a valid implication, the conclusion follows through [*modus ponens*](https://en.wikipedia.org/wiki/Modus_ponens).
+
+So then, how do we know if proposition 1 is a valid imlication? Well, it is hardly controversial
 
 
 
