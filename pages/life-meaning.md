@@ -158,15 +158,142 @@ We can put this into propositional logic like the implication of the argument ab
   </tr>
 </table>
 
+Note that this implication does not hold if it is possible to do right without discerning right from wrong. As I mentioned above, I don't believe that it is possible for humans to not know right from wrong (which would obviate the need for an explanaton here since d would always be true, and thus the implication always true). However, for those that do not believe this, it is still possible to show that the implication holds.
+
+A counterexample someone might use of someone doing right without knowing right from wrong is a gang lord paying rent on his drug warehouses, thereby supporting the education of local orphans. "Aha!" they say, "the gang lord is doing right by supporting the education of local orphans." I submit that the gang lord is not inherently doing right because his actions end up supporting the education of local orphans (a consequece he may not even know about).
+
+To look at this another way, let's flip the situation and suggest that someone could do wrong by association as well. For example, a taxi driver unknowingly takes a psychopath to the house of his ex-wife who spurned him. The next day the woman is found brutally raped and murdered. Did the taxi driver do wrong? If you are to argue that the gang lord did right above, you would also have to argue that the taxi driver did wrong here. Not only that, for our law system to be just, the taxi driver ought to be punished for his wrongdoing.
+
+Of course, the tricky thing here is that some gang lords might actually pay rent on their drug warehouses to suport the education of orphans (maybe because they grew up an orphan themselves they chose drug warehousing locations that would enable them to pay rent to an orphanage), and that some taxi drivers might actually drive a psychopath to his ex-wife's house in full knowledge of the possible outcome (maybe because he is the greedy younger brother of the ex-wife who stands to inherit her estate). You see, whether or not people do right and wrong is not independent from their intentions.
+
+In philosophy this is the debate between [consequentialism](https://en.wikipedia.org/wiki/Consequentialism) and [deontology](https://en.wikipedia.org/wiki/Deontological_ethics). If you are a strict consequentialist then consequences alone determine right and wrong and this implication does not hold.
+
+It's worth pointing out that deontology does not entirely ignore consequences, merely that right and wrong are functions of *intended* consequences rather than *actual* consequences. It's also worth pointing out that moral absolutism (as argued for above) and deontology are not mutually exclusive if you don't view deontology as a means of overturning negative moral absolutes -- i.e., you define the domain to which deontology applies to those actions that do not have negative absolute moral value. For example, stealing to feed one's family is understandable but still wrong, because stealing is universally wrong (stealing has negative absolute moral value). In our example above about the taxi driver, intent determines morality because driving a taxi has no negative absolute moral value.
+
+I say negative absolute moral value because right is never determined by action alone, and is thus always subject to the intent and the constraints of deontology. In other words, doing something with positive actual consequences for the wrong reasons is still not right, even though it may not be wrong. For example, giving money ostentatiously to the poor may not be right, but it is not wrong either. ("Not right" and "wrong" are not equivalent propositions, i.e., something being "wrong" is not a necessary and sufficient condition for being "not right" in all cases, but only sufficient).
+
+Put into logical terms, if n = "I do something with a negative absolute moral value," i = "I have right intent," r = "I do right," and w = "I do wrong," then:
+
+1. n implies w
+2. ¬n and i implies r
+
+Truth tables:
+
+<table>
+  <tr>
+    <th>n</th>
+    <th>w</th>
+    <th>n → w</th>
+  </tr>
+  <tr>
+    <td>T</td>
+    <td>T</td>
+    <td>T</td>
+  </tr>
+  <tr>
+    <td>T</td>
+    <td>F</td>
+    <td>F</td>
+  </tr>
+  <tr>
+    <td>F</td>
+    <td>T</td>
+    <td>T</td>
+  </tr>
+  <tr>
+    <td>F</td>
+    <td>F</td>
+    <td>T</td>
+  </tr>
+</table><br/>
+
+<table>
+  <tr>
+    <th>n</th>
+    <th>i</th>
+    <th>r</th>
+    <th>¬n</th>
+    <th>¬n ∧ i</th>
+    <th>(¬n ∧ i )→ r</th>
+  </tr>
+  <tr>
+    <td>T</td>
+    <td>T</td>
+    <td>T</td>
+    <td>F</td>
+    <td>F</td>
+    <td>T</td>
+  </tr>
+  <tr>
+    <td>T</td>
+    <td>T</td>
+    <td>F</td>
+    <td>F</td>
+    <td>F</td>
+    <td>T</td>
+  </tr>
+  <tr>
+    <td>T</td>
+    <td>F</td>
+    <td>T</td>
+    <td>F</td>
+    <td>F</td>
+    <td>T</td>
+  </tr>
+  <tr>
+    <td>T</td>
+    <td>F</td>
+    <td>F</td>
+    <td>F</td>
+    <td>F</td>
+    <td>T</td>
+  </tr>
+  <tr>
+    <td>F</td>
+    <td>T</td>
+    <td>T</td>
+    <td>T</td>
+    <td>T</td>
+    <td>T</td>
+  </tr>
+  <tr>
+    <td>F</td>
+    <td>T</td>
+    <td>F</td>
+    <td>T</td>
+    <td>T</td>
+    <td>F</td>
+  </tr>
+  <tr>
+    <td>F</td>
+    <td>F</td>
+    <td>T</td>
+    <td>T</td>
+    <td>F</td>
+    <td>T</td>
+  </tr>
+  <tr>
+    <td>F</td>
+    <td>F</td>
+    <td>F</td>
+    <td>T</td>
+    <td>F</td>
+    <td>T</td>
+  </tr>
+</table>
 
 
-We just proved proposition 1 above. Proposition 2 depends upon the categories of "good" and "evil" existing, hence why proposition one is necessary for the argument. 
 
 
 
-and if proposition 3 is a valid implication, the conclusion follows through [*modus ponens*](https://en.wikipedia.org/wiki/Modus_ponens).
 
-So then, how do we know if proposition 1 is a valid imlication? Well, it is hardly controversial
+
+
+People will often come up with thought experiments where they attempt to show that the two are incompatible -- for example, lying to the Nazis about the religion of your Jewish neighbors to save them from execution. The problem is that this approach almost invariably straw man's the moral absolutists' position. In the example above, I, as a moral absolutist, have no problem with lying to evil people or enemy nations (that is counterintelligence in a nutshell, after all). In other words, while I may be absolute in the idea that there is right and wrong for any given situation, it does not mean that 
+
+
+
+All such examples engage in what I call "result substitution," wherein a positive outcome of some action is attributed to the agent of the action. The problem here is that, technically speaking, the agent did *not* do the outcome, he did the action. So unless the action itself was right, the agent did not do right.
 
 
 
