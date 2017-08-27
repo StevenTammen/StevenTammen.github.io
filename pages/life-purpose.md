@@ -20,7 +20,7 @@ title: Life Purpose
 
 ## Outline
 
-The arguments on this page are structured in the following order:
+The arguments on this page are arranged in the following order:
 
 1. Absolute Morality exists
 2. Doing right is a source of legitimate purpose in life
@@ -41,7 +41,7 @@ The argument:
 
 ### Propositon 1
 
-In propositional logic, the first propistion is what is known as an *implication*. If we let a = "absolute morality exists" and w = "there is a rational basis for declaring an action worse than another action," then proposition one can be written out formally as "not a implies not w" or "not w is necessary for not a." Here is the truth table for this particular implication:
+In propositional logic, the first proposition is what is known as an *implication*. If we let a = "absolute morality exists" and w = "there is a rational basis for declaring an action worse than another action," then proposition one can be written out formally as "not a implies not w" or "not w is necessary for not a." Here is the truth table for this particular implication:
 
 <table>
   <tr>
@@ -80,6 +80,7 @@ In propositional logic, the first propistion is what is known as an *implication
     <td>T</td>
   </tr>
 </table>
+<br/>
 
 If the implication holds, then any time ¬a is true, ¬w must also be true (hence why say that ¬w is *necessary* for ¬a). To argue that the implication does not hold would require another basis than morality for evaluating things as "better" and "worse." In fact, many philosophers have attempted over the years to convince us that behavior can be classified as better or worse using ethics without any moral judgements of right or wrong being necessary (for example, actions that maximize the pleasure and minimize the pain of the most people are "better"). By engaging in a healthy amount of sophistry and redirection, sometimes it appears that there are no moral underpinnings to such arguments. However, morality is inescapable. Why should pleasure be maximized instead of pain? Is it not because maximizing pain for the most people is "bad" while maximizing pleasure for the most people is "good"?
 
@@ -100,7 +101,7 @@ If you seriously want to argue that torturing puppies is no worse than saving st
 
 Perhaps you have yourself convinced that my response to such atrocities is simply a product of cultural indoctrination from childhood (etc.). I might suggest that you have never been inside my head: the way that murdered children make me feel -- the way my blood rises, the way my fists clench, the way my eyes flash darkly -- this is not a product of manufactured societal propogranda. It's real.
 
-I can accept that you may not feel the same way (i.e., that this *reductio ad absurdum* argument relies on a subjective experience and therefore is not logically certain), but that doesn't make me wrong. Just because humans can learn to sear their consciences over time does not mean that they do not exist in the first place.
+I can accept that you may not feel the same way (i.e., that this *reductio ad absurdum* argument relies on a subjective experience and is therefore not logically certain), but that doesn't make me wrong. Just because humans can learn to sear their consciences over time does not mean that they do not exist in the first place.
 
 ### Conclusion
 
