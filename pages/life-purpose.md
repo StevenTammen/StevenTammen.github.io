@@ -41,7 +41,7 @@ The argument:
 
 ### Propositon 1
 
-In propositional logic, the first proposition is what is known as an *implication*. If we let a = "absolute morality exists" and w = "there is a rational basis for declaring an action worse than another action," then proposition one can be written out formally as "not a implies not w" or "not w is necessary for not a." Here is the truth table for this particular implication:
+In propositional logic, the first proposition is what is known as an *implication*. If we let a = "absolute morality exists" and w = "there is a rational basis for declaring an action worse than another action," then proposition 1 can be written out formally as "¬a implies ¬w" or "¬w is necessary for ¬a." Here is the truth table for this particular implication:
 
 <table>
   <tr>
@@ -82,7 +82,7 @@ In propositional logic, the first proposition is what is known as an *implicatio
 </table>
 <br/>
 
-If the implication holds, then any time ¬a is true, ¬w must also be true (hence why say that ¬w is *necessary* for ¬a). To argue that the implication does not hold would require another basis than morality for evaluating things as "better" and "worse." In fact, many philosophers have attempted over the years to convince us that behavior can be classified as better or worse using ethics without any moral judgements of right or wrong being necessary (for example, actions that maximize the pleasure and minimize the pain of the most people are "better"). By engaging in a healthy amount of sophistry and redirection, sometimes it appears that there are no moral underpinnings to such arguments. However, morality is inescapable. Why should pleasure be maximized instead of pain? Is it not because maximizing pain for the most people is "bad" while maximizing pleasure for the most people is "good"?
+If the implication holds, then any time ¬a is true, ¬w must also be true (hence why say that ¬w is *necessary* for ¬a). To argue that the implication does not hold would require another basis than morality for evaluating things as "better" and "worse." In fact, many philosophers have attempted over the years to convince us that behavior can be classified as better or worse using ethics without any moral judgements of right or wrong being necessary (for example, actions that maximize the pleasure and minimize the pain of the most people are "better"). By engaging in a healthy amount of sophistry and redirection, sometimes it appears that there are no moral underpinnings to such arguments. However, morality is inescapable. Why should pleasure be maximized instead of pain? Is it not because maximizing pain for the most people is "wrong" while maximizing pleasure for the most people is "right"?
 
 ### Proposition 2
 
@@ -137,11 +137,11 @@ To prove that individual life purpose exists, we first start with an argument of
 
 Proposition 1 is proved in argument 2, and proposition 2 is proved [here](https://steventammen.com/morality-and-individual-circumstances/).
 
-If we define individual life purpose to be the purpose found from following absolute morality with right intent given individual circumstances, then the conclusion to the argument above proves that individual life purpose exists.
+If we define individual life purpose to be the purpose found from following absolute morality with right intent given individual circumstances (i.e., following the normative ethics based upon one's individual circumstances), then the conclusion to the argument above proves that individual life purpose exists.
 
 ## Argument 4: Individual life purpose is knowable
 
-Given that individual life purpose is the purpose found from following absolute morality with right intent given individual circumstances, there are three things that could cause individual life purpose to be unknowable: 
+Given the above definition for individual life purpose, there are three things that could cause individual life purpose to be unknowable: 
 
 1. If absolute morality is unknowable
 2. If right intent is unknowable
