@@ -71,10 +71,10 @@ In my opinion, it is best to do both aerobic and anaerobic training to get the b
 
 In general, such a diet would
 
-- Be free of or low in processed foods, added sugar, and processed/high omega-6 oils
+- Be free of or low in processed foods, added sugar, and high omega-6 oils
 - Be high in vegetables, naturally occurring antioxidants, and omega-3 fatty acids
 
-Whether you believe in evolution through natural selection or divine creation (of whatever form: Christian, Muslim, etc.), either way humans were not "designed" to eat processed foods. In practice, if you avoid buying anything packaged and pre-prepared (unless you know exactly what is in it and where it comes from), you will avoid most of the persistent health problems related to metabolic syndrome. You will have to cook for yourself, however.
+Whether you believe in evolution through natural selection or divine creation (of whatever form: Christian, Muslim, etc.), either way humans were not designed to eat processed foods. In practice, if you avoid buying anything packaged and pre-prepared (unless you know exactly what is in it and where it comes from), you will avoid most of the persistent health problems related to metabolic syndrome. You will have to cook for yourself, however.
 
 Some practical tips:
 
@@ -89,7 +89,7 @@ Some practical tips:
 
 After the 6 above (which, again, are merely my opinions on what is universally important), you are going to have to decide what to focus on next. In general, this will relate to your life purpose (as discussed above).
 
-I would suggest starting with "meta-skills" like typing. Learning how to touch-type *enables* you to be much more efficient on a wide number of tasks, as well as speeding up the rate at which you can achieve a degree of success in other high-priority areas. Some other good things to start with (in my opinion):
+I would suggest starting with "meta-skills" like typing. Learning how to touch-type *enables* you to be much more efficient on a wide number of tasks, as well as speeding up the rate at which you can achieve a degree of success in other high-priority areas. Some other good things to start with:
 
 - Learning mouseless text-editing (in the manner of Vim or Emacs).
 - Learning how to effectively meditate (in the scientific sense, not the eastern mysticism sense)
