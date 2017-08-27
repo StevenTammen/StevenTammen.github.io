@@ -69,11 +69,11 @@ We can put this into propositional logic. If d = "I discern right from wrong" an
 </table>
 <br/>
 
-Note that this implication does not hold if it is possible to do right without discerning right from wrong. As I mentioned above, I don't believe that it is possible for humans to not know right from wrong (which would obviate the need for an explanation here since d would always be true, and thus the implication always true). However, for those that do not believe this, it is still possible to show that the implication holds.
+Note that this implication does not hold if it is possible to do right without discerning right from wrong. As I mentioned above, I don't believe that it is possible for humans to not know right from wrong (which would obviate the need for an explanation here since d would always be true, and thus the implication would also always be true). However, for those that do not believe this, it is still possible to show that the implication holds.
 
-A counterexample someone might use of a person doing right without discerning right from wrong is a business owner paying rent on his warehouse that is owned by the man who runs the local orphanage, thereby supporting local orphans. "Aha!" they say, "the business owner is doing right by supporting local orphans." I submit that the business owner is not inherently doing right because his actions end up supporting the local orphans (a consequence he may not even know about).
+A counterexample someone might use of a person doing right without discerning right from wrong is a business owner paying rent on his warehouse that is owned by a man who runs a local orphanage, thereby supporting local orphans. "Aha!" they say, "the business owner is doing right by supporting local orphans." I submit that the business owner is not inherently doing right because his actions end up supporting the local orphans (a consequence he may not even know about).
 
-Of course, the tricky thing here is that a business owner might actually pay rent on his warehouse in order to suport local orphans (maybe because he grew up an orphan himself he chose a location for a warehouse that would enable him to pay rent that would be used to support an orphanage). This case is different since the business owner's *intention* is right -- he knows about the warehouse owner's orphanage and is acting in support of it. To have right intent, however, he had to know what was right to begin with... meaning he had to discern right from wrong.
+Of course, the tricky thing here is that a business owner might actually pay rent on his warehouse in order to suport local orphans (maybe because he grew up an orphan himself he chose a warehouse that would enable him to pay rent to a landlord that runs a local orphanage). This case is different since the business owner's *intention* is right -- he knows about the warehouse owner's orphanage and is acting in support of it. To have right intent, however, he had to know what was right to begin with... meaning he had to discern right from wrong.
 
 In philosophy the contrast introduced above revolves around the difference between [consequentialism](https://en.wikipedia.org/wiki/Consequentialism) and [deontology](https://en.wikipedia.org/wiki/Deontological_ethics). If you are a strict consequentialist then consequences alone determine right and wrong and this implication does not hold. Most people, myself included, are not strict consequentialists.
 
@@ -81,7 +81,16 @@ It's worth pointing out that deontology does not entirely ignore consequences, m
 
 I say *negative* absolute moral value above because right is never determined by action alone, and is thus always subject to intent and the constraints of deontology. In other words, there is no such thing as a positive absolute moral value because doing something that would normally be right for unsound reasons is still not right, even though it may not be wrong. For example, giving money ostentatiously to the poor to be praised for one's generosity is not right (but it is not strictly wrong either). Therefore, since giving money to the poor is not universally right regardless of intent, it does not have positive absolute moral value. (A similar argument can be used in other cases to show that positive absolute moral values do not exist).
 
-Put into logical terms we may understand moral action in the following way -- if n = "I do something with a negative absolute moral value," i = "I have right intent," r = "I do right," and w = "I do wrong," then:
+Put into logical terms we may understand moral action in the following way:
+
+If 
+
+- n = "I do something with a negative absolute moral value" 
+- i = "I have right intent" 
+- r = "I do right"
+- w = "I do wrong"
+
+Then:
 
 #### n implies w
 
