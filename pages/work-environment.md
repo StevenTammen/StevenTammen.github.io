@@ -19,7 +19,7 @@ title: Work Environment
 </div>
 <br/>
 
-Your work environment is simply the collection of objects and intangible surroundings that play a role in your typing. For most of us, that means a keyboard, a monitor, a desk, a chair, and some way to manage sound (headphones/earplugs). Each element of the work environment is briefly discussed below, but ultimately you should do more research. Don’t just take my word for these things. 
+Your work environment is simply the collection of objects and intangible surroundings that play a role in your work. For most of us, that means a keyboard, a monitor, a desk, a chair, and some way to manage sound (headphones/earplugs). Each element of the work environment is briefly discussed below, but ultimately you should do more research. Don’t just take my word for these things. 
 
 ## Monitor
 
