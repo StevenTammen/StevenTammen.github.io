@@ -23,9 +23,7 @@ title: Life Purpose
 The arguments on this page are arranged in the following order:
 
 1. Objective morality exists
-2. Doing right is a source of legitimate purpose in life
-3. Individual life purpose exists
-4. Individual life purpose is knowable
+2. It is possible to have a life purpose
 
 ## Argument 1: Objective morality exists
 
@@ -39,7 +37,7 @@ The argument:
 2. Some actions are worse than other actions.
 3. Therefore, objective morality exists.
 
-### Propositon 1
+### Propositon 1: If objective morality does not exist, then no actions are worse than any other actions
 
 In propositional logic, the first proposition is what is known as an *implication*. If we let a = "objective morality exists" and w = "some actions are worse than other actions," then proposition 1 can be written out formally as "¬a implies ¬w" or "¬w is necessary for ¬a." Here is the truth table for this particular implication:
 
@@ -84,7 +82,7 @@ In propositional logic, the first proposition is what is known as an *implicatio
 
 If the implication holds, then any time ¬a is true, ¬w must also be true (hence why say that ¬w is *necessary* for ¬a). To argue that the implication does not hold would require some basis other than morality for evaluating things as "better" and "worse." In fact, many philosophers have attempted over the years to convince us that behavior can be classified as better or worse using ethics without any moral judgements of right or wrong being necessary (for example, actions that maximize the pleasure and minimize the pain of the most people are "better"). By engaging in a healthy amount of sophistry and redirection, sometimes it appears that there are no moral underpinnings to such arguments. However, morality is inescapable. Why should pleasure be maximized instead of pain? Is it not because maximizing pain for the most people is "wrong" while maximizing pleasure for the most people is "right"?
 
-### Proposition 2
+### Proposition 2: Some actions are worse than other actions
 
 Proposition 2 can be shown to be true using a simple [*reductio ad absurdum*](https://en.wikipedia.org/wiki/Reductio_ad_absurdum) argument:
 
@@ -104,7 +102,7 @@ Perhaps you think that my response to such atrocities is simply a product of cul
 
 I can accept that you may not feel the same way (i.e., that this argument relies on a subjective experience and is therefore not logically certain), but that doesn't make me wrong. Just because humans can learn to sear their consciences over time does not mean that they do not exist in the first place.
 
-### Conclusion
+### Conclusion: Objective morality exists
 
 The conclusion follows because we have established that a) the implication holds, and that b) w is true (i.e., "some actions are worse than other actions"). If you look at the single row in the truth table for which the implication holds and w is true, ¬a is false, and a is true. In other words, objective morality exists.
 
@@ -141,13 +139,13 @@ Then
 3. Therefore, r → (d ∧ c)
 4. d is not a contradiction (i.e., can be true)
 5. c is not a contradiction (i.e., can be true)
-6. Therefore, r is not a contraction (i.e., can be true)
+6. Therefore, r is not a contradiction (i.e., can be true)
 7. r → l
 8. Therefore, l is not a contradiction (i.e., can be true)
 
-### Proposition 1
+### Proposition 1: Discerning right actions from wrong actions is a necessary but not sufficient condition for doing right
 
-We can put this into propositional logic. If d = "I discern right from wrong" and r = "I do right," then this implication reads "r implies d." Here's the truth table:
+Here's the truth table for this implication:
 
 <table>
   <tr>
@@ -178,15 +176,13 @@ We can put this into propositional logic. If d = "I discern right from wrong" an
 </table>
 <br/>
 
-Note that this implication does not hold if it is possible to do right without discerning right from wrong. As I mentioned above, I don't believe that it is possible for humans to not know right from wrong (which would obviate the need for an explanation here since d would always be true, and thus the implication would also always be true). However, for those that do not believe this, it is still possible to show that the implication holds.
+Note that this implication does not hold if it is possible to do right without discerning right actions from wrong actions. A counterexample someone might use of a person doing right without discerning right action from wrong action is a business owner paying rent on a warehouse he uses, a warehouse that is owned by a man who runs a local orphanage and puts all his profits into the orphanage. "Aha!" they say, "the business owner is doing right by supporting local orphans." I submit that the business owner is not inherently doing right because his actions end up supporting the local orphans (a consequence he may not even know about).
 
-A counterexample someone might use of a person doing right without discerning right from wrong is a business owner paying rent on his warehouse that is owned by a man who runs a local orphanage, thereby supporting local orphans. "Aha!" they say, "the business owner is doing right by supporting local orphans." I submit that the business owner is not inherently doing right because his actions end up supporting the local orphans (a consequence he may not even know about).
-
-Of course, the tricky thing here is that a business owner might actually pay rent on his warehouse in order to suport local orphans (maybe because he grew up an orphan himself he chose a warehouse that would enable him to pay rent to a landlord that runs a local orphanage). This case is different since the business owner's *intention* is right -- he knows about the warehouse owner's orphanage and is acting in support of it. To have right intent, however, he had to know what was right to begin with... meaning he had to discern right from wrong.
+Of course, the tricky thing here is that a business owner might actually pay rent on his warehouse in order to suport local orphans (maybe because he grew up an orphan himself he chose a warehouse that would enable him to pay rent to a landlord that runs a local orphanage). This case is different since the business owner's *intention* is right -- he knows about the warehouse owner's orphanage and is acting in support of it. To have right intent, however, he had to know what was right to begin with... meaning he had to discern right action from wrong action.
 
 In philosophy the contrast introduced above revolves around the difference between [consequentialism](https://en.wikipedia.org/wiki/Consequentialism) and [deontology](https://en.wikipedia.org/wiki/Deontological_ethics). If you are a strict consequentialist then consequences alone determine right and wrong and this implication does not hold. Most people, myself included, are not strict consequentialists.
 
-It's worth pointing out that deontology does not entirely ignore consequences, merely that right and wrong are functions of *intended* consequences rather than *actual* consequences. It's also worth pointing out that moral absolutism and deontology are not mutually exclusive if you view right and wrong as a composite of intent and absolute moral law. For example, stealing from one's neighbors to feed one's family is understandable but still wrong, because stealing from innocent people is universally wrong (stealing from innocent people has negative absolute moral value).
+It's worth pointing out that deontology does not entirely ignore consequences, merely that right and wrong are functions of *intended* consequences rather than *actual* consequences. It's also worth pointing out that moral absolutism and deontology are not mutually exclusive if you view right and wrong as a composite of intent and absolute moral law. (Moral absolutism is different than moral objectivism -- moral absolutism holds that some actions have moral value that does not change based upon circumstances and context, while moral objectivism holds that right and wrong are not determined by custom and opinion, but may vary depending on context. All moral absolutists are moral objectivists, but not vice versa.) For example, stealing from one's innocent neighbors to feed one's family is understandable but still wrong, because stealing from innocent people is universally wrong (stealing from innocent people has negative absolute moral value).
 
 I say *negative* absolute moral value above because right is never determined by action alone, and is thus always subject to intent and the constraints of deontology. In other words, there is no such thing as a positive absolute moral value because doing something that would normally be right for unsound reasons is still not right, even though it may not be wrong. For example, giving money ostentatiously to the poor to be praised for one's generosity is not right (but it is not strictly wrong either). Therefore, since giving money to the poor is not universally right regardless of intent, it does not have positive absolute moral value. (A similar argument can be used in other cases to show that positive absolute moral values do not exist).
 
@@ -314,75 +310,240 @@ Note that a similar argument can be used to show that ¬w is not equivalent to r
 
 Note that the *only* way to do right is to not do something with negative absolute moral value and to do something with right intent.
 
-Above I dealt with the objection of someone without right intent (i.e., someone who did not discern right from wrong) doing something that ended up having positive consequences (the business owner supporting the local orphans). Now that we have dealt with some more of the philosophy behind right and wrong, it is possible to see why such an objection is raised: by failing to recognize the possibility of action that is neither morally right nor morally wrong due to a lack of intent, people come to the conclusion that discerning right from wrong is not a necessary condition to doing right.
+Above I dealt with the objection of someone without right intent (i.e., someone who did not discern right action from wrong action) doing something that ended up having positive consequences (the business owner supporting the local orphans). Now that we have dealt with some more of the philosophy behind right and wrong, it is possible to see why such an objection is raised: by failing to recognize the possibility of action that is neither morally right nor morally wrong (due to a lack of intent), people come to the conclusion that discerning right action from wrong action is not a necessary condition to doing right.
 
-The flaw in this logic is that it implicitly presupposes that decisions without intent are moral decisions in the first place -- it substitutes strict consequentialism for deontology for all decisions that result in positive consequences. Now, this is well and good if one actually holds to strict consequentialism, but if you purport to hold to deontology (at least in general), it is impermissable to arbitrarily decide that intent is not necessary for moral decision-making.
+The flaw in this logic is that it implicitly presupposes that decisions without intent are moral decisions in the first place -- it substitutes strict consequentialism for deontology for all decisions that result in positive consequences. Now, this is well and good if one actually holds to strict consequentialism, but if you purport to hold to deontology (at least in general), it is impermissible to arbitrarily decide that intent is not necessary for moral decision-making.
 
 Brushing one's teeth for example, is not a moral decision in and of itself. But brushing one's teeth for the purpose of saving money in the long term (by avoiding expensive dental care) so that you can have more resources to dedicate to your family is a moral decision that is right.
 
+## Proposition 2: Discerning individual circumstances is a necessary but not sufficient condition for doing right
 
+This one one is a bit more straightforward. "Individual circumstances" is meant to taken in the broadest possible sense: individual talents, abilities, and proclivities; available income; free time; familial and/or relational obligations; combat prowess; etc.
 
+A good quote to help explain why this implication holds is from Edmund Burke: "The only thing necessary for the triumph of evil is for good men to do nothing." If an active shooter shows up at the store you work at, *and you have the means to stop him but you don't*, then this is morally wrong. Of course, if you are an eighty-year-old grandmother, not stopping the active shooter is not going to be morally wrong because you did not have the means to stop him (probably). Hence individual cicumstances.
 
+To generalize this more, what is done cannot in good wise be separated from the context in which it is done. Giving food to hungry children on the street is right... but not if it means your own children starve to death. Exercising to stay healthy is right... but not if means you ignore your spouse.
 
+The concept extends even further -- doing something that you have no talent for, for example, is not the highest moral good. While this essentially needs a long explanation of its own, the idea is this: among a range of morally right or morally neutral options, some will have greater net benefit than others. This does not make the other options morally wrong (at least not all the time), but it does mean that among a set of possible action, some choices will be ethically superior to others. What choices are ethically superior will vary depending upon the individual in question. Hence individual circumstances.
 
+## Proposition 3: discerning right actions from wrong actions *and* discerning individual circumstances is a necessary but not sufficient condition for doing right
 
-# TODO
+That this follows from the prior two propositions is shown using a truth table below, although you coud do it the icky way with a proof too. If both d and c are necessary for r, then (d ∧ c) is necessary for r.
 
-If it is possible to do right, then it is possible to having a life purpose (doing right is a sufficient condition for having a life purpose)
-Objective morality exists
-Therefore, it is possible to do right
-Therefore, it is possible to have a life purpose
+<table>
+  <tr>
+    <th>d</th>
+    <th>c</th>
+    <th>r</th>
+    <th>d ∧ c</th>
+    <th>r → d</th>
+    <th>r → c</th>
+    <th>(r → d) ∧ (r → c)</th>
+    <th>r → (d ∧ c)</th>
+  </tr>
+  <tr>
+    <td>T</td>
+    <td>T</td>
+    <td>T</td>
+    <td>T</td>
+    <td>T</td>
+    <td>T</td>
+    <td>T</td>
+    <td>T</td>
+  </tr>
+  <tr>
+    <td>T</td>
+    <td>T</td>
+    <td>F</td>
+    <td>T</td>
+    <td>T</td>
+    <td>T</td>
+    <td>T</td>
+    <td>T</td>
+  </tr>
+  <tr>
+    <td>T</td>
+    <td>F</td>
+    <td>T</td>
+    <td>F</td>
+    <td>T</td>
+    <td>F</td>
+    <td>F</td>
+    <td>F</td>
+  </tr>
+  <tr>
+    <td>T</td>
+    <td>F</td>
+    <td>F</td>
+    <td>F</td>
+    <td>T</td>
+    <td>T</td>
+    <td>T</td>
+    <td>T</td>
+  </tr>
+  <tr>
+    <td>F</td>
+    <td>T</td>
+    <td>T</td>
+    <td>F</td>
+    <td>F</td>
+    <td>T</td>
+    <td>F</td>
+    <td>F</td>
+  </tr>
+  <tr>
+    <td>F</td>
+    <td>T</td>
+    <td>F</td>
+    <td>F</td>
+    <td>T</td>
+    <td>T</td>
+    <td>T</td>
+    <td>T</td>
+  </tr>
+  <tr>
+    <td>F</td>
+    <td>F</td>
+    <td>T</td>
+    <td>F</td>
+    <td>F</td>
+    <td>F</td>
+    <td>F</td>
+    <td>F</td>
+  </tr>
+  <tr>
+    <td>F</td>
+    <td>F</td>
+    <td>F</td>
+    <td>F</td>
+    <td>T</td>
+    <td>T</td>
+    <td>T</td>
+    <td>T</td>
+  </tr>
+</table>
+<br/>
 
-### Proposition 1
+### Proposition 4: It is possible to discern right actions from wrong actions
 
-By the definition of objective morality
+I hold that this proposition is self-evident. Our entire justice system, for example, is based upon the assumption that this is true.
 
-### Proposition 2
+While this proposition does not need to be true 100% of the time for this argument to work, I personally believe that it is actually true 100% of the time. In my opinion, people know what is right and wrong in their hearts, even if all the world tells them otherwise -- so no person who ran a concentration camp in Germany, for example, could use the "but they told me it was right" excuse to defend their behavior. (Even though their whole higher governmental system told them it was right, they still knew it was wrong).
 
+### Proposition 5: It is possible to discern individual circumstances
 
+While I don't believe that it is possible to perfectly discern individual circumstances, I believe that it may be done in all circumstances to the point of no longer having moral weight. In other words, you do not need the exact decimal value of your bank account balance to know whether or not you are capable of helping out a friend in need. Similarly, you do not need to have kept track of exactly how much time you've spent with your family in the last week to know that going in to work on Saturday morning (no matter how urgent your boss makes it sound) is wrong.
 
-1. If objective morality exists, then doing right is a source of legitimate purpose in life
-2. Objective morality exists
-3. Therefore, doing right is a source of legitimate purpose in life
+As with proposition 4, while this proposition does not need to be true 100% of the time for this argument to work, I personally believe that it is actually true 100% of the time.
 
-### Proposition 1
+### Proposition 6: It is possible to do right
 
-This implication is true definitionally. "Right" and "wrong" are categories defined through absolute logic 
+If both d and c *can be* true (that is, they are not contradictions), then r *can be* true as well. See the first row in this truth table:
 
-### Proposition 2
+<table>
+  <tr>
+    <th>d</th>
+    <th>c</th>
+    <th>r</th>
+    <th>(d ∧ c)</th>
+    <th>r → (d ∧ c)</th>
+  </tr>
+  <tr>
+    <td>T</td>
+    <td>T</td>
+    <td>T</td>
+    <td>T</td>
+    <td>T</td>
+  </tr>
+  <tr>
+    <td>T</td>
+    <td>T</td>
+    <td>F</td>
+    <td>T</td>
+    <td>T</td>
+  </tr>
+  <tr>
+    <td>T</td>
+    <td>F</td>
+    <td>T</td>
+    <td>F</td>
+    <td>F</td>
+  </tr>
+  <tr>
+    <td>T</td>
+    <td>F</td>
+    <td>F</td>
+    <td>F</td>
+    <td>T</td>
+  </tr>
+  <tr>
+    <td>F</td>
+    <td>T</td>
+    <td>T</td>
+    <td>F</td>
+    <td>F</td>
+  </tr>
+  <tr>
+    <td>F</td>
+    <td>T</td>
+    <td>F</td>
+    <td>F</td>
+    <td>T</td>
+  </tr>
+  <tr>
+    <td>F</td>
+    <td>F</td>
+    <td>T</td>
+    <td>F</td>
+    <td>F</td>
+  </tr>
+  <tr>
+    <td>F</td>
+    <td>F</td>
+    <td>F</td>
+    <td>F</td>
+    <td>T</td>
+  </tr>
+</table>
+<br/>
 
-If objective morality exists, it is possible to find purpose in life by studying the laws of objective morality and then [following them with right intent](https://steventammen.com/deontology/) (thereby doing right). It is equally true that if objective morality exists, it is possible to find purpose in life by studying the laws of objective morality and then breaking them intentionally (thereby doing wrong).
+### Proposition 7: Doing right is a sufficient condition for having a life purpose
 
-Some may question why the first part of the implication is necessary. Why doesn't doing right external to objective morality bring purpose? For example, what about people who work to support their family, but believe that existence is futile? 
+I left this intentionally non-exclusive. Some people argue that you can have a life purpose if and only if you do right. The problem with this is that doing wrong is just as valid a life purpose *logically* as doing right, i.e., the existence of objective morality equally supports a life purpose of setting oneself in opposition to morality.
 
-Definitionally, right and wrong do not exist without morality of some form. If moral judgements comes from subjective morality -- a man working to support his family because it seems best to him -- then categorization of right and wrong have no static meaning because they depend upon individual 
+Of course, I don't actually think anyone goes about trying to make their life purpose being immoral, but that does not change the fact that it is another logically permissible life purpose. There is also the possibility that there is something else that gives life purpose aside from following or setting oneself in opposition to objective morality. I leave this determinaton up to the reader. (Personally I do not believe there is -- people's typical declarations of life purpose, such as "helping others," "being the best ____________ that has ever lived," "teaching other people truth," etc. are all simply facets of following objective morality, i.e., doing right).
 
-### Proposition 2
+### Conclusion: It is possible to have a life purpose
 
-Proved in argument 1.
+See row 1 of the truth table below. Propositon 6 showed that r is not a contradiction, and therefore that it can be true.
 
-### Conclusion
+<table>
+  <tr>
+    <th>r</th>
+    <th>l</th>
+    <th>r → l</th>
+  </tr>
+  <tr>
+    <td>T</td>
+    <td>T</td>
+    <td>T</td>
+  </tr>
+  <tr>
+    <td>T</td>
+    <td>F</td>
+    <td>F</td>
+  </tr>
+  <tr>
+    <td>F</td>
+    <td>T</td>
+    <td>T</td>
+  </tr>
+  <tr>
+    <td>F</td>
+    <td>F</td>
+    <td>T</td>
+  </tr>
+</table>
+<br/>
 
-This is a form of logical deduction known as [*modus ponens*](https://en.wikipedia.org/wiki/Modus_ponens).
-
-## Argument 3: Individual life purpose exists
-
-To prove that individual life purpose exists, we first start with an argument of the form "if A implies B, and A is equivalent to C, then C implies B."
-
-1. Doing right is equivalent to having a life purpose
-2. Doing right is equivalent to following objective morality with right intent given individual circumstances
-3. Therefore, following objective morality with right intent given individual circumstances is equivalent to having a life purpose
-
-Proposition 1 is proved in argument 2, and proposition 2 is proved [here](https://steventammen.com/morality-and-individual-circumstances/).
-
-If we define individual life purpose to be the purpose found from following objective morality with right intent given individual circumstances (i.e., following the normative ethics based upon one's individual circumstances), then the conclusion to the argument above proves that individual life purpose exists.
-
-## Argument 4: Individual life purpose is knowable
-
-Given the above definition for individual life purpose, there are three things that could cause individual life purpose to be unknowable: 
-
-1. If objective morality is unknowable
-2. If right intent is unknowable
-3. If individual circumstances are unknowable
-
-If one assumes that all of these are knowable (at least most of the time), then individual life purpose will also be knowable (at least most of the time).
+Notice that l is not *necessarily* true: if you do not do right (and there is no other source of life purpose), then you will not have a life purpose.
