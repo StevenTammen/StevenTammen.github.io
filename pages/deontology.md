@@ -32,7 +32,7 @@ See [argument 1 on this page](https://steventammen.com/life-purpose/#argument-1-
 
 I hold that this proposition is self-evident. Our entire justice system, for example, is based upon the assumption that this is true.
 
-While this proposition does not need to be true 100% of the time for the implication hold below, I personally believe that it is actually true 100% of the time. In my opinion, people know what is right and wrong in their hearts, even if all the world tells them otherwise -- so no person who ran a concentration camp in Germany, for example, could use the "but they told me it was right" excuse to defend their behavior. (Even though their whole higher governmental system told them it was right, they still knew it was wrong).
+While this proposition does not need to be true 100% of the time for the implication to hold below, I personally believe that it is actually true 100% of the time. In my opinion, people know what is right and wrong in their hearts, even if all the world tells them otherwise -- so no person who ran a concentration camp in Germany, for example, could use the "but they told me it was right" excuse to defend their behavior. (Even though their whole higher governmental system told them it was right, they still knew it was wrong).
 
 ### Proposition 3
 
@@ -79,11 +79,11 @@ In philosophy the contrast introduced above revolves around the difference betwe
 
 It's worth pointing out that deontology does not entirely ignore consequences, merely that right and wrong are functions of *intended* consequences rather than *actual* consequences. It's also worth pointing out that moral absolutism and deontology are not mutually exclusive if you view right and wrong as a composite of intent and absolute moral law. For example, stealing from one's neighbors to feed one's family is understandable but still wrong, because stealing from innocent people is universally wrong (stealing from innocent people has negative absolute moral value).
 
-I say *negative* absolute moral value above because right is never determined by action alone, and is thus always subject to intent and the constraints of deontology. In other words, there is no such thing as a positive absolute moral value because doing something with positive consequences for unsound reasons is still not right, even though it may not be wrong. For example, giving money ostentatiously to the poor to be praised for one's generosity is not right (but it is not strictly wrong either). Therefore, since giving money to the poor is not universally right regardless of intent, it does not have positive absolute moral value. (A similar argument can be used in other cases to show that positive absolute moral values do not exist).
+I say *negative* absolute moral value above because right is never determined by action alone, and is thus always subject to intent and the constraints of deontology. In other words, there is no such thing as a positive absolute moral value because doing something that would normally be right for unsound reasons is still not right, even though it may not be wrong. For example, giving money ostentatiously to the poor to be praised for one's generosity is not right (but it is not strictly wrong either). Therefore, since giving money to the poor is not universally right regardless of intent, it does not have positive absolute moral value. (A similar argument can be used in other cases to show that positive absolute moral values do not exist).
 
 Put into logical terms we may understand moral action in the following way -- if n = "I do something with a negative absolute moral value," i = "I have right intent," r = "I do right," and w = "I do wrong," then:
 
-1. n implies w
+#### n implies w
 
 <table>
   <tr>
@@ -116,7 +116,7 @@ Put into logical terms we may understand moral action in the following way -- if
 
 Note that the implication allows for a situation in which someone does not do something with a negative absolute moral value but still does something wrong (because of wrong intent).
 
-2. ¬r is not equivalent to w
+#### ¬r is not equivalent to w
 
 When we say two propositions are not equivalent, what we are really saying is that the two propositions are not necessary and sufficient for each other in all cases -- or, to speak in terms of propositonal logic, that the logical biconditional of two propositions is not always true (i.e., a tautology). (If p and q are propositions, biconditionality is defined as (p → q) ∧ (q → p)). 
 
@@ -158,7 +158,7 @@ In this case something being "not right" is not a necessary and sufficient condi
 
 Note that a similar argument can be used to show that ¬w is not equivalent to r.
 
-3. r is equivalent to ¬n and i
+#### r is equivalent to ¬n and i
 
 <table>
   <tr>
@@ -196,8 +196,8 @@ Note that a similar argument can be used to show that ¬w is not equivalent to r
 
 Note that the *only* way to do right is to not do something with negative absolute moral value and to do something with right intent.
 
-Above I dealt with the objection of someone without right intent (i.e., someone who did not discern right from wrong) doing something that ended up having positive consequences (the business owner supporting the local orphans). Now that we have dealt with some more of the philosophy behind right and wrong, it is possible to see why such an objection is raised: by failing to recognize the possibility of action that is neither morally right nor morally wrong, they come to the conclusion that discerning right from wrong is not a necessary condition to doing right.
+Above I dealt with the objection of someone without right intent (i.e., someone who did not discern right from wrong) doing something that ended up having positive consequences (the business owner supporting the local orphans). Now that we have dealt with some more of the philosophy behind right and wrong, it is possible to see why such an objection is raised: by failing to recognize the possibility of action that is neither morally right nor morally wrong, people come to the conclusion that discerning right from wrong is not a necessary condition to doing right.
 
-The flaw in this logic is that it implicitly presupposes that decisions without intent are moral decisions in the first place -- it substitutes strict consequentialism for deontology for all decisions that result in positive consequences. Now, this is well and good if one actually holds to strict consequentialism, but if you purport to hold to deontology (at least in general), you can not up and decide that intent is not necessary for moral decision-making.
+The flaw in this logic is that it implicitly presupposes that decisions without intent are moral decisions in the first place -- it substitutes strict consequentialism for deontology for all decisions that result in positive consequences. Now, this is well and good if one actually holds to strict consequentialism, but if you purport to hold to deontology (at least in general), it is impermissable to arbitrarily decide that intent is not necessary for moral decision-making.
 
 Brushing one's teeth for example, is not a moral decision in and of itself. But brushing one's teeth for the purpose of saving money in the long term (by avoiding expensive dental care) so that you can have more resources to dedicate to your family is a moral decision that is right.
