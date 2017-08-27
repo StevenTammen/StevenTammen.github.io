@@ -21,24 +21,20 @@ title: Clothing
 ## Everyday
 
 - [Scarf](https://www.northxnorth.co/shop/merino-wool-kerchief)
-- [Shirt](https://woolandprince.com/collections/dress-shirts/products/dress-shirt-blue-oxford)
-- [Vest](http://www.ebay.com/itm/122552797379)
+- [Shirt](https://www.railriders.com/men-bone-flats-shirt-p-993.html)
 - [Belt](https://www.originalsoegear.com/collections/belts/products/cobra-riggers-belt-size-26-to-40-with-velcro-lining)
 - [Underwear](https://www.yathletics.com/products/silverair-merino-wool-boxer-brief)
-- [Pants](https://www.outerboro.cc/collections/mens-bottoms/products/staple-pants)
-- [Socks](https://www.injinji.com/everyday-lightweight-crew-nuwool-black-small.html)
-- [Toe Spacers](https://www.correcttoes.com/shop/correct-toes/correct-toes.html)
-- [Boots](https://www.amazon.com/gp/product/B00AMLEPI0/)
+- [Pants](https://www.railriders.com/men-versatac-ultra-light-pants-p-994.html?cPath=104_110)
+- [Socks](https://www.injinji.com/liner-crew-nuwool.html/)
+- [Compression](https://www.amazon.com/gp/product/B008LW6SW8/)
+- [Shoes](http://www.topoathletic.com/mens-st-2?color=27)
+- [Work Boots](https://www.amazon.com/gp/product/B00AMLEPI0/)
 
-## Business Casual
+## Dressy
 
 - [Shoes](https://www.lemsshoes.com/shop/mens-nine2five-black.html)
 - [Belt](https://www.amazon.com/Ultimate-Concealed-Carry-Leather-Belt/dp/B01C297SQU/)
-- [Blazer](https://www.outerboro.cc/collections/mens-outerwear/products/motile-breeze-blazer?variant=726030397)
-
-## Business Formal
-
-Keep suit wool because of traditional expectations or get modern technical features like DWR, breathbility, quick dry, 4-way stretch, etc.?
+- [Suit](https://www.outerboro.cc/collections/bundle-packs/products/motile-breeze-suit)
 
 ## Fabric
 
@@ -69,7 +65,7 @@ Keep suit wool because of traditional expectations or get modern technical featu
 - <http://www.academia.edu/26251973/AN_OVERVIEW_ON_THE_INFLUENCE_OF_FABRIC_STRUCTURAL_PARAMETERS_IN_SPORTS_INTIMATE_APPARELS>
 - <http://bushcraftusa.com/forum/threads/tencel-lyocell-fabric.182558/>
 
-Clothing color and thermoregulation
+### Clothing color and thermoregulation
 
 - <http://io9.gizmodo.com/5903956/the-physics-that-explain-why-you-should-wear-black-this-summer>
 - <http://physics.stackexchange.com/questions/78616/is-dark-clothes-for-winter-light-for-summer-relevant#101204>
@@ -114,7 +110,7 @@ Anti-bacterial due to the microstructure of fibers (no external water, which bac
 - Sorption: heat released from the exothermic reaction whereby water attaches itself to the inside of wool fibers -- is still somewhat controversial within the scholarly literature, but it is generally agreed that it does not have any appreciable effect on body temperature (so cannot be viewed as a strong disadvantage during hotter parts of the year or strong advantage during the cooler parts of the year).
 - When fabric is in contact with things that block its exterior (such as a plastic chair back or a backpack), you still want some form of absorption so that you shirt does not stick to you. Synthetics will not have anywhere for the water to go so they will accumulate moisture and stick to you, while cellulosic fabrics will absorb the sweat interstitially and will likewise stick to you. In such a situation, wool is the only type of fiber that can deal with moisture without feeling wet and clingy on the skin.
 
-### Wool vs Tencel vs PES
+### Wool vs Tencel vs Poly
 - Tencel: softer than silk, more wicking than polyester (is this the same kind of wicking though?), more breathable than cotton, odor resistant
 - Wool: only material that maintains insulation when wet while still be absorptive, odor resistant, sorption (?)
    - Ibex, Minus 33, Io, Stoic, Icebreaker, SmartWool
