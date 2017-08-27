@@ -20,11 +20,8 @@ title: Pants
 
 ## Current pick
 
-- [Outerboro Staple Pants](https://www.outerboro.cc/collections/mens-bottoms/products/staple-pants)
+- [RailRiders VersaTac Ultra-Light Pants](https://www.railriders.com/men-versatac-ultra-light-pants-p-994.html?cPath=104_110)
 
-## Basic Idea
-
-To have normal looking slacks that can be worn up to formal business casual made out of technical fabric with performance characteristics: DWR, quick drying, breathable, 4-way stretch, wicking, etc.
 
 ## Always wearing pants
 
@@ -36,7 +33,7 @@ To have normal looking slacks that can be worn up to formal business casual made
 - Pants without pockets are silly. Pockets come in useful for carrying things around day-to-day and also for storing things temporarily if you need too.
 - The question then is how many pockets. Guy's pants run the gamut from the typical 4 pockets all the way to 16 or more, while ladies' pants have less of a range.
 - Relevant pocket factors
-   - Total number of pockets (common cofiguations: 2 front slash/2 back, 2 front slash/2 back/2 cargo, 2 front slash/2 back/2 side seam). Some people argue for having extra pockets even if you won't use them most of the time ("just in case"), but I personally avoid them because they add uneccessary material and stiching/seams, making the pants warmer in the summer, less durable overall, and more expensive. I do not commonly find myself needing tons of free pockets (vs. just sticking loose paper or whatever in a pocket with my keys or phone).
+   - Total number of pockets (common cofiguations: 2 front slash/2 back, 2 front slash/2 back/2 cargo, 2 front slash/2 back/2 side seam).
    - Can easily get into while sitting
    - Big enough for intended items. In general bigger is better (within reason) since it adds versatility.
    - Not abrasive/uncomfortable to get into (such as having pointy metal zipper tracks)
@@ -48,10 +45,9 @@ To have normal looking slacks that can be worn up to formal business casual made
    - Reinforced pocket edges for clipping things like knives and lights
    - Abrasion resistant nylon interiors
    - Upward facing pocket openings (allows storage of objects larger than pockets, kept in by forces of gravity)
-- My personal pick is 5 pockets: 2 unzippered front slash pockets, 1 hidden zippered security pocket in the right front slash pocket (for storing phone/passport when travelling), 1 zippered back pocket (on the right), and one unzippered back pocket.
-   - Assuming you minimize your cash/cards when you travel, you can use a phone wallet (like [this one](https://www.amazon.com/CardNinja-Ultra-slim-Adhesive-Credit-Smartphones/dp/B009ZVL7N4/) and get away with only one security pocket (for phone/cards/cash and passport). While I normally carry quite a bit more, in high-pickpocket areas, I'll drop most of of my carry and go down to just bare essentials on my keychain (which has keys, an encrypted flashdrive, a Yubikey, a Leatherman Squirt PS4, an Olight i3E, Gorilla tape, and a sealing canister with emergency cash and Caffiene/L-Theanine pills) and a cheap cotton bandana in my back right pocket. The reason why the key getup doesn't need another security pocket is because I attach it to a belt loop with a locking carabiner and kevlar cord (meaning pickpockets can't easily lift it). The carabiner and kevlar cord fill out the rest of my essential carry.
-   - This 5 pocket configuration also provides enough zipper pockets to completely secure my pants carry (in the sense of things not falling out or getting lost): wallet/bandana in back right zipper pocket, phone in hidden zippered pocket, and keys clipped to beltloop as described above. A folding knife and full size flashlight can be clipped to the pockets securely without additional zippers. Having the rest of the pockets without zippers leads to more comfortable access and reduced cost.
-- Some people might be able to make use of cargo pockets. However, I advocate wearing a vest with pockets instead since it inhibits movement less (the contents of cargo pockets are often uncomfortable when squatting or doing other movements that require lots of knee rotation; pockets are most comfortable when their weight is at the waist level) and lets you access things in a sitting position easier. A 4-pocket vest plus shirt with a right chest pocket gives you another 5 pockets, bringing regular use pockets up to 9 (all except the hidden security pocket), and pickpocket resistant pockets up to 2 (the shirt pocket under the vest is moderately protected; this is where I keep sunglasses in high-pickpocket areas when I'm not wearing them). I've thought a lot about making my EDC completely comprehensive, and my [whole carry](https://steventammen.com/every-day-carry/) fits in the 9 regular use pockets -- so in my opinion, cargo pockets aren't necessary for EDC. They're good for people who need to carry around extra gun mags (LEO's, soldiers, people shooting at the range), but just aren't that useful for the rest of us.
+   - Ability to get into pockets when sitting down
+- My personal pick is 6 pockets: 2 unzippered front slash pockets, 2 sealable back pockets, and two sealable cargo pockets.
+   - buttons are more pickpocket proof than zippers, velcro, or snaps
 
 ## Zippers
 - For pocket closure, more secure than velcro, snaps/buttons, or deep pockets alone. Also quieter than velcro and snaps, and much less fiddly than buttons. Best mechanism for preventing things from falling out.
