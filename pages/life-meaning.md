@@ -160,24 +160,21 @@ We can put this into propositional logic like the implication of the argument ab
 
 Note that this implication does not hold if it is possible to do right without discerning right from wrong. As I mentioned above, I don't believe that it is possible for humans to not know right from wrong (which would obviate the need for an explanaton here since d would always be true, and thus the implication always true). However, for those that do not believe this, it is still possible to show that the implication holds.
 
-A counterexample someone might use of someone doing right without knowing right from wrong is a gang lord paying rent on his drug warehouses, thereby supporting the education of local orphans. "Aha!" they say, "the gang lord is doing right by supporting the education of local orphans." I submit that the gang lord is not inherently doing right because his actions end up supporting the education of local orphans (a consequece he may not even know about).
+A counterexample someone might use of a person doing right without discerning right from wrong is a gang lord paying rent on his drug warehouses, thereby supporting the education of local orphans. "Aha!" they say, "the gang lord is doing right by supporting the education of local orphans." I submit that the gang lord is not inherently doing right because his actions end up supporting the education of local orphans (a consequece he may not even know about).
 
-To look at this another way, let's flip the situation and suggest that someone could do wrong by association as well. For example, a taxi driver unknowingly takes a psychopath to the house of his ex-wife who spurned him. The next day the woman is found brutally raped and murdered. Did the taxi driver do wrong? If you are to argue that the gang lord did right above, you would also have to argue that the taxi driver did wrong here. Not only that, for our law system to be just, the taxi driver ought to be punished for his wrongdoing.
+To look at this another way, let's flip the situation and suggest that someone could do wrong by association. For example, a taxi driver unknowingly takes a psychopath to the house of his ex-wife who spurned him. The next day the woman is found brutally raped and murdered. Did the taxi driver do wrong? If you are to argue that the gang lord did right above, you would also have to argue that the taxi driver did wrong here. Not only that, for our law system to be just, the taxi driver ought to be punished for his wrongdoing.
 
 Of course, the tricky thing here is that some gang lords might actually pay rent on their drug warehouses to suport the education of orphans (maybe because they grew up an orphan themselves they chose drug warehousing locations that would enable them to pay rent to an orphanage), and that some taxi drivers might actually drive a psychopath to his ex-wife's house in full knowledge of the possible outcome (maybe because he is the greedy younger brother of the ex-wife who stands to inherit her estate). You see, whether or not people do right and wrong is not independent from their intentions.
 
-In philosophy this is the debate between [consequentialism](https://en.wikipedia.org/wiki/Consequentialism) and [deontology](https://en.wikipedia.org/wiki/Deontological_ethics). If you are a strict consequentialist then consequences alone determine right and wrong and this implication does not hold.
+In philosophy this is the debate between [consequentialism](https://en.wikipedia.org/wiki/Consequentialism) and [deontology](https://en.wikipedia.org/wiki/Deontological_ethics). If you are a strict consequentialist then consequences alone determine right and wrong and this implication does not hold. Most people, myself included, are not strict consequentialists.
 
-It's worth pointing out that deontology does not entirely ignore consequences, merely that right and wrong are functions of *intended* consequences rather than *actual* consequences. It's also worth pointing out that moral absolutism (as argued for above) and deontology are not mutually exclusive if you don't view deontology as a means of overturning negative moral absolutes -- i.e., you define the domain to which deontology applies to those actions that do not have negative absolute moral value. For example, stealing to feed one's family is understandable but still wrong, because stealing is universally wrong (stealing has negative absolute moral value). In our example above about the taxi driver, intent determines morality because driving a taxi has no negative absolute moral value.
+It's worth pointing out that deontology does not entirely ignore consequences, merely that right and wrong are functions of *intended* consequences rather than *actual* consequences. It's also worth pointing out that moral absolutism (as argued for above) and deontology are not mutually exclusive if you view right and wrong as a composite of intent and absolute moral law. For example, stealing to feed one's family is understandable but still wrong, because stealing is universally wrong (stealing has negative absolute moral value). In our example above about the taxi driver, intent determines morality because driving a taxi has no negative absolute moral value. Both absolute morality and intent play a role.
 
-I say negative absolute moral value because right is never determined by action alone, and is thus always subject to the intent and the constraints of deontology. In other words, doing something with positive actual consequences for the wrong reasons is still not right, even though it may not be wrong. For example, giving money ostentatiously to the poor may not be right, but it is not wrong either. ("Not right" and "wrong" are not equivalent propositions, i.e., something being "wrong" is not a necessary and sufficient condition for being "not right" in all cases, but only sufficient).
+I say negative absolute moral value because right is never determined by action alone, and is thus always subject to intent and the constraints of deontology. In other words, there is no such thing as a positive absolute moral value because doing something with positive consequences for the wrong reasons is still not right, even though it may not be wrong. For example, giving money ostentatiously to the poor may not be right, but it is not wrong either. Therefore, since giving money to the poor is not universally right, it does not have positive absolute moral value. A similar argument can be used for other cases.
 
-Put into logical terms, if n = "I do something with a negative absolute moral value," i = "I have right intent," r = "I do right," and w = "I do wrong," then:
+Put into logical terms we may understand moral action in the following way -- if n = "I do something with a negative absolute moral value," i = "I have right intent," r = "I do right," and w = "I do wrong," then:
 
 1. n implies w
-2. r is equivalent to ¬n and i
-
-Truth tables:
 
 <table>
   <tr>
@@ -205,7 +202,11 @@ Truth tables:
     <td>F</td>
     <td>T</td>
   </tr>
-</table><br/>
+</table>
+
+Note that the implication allows for a situation in which someone does not do something with a negative absolute moral value but still does something wrong.
+
+2. r is equivalent to ¬n and i
 
 <table>
   <tr>
@@ -240,8 +241,48 @@ Truth tables:
   </tr>
 </table>
 
+Note that the only way to do right is to not do something with negative absolute moral value and to do something with right intent.
 
-Notice that the only way to do right is to not do something with negative absolute moral value and to do something with right intent, while it is possible to 
+3. ¬r is not equivalent to w
+
+When we are saying two propositions are not equivalent, what we are really saying is that the two propositions are not necessary and sufficient for each other in all cases -- or, to speak in terms of propositonal logic, that the logical biconditional of two propositions is not always true (i.e., a tautology). (If p and q are propositions, biconditionality is defined as (p → q) ∧ (q → p)). 
+
+In this case something being "not right" is not a necessary and sufficient condition for being "wrong" in all cases, shown by the false values in the biconditional:
+
+<table>
+  <tr>
+    <th>r</th>
+    <th>w</th>
+    <th>¬r</th>
+    <th>¬r ↔ w</th>
+  </tr>
+  <tr>
+    <td>T</td>
+    <td>T</td>
+    <td>F</td>
+    <td>F</td>
+  </tr>
+  <tr>
+    <td>T</td>
+    <td>F</td>
+    <td>F</td>
+    <td>T</td>
+  </tr>
+  <tr>
+    <td>F</td>
+    <td>T</td>
+    <td>T</td>
+    <td>T</td>
+  </tr>
+  <tr>
+    <td>F</td>
+    <td>F</td>
+    <td>T</td>
+    <td>F</td>
+  </tr>
+</table>
+
+
 
 
 
