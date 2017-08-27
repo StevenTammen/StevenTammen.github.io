@@ -19,7 +19,7 @@ title: Work Environment
 </div>
 <br/>
 
-Before you start optimizing your character layout, you first need to make sure that your work environment is optimized (or at least not far suboptimal). Your work environment is simply the collection of objects and intangible surroundings that play a role in your typing. For most of us, that means a keyboard, a monitor, a desk, a chair, and a sound environment. Each element of the work environment is briefly discussed below, but ultimately you should do more research. Don’t just take my word for these things. 
+Your work environment is simply the collection of objects and intangible surroundings that play a role in your typing. For most of us, that means a keyboard, a monitor, a desk, a chair, and some way to manage sound (headphones/earplugs). Each element of the work environment is briefly discussed below, but ultimately you should do more research. Don’t just take my word for these things. 
 
 ## Monitor
 
