@@ -46,8 +46,8 @@ title: Pants
    - Abrasion resistant nylon interiors
    - Upward facing pocket openings (allows storage of objects larger than pockets, kept in by forces of gravity)
    - Ability to get into pockets when sitting down
-- My personal pick is 6 pockets: 2 unzippered front slash pockets, 2 sealable back pockets, and two sealable cargo pockets.
-   - buttons are more pickpocket proof than zippers, velcro, or snaps
+- My personal pick is 6 pockets: 2 unzippered front slash pockets, 2 sealable back pockets (velcro + buttons), and 2 sealable cargo pockets (velcro + buttons).
+   - Buttons are more pickpocket proof than zippers, velcro, or snaps
 
 ## Zippers
 - For pocket closure, more secure than velcro, snaps/buttons, or deep pockets alone. Also quieter than velcro and snaps, and much less fiddly than buttons. Best mechanism for preventing things from falling out.
@@ -56,6 +56,9 @@ title: Pants
 - Metal or plastic; doesn't matter as long as they are durable. Metal has slight edge for durability.
 - Locking zipper mechanism
 - YKK zippers are preferable
+
+## Velcro
+- Fastest open/close mechanism for pockets. Prefer over zippers if you don't need really tight sealing.
 
 ## Non-zipper Closures
 - No zipper lines to scratch things, rub arm/hand/watch when fishing in pocket, or break over time with use.
