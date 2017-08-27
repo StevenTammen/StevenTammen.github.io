@@ -20,7 +20,7 @@ title: Motorcycles
 
 ## Current Pick
 
-- [Zero FXS](http://www.zeromotorcycles.com/zero-fxs/specs.php)
+- [Zero DSR](http://www.zeromotorcycles.com/zero-ds/specs.php?model=dsr)
 
 ## Safety
 
