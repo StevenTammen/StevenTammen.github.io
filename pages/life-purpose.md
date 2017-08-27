@@ -114,7 +114,7 @@ Before the argument for this can really get underway, it is necessary to do some
 2. Objective morality exists
 3. Therefore, right actions and wrong actions exist
 
-The first proposition is true by definition. The second proposition was proved in argument 1. The conclusion follows [*modus ponens*](https://en.wikipedia.org/wiki/Modus_ponens). This conclusion is a necessary part of the following (main) argument:
+The first proposition is true by definition. The second proposition was proved in argument 1. The conclusion follows [*modus ponens*](https://en.wikipedia.org/wiki/Modus_ponens). This conclusion is a necessary precondtion to the following (main) argument:
 
 1. Discerning right actions from wrong actions is a necessary but not sufficient condition for doing right
 2. Discerning individual circumstances is a necessary but not sufficient condition for doing right
@@ -130,7 +130,7 @@ To put this into propositions, if
 - d = "I discern right actions from wrong actions"
 - c = "I discern individual circumstances"
 - r = "I do right"
-- l = "I have life purpose"
+- l = "I have a life purpose"
 
 Then
 
@@ -176,7 +176,7 @@ Here's the truth table for this implication:
 </table>
 <br/>
 
-Note that this implication does not hold if it is possible to do right without discerning right actions from wrong actions. A counterexample someone might use of a person doing right without discerning right action from wrong action is a business owner paying rent on a warehouse he uses, a warehouse that is owned by a man who runs a local orphanage and puts all his profits into the orphanage. "Aha!" they say, "the business owner is doing right by supporting local orphans." I submit that the business owner is not inherently doing right because his actions end up supporting the local orphans (a consequence he may not even know about).
+Note that this implication does not hold if it is possible to do right without discerning right action from wrong action. A counterexample someone might use of a person doing right without discerning right action from wrong action is a business owner paying rent on a warehouse he uses, a warehouse that is owned by a man who runs a local orphanage and puts all his profits into the orphanage. "Aha!" they say, "the business owner is doing right by supporting local orphans." I submit that the business owner is not inherently doing right because his actions end up supporting the local orphans (a consequence he may not even know about).
 
 Of course, the tricky thing here is that a business owner might actually pay rent on his warehouse in order to suport local orphans (maybe because he grew up an orphan himself he chose a warehouse that would enable him to pay rent to a landlord that runs a local orphanage). This case is different since the business owner's *intention* is right -- he knows about the warehouse owner's orphanage and is acting in support of it. To have right intent, however, he had to know what was right to begin with... meaning he had to discern right action from wrong action.
 
@@ -322,13 +322,13 @@ This one one is a bit more straightforward. "Individual circumstances" is meant 
 
 A good quote to help explain why this implication holds is from Edmund Burke: "The only thing necessary for the triumph of evil is for good men to do nothing." If an active shooter shows up at the store you work at, *and you have the means to stop him but you don't*, then this is morally wrong. Of course, if you are an eighty-year-old grandmother, not stopping the active shooter is not going to be morally wrong because you did not have the means to stop him (probably). Hence individual cicumstances.
 
-To generalize this more, what is done cannot in good wise be separated from the context in which it is done. Giving food to hungry children on the street is right... but not if it means your own children starve to death. Exercising to stay healthy is right... but not if means you ignore your spouse.
+To generalize this more, what is done can not in good wise be separated from the context in which it is done. Giving food to hungry children on the street is right... but not if it means your own children starve to death. Exercising to stay healthy is right... but not if means you ignore your spouse.
 
-The concept extends even further -- doing something that you have no talent for, for example, is not the highest moral good. While this essentially needs a long explanation of its own, the idea is this: among a range of morally right or morally neutral options, some will have greater net benefit than others. This does not make the other options morally wrong (at least not all the time), but it does mean that among a set of possible action, some choices will be ethically superior to others. What choices are ethically superior will vary depending upon the individual in question. Hence individual circumstances.
+The concept extends even further -- doing something that you have no talent for, for example, is not the highest moral good. While this essentially needs a long explanation of its own, the idea is this: among a range of morally right or morally neutral options, some will have greater net benefit than others. This does not make the other options morally wrong (at least not all the time), but it does mean that among a set of possible actions, some choices will be ethically superior to others. What choices are ethically superior will vary depending upon the individual in question. Hence individual circumstances.
 
 ### Proposition 3: discerning right actions from wrong actions *and* discerning individual circumstances is a necessary but not sufficient condition for doing right
 
-That this follows from the prior two propositions is shown using a truth table below, although you coud do it the icky way with a proof too. If both d and c are necessary for r, then (d ∧ c) is necessary for r.
+That this follows from the prior two propositions is shown using a truth table below, although you could do it the icky way with a proof too. If both d and c are necessary for r, then (d ∧ c) is necessary for r.
 
 <table>
   <tr>
@@ -428,13 +428,11 @@ That this follows from the prior two propositions is shown using a truth table b
 
 I hold that this proposition is self-evident. Our entire justice system, for example, is based upon the assumption that this is true.
 
-While this proposition does not need to be true 100% of the time for this argument to work, I personally believe that it is actually true 100% of the time. In my opinion, people know what is right and wrong in their hearts, even if all the world tells them otherwise -- so no person who ran a concentration camp in Germany, for example, could use the "but they told me it was right" excuse to defend their behavior. (Even though their whole higher governmental system told them it was right, they still knew it was wrong).
+While this proposition does not need to be true 100% of the time for this argument to work, I personally believe that it is actually true 100% of the time. In my opinion, people know what is right and wrong in their hearts, even if all the world tells them otherwise -- so no person who ran a concentration camp in Germany, for example, could use the "but they told me it was right" excuse to defend their behavior. (Even though their whole higher governmental system told them slaughtering innocent people was right, they still knew it was wrong).
 
 ### Proposition 5: It is possible to discern individual circumstances
 
-While I don't believe that it is possible to perfectly discern individual circumstances, I believe that it may be done in all circumstances to the point of no longer having moral weight. In other words, you do not need the exact decimal value of your bank account balance to know whether or not you are capable of helping out a friend in need. Similarly, you do not need to have kept track of exactly how much time you've spent with your family in the last week to know that going in to work on Saturday morning (no matter how urgent your boss makes it sound) is wrong.
-
-As with proposition 4, while this proposition does not need to be true 100% of the time for this argument to work, I personally believe that it is actually true 100% of the time (100% of the time, that is, to the point where individul circumstances no longer carry moral weight).
+As with proposition 4, while this proposition does not need to be true 100% of the time for this argument to work, I personally believe that it is actually true 100% of the time --  while I don't believe that it is possible to perfectly discern individual circumstances, I believe that it may be done in all circumstances to the point of no longer having moral weight. In other words, you do not need the exact decimal value of your bank account balance to know whether or not you are capable of helping out a friend in need. Similarly, you do not need to have kept track of exactly how much time you've spent with your family in the last week to know that going in to work on Saturday morning (no matter how urgent your boss makes it sound) is wrong.
 
 ### Proposition 6: It is possible to do right
 
@@ -507,7 +505,7 @@ If both d and c *can be* true (that is, they are not contradictions), then r *ca
 </table>
 <br/>
 
-The fact that r can be false here too (if d and c are true) makes perfect sense: just because you are capable of discerning right actions from wrong actions and discerning individual circumstances (thereby figuring out what is right for *you* to do), you are not bound to do right. People know what is right for them to do, yet still choose wrong every day (myself included -- it is part of being an irrational human being).
+The fact that r can be false here too (if d and c are true) makes perfect sense: just because you are capable of discerning right action from wrong action and discerning individual circumstances (thereby figuring out what is right for *you* to do), you are not bound to do right. People know what is right for them to do, yet still choose wrong every day (myself included -- it is part of being an irrational human being).
 
 ### Proposition 7: Doing right is a sufficient condition for having a life purpose
 
