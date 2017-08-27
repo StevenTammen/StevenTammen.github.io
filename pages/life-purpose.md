@@ -39,15 +39,15 @@ The argument:
 
 ### Propositon 1: If objective morality does not exist, then no actions are worse than any other actions
 
-In propositional logic, the first proposition is what is known as an *implication*. If we let a = "objective morality exists" and w = "some actions are worse than other actions," then proposition 1 can be written out formally as "¬a implies ¬w" or "¬w is necessary for ¬a." Here is the truth table for this particular implication:
+In propositional logic, the first proposition is what is known as an *implication*. If we let o = "objective morality exists" and w = "some actions are worse than other actions," then proposition 1 can be written out formally as "¬o implies ¬w" or "¬w is necessary for ¬o." Here is the truth table for this particular implication:
 
 <table>
   <tr>
-    <th>a</th>
+    <th>o</th>
     <th>w</th>
-    <th>¬a</th>
+    <th>¬o</th>
     <th>¬w</th>
-    <th>¬a → ¬w</th>
+    <th>¬o → ¬w</th>
   </tr>
   <tr>
     <td>T</td>
@@ -80,7 +80,7 @@ In propositional logic, the first proposition is what is known as an *implicatio
 </table>
 <br/>
 
-If the implication holds, then any time ¬a is true, ¬w must also be true (hence why say that ¬w is *necessary* for ¬a). To argue that the implication does not hold would require some basis other than morality for evaluating things as "better" and "worse." In fact, many philosophers have attempted over the years to convince us that behavior can be classified as better or worse using ethics without any moral judgements of right or wrong being necessary (for example, actions that maximize the pleasure and minimize the pain of the most people are "better"). By engaging in a healthy amount of sophistry and redirection, sometimes it appears that there are no moral underpinnings to such arguments. However, morality is inescapable. Why should pleasure be maximized instead of pain? Is it not because maximizing pain for the most people is "wrong" while maximizing pleasure for the most people is "right"?
+If the implication holds, then any time ¬o is true, ¬w must also be true (hence why say that ¬w is *necessary* for ¬o). To argue that the implication does not hold would require some basis other than morality for evaluating things as "better" and "worse." In fact, many philosophers have attempted over the years to convince us that behavior can be classified as better or worse using ethics without any moral judgements of right or wrong being necessary (for example, actions that maximize the pleasure and minimize the pain of the most people are "better"). By engaging in a healthy amount of sophistry and redirection, sometimes it appears that there are no moral underpinnings to such arguments. However, morality is inescapable. Why should pleasure be maximized instead of pain? Is it not because maximizing pain for the most people is "wrong" while maximizing pleasure for the most people is "right"?
 
 ### Proposition 2: Some actions are worse than other actions
 
@@ -104,7 +104,7 @@ I can accept that you may not feel the same way (i.e., that this argument relies
 
 ### Conclusion: Objective morality exists
 
-The conclusion follows because we have established that a) the implication holds, and that b) w is true (i.e., "some actions are worse than other actions"). If you look at the single row in the truth table for which the implication holds and w is true, ¬a is false, and a is true. In other words, objective morality exists.
+The conclusion follows because we have established that a) the implication holds, and that b) w is true (i.e., "some actions are worse than other actions"). If you look at the single row in the truth table for which the implication holds and w is true, ¬o is false, and o is true. In other words, objective morality exists.
 
 ## Argument 2: It is possible to have a life purpose
 
@@ -114,7 +114,7 @@ Before the argument for this can really get underway, it is necessary to do some
 2. Objective morality exists
 3. Therefore, right actions and wrong actions exist
 
-The first proposition is true by definition. The second proposition was proved in argument 1. The conclusion follows [*modus ponens*](https://en.wikipedia.org/wiki/Modus_ponens). This conclusion is a necessary part of the following argumentation:
+The first proposition is true by definition. The second proposition was proved in argument 1. The conclusion follows [*modus ponens*](https://en.wikipedia.org/wiki/Modus_ponens). This conclusion is a necessary part of the following (main) argument:
 
 1. Discerning right actions from wrong actions is a necessary but not sufficient condition for doing right
 2. Discerning individual circumstances is a necessary but not sufficient condition for doing right
@@ -182,11 +182,11 @@ Of course, the tricky thing here is that a business owner might actually pay ren
 
 In philosophy the contrast introduced above revolves around the difference between [consequentialism](https://en.wikipedia.org/wiki/Consequentialism) and [deontology](https://en.wikipedia.org/wiki/Deontological_ethics). If you are a strict consequentialist then consequences alone determine right and wrong and this implication does not hold. Most people, myself included, are not strict consequentialists.
 
-It's worth pointing out that deontology does not entirely ignore consequences, merely that right and wrong are functions of *intended* consequences rather than *actual* consequences. It's also worth pointing out that moral absolutism and deontology are not mutually exclusive if you view right and wrong as a composite of intent and absolute moral law. (Moral absolutism is different than moral objectivism -- moral absolutism holds that some actions have moral value that does not change based upon circumstances and context, while moral objectivism holds that right and wrong are not determined by custom and opinion, but may vary depending on context. All moral absolutists are moral objectivists, but not vice versa.) For example, stealing from one's innocent neighbors to feed one's family is understandable but still wrong, because stealing from innocent people is universally wrong (stealing from innocent people has negative absolute moral value).
+It's worth pointing out that deontology does not entirely ignore consequences, merely that right and wrong are functions of *intended* consequences rather than *actual* consequences. It's also worth pointing out that moral absolutism and deontology are not mutually exclusive if you view right and wrong as composites of intent and absolute moral law. (Moral absolutism is distinct from moral objectivism -- moral absolutism holds that some actions have moral value that does not change based upon circumstances and context, while moral objectivism holds that right and wrong are not determined by custom and opinion, but may vary depending on context. All moral absolutists are moral objectivists, but not vice versa.) For example, stealing from one's innocent neighbors to feed one's family is understandable but still wrong, because stealing from innocent people is universally wrong (stealing from innocent people has negative absolute moral value).
 
 I say *negative* absolute moral value above because right is never determined by action alone, and is thus always subject to intent and the constraints of deontology. In other words, there is no such thing as a positive absolute moral value because doing something that would normally be right for unsound reasons is still not right, even though it may not be wrong. For example, giving money ostentatiously to the poor to be praised for one's generosity is not right (but it is not strictly wrong either). Therefore, since giving money to the poor is not universally right regardless of intent, it does not have positive absolute moral value. (A similar argument can be used in other cases to show that positive absolute moral values do not exist).
 
-Put into logical terms we may understand moral action in the following way:
+Put into logical terms, we may understand moral action in the following way:
 
 If 
 
@@ -195,7 +195,7 @@ If
 - r = "I do right"
 - w = "I do wrong"
 
-Then:
+Then
 
 #### n implies w
 
@@ -316,7 +316,7 @@ The flaw in this logic is that it implicitly presupposes that decisions without 
 
 Brushing one's teeth for example, is not a moral decision in and of itself. But brushing one's teeth for the purpose of saving money in the long term (by avoiding expensive dental care) so that you can have more resources to dedicate to your family is a moral decision that is right.
 
-## Proposition 2: Discerning individual circumstances is a necessary but not sufficient condition for doing right
+### Proposition 2: Discerning individual circumstances is a necessary but not sufficient condition for doing right
 
 This one one is a bit more straightforward. "Individual circumstances" is meant to taken in the broadest possible sense: individual talents, abilities, and proclivities; available income; free time; familial and/or relational obligations; combat prowess; etc.
 
@@ -326,7 +326,7 @@ To generalize this more, what is done cannot in good wise be separated from the 
 
 The concept extends even further -- doing something that you have no talent for, for example, is not the highest moral good. While this essentially needs a long explanation of its own, the idea is this: among a range of morally right or morally neutral options, some will have greater net benefit than others. This does not make the other options morally wrong (at least not all the time), but it does mean that among a set of possible action, some choices will be ethically superior to others. What choices are ethically superior will vary depending upon the individual in question. Hence individual circumstances.
 
-## Proposition 3: discerning right actions from wrong actions *and* discerning individual circumstances is a necessary but not sufficient condition for doing right
+### Proposition 3: discerning right actions from wrong actions *and* discerning individual circumstances is a necessary but not sufficient condition for doing right
 
 That this follows from the prior two propositions is shown using a truth table below, although you coud do it the icky way with a proof too. If both d and c are necessary for r, then (d ∧ c) is necessary for r.
 
@@ -434,7 +434,7 @@ While this proposition does not need to be true 100% of the time for this argume
 
 While I don't believe that it is possible to perfectly discern individual circumstances, I believe that it may be done in all circumstances to the point of no longer having moral weight. In other words, you do not need the exact decimal value of your bank account balance to know whether or not you are capable of helping out a friend in need. Similarly, you do not need to have kept track of exactly how much time you've spent with your family in the last week to know that going in to work on Saturday morning (no matter how urgent your boss makes it sound) is wrong.
 
-As with proposition 4, while this proposition does not need to be true 100% of the time for this argument to work, I personally believe that it is actually true 100% of the time.
+As with proposition 4, while this proposition does not need to be true 100% of the time for this argument to work, I personally believe that it is actually true 100% of the time (100% of the time, that is, to the point where individul circumstances no longer carry moral weight).
 
 ### Proposition 6: It is possible to do right
 
@@ -507,6 +507,8 @@ If both d and c *can be* true (that is, they are not contradictions), then r *ca
 </table>
 <br/>
 
+The fact that r can be false here too (if d and c are true) makes perfect sense: just because you are capable of discerning right actions from wrong actions and discerning individual circumstances (thereby figuring out what is right for *you* to do), you are not bound to do right. People know what is right for them to do, yet still choose wrong every day (myself included -- it is part of being an irrational human being).
+
 ### Proposition 7: Doing right is a sufficient condition for having a life purpose
 
 I left this intentionally non-exclusive. Some people argue that you can have a life purpose if and only if you do right. The problem with this is that doing wrong is just as valid a life purpose *logically* as doing right, i.e., the existence of objective morality equally supports a life purpose of setting oneself in opposition to morality.
@@ -546,4 +548,4 @@ See row 1 of the truth table below. Propositon 6 showed that r is not a contradi
 </table>
 <br/>
 
-Notice that l is not *necessarily* true: if you do not do right (and there is no other source of life purpose), then you will not have a life purpose.
+Notice that l is not *necessarily* true: if you do not do right (and there is no other legitimate source of life purpose), then you will not have a life purpose. I think it is entirely possible that this explains the general existential torpor of the postmodern West: assuming no other source of life purpose, if you throw out right and wrong (making it definitionally impossible to do right), of course people are going to feel like life is meaningless and futile.
