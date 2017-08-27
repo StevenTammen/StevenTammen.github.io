@@ -12,7 +12,7 @@ header: Steven Tammen
 8/20/17   Published [Priorities](https://steventammen.com/priorities)<br/>
 8/13/17   Worked on [Keyboard Layouts](https://steventammen.com/keyboard-layouts/); updated layout images <br/>
 8/12/17   Added [Learning Styles](https://steventammen.com/learning-styles/) and [Priorities](https://steventammen.com/priorities) <br/>
-7/31/17   Added motorcycles.md and work-envrionment.md <br/>
+7/31/17   Added [Motorcycles](https://steventammen.com/motorcycles) and [Work Environment](https://steventammen.com/work-environment) <br/>
 
 ## Worthy Projects (TODO: explain. Email if interested.)
 
