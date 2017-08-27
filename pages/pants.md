@@ -60,10 +60,10 @@ title: Pants
 ## Velcro
 - Fastest open/close mechanism for pockets. Prefer over zippers if you don't need really tight sealing.
 
-## Non-zipper Closures
-- No zipper lines to scratch things, rub arm/hand/watch when fishing in pocket, or break over time with use.
-- Can move items into zippered pockets when needed: convenience/comfort 95%+ of the time trumps the 5% or less when you actually need full zipper closure. (notepad and pen case can double up with items since they won’t scratch them).
-- Should have the fewest number of zipper pockets that comfortably allow you to have all items under zipper protection when the need arises. Highest frequency use pockets should be the one(s) without zippers, taking into account hand dominance (i.e., back right pocket vs. front right pocket, even if back left pocket is used less frequently).
+## Non Sealing Pockets
+- No zipper lines/velcro/etc. to scratch things, rub arm/hand/watch when fishing in pocket, or break over time with use.
+- Can move items into zippered pockets when needed: convenience/comfort 95%+ of the time trumps the 5% or less when you actually need full closure. (notepad etc. can double up with items since they won’t scratch them).
+- Should have the fewest number of sealing pockets that comfortably allow you to have all items in sealed pockets when the need arises. Highest frequency use pockets should be the one(s) without closure.
 
 ## Belt loops
 - As long as they are stitched well, thinner loops make it easier to clip stuff onto them and put belts on without sacrificing much durability/load bearing capacity
