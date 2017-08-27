@@ -110,7 +110,7 @@ Most speed considerations are layout agnostic. If you are already a sufficiently
 
 ### Reduced Typing Effort
 
-Far and away the biggest benefits optimized keyboard layouts give is a greatly reduced overall typing effort. As will be discussed below, optimized layouts significantly reduce the amount of distance your fingers need to travel by putting frequently used keys in favorable positions (like the home row), and balance finger and hand distribution so that effort is spread out. They also strive to make frequent two-letter combinations (called digraphs) and three-letter combinations (called trigraphs) easy to type: he, th, tha, str, and so forth.
+Far and away the biggest benefit optimized keyboard layouts give is a greatly reduced overall typing effort. As will be discussed below, optimized layouts significantly reduce the amount of distance your fingers need to travel by putting frequently used keys in favorable positions (like the home row), and balance finger and hand distribution so that effort is spread out. They also strive to make frequent two-letter combinations (called digraphs) and three-letter combinations (called trigraphs) easy to type: he, th, tha, str, and so forth.
 
 It is perhaps easiest to demonstrate the benefits of optimized layouts by counterexample: using "problem words" from QWERTY.
 
