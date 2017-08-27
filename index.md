@@ -8,7 +8,7 @@ header: Steven Tammen
 
 ## Recent Activity
 
-8/27/17   Updated [Priorities](https://steventammen.com/priorities); added [Life Purpose](https://steventammen.com/priorities/life-purpose/) and [Deontology](https://steventammen.com/deontology/)<br/>
+8/27/17   Updated [Priorities](https://steventammen.com/priorities); added [Life Purpose](https://steventammen.com/life-purpose/) and [Deontology](https://steventammen.com/deontology/)<br/>
 8/20/17   Published [Priorities](https://steventammen.com/priorities)<br/>
 8/13/17   Worked on [Keyboard Layouts](https://steventammen.com/keyboard-layouts/); updated layout images <br/>
 8/12/17   Added [Learning Styles](https://steventammen.com/learning-styles/) and [Priorities](https://steventammen.com/priorities) <br/>
