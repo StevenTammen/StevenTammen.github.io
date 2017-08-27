@@ -26,7 +26,7 @@ title: Deontology
 
 ### Proposition 1
 
-See [argument 1 on this page](https://steventammen.com/life-purpose/#argument-1-absolute-morality-exists). Implicit in this proposition are the existence of two categories called "right" and "wrong," which are central to the rest of the argument.
+See [argument 1 on this page](https://steventammen.com/life-purpose/#argument-1-absolute-morality-exists). Implicit in this proposition are the existence of two categories called "right" and "wrong," which are central to the next two propositions.
 
 ### Proposition 2
 
@@ -67,6 +67,7 @@ We can put this into propositional logic. If d = "I discern right from wrong" an
     <td>T</td>
   </tr>
 </table>
+<br/>
 
 Note that this implication does not hold if it is possible to do right without discerning right from wrong. As I mentioned above, I don't believe that it is possible for humans to not know right from wrong (which would obviate the need for an explanation here since d would always be true, and thus the implication always true). However, for those that do not believe this, it is still possible to show that the implication holds.
 
@@ -111,6 +112,7 @@ Put into logical terms we may understand moral action in the following way -- if
     <td>T</td>
   </tr>
 </table>
+<br/>
 
 Note that the implication allows for a situation in which someone does not do something with a negative absolute moral value but still does something wrong (because of wrong intent).
 
@@ -152,6 +154,7 @@ In this case something being "not right" is not a necessary and sufficient condi
     <td>F</td>
   </tr>
 </table>
+<br/>
 
 Note that a similar argument can be used to show that ¬w is not equivalent to r.
 
@@ -189,6 +192,7 @@ Note that a similar argument can be used to show that ¬w is not equivalent to r
     <td>F</td>
   </tr>
 </table>
+<br/>
 
 Note that the *only* way to do right is to not do something with negative absolute moral value and to do something with right intent.
 
