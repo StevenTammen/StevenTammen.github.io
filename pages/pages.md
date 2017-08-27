@@ -43,7 +43,6 @@ Note: Pages that have an asterisk before them are still in progress to some degr
 
 ### Philosophy
 
-- \*[Deontology](https://steventammen.com/deontology/)
 - \*[Life Purpose](https://steventammen.com/life-purpose/)
 - [Priorities](https://steventammen.com/priorities/)
 
