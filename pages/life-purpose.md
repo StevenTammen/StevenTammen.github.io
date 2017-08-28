@@ -146,8 +146,8 @@ More formally, what we are trying to show is that ((i → k) ∧ (r → i) ∧ (
     <th>i → k</th>
     <th>r → i</th>
     <th>r → l</th>
-    <th>(i → k) ∧ (r → i) ∧ (r → l) ∧ k</th>
-    <th>((i → k) ∧ (r → i) ∧ (r → l) ∧ k) → l</th>
+    <th>(i → k) ∧ (r → i) ∧ (r → l)</th>
+    <th>((i → k) ∧ (r → i) ∧ (r → l)) → l</th>
   </tr>
   <tr>
     <td>T</td>
