@@ -29,7 +29,7 @@ The arguments on this page are arranged in the following order:
 
 Strict materialists often argue that existence is actually futile and that the meaningfulness of life is a charade that we keep up to numb ourselves to the coldness of reality. Under such a supposition, morality is seen through a subjective lens, a human construct propogated by the weak to keep the strong from ruling them absolutely. There is no right and wrong because the universe is governed by uncaring natural laws and humans humans are merely strings of predictable biological cause and effect drifting to and fro by chance.
 
-I will argue in no uncertain terms that this particular position (i.e., a rejection of objective morality) is incorrect. This does not *ipso facto* disprove strict materialism, but it does demand an explanation for why objective morality exists. (In other words, strict materialism is not inherently incompatible with objective morality, but the latter does not obviously flow from the former, and thus its origin must be exlained). The interaction between strict materialism and objective morality is ultimately a separate issue from whether or not objective morality exists in the first place.
+I will argue in no uncertain terms that this particular position (i.e., a rejection of objective morality) is incorrect. This does not *ipso facto* disprove strict materialism, but it does demand an explanation for why objective morality exists. (In other words, strict materialism is not inherently incompatible with objective morality, but the latter does not obviously flow from the former, and thus its origin must be explained). The interaction between strict materialism and objective morality is ultimately a separate issue from whether or not objective morality exists in the first place.
 
 The argument:
 
@@ -96,7 +96,7 @@ Here's some examples to put in the [insert terrible action] slot:
 * Raping and murdering pregnant women
 * etc.
 
-If you seriously want to argue that torturing puppies is no worse than saving starving children that is your perogative. The conclusion for this *reductio ad absurdum* is necessary for the rest of the arguments on this page, so you can go ahead and ignore my conclusions if you like.
+If you seriously want to argue that torturing puppies is no worse than saving starving children that is your perogative. The conclusion of this *reductio ad absurdum* argument is necessary for the rest of the arguments on this page, so you can go ahead and ignore my conclusions if you like.
 
 Perhaps you think that my response to such atrocities is simply a product of cultural indoctrination from childhood (etc.). I might suggest that you have never been inside my head: the way that murdered children (for example) make me feel -- the way my blood rises, the way my fists clench, the way my eyes flash darkly -- this is not a product of artificial emotion implanted by society. It's real.
 
@@ -114,12 +114,12 @@ Before the argument for this can really get underway, it is necessary to do some
 2. Objective morality exists
 3. Therefore, right actions and wrong actions exist
 
-The first proposition is true by definition. The second proposition was proved in argument 1. The conclusion follows [*modus ponens*](https://en.wikipedia.org/wiki/Modus_ponens). This conclusion is a necessary precondtion to the following (main) argument:
+The first proposition is true by definition. The second proposition was proved in argument 1. The conclusion follows [*modus ponens*](https://en.wikipedia.org/wiki/Modus_ponens). This conclusion is a necessary precondition to the following (main) argument:
 
-1. Discerning right actions from wrong actions is a necessary but not sufficient condition for doing right
+1. Discerning wrong actions from right/neutral actions is a necessary but not sufficient condition for doing right
 2. Discerning individual circumstances is a necessary but not sufficient condition for doing right
-3. Therefore, discerning right actions from wrong actions *and* discerning individual circumstances is a necessary but not sufficient condition for doing right
-4. It is possible to discern right actions from wrong actions
+3. Therefore, discerning wrong actions from right/neutral actions *and* discerning individual circumstances is a necessary but not sufficient condition for doing right
+4. It is possible to discern wrong actions from right/neutral actions
 5. It is possible to discern individual circumstances
 6. Therefore it is possible to do right
 7. Doing right is a sufficient condition for having a life purpose
@@ -127,7 +127,7 @@ The first proposition is true by definition. The second proposition was proved i
 
 To put this into propositions, if
 
-- d = "I discern right actions from wrong actions"
+- d = "I discern wrong actions from right/neutral actions"
 - c = "I discern individual circumstances"
 - r = "I do right"
 - l = "I have a life purpose"
@@ -143,7 +143,7 @@ Then
 7. r → l
 8. Therefore, l is not a contradiction (i.e., can be true)
 
-### Proposition 1: Discerning right actions from wrong actions is a necessary but not sufficient condition for doing right
+### Proposition 1: Discerning wrong actions from right/neutral actions is a necessary but not sufficient condition for doing right
 
 Here's the truth table for this implication:
 
@@ -176,15 +176,15 @@ Here's the truth table for this implication:
 </table>
 <br/>
 
-Note that this implication does not hold if it is possible to do right without discerning right action from wrong action. A counterexample someone might use of a person doing right without discerning right action from wrong action is a business owner paying rent on a warehouse he uses, a warehouse that is owned by a man who runs a local orphanage and puts all his profits into the orphanage. "Aha!" they say, "the business owner is doing right by supporting local orphans." I submit that the business owner is not inherently doing right because his actions end up supporting the local orphans (a consequence he may not even know about).
+Note that this implication does not hold if it is possible to do right without discerning wrong actions from right/neutral actions. A counterexample someone might use of a person doing right without discerning wrong actions from right/neutral actions is a business owner paying rent on a warehouse he uses, a warehouse that is owned by a man who runs a local orphanage and puts all his profits into the orphanage. "Aha!" they say, "the business owner is doing right by supporting local orphans." I submit that the business owner is not inherently doing right because his actions end up supporting the local orphans (a consequence he may not even know about).
 
-Of course, the tricky thing here is that a business owner might actually pay rent on his warehouse in order to suport local orphans (maybe because he grew up an orphan himself he chose a warehouse that would enable him to pay rent to a landlord that runs a local orphanage). This case is different since the business owner's *intention* is right -- he knows about the warehouse owner's orphanage and is acting in support of it. To have right intent, however, he had to know what was right to begin with... meaning he had to discern right action from wrong action.
+Of course, the tricky thing here is that the business owner might actually pay rent on his warehouse in order to suport local orphans (maybe because he grew up an orphan himself he chose a warehouse that would enable him to pay rent to a landlord that runs a local orphanage). This case is different since the business owner's *intention* is right -- he knows about the warehouse owner's orphanage and is acting in support of it. To have right intent, however, he had to know what was right to begin with... meaning he had to discern wrong actions from right/neutral actions.
 
 In philosophy the contrast introduced above revolves around the difference between [consequentialism](https://en.wikipedia.org/wiki/Consequentialism) and [deontology](https://en.wikipedia.org/wiki/Deontological_ethics). If you are a strict consequentialist then consequences alone determine right and wrong and this implication does not hold. Most people, myself included, are not strict consequentialists.
 
-It's worth pointing out that deontology does not entirely ignore consequences, merely that right and wrong are functions of *intended* consequences rather than *actual* consequences. It's also worth pointing out that moral absolutism and deontology are not mutually exclusive if you view right and wrong as composites of intent and absolute moral law. (Moral absolutism is distinct from moral objectivism -- moral absolutism holds that some actions have moral value that does not change based upon circumstances and context, while moral objectivism holds that right and wrong are not determined by custom and opinion, but may vary depending on context. All moral absolutists are moral objectivists, but not vice versa.) For example, stealing from one's innocent neighbors to feed one's family is understandable but still wrong, because stealing from innocent people is universally wrong (stealing from innocent people has negative absolute moral value).
+It's worth pointing out that deontology does not entirely ignore consequences, merely that right and wrong are functions of *intended* consequences rather than *actual* consequences. It's also worth pointing out that moral absolutism and deontology are not mutually exclusive if you view right and wrong as composites of intent and absolute moral law. (Moral absolutism is distinct from moral objectivism -- moral absolutism holds that some actions have moral value that does not change based upon circumstances and context, while moral objectivism holds that right and wrong are not determined by custom and opinion, but may vary depending on context. All moral absolutists are moral objectivists, but not vice versa). For example, stealing from one's innocent neighbors to feed one's family is understandable but still wrong, because stealing from innocent people is universally wrong (stealing from innocent people has negative absolute moral value).
 
-I say *negative* absolute moral value above because right is never determined by action alone, and is thus always subject to intent and the constraints of deontology. In other words, there is no such thing as a positive absolute moral value because doing something that would normally be right for unsound reasons is still not right, even though it may not be wrong. For example, giving money ostentatiously to the poor to be praised for one's generosity is not right (but it is not strictly wrong either). Therefore, since giving money to the poor is not universally right regardless of intent, it does not have positive absolute moral value. (A similar argument can be used in other cases to show that positive absolute moral values do not exist).
+I say *negative* absolute moral value above because right is never determined by action alone, and is thus always subject to intent and the constraints of deontology. In other words, there is no such thing as a positive absolute moral value because doing something that would normally be right for unsound reasons (i.e., with "not right" intent) is still not right, even though it may not be wrong. For example, giving money ostentatiously to the poor to be praised for one's generosity is not right (but it is not strictly wrong either). Therefore, since giving money to the poor is not universally right *regardless of* intent, it does not have positive absolute moral value. (A similar argument can be used in other cases to show that positive absolute moral values do not exist).
 
 Put into logical terms, we may understand moral action in the following way:
 
@@ -308,9 +308,9 @@ Note that a similar argument can be used to show that ¬w is not equivalent to r
 </table>
 <br/>
 
-Note that the *only* way to do right is to not do something with negative absolute moral value and to do something with right intent.
+Note that the *only* way to do right is to do something of non-negative absolute moral value with right intent.
 
-Above I dealt with the objection of someone without right intent (i.e., someone who did not discern right action from wrong action) doing something that ended up having positive consequences (the business owner supporting the local orphans). Now that we have dealt with some more of the philosophy behind right and wrong, it is possible to see why such an objection is raised: by failing to recognize the possibility of action that is neither morally right nor morally wrong (due to a lack of intent), people come to the conclusion that discerning right action from wrong action is not a necessary condition for doing right.
+Above I dealt with the objection of someone without right intent (i.e., someone who did not discern wrong actions from right/neutral actions) doing something that ended up having positive consequences (the business owner supporting the local orphans). Now that we have dealt with some more of the philosophy behind right and wrong, it is possible to see why such an objection is raised: by failing to recognize the possibility of action that is neither morally right nor morally wrong (due to a lack of intent), people come to the conclusion that discerning wrong actions from right/neutral actions is not a necessary condition for doing right.
 
 The flaw in this logic is that it implicitly presupposes that decisions without intent are moral decisions in the first place -- it substitutes strict consequentialism for deontology for all decisions that result in positive consequences. Now, this is well and good if one actually holds to strict consequentialism, but if you purport to hold to deontology (at least in general), it is impermissible to arbitrarily decide that intent is not necessary for moral decision-making.
 
@@ -505,7 +505,7 @@ If both d and c *can be* true (that is, they are not contradictions), then r *ca
 </table>
 <br/>
 
-The fact that r can be false here too (if d and c are true) makes perfect sense: just because you are capable of discerning right action from wrong action and discerning individual circumstances (thereby figuring out what is right for *you* to do), you are not bound to do right. People know what is right for them to do, yet still choose wrong every day (myself included -- it is part of being an irrational human being).
+The fact that r can be false here too (if d and c are true) makes perfect sense: just because you are capable of discerning wrong actions from right/neutral actions and discerning individual circumstances (thereby figuring out what is right for *you* to do), you are not bound to do right. People know what is right for them to do, yet still choose wrong every day (myself included -- it is part of being an irrational human being).
 
 ### Proposition 7: Doing right is a sufficient condition for having a life purpose
 
