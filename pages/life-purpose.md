@@ -119,7 +119,6 @@ The first proposition is true by definition. The second proposition was proved i
 1. Knowing right is a necessary but not sufficient condition for having right intent
 2. Having right intent is a necessary but not sufficient condition for doing right
 3. Doing right is a sufficient condition for having a life purpose
-4. It is possible to know right
 5. Therefore, it is possible to have a life purpose
 
 To put this into propositions, if
@@ -134,10 +133,9 @@ Then
 1. i → k
 2. r → i
 3. r → l
-4. k is not a contradiction (i.e., can be true)
 5. Therefore, l is not a contradiction (i.e., can be true)
 
-More formally, what we are trying to show is that ((i → k) ∧ (r → i) ∧ (r → l) ∧ k) → l is not a contradiction. Here is a truth table that demonstrates that this is not the case. (To show that something is not a contradiction, all that is necessary is one value that is not false).
+More formally, what we are trying to show is that ((i → k) ∧ (r → i) ∧ (r → l) ∧ k) → l is not a contradiction. Here is a truth table that demonstrates that this is not the case. (To show that a proposition is not a contradiction, all that is necessary is one value that is not false).
 
 <table>
   <tr>
@@ -313,7 +311,7 @@ More formally, what we are trying to show is that ((i → k) ∧ (r → i) ∧ (
     <td>T</td>
     <td>T</td>
     <td>T</td>
-    <td>F</td>
+    <td>T</td>
     <td>T</td>
    <tr>
     <td>F</td>
@@ -323,10 +321,12 @@ More formally, what we are trying to show is that ((i → k) ∧ (r → i) ∧ (
     <td>T</td>
     <td>T</td>
     <td>T</td>
-    <td>F</td>
     <td>T</td>
+    <td>F</td>
   </tr>
 </table>
+
+If this looks scary, don't worry -- we'll break it down. Essentially
 
 ### Proposition 1: Knowing right is a necessary but not sufficient condition for having right intent
 
