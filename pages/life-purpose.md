@@ -135,7 +135,7 @@ Then
 3. r → l
 5. Therefore, l is not a contradiction (i.e., can be true)
 
-More formally, what we are trying to show is that ((i → k) ∧ (r → i) ∧ (r → l) ∧ k) → l is not a contradiction. Here is a truth table that demonstrates that this is not the case. (To show that a proposition is not a contradiction, all that is necessary is one value that is not false).
+More formally, what we are trying to show is that ((i → k) ∧ (r → i) ∧ (r → l)) → l is not a contradiction. Here is a truth table that demonstrates that this is not the case. (To show that a proposition is not a contradiction, all that is necessary is one value that is not false).
 
 <table>
   <tr>
