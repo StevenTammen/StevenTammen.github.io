@@ -119,7 +119,7 @@ The first proposition is true by definition. The second proposition was proved i
 1. Knowing right is a necessary but not sufficient condition for having right intent
 2. Having right intent is a necessary but not sufficient condition for doing right
 3. Doing right is a sufficient condition for having a life purpose
-5. Therefore, it is possible to have a life purpose
+5. Given that the above implications hold, it is possible to have a life purpose
 
 To put this into propositions, if
 
@@ -133,9 +133,9 @@ Then
 1. i → k
 2. r → i
 3. r → l
-5. Therefore, l is not a contradiction (i.e., can be true)
+5. (i → k) ∧ (r → i) ∧ (r → l) ∧ l is not a contradiction (i.e., can be true)
 
-More formally, what we are trying to show is that ((i → k) ∧ (r → i) ∧ (r → l)) → l is not a contradiction. Here is a truth table that demonstrates that this is not the case. (To show that a proposition is not a contradiction, all that is necessary is one value that is not false).
+To show that a proposition is not a contradiction, all that is necessary is one value that is not false. This is easily done using a truth table:
 
 <table>
   <tr>
