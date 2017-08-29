@@ -119,7 +119,7 @@ The first proposition is true by definition. The second proposition was proved i
 1. Knowing right is a necessary but not sufficient condition for having right intent
 2. Having right intent is a necessary but not sufficient condition for doing right
 3. Doing right is a sufficient condition for having a life purpose
-5. Given that the above implications hold, it is possible to have a life purpose
+5. Given that the above implications hold, it is possible to have a life purpose (i.e., if propositions 1-3 are true, the statement "I have a life purpose" can be true)
 
 To put this into propositions, if
 
@@ -133,7 +133,7 @@ Then
 1. i → k
 2. r → i
 3. r → l
-5. (i → k) ∧ (r → i) ∧ (r → l) ∧ l is not a contradiction (i.e., can be true)
+5. (i → k) ∧ (r → i) ∧ (r → l) ∧ l is not a contradiction
 
 To show that a proposition is not a contradiction, all that is necessary is one value that is not false. This can be easily done for the proposition (i → k) ∧ (r → i) ∧ (r → l) ∧ l using a truth table:
 
@@ -308,8 +308,6 @@ To show that a proposition is not a contradiction, all that is necessary is one 
     <td>F</td>
   </tr>
 </table>
-
-If this looks scary, don't worry -- we'll break it down. Each of the situations where it is possible to have a life purpose given that the three implications hold is broken down below (along with the propositions themselves). As we shall see, the fact that proposition 3 is r → l (my doing right is a sufficient condition for my having a life purpose) rather than r ↔ l (I have a life purpose if and only if I do right) widens the number of situations where you can have life purpose, since r → l allows for finding life purpose from things other than doing right.
 
 ### Proposition 1: Knowing right is a necessary but not sufficient condition for having right intent
 
