@@ -146,8 +146,7 @@ More formally, what we are trying to show is that ((i → k) ∧ (r → i) ∧ (
     <th>i → k</th>
     <th>r → i</th>
     <th>r → l</th>
-    <th>(i → k) ∧ (r → i) ∧ (r → l)</th>
-    <th>((i → k) ∧ (r → i) ∧ (r → l)) → l</th>
+    <th>(i → k) ∧ (r → i) ∧ (r → l) ∧ l</th>
   </tr>
   <tr>
     <td>T</td>
@@ -158,7 +157,6 @@ More formally, what we are trying to show is that ((i → k) ∧ (r → i) ∧ (
     <td>T</td>
     <td>T</td>
     <td>T</td>
-    <td>T</td>
   </tr>
   <tr>
     <td>T</td>
@@ -169,7 +167,6 @@ More formally, what we are trying to show is that ((i → k) ∧ (r → i) ∧ (
     <td>T</td>
     <td>F</td>
     <td>F</td>
-    <td>T</td>
   </tr>
   <tr>
     <td>T</td>
@@ -180,7 +177,6 @@ More formally, what we are trying to show is that ((i → k) ∧ (r → i) ∧ (
     <td>T</td>
     <td>T</td>
     <td>T</td>
-    <td>T</td>
   </tr>
   <tr>
     <td>T</td>
@@ -191,7 +187,6 @@ More formally, what we are trying to show is that ((i → k) ∧ (r → i) ∧ (
     <td>T</td>
     <td>T</td>
     <td>T</td>
-    <td>F</td>
   </tr>
   <tr>
     <td>T</td>
@@ -202,7 +197,6 @@ More formally, what we are trying to show is that ((i → k) ∧ (r → i) ∧ (
     <td>F</td>
     <td>T</td>
     <td>F</td>
-    <td>T</td>
   </tr>
   <tr>
     <td>T</td>
@@ -213,13 +207,11 @@ More formally, what we are trying to show is that ((i → k) ∧ (r → i) ∧ (
     <td>F</td>
     <td>F</td>
     <td>F</td>
-    <td>T</td>
   </tr>
   <tr>
     <td>T</td>
     <td>F</td>
     <td>F</td>
-    <td>T</td>
     <td>T</td>
     <td>T</td>
     <td>T</td>
@@ -235,7 +227,6 @@ More formally, what we are trying to show is that ((i → k) ∧ (r → i) ∧ (
     <td>T</td>
     <td>T</td>
     <td>T</td>
-    <td>F</td>
   </tr>
   <tr>
     <td>F</td>
@@ -246,7 +237,6 @@ More formally, what we are trying to show is that ((i → k) ∧ (r → i) ∧ (
     <td>T</td>
     <td>T</td>
     <td>F</td>
-    <td>T</td>
   </tr>
   <tr>
     <td>F</td>
@@ -257,7 +247,6 @@ More formally, what we are trying to show is that ((i → k) ∧ (r → i) ∧ (
     <td>T</td>
     <td>F</td>
     <td>F</td>
-    <td>T</td>
   </tr>
   <tr>
     <td>F</td>
@@ -268,7 +257,6 @@ More formally, what we are trying to show is that ((i → k) ∧ (r → i) ∧ (
     <td>T</td>
     <td>T</td>
     <td>F</td>
-    <td>T</td>
   </tr>
   <tr>
     <td>F</td>
@@ -279,7 +267,6 @@ More formally, what we are trying to show is that ((i → k) ∧ (r → i) ∧ (
     <td>T</td>
     <td>T</td>
     <td>F</td>
-    <td>T</td>
   </tr>
   <tr>
     <td>F</td>
@@ -290,7 +277,6 @@ More formally, what we are trying to show is that ((i → k) ∧ (r → i) ∧ (
     <td>F</td>
     <td>T</td>
     <td>F</td>
-    <td>T</td>
   </tr>
   <tr>
     <td>F</td>
@@ -301,13 +287,11 @@ More formally, what we are trying to show is that ((i → k) ∧ (r → i) ∧ (
     <td>F</td>
     <td>F</td>
     <td>F</td>
-    <td>T</td>
   </tr>
    <tr>
     <td>F</td>
     <td>F</td>
     <td>F</td>
-    <td>T</td>
     <td>T</td>
     <td>T</td>
     <td>T</td>
@@ -322,7 +306,6 @@ More formally, what we are trying to show is that ((i → k) ∧ (r → i) ∧ (
     <td>T</td>
     <td>T</td>
     <td>T</td>
-    <td>F</td>
   </tr>
 </table>
 
