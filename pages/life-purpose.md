@@ -135,7 +135,7 @@ Then
 3. r → l
 5. (i → k) ∧ (r → i) ∧ (r → l) ∧ l is not a contradiction (i.e., can be true)
 
-To show that a proposition is not a contradiction, all that is necessary is one value that is not false. This is easily done using a truth table:
+To show that a proposition is not a contradiction, all that is necessary is one value that is not false. This ca be easily done for the proposition (i → k) ∧ (r → i) ∧ (r → l) ∧ l using a truth table:
 
 <table>
   <tr>
@@ -186,22 +186,22 @@ To show that a proposition is not a contradiction, all that is necessary is one 
     <td>T</td>
     <td>T</td>
     <td>T</td>
-    <td>T</td>
-  </tr>
-  <tr>
-    <td>T</td>
-    <td>F</td>
-    <td>T</td>
-    <td>T</td>
-    <td>T</td>
-    <td>F</td>
-    <td>T</td>
     <td>F</td>
   </tr>
   <tr>
     <td>T</td>
     <td>F</td>
     <td>T</td>
+    <td>T</td>
+    <td>T</td>
+    <td>F</td>
+    <td>T</td>
+    <td>F</td>
+  </tr>
+  <tr>
+    <td>T</td>
+    <td>F</td>
+    <td>T</td>
     <td>F</td>
     <td>T</td>
     <td>F</td>
@@ -226,7 +226,7 @@ To show that a proposition is not a contradiction, all that is necessary is one 
     <td>T</td>
     <td>T</td>
     <td>T</td>
-    <td>T</td>
+    <td>F</td>
   </tr>
   <tr>
     <td>F</td>
@@ -305,7 +305,7 @@ To show that a proposition is not a contradiction, all that is necessary is one 
     <td>T</td>
     <td>T</td>
     <td>T</td>
-    <td>T</td>
+    <td>F</td>
   </tr>
 </table>
 
