@@ -309,7 +309,7 @@ To show that a proposition is not a contradiction, all that is necessary is one 
   </tr>
 </table>
 
-If this looks scary, don't worry -- we'll break it down. Each of the situations where it is possible to have a life purpose given that the three implications hold is broken down below (along with the propositions themselves). As we shall see, the fact that proposition 3 is r → l (my doing right is a sufficient condition for my having a life purpose) rather than r ↔ l (I have a life purpose if and only if I do right) widens the number of situations where you cn have life purpose, since r → l allows for finding life purpose from thigs other than doing right.
+If this looks scary, don't worry -- we'll break it down. Each of the situations where it is possible to have a life purpose given that the three implications hold is broken down below (along with the propositions themselves). As we shall see, the fact that proposition 3 is r → l (my doing right is a sufficient condition for my having a life purpose) rather than r ↔ l (I have a life purpose if and only if I do right) widens the number of situations where you can have life purpose, since r → l allows for finding life purpose from things other than doing right.
 
 ### Proposition 1: Knowing right is a necessary but not sufficient condition for having right intent
 
