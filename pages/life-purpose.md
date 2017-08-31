@@ -135,7 +135,7 @@ Then
 3. r → l
 5. (i → k) ∧ (r → i) ∧ (r → l) ∧ l is not a contradiction
 
-To show that a proposition is not a contradiction, all that is necessary is one value that is not false. This can be easily done for the proposition (i → k) ∧ (r → i) ∧ (r → l) ∧ l using a truth table:
+To show that a proposition is not a contradiction, all that is necessary is to show a single case in which the proposition is true. This can be easily done for the proposition (i → k) ∧ (r → i) ∧ (r → l) ∧ l using a truth table:
 
 <table>
   <tr>
