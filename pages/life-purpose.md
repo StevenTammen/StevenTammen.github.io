@@ -27,7 +27,7 @@ The arguments on this page are arranged in the following order:
 
 ## Argument 1: Objective morality exists
 
-Strict materialists often argue that existence is actually futile and that the meaningfulness of life is a charade that we keep up to numb ourselves to the coldness of reality. Under such a supposition, morality is seen through a subjective lens, a human construct propogated by the weak to keep the strong from ruling them absolutely. There is no right and wrong because the universe is governed by uncaring natural laws and humans humans are merely strings of predictable biological cause and effect drifting to and fro by chance.
+Strict materialists often argue that existence is actually futile and that the meaningfulness of life is a charade that we keep up to numb ourselves to the coldness of reality. Under such a supposition, morality is seen through a subjective lens, a human construct propogated by the weak to keep the strong from ruling them absolutely. There is no right and wrong because the universe is governed by uncaring natural laws and humans are merely strings of predictable biological cause and effect drifting to and fro by chance.
 
 I will argue in no uncertain terms that this particular position (i.e., a rejection of objective morality) is incorrect. This does not *ipso facto* disprove strict materialism, but it does demand an explanation for why objective morality exists. (In other words, strict materialism is not inherently incompatible with objective morality, but the latter does not obviously flow from the former, and thus its origin must be explained). The interaction between strict materialism and objective morality is ultimately a separate issue from whether or not objective morality exists in the first place.
 
@@ -80,7 +80,7 @@ In propositional logic, the first proposition is what is known as an *implicatio
 </table>
 <br/>
 
-If the implication holds, then any time ¬o is true, ¬w must also be true (hence why say that ¬w is *necessary* for ¬o). To argue that the implication does not hold would require some basis other than morality for evaluating things as "better" and "worse." In fact, many philosophers have attempted over the years to convince us that behavior can be classified as better or worse using ethics without any moral judgements of right or wrong being necessary (for example, actions that maximize the pleasure and minimize the pain of the most people are "better"). By engaging in a healthy amount of sophistry and redirection, sometimes it appears that there are no moral underpinnings to such arguments. However, morality is inescapable. Why should pleasure be maximized instead of pain? Is it not because maximizing pain for the most people is "wrong" while maximizing pleasure for the most people is "right"?
+If the implication holds, then any time ¬o is true, ¬w must also be true (hence why we say that ¬w is *necessary* for ¬o). To argue that the implication does not hold would require some basis other than morality for evaluating things as "better" and "worse." In fact, many philosophers have attempted over the years to convince us that behavior can be classified as better or worse using ethics without any moral judgements of right or wrong being necessary (for example, actions that maximize the pleasure and minimize the pain of the most people are "better"). By engaging in a healthy amount of sophistry and redirection, sometimes it appears that there are no moral underpinnings to such arguments. However, morality is inescapable. Why should pleasure be maximized instead of pain? Is it not because maximizing pain for the most people is "wrong" while maximizing pleasure for the most people is "right"?
 
 ### Proposition 2: Some actions are worse than other actions
 
@@ -288,7 +288,7 @@ To show that a proposition is not a contradiction, all that is necessary is one 
     <td>F</td>
     <td>F</td>
   </tr>
-   <tr>
+  <tr>
     <td>F</td>
     <td>F</td>
     <td>F</td>
@@ -297,7 +297,8 @@ To show that a proposition is not a contradiction, all that is necessary is one 
     <td>T</td>
     <td>T</td>
     <td>T</td>
-   <tr>
+  </tr>
+  <tr>
     <td>F</td>
     <td>F</td>
     <td>F</td>
@@ -311,6 +312,6 @@ To show that a proposition is not a contradiction, all that is necessary is one 
 
 ### Proposition 1: Knowing right is a necessary but not sufficient condition for having right intent
 
-This implication (and the following implication) deal with a branch of normative ethics called [deontology](https://en.wikipedia.org/wiki/Deontological_ethics), specifically, the idea that the morality of an action depends upon intent as well as the action's actual consequences. This is in opposition to strict [consequentialism](https://en.wikipedia.org/wiki/Consequentialism) wherein an action is deemed right or wrong only based on the action's actual consequences.
+This implication (and the following implication) deal with a branch of normative ethics called [deontology](https://en.wikipedia.org/wiki/Deontological_ethics), specifically, the idea that the morality of an action depends upon intent as well as the action's actual consequences. This is in opposition to strict [consequentialism](https://en.wikipedia.org/wiki/Consequentialism) wherein an action is deemed right or wrong only based on the action's actual consequences. I say *actual* consequences to distinguish between the outcome of an action (i.e., what did actually happen) and the intended outcome of an action (i.e., what the agent doing the action intended would happen). For clarity's sake, I will call the consequences associated with an intended outcome "intended consequences."
 
 ### TODO: Finish filling out argument and explaining
