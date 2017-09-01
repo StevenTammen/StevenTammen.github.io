@@ -20,8 +20,7 @@ title: Clothing
 
 ## Everyday
 
-- [Scarf](https://www.northxnorth.co/shop/merino-wool-kerchief)
-- [Shirt](https://www.railriders.com/men-bone-flats-shirt-p-993.html)
+- [Shirt](https://www.railriders.com/men-versatac-light-shirt-p-1021.html?cPath=104_111)
 - [Belt](https://www.originalsoegear.com/collections/belts/products/cobra-riggers-belt-size-26-to-40-with-velcro-lining)
 - [Underwear](https://www.yathletics.com/products/silverair-merino-wool-boxer-brief)
 - [Pants](https://www.railriders.com/men-versatac-ultra-light-pants-p-994.html?cPath=104_110)
@@ -124,10 +123,9 @@ Anti-bacterial due to the microstructure of fibers (no external water, which bac
 
 ## TODO
 
-- reason for boots vs Lem’s 9 to 5 dress shoes
 - reason for cobra rigger’s belt vs CCW leather
 - reason for Crew vs OTC socks (or vice versa?)
-- reason for aviator sunglasses shape (vs other flat geometries)
+- reason for sunglasses shape (comparison of geometries)
 - Even if other people’s evaluations weren’t a factor, would high-visibility shirt/pants/backpack be desirable? Certain colors tire the eyes?
 - Color of pants, vest, shirt (printing, shows wetness, heat from sun, hides stains). How baggy should clothing be?
 - Color/material underwear? Socks?
