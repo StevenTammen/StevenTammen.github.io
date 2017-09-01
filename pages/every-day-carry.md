@@ -26,6 +26,7 @@ title: Every Day Carry
 - Essentials
    - [Wallet](https://www.amazon.com/gp/product/B01N6AV8PQ/)
    - Phone
+   - [Keys](https://www.mykeyport.com/slide3)
    - [Plain Edge Folder](https://www.amazon.com/gp/product/B003X9WKOO/)
    - [Multitool](https://www.amazon.com/gp/product/B0002T5YNW/)
    - [Flashlight](https://www.amazon.com/gp/product/B013QHN1CM/)
@@ -33,36 +34,30 @@ title: Every Day Carry
 - Concealed Carry
    - [Glock 19](https://us.glock.com/products/model/g19) (with [Apex Trigger](https://store.apextactical.com/WebDirect/Products/Details/192369), [Trijicon RMR Sight](https://www.trijicon.com/na_en/products/product3.php?pid=RM05G), [Crimson Trace Auto-On Weaponlight](https://www.crimsontrace.com/01-7040), [Guide Rod Laser](http://www.lasermax.com/products/guide-rod-lasers/lms-1131g))
    - Two-clip IWB kydex holster, moderate cant.
-- Keys
-  - House Key
-  - Car Key
-  - Motorcycle Key
-  - Work/School key
-  - Lockbox Key
+- Small Tool Collection
   - [Gorilla Tape](https://gearward.com/collections/frontpage/products/keychain-duct-tape)
   - [Hardware Encrypted Flash Drive](https://www.amazon.com/Apricorn-Validated-256-bit-Encryption-ASK3-16GB/dp/B01AJNGF4W/)
   - [Yubikey](https://www.amazon.com/Yubico-Y-072-YubiKey-NEO/dp/B00LX8KZZ8/)
   - [Leatherman Squirt](https://www.amazon.com/Leatherman-831195-Squirt-Black-Keychain/dp/B0032Y2OT6/)
   - [Keychain light](https://www.amazon.com/gp/product/B017R560WC/)
   - [Caffiene/L-Theanine Pills](https://www.amazon.com/Caffeine-L-Theanine-Smooth-Energy-Focus/dp/B01921TUGC/) and emergency cash in a 2.6" [Go Tube](https://gearward.com/collections/frontpage/products/go-tube-2-6). (Wrap with GITD tape).
-- Cordage
+  - Safety pins
+- Cordage/Utility
   - [Locking Carabiner](https://www.amazon.com/gp/product/B003E2WV80/)
   - [600lb Technora Cord](https://gearward.com/collections/frontpage/products/compact-survival-cord-mini-technora)
   - [200lb Kevlar 3-Strand Cord](https://gearward.com/collections/frontpage/products/compact-survival-cord-mini)
   - [Bic Mini](https://www.amazon.com/Lot-Mini-Ebony-Black-Lighters/dp/B00863W71I/)
-- Utility
   - Velcro Ties
   - Zip ties
   - [Ranger bands](https://gearward.com/collections/frontpage/products/ranger-bands)
   - Binder Clips
-  - Safety Pins
   - Scotch tape
   - Masking tape
-  - Sticky Notes
   - Sharpie
   - Ziploc bags
 - Writing
   - [Dot-Pad Notebook](https://www.amazon.com/gp/product/B00A6VRZZG/)
+  - Sticky Notes
   - [6" Ruler](https://www.amazon.com/Westcott-6-Inch-Clear-Shatterproof-45016/dp/B002U33WBO/)
   - [Pen Holder Clip](https://www.amazon.com/gp/product/B0050YP6JG/)
   - [Multipen](https://www.amazon.com/gp/product/B00F9M2QKG/)
@@ -72,7 +67,7 @@ title: Every Day Carry
   - Stuff like [ITS Boo Boo Kit](https://store.itstactical.com/its-boo-boo-kit.html) (expand pill selection).
   - [ITS EDC Trauma Kit](https://store.itstactical.com/its-edc-trauma-kit.html)
 - Wearable
-  - [Roav Sunglasses](https://www.roaveyewear.com/products/earhart-matte-black-frame-g15-lens)
+  - [Sunglasses](http://www.btbsunglasses.com/BTB-800-Polarized-Sunglasses-p/btb800p.htm)
   - [Molded In Ear Headphones](http://www.ultimateear.com/products/driver-comm-motor.php)
   - [Ana-Digi Watch](https://www.amazon.com/gp/product/B00M0ESOCA/)
   - [High Quaity NATO Watch Band](http://watchworx.co.uk/pages/lwb/NatoG10.htm)
