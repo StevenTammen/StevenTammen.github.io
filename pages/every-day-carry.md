@@ -41,12 +41,12 @@ title: Every Day Carry
   - [Leatherman Squirt](https://www.amazon.com/Leatherman-831195-Squirt-Black-Keychain/dp/B0032Y2OT6/)
   - [Keychain light](https://www.amazon.com/gp/product/B017R560WC/)
   - [Caffiene/L-Theanine Pills](https://www.amazon.com/Caffeine-L-Theanine-Smooth-Energy-Focus/dp/B01921TUGC/) and emergency cash in a 2.6" [Go Tube](https://gearward.com/collections/frontpage/products/go-tube-2-6). (Wrap with GITD tape).
+  - [Bic Mini](https://www.amazon.com/Lot-Mini-Ebony-Black-Lighters/dp/B00863W71I/)
   - Safety pins
 - Cordage/Utility
   - [Locking Carabiner](https://www.amazon.com/gp/product/B003E2WV80/)
   - [600lb Technora Cord](https://gearward.com/collections/frontpage/products/compact-survival-cord-mini-technora)
   - [200lb Kevlar 3-Strand Cord](https://gearward.com/collections/frontpage/products/compact-survival-cord-mini)
-  - [Bic Mini](https://www.amazon.com/Lot-Mini-Ebony-Black-Lighters/dp/B00863W71I/)
   - Velcro Ties
   - Zip ties
   - [Ranger bands](https://gearward.com/collections/frontpage/products/ranger-bands)
