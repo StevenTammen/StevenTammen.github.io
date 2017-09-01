@@ -34,14 +34,14 @@ title: Every Day Carry
 - Concealed Carry
    - [Glock 19](https://us.glock.com/products/model/g19) (with [Apex Trigger](https://store.apextactical.com/WebDirect/Products/Details/192369), [Trijicon RMR Sight](https://www.trijicon.com/na_en/products/product3.php?pid=RM05G), [Crimson Trace Auto-On Weaponlight](https://www.crimsontrace.com/01-7040), [Guide Rod Laser](http://www.lasermax.com/products/guide-rod-lasers/lms-1131g))
    - Two-clip IWB kydex holster, moderate cant.
-- Small Tool Collection
+- Keychain
   - [Gorilla Tape](https://gearward.com/collections/frontpage/products/keychain-duct-tape)
   - [Hardware Encrypted Flash Drive](https://www.amazon.com/Apricorn-Validated-256-bit-Encryption-ASK3-16GB/dp/B01AJNGF4W/)
   - [Yubikey](https://www.amazon.com/Yubico-Y-072-YubiKey-NEO/dp/B00LX8KZZ8/)
   - [Leatherman Squirt](https://www.amazon.com/Leatherman-831195-Squirt-Black-Keychain/dp/B0032Y2OT6/)
-  - [Keychain light](https://www.amazon.com/gp/product/B017R560WC/)
-  - [Caffiene/L-Theanine Pills](https://www.amazon.com/Caffeine-L-Theanine-Smooth-Energy-Focus/dp/B01921TUGC/) and emergency cash in a 2.6" [Go Tube](https://gearward.com/collections/frontpage/products/go-tube-2-6). (Wrap with GITD tape).
+  - [Keychain Light](https://www.amazon.com/gp/product/B017R560WC/)
   - [Bic Mini](https://www.amazon.com/Lot-Mini-Ebony-Black-Lighters/dp/B00863W71I/)
+  - [Caffiene/L-Theanine Pills](https://www.amazon.com/Caffeine-L-Theanine-Smooth-Energy-Focus/dp/B01921TUGC/) and emergency cash in a 2.6" [Go Tube](https://gearward.com/collections/frontpage/products/go-tube-2-6). (Wrap with GITD tape).
   - Safety pins
 - Cordage/Utility
   - [Locking Carabiner](https://www.amazon.com/gp/product/B003E2WV80/)
@@ -51,6 +51,7 @@ title: Every Day Carry
   - Zip ties
   - [Ranger bands](https://gearward.com/collections/frontpage/products/ranger-bands)
   - Binder Clips
+  - Superglue
   - Scotch tape
   - Masking tape
   - Sharpie
