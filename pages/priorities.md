@@ -59,7 +59,7 @@ Almost all truly successful people throughout history have been voracious reader
 
 Of course, some books are of much more value than others. Reading practical nonfiction is going to do you a whole lot more good than trashy paranormal romance novels. I would suggest attempting to balance reading things that are in your areas of expertise (and/or line up with your interests and beliefs) with things that are not in your areas of expertise (and/or are contrary to your interests and beliefs). It's hard to gain perspective if you only get one point of view.
 
-In my opinion, the idea that paper books somehow increase comprehension over screens (or are fater to read, less mentally taxing, etc.) is rubbish (see my thoughts on screen reading [here](https://steventammen.com/screen-reading/)). Most of the research comparing paper reading to screen reading is of extremely poor quality, and none that I am aware of truly compares apples to apples (i.e., explicitly controls for differences that might be significantly biasing the results, such as people reading on screens scrolling rather than emulating page turning). In my opinion, most all research that claims that audiobooks are basically the same in effectiveness as print books is also rubbish, since I think that [any learning that does not include reading as a component is suboptimal](https://steventammen.com/learning-styles/).
+In my opinion, the idea that paper books somehow increase comprehension over screens (or are faster to read, less mentally taxing, etc.) is rubbish (see my thoughts on screen reading [here](https://steventammen.com/screen-reading/)). Most of the research comparing paper reading to screen reading is of extremely poor quality, and none that I am aware of truly compares apples to apples (i.e., explicitly controls for differences that might be significantly biasing the results, such as people reading on screens scrolling rather than emulating page turning). In my opinion, most all research that claims that audiobooks are basically the same in effectiveness as print books is also rubbish, since I think that [any learning that does not include reading as a component is suboptimal](https://steventammen.com/learning-styles/).
 
 #### 5. An implemented and disciplined exercise routine that includes both aerobic and anaerobic training
 
@@ -72,7 +72,7 @@ In my opinion, it is best to do both aerobic and anaerobic training to get the b
 In general, such a diet would
 
 - Be free of or low in processed foods, added sugar, and high omega-6 oils (e.g., sunflower oil, corn oil)
-- Be high in vegetables, naturally occurring antioxidants, and sources of omega-3 fatty acids (salmon, sardines)
+- Be high in vegetables, naturally occurring antioxidants, and sources of omega-3 fatty acids (e.g., salmon, sardines)
 
 Whether you believe in evolution through natural selection or divine creation (of whatever form: Christian, Muslim, etc.), either way humans were not designed to eat processed foods. In practice, if you avoid buying anything packaged and pre-prepared (unless you know exactly what is in it and where it comes from), you will avoid most of the persistent health problems related to metabolic syndrome. You will have to cook for yourself, however.
 
