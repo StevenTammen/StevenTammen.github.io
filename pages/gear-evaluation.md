@@ -19,14 +19,15 @@ title: Gear Evaluation
 </div>
 
 
-## Factors
+## Variables
 
-- different factors for different items
-- weighting of factors depending on individual circumstances
-- separating optimality and cost — cost as factor, and to what extent it should be weighted as a factor
+- There will be different variables for different items. The first step when researching a particular item or class of item should always be the identification of variables that will be important to optimize around.
+- You will also want to identify the specifics of your particular use case, and weight variables accordingly. "Best" is relative to what the item will be used for -- a really good pair of tactical cargo pants probably won't be the best pants to go with your suit.
+- Practicality and diminishing returns mean that very often it is best to purchase the cheapest option that fits your use case rather than a more expensive option that will not make a substantial difference. For example, diamond tipped screwdrivers are theoretically better than screwdrivers made out of high-carbon machine steel. But they are probably not $200 better, and as long as you aren't working with tungsten carbide screws (for example), it's not going to make a difference anyway. So while the diamond-tipped screwdrivers are "better" in the abstract, they are not better *for you* since they cost more money without giving you additional benefit.
 
 ## Selection
 
-- Very rare to find a product that actally meets your optimal configuration
-- product spaces and figuring out what to choose among a range of suboptimal choices
-- crowdsourcing as a solution to to the lack of effective product designs in much of industry
+- It is very rare to find a product that actally meets your optimal configuration. Life is full of poorly designed products that haven't been thought out intelligently. Best get used to it.
+- You will need to use your weighting of variables to go through the product space and figure out what to choose among a range of suboptimal options.
+- You will want to find out the usable lifetime of whatever product you are buying, and then try to estimate the probability that a much more optimal product will come out before the end of the usable lifetime. (Of course, some of this depends on how much you need the product *now*).
+- Crowdsourcing could theoretically act as a solution to to the lack of effective product designs in much of industry. Unfortunately, it has been taken over in large part by slick marketing and gimmicky designs -- products that value pretty design and aesthetics over usefulness. (This is not universally true -- there are a handful of excellent crowsourced products -- but it is mostly true).
