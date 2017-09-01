@@ -31,56 +31,54 @@ Vic = [Victorinox SwissTool Spirit](https://www.amazon.com/gp/product/B0002T5YNW
 
 ### LM Pros
 
-- one-hand opening blades
+- One-handed opening blades
 - S30v steel
-- true needle nose pliers that open wide
-- diamond file
-- wider opening scissors
-- more sharply machined screwdrivers much less likely to slip
-- better wire cutters
-- a pocket clip that is one of the best available on any pocket knife.
+- True needle nose pliers that open wide
+- A Diamond file that can be used to sharpen stuff and handle hard materials
+- Wider opening scissors
+- More sharply machined screwdrivers (that are much less likely to slip)
+- Better wire cutters
+- A pocket clip that is one of the best available on any pocket knife.
 
 ### LM Possible Improvements
 
 - Make smaller tools accessible without opening
-- Make bit drivers less stubby, ability to get into tighter places
+- Make bit drivers less stubby so that they could get into tighter places
 
 ### Vic Pros
 
 - All tools accessible from outside
 - All tools lock
-- Pliers meet at tip, so parallel when you grip rather than when closed which doesn’t make any sense
-- Handle design very good for pliers ergonomically, doesn’t really inhibit use of other tools
-- Rounded edges comfortable to hold
+- Pliers meet at tip, so that they are parallel when you grip rather than when they are closed (which doesn’t make any sense)
+- Handle design is very good for pliers ergonomically -- doesn’t really inhibit use of other tools
+- Rounded edges are comfortable to hold
 
 ### Vic Possible Improvements
 
-- Don’t rivet together, use something that can be lossened/tightened/taken apart/replaced
+- Move away from riveting everything together -- use something that can be loosened/tightened/taken apart/replaced
 - Slightly narrower pliers
-- Let pliers open little wider
-- Cutting hook
-- Diamond coated file + more medium coarse on wood/metal side
+- Let pliers open a little wider
+- Add a cutting hook
+- Add a diamond coated file, medium grain on wood/metal side
 - Improve grip of surface (not necessarily bead blasted — because of corrosion factors — but more grippable texture)
 - Switch scissors around to be able to cut nails
 - Make scissors openable to be able to sharpen
 - One hand opening serrated knife, some way to get it open even when cold
-- One hand opening for other tools like saw+file too?
-- Spring loaded pliers
-- Removable wire cutter inserts (resharpen)
-- Ruler on side
-- Squared off (rather than rounded off) screwdrivers, harder steel (won’t strip as easily)
--  Ability to have pocket clip
+- One hand opening for other large tools as well
+- Add spring loaded pliers
+- Add removable wire cutter inserts (that are able to be resharpened)
+- Square off screwdrivers, use harder steel (that won’t strip as easily)
 
 ## Multitools' Role in EDC
 
-- Multitools fulfill all the main tool duties not covered by a plain edge knife (which is kept searate for more ergonomic grip/controllability)
-- A compact can be carried on the keychain and should contain all of your "essential" tool functions. It should also contained a smaller plain edge knife to use for specialized tasks for which a bigger blade would be undesirable (particularly if you have a larger utility blade like a PM2 or Mini-Griptilian). I always carry my compact, even when carrying a full size multitool and plain edge knife. This is because of the aforementioned smaller plain edge, and the fact that having duplicates of some of the essential tools can come in extremely handy sometimes (particularly pliers and drivers). Additionally, you may encounter some situations in which you can give your compact to friend/colleague to effectively double the rate at which you do a job (like tightening screws, for example).
+- Multitools fulfill all the main tool duties not covered by a plain edge knife (which is kept separate for a more ergonomic grip and greater controllability).
+- A compact can be carried on the keychain and should contain all of your "essential" tool functions. It should also contained a smaller plain edge knife to use for specialized tasks for which a bigger blade would be undesirable (particularly if you have a larger utility blade like a PM2 or Mini-Griptilian). I always carry my compact, even when carrying a full size multitool and plain edge knife. This is because of the aforementioned smaller plain edge, and the fact that having duplicates of some of the essential tools can come in extremely handy sometimes (particularly pliers and drivers). Additionally, you may encounter some situations in which you can give your compact to a friend/colleague to effectively double the rate at which you do a job (like tightening screws, for example).
 - A full size should carry all of the tools that you will actually have use for. It's best for your full size to have the essentials as well as your compact -- not for the purpose of gear "backups" (which are completely unecessary for EDC, statistically speaking -- survival is another matter), but because a full size will have beefier versions better suited for different tasks than the smaller compact versions. For example, I use the pliers, scissors, files, and bottle openers (vertical prying tools) on my full size and compact multitools in different ways -- so they are in no way "duplicate tools". (See above for duplicating drivers).
 - Essential multitool tools, in my opinion (in no particular order)
    - Needlenose Pliers
    - Regular (i.e., Rounded) Pliers
    - Wirecutters
-   - Knife (plain edge for compact, serrated blade for full size. Preferably full flat grind).
+   - Knife (plain edge for compact, serrated blade for full size. Preferably full flat grind)
    - Scissors
    - Medium Flathead Driver
    - Medium Phillips Driver (can be 2D on compact multitools if necessary)
