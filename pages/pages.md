@@ -25,7 +25,6 @@ Note: Pages that have an asterisk before them are still in progress to some degr
 - \*[Pants](https://steventammen.com/pants/)
 - \*[Pencil Leads](https://steventammen.com/pencil-leads/)
 - \*[Pencils](https://steventammen.com/pencils/)
-- \*[Vests](https://steventammen.com/vests/)
 - \*[Watches](https://steventammen.com/watches/)
 - \*[Water Bottles](https://steventammen.com/water-bottles/)
 
