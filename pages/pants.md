@@ -20,12 +20,12 @@ title: Pants
 
 ## Current pick
 
-- [RailRiders VersaTac Ultra-Light Pants](https://www.railriders.com/men-versatac-ultra-light-pants-p-994.html?cPath=104_110)
+- [RailRiders VersaTac Light Pants](https://www.railriders.com/men-versatac-light-pant-p-954.html?cPath=104_110)
 
 
 ## Always wearing pants
 
-- Long pants provide abrasion resistance, relative waterproofness, and sun protection to the legs. Having abrasion resistance on the full length of the legs is useful (rather than just the top). Long pants also help protect against bugs and wind.
+- Long pants provide abrasion resistance, water resistance, and sun protection to the legs. Having abrasion resistance on the full length of the legs is useful (rather than just the top). Long pants also help protect against bugs and wind.
 - [Long Pants and Safety](http://www.njmsijif.org/download/safety/Work%20Attire-%20Long%20Pants%20vs.%20Shorts%20S2011-1%20rev.pdf)
 
 ## Pockets
@@ -33,8 +33,7 @@ title: Pants
 - Pants without pockets are silly. Pockets come in useful for carrying things around day-to-day and also for storing things temporarily if you need too.
 - The question then is how many pockets. Guy's pants run the gamut from the typical 4 pockets all the way to 16 or more, while ladies' pants have less of a range.
 - Relevant pocket factors
-   - Total number of pockets (common cofiguations: 2 front slash/2 back, 2 front slash/2 back/2 cargo, 2 front slash/2 back/2 side seam).
-   - Can easily get into while sitting
+   - Total number of pockets (common configurations: 2 front slash/2 back, 2 front slash/2 back/2 cargo, 2 front slash/2 back/2 side seam).
    - Big enough for intended items. In general bigger is better (within reason) since it adds versatility.
    - Not abrasive/uncomfortable to get into (such as having pointy metal zipper tracks)
    - Quick to get into (not too tight, no fiddly bits to mess with to get pocket open)
@@ -72,7 +71,7 @@ title: Pants
 - Should be a reasonable amount of space between front belt loops to accommodate riggers belts comfortably. Should be able to hold overlap on normal buckle belts.
 
 ## Closure system
-- Hard metal objects (like the backs of buttons) digging into your skin are bad. Maximizing the surface area of hard objects on the back of the front will help distribute load better. Better not, not having them in the first place.
+- Hard metal objects (like the backs of buttons) digging into your skin are bad. Maximizing the surface area of hard objects on the back of the front will help distribute load better. Better yet, don't have them in the first place.
 - Buttons can fall off if thread fails, hook clasps and snaps can’t
 - Snaps are faster than buttons or hook clasps to undo when going to the bathroom and getting the pants on and off.
    - But they may be less secure if poorly designed. Under loads, I’m not sure closure system will really matter: they’ll all fail in some way under heavy load, it’s just a matter of when and with how little applied force
