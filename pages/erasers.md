@@ -47,6 +47,7 @@ title: Erasers
 ## Detail work
 
 - <https://www.amazon.com/Tombow-MONO-Eraser-Round-1-Pack/dp/B005IQHCHK>
+- <https://www.amazon.com/Tombow-MONO-Eraser-Rectangle-1-Pack/dp/B005IQHCKM/>
 
 ## Shading and art stuff:
 
