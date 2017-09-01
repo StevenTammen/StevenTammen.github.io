@@ -21,6 +21,6 @@ header: Steven Tammen
 - Development of an open-source, cross-platform program to enable Vim/Spacemacs emulation across the entire operating system environment (configurable by .vimrc/.spacemacs files just like Vim/Spacemacs).
 - Development of an open-source universal electronic publishing standard (for novels, reference books, articles, etc.)
 - Devlopment of an open-source, cross-platform e-reading program, to be used (non-exclusively) with the standard above. Also develop API for using the optimally designed reading interface in web pages.
-- Development of a more ergonomic finger-controlled trackball (compared to the [Kensington Slimblade Trackball](https://www.amazon.com/Kensington-SlimBlade-Trackball-Mouse-K72327US/dp/B001MTE32Y/), [L-Trac Trackball](https://www.amazon.com/CST2545W-L-TRAC-Wired-Performance-Trackball/dp/B00ECHGE3O/), etc.
+- Development of a more ergonomic finger-controlled trackball (compared to the [Kensington Slimblade Trackball](https://www.amazon.com/Kensington-SlimBlade-Trackball-Mouse-K72327US/dp/B001MTE32Y/), [L-Trac Trackball](https://www.amazon.com/CST2545W-L-TRAC-Wired-Performance-Trackball/dp/B00ECHGE3O/), etc.)
 - Development of a side-actuated mechanical pencil: an update of the now-discontinued [Pentel Original Quicker Clicker](http://www.pentel.com/store/quicker-clicker-mechanical-pencil-original-config).
 - Development of a fully waterproof multi-purpose backpack: an update of the now-discontinued [Ortlieb Flight 27](http://www.wiggle.fr/sac-a-dos-ortlieb-flight-27-litres-avec-tizip/).
