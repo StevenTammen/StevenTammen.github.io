@@ -18,8 +18,9 @@ header: Steven Tammen
 ## Worthy Projects: [email me](mailto:steven@steventammen.com) if interested in contributing
 
 - Development of an open-source, cross-platform keyboard program that supports remapping, hotstrings, layers, macros, running programs through a hotstring/macro, opening URLs in the default browser through a hotstring/macro, and so forth.
-- Development of an open-source, cross-platform program to enable Vim emulation across the entire operating system environment (configurable by .vimrc files just like Vim itself).
+- Development of an open-source, cross-platform program to enable Vim/Spacemacs emulation across the entire operating system environment (configurable by .vimrc/.spacemacs files just like Vim/Spacemacs).
 - Development of an open-source universal electronic publishing standard (for novels, reference books, articles, etc.)
-- Devlopment of an open-source, cross-platform e-reading program, to be used (non-exclusively) with the standard above. Develop API for using the optimally designed reading interface in web pages.
+- Devlopment of an open-source, cross-platform e-reading program, to be used (non-exclusively) with the standard above. Also develop API for using the optimally designed reading interface in web pages.
+- Development of a more ergonomic finger-controlled trackball (compared to the [Kensington Slimblade Trackball](https://www.amazon.com/Kensington-SlimBlade-Trackball-Mouse-K72327US/dp/B001MTE32Y/), [L-Trac Trackball](https://www.amazon.com/CST2545W-L-TRAC-Wired-Performance-Trackball/dp/B00ECHGE3O/), etc.
 - Development of a side-actuated mechanical pencil: an update of the now-discontinued Pentel Original Quicker Clicker.
 - Development of a fully waterproof multi-purpose backpack: an update of the now-discontinued Ortlieb Flight 27.
