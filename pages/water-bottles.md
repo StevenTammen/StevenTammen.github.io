@@ -34,7 +34,7 @@ title: Water Bottles
 - If you don't know what additives are in a plastic (and you never will because companies refuse to publish their formulations), best avoid it.
 - Buying higher quality products generally means you have less toxic stuff leaching into your water. It doesn't mean you'll have *no* toxic stuff leaching into your water.
 - Plastics are not biodegradable and pose an environmental problem. (Google "Great Pacific Garbage Patch" -- try to avoid both the doomsday people and the oil company propaganda).
-- However, plastic still makes the most sense for low temperature short term contact water filters due to its durability and light weight. Not much leaching can occur in a short period of time.
+- However, plastic still makes the most sense for low temperature short term contact water filter bottles due to its durability and light weight. Not much leaching can occur in a short period of time.
 
 ### Stainless steel
 
@@ -61,7 +61,7 @@ title: Water Bottles
 
 - Wider is easier to load with ice cubes, smoothies, etc. (although funnels really make this not terribly important), easier to clean, and also more resistant to freezing solid if bottles are filled completely (which they usually won't be). However, wider is harder to drink from while walking, driving, or laying down.
 - Narrower is easier to drink out of when walking, driving, or laying down.
-- If you have an intelligently design lid you can get the advantages of both wide and narrow.
+- If you have an intelligently designed lid you can get the advantages of both wide and narrow.
 - Pros/Cons
    - <https://windmill12.com/2013/08/23/nalgene-bottles-narrow-or-wide-mouth/>
    - <https://www.reddit.com/r/PKA/comments/1zhvih/what_makes_nalgene_the_superior_water_bottle/>
