@@ -27,7 +27,7 @@ title: Gear Evaluation
 
 ## Selection
 
-- It is very rare to find a product that actally meets your optimal configuration. Life is full of poorly designed products that haven't been thought out intelligently. Best get used to it.
+- It is very rare to find a product that will actual match the optimal configuration for your circumstances. Moreover, the world is full of poorly designed products that haven't been thought out intelligently in the first place; the number of products that start out not being bad is pretty small. Best get used to it.
 - You will need to use your weighting of variables to go through the product space and figure out what to choose among a range of suboptimal options.
 - You will want to find out the usable lifetime of whatever product you are buying, and then try to estimate the probability that a much more optimal product will come out before the end of the usable lifetime. (Of course, some of this depends on how much you need the product *now*).
 - Crowdsourcing could theoretically act as a solution to to the lack of effective product designs in much of industry. Unfortunately, it has been taken over in large part by slick marketing and gimmicky designs -- products that value pretty design and aesthetics over usefulness. (This is not universally true -- there are a handful of excellent crowsourced products -- but it is mostly true).
