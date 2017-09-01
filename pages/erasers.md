@@ -22,6 +22,17 @@ title: Erasers
 
 - [Kokuyo Campus Student Eraser - For 2B Lead](https://www.amazon.com/Kokuyo-Campus-Student-Eraser-Lead/dp/B004ISOZ92/)
 
+## Recommended Reading
+
+- <http://smbhax.com/cgi-bin/newsarchive.pl?p=1197>
+- <http://smbhax.com/cgi-bin/newsarchive.pl?p=1205>
+- <http://smbhax.com/cgi-bin/newsarchive.pl?p=1207>
+- <http://www.wellappointeddesk.com/2016/07/the-great-eraser-rub-off-challenge/>
+- <https://theweeklypencil.com/2016/03/22/eraser-round-up/>
+- <http://www.comic-tools.com/2009/08/this-week-eraser-rub-off-howdy-comic.html>
+- <http://www.jetpens.com/profile/viewReviews?id=f2d07c0462ceee46>
+- <http://robotninjamonsters.blogspot.com/2009/07/pentel-hi-polymer-eraser-review-and.html>
+- <https://www.youtube.com/watch?v=jZaNDG7Vk1c>
 
 ## Foam Erasers, Sakura Arch Sleeve Design
 
