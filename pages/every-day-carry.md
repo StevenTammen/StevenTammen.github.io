@@ -40,7 +40,7 @@ title: Every Day Carry
   - [Yubikey](https://www.amazon.com/Yubico-Y-072-YubiKey-NEO/dp/B00LX8KZZ8/)
   - [Leatherman Squirt](https://www.amazon.com/Leatherman-831195-Squirt-Black-Keychain/dp/B0032Y2OT6/)
   - [Keychain Light](https://www.amazon.com/gp/product/B017R560WC/)
-  - [Bic Mini](https://www.amazon.com/Lot-Mini-Ebony-Black-Lighters/dp/B00863W71I/)
+  - [Bic Mini](https://www.amazon.com/Lot-Mini-Ebony-Black-Lighters/dp/B00863W71I/) (and [a waterproofing/tinder solution](https://gearward.com/products/ranger-bic))
   - [Caffiene/L-Theanine Pills](https://www.amazon.com/Caffeine-L-Theanine-Smooth-Energy-Focus/dp/B01921TUGC/) and emergency cash in a 2.6" [Go Tube](https://gearward.com/collections/frontpage/products/go-tube-2-6). (Wrap with GITD tape).
   - Safety pins
 - Cordage/Utility
