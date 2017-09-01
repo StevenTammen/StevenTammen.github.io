@@ -15,9 +15,9 @@ header: Steven Tammen
 08/12/17   Added [Learning Styles](https://steventammen.com/learning-styles/) and [Priorities](https://steventammen.com/priorities) <br/>
 07/31/17   Added [Motorcycles](https://steventammen.com/motorcycles) and [Work Environment](https://steventammen.com/work-environment) <br/>
 
-## Worthy Projects ([email me](mailto:steven@steventammen.com) if interested)
+## Worthy Projects: [email me](mailto:steven@steventammen.com) if interested in contributing
 
-- Development of an open-source, cross-platform keyboard program that supports remapping, hotstrings, layers, macros, operating system interfacing (e.g., running programs through a key sequence, opening URLs in the default browser through a key sequence), and so forth.
+- Development of an open-source, cross-platform keyboard program that supports remapping, hotstrings, layers, macros, running programs through a hotstring/macro, opening URLs in the default browser through a hotstring/macro, and so forth.
 - Development of an open-source, cross-platform program to enable Vim emulation across the entire operating system environment (configurable by .vimrc files just like Vim itself).
 - Development of an open-source universal electronic publishing standard (for novels, reference books, articles, etc.)
 - Devlopment of an open-source, cross-platform e-reading program, to be used (non-exclusively) with the standard above. Develop API for using the optimally designed reading interface in web pages.
