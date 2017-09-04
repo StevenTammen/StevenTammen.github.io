@@ -44,9 +44,9 @@ title: Motorcycles
     - Don’t stay in traffic near large trucks or buses as they block your view and the view other drivers have of you.
     - Always ease off the throttle, drop a gear (if on an ICE bike), and ride the front brake when coming into intersections (shaving off 5-10 mph and being ready to stop if necessary)
     - Learn how to make quick stops without locking up the back tire and highsiding -- you can shed most of the speed before you hit a car that pulls out in front of you if you are already on the front brake coming into an intersection.
-    - Ride like you are invisible and everybody else is trying to kill you. Expect people to pull out in front of you and always be prepared to handle someone who does.
+    - There is a mantra repeated by experienced riders: "ride like you are invisible." The takeaway from this saying is that you should expect people to pull out in front of you and that you should always be prepared to handle someone who does.
     - Ride with a field of vision 12 seconds out; always be on the lookout of possible environmental hazards.
-    - Learn how to identify car movements: front tires move twice as fast as bumpers, tires turning, drivers checking mirrors and looking, etc. Be able to predict behavior of other drivers.
+    - Learn how to predict car movements: front tires move twice as fast as bumpers (so will always be pointing sideways to a degree and moving *before* a car starts turning/merging), drivers checking mirrors and especially head-checking signals that they are about to turn/merge, etc. 
   - Cars changing lanes into you
     - Don’t ride in people’s blind spots. If you can’t see their eyes in the mirror, they can’t see you. Not everyone will head check.
     - Have a strong horn on your bike and don’t be shy using it.
