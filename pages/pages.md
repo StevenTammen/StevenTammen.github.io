@@ -19,6 +19,7 @@ Note: Pages that have an asterisk before them are still in progress to some degr
 - \*[Erasers](https://steventammen.com/erasers/)
 - \*[Gear Evaluation](https://steventammen.com/gear-evaluation/)
 - \*[Guns](https://steventammen.com/guns/)
+- \*[Keyboards](https://steventammen.com/keyboards/)
 - \*[Monitors](https://steventammen.com/monitors/)
 - \*[Motorcycles](https://steventammen.com/motorcycles/)
 - \*[Multitools](https://steventammen.com/multitools/)
