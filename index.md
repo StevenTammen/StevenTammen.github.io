@@ -8,6 +8,7 @@ header: Steven Tammen
 
 ## Recent Activity
 
+09/06/17   Added [Keyboards](https://steventammen.com/keyboards/)
 09/01/17   Updated most pages <br/>
 08/27/17   Updated [Priorities](https://steventammen.com/priorities); added [Life Purpose](https://steventammen.com/life-purpose/) <br/>
 08/20/17   Published [Priorities](https://steventammen.com/priorities)<br/>
