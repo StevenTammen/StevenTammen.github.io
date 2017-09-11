@@ -61,9 +61,9 @@ Zeichen '('
 
 ```
 
-To determine what your character set should be, you’ll need to determine what punctuation you type most frequently (which will depend upon your use case). I did this with a short Python script and a text corpus from exactly the sort of thing that will compose the majority of my non-code typing in the future: exegetical Bible studies. I downloaded all the major studies from [Ichthys.com](http://ichthys.com), the main Bible study site I follow, [in RTF form](http://ichthys.com/zip-msword.ZIP). I then converted them into plain text files, and counted character frequencies. (The Greek and Hebrew scripts were not converting well so I just straight converted without bothering with Unicode — all the Greek and Hebrew words got replaced with question marks, which means that the character frequency of ? is somewhat higher than it should be).
+To determine what your character set should be, you’ll need to determine what punctuation you type most frequently (which will depend upon your use case). I did this with a short Python script and a text corpus from exactly the sort of thing that will compose the majority of my non-code typing in the future: exegetical Bible studies. I downloaded all the major studies from [Ichthys.com](http://ichthys.com), the main Bible study site I follow, [in RTF form](http://ichthys.com/zip-msword.ZIP). I then converted them into plain text files, and counted character frequencies. (The Greek and Hebrew scripts were not converting well for some reason, so I just straight converted without bothering with Unicode — all the Greek and Hebrew words got replaced with question marks, which means that the character frequency of ? is somewhat higher than it should be).
 
-Here’s the Python script I used to do this: (also: link to download)
+[Here’s the Python script](https://steventammen.com/assets/files/keyboard-layouts/LetterFreq.py) I used to do this:
 
 ```
 #-------------------------------------------------------------------------------
@@ -228,6 +228,98 @@ csvWriter.writerow([])
 for otherPair in otherPairs:
     csvWriter.writerow(otherPair)
 f.close()
+
+```
+
+And [here is what it outputs](https://steventammen.com/assets/files/keyboard-layouts/LetterFreq.csv) given my corpus (your text editor will have to support Unicode to see everything properly):
+
+```
+
+e,803528
+t,598843
+o,495798
+i,492051
+a,464314
+s,434196
+n,433896
+r,395252
+h,380846
+l,277050
+d,230886
+u,175152
+c,173898
+f,168673
+m,139501
+w,124651
+p,124395
+g,123719
+y,102014
+b,98846
+v,82177
+k,30190
+j,19117
+x,8767
+z,4264
+q,4086
+é,32
+ŕ,17
+ü,6
+á,2
+ř,1
+ö,1
+í,1
+č,1
+
+1,44448
+2,27492
+3,15772
+4,12982
+5,9927
+6,8950
+0,7933
+7,7484
+8,7304
+9,7117
+
+",",81519
+.,79721
+v:,32737
+),30797
+(,29007
+"""",25318
+v;,14123
+',12307
+v-,10621
+:,8614
+],7951
+[,7947
+-,5668
+?,5045
+;,3151
+“,2781
+”,2759
+–,2660
+!,1033
+*,773
+’,773
+/,624
+#,399
+‘,138
+&,137
+=,87
+—,53
+_,52
+`,42
+%,19
+<,17
+>,16
++,12
+…,10
+•,10
+{,2
+},2
+|,1
+·,1
 
 ```
 
