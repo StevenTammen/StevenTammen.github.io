@@ -160,18 +160,3 @@ csvWriter.writerow([])
 for otherPair in otherPairs:
     csvWriter.writerow(otherPair)
 f.close()
-    
-
-
-
-
-    
-        
-    
-    
-    
-    
-    
-    
-    
-    
