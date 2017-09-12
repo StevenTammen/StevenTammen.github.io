@@ -30,11 +30,32 @@ title: Keyboard Layouts
    <img src="/assets/images/keyboard-layouts/media.png"><br/><br/>
 </div>
 
-## In-Progress Explanation
+## Prior Studies of Keyboard Layouts
 
-To be able to run the AdNW optimizer, you’ll need to compile the C++ source. I used [MinGW](http://mingw.org/), which is a windows port of the GCC (GNU Compiler Collection, for C, C++, ADA, etc.). You’ll need to be a little bit familiar with the command line (e.g., changing directories), but it’s not too bad. I knew virtually nothing about compilers or running commands and figured out how to do it via Google and trial-and-error in like 20 minutes. I’ll try and get around posting a step-by-step guide at some point. (At least for Windows).
+I suggest you go through the following links (and any of the others from [this link](http://mdickens.me/typing/alternative_layouts.html) that catch your eye -- some of the links are dead) before you continue reading my approach, just so you can see what else is out there:
+
+- [CarpalX](http://mkweb.bcgsc.ca/carpalx/)
+- [MTGAP](https://mathematicalmulticore.wordpress.com/the-keyboard-layout-project/)
+- [Aus der Neo Welt (AdNW)](http://adnw.de/) (and its [Google Group](https://groups.google.com/forum/#!forum/adnw))
+- [The Optimal Keyboard Layout Project](http://web.archive.org/web/20041012232707/http://www.pvv.org/~hakonhal/main.cgi/keyboard/optimal/) (web archived)
+- [Keyboard Evolve](http://www.michaelcapewell.com/programming/keyboardevolve.htm)
+- [Norman](https://normanlayout.info/about.html)
+- [Workman](http://workmanlayout.org/)
+- [Maltron](http://www.adnw.de/uploads/Main/Malt-Artikel/Malt-Artikel.pdf)
+
+There are no doubt other sites out there that discuss these things. I certainly do not pretend to be the first nor most intelligent person that has ever worked on this problem, and wouldn't want anyone to get that impression. Of the methodology of the sites above, I like AdNW and MTGAP best. I'm planning on writing about all the parameters and a logical weighting scheme at some point. (See the outline below).
+
+## Base Layer
+
+The first step to designing a base layer is getting a letter layout. There are many different options that have been created over the years, and several optimizers that have been designed to create them (CarpalX, AdNW, MTGAP). I will be using the statistics from the AdNW C++ optimizer to compare layouts since I believe it is the most thorough program available for comparison at the current time. I haven't tweaked any of the evaluation parameters (like positional penalties or adjacency penalties) but plan to eventually (since I type on a Kinesis Advantage and think that adjacency is OK as long as the motion in in-out and does not involve the pinky and ring finger together).
+
+To be able to run the AdNW optimizer, you’ll need to compile the C++ source. I used [MinGW](http://mingw.org/), which is a Windows port of the GCC (GNU Compiler Collection, for C, C++, ADA, etc.). You’ll need to be a little bit familiar with the command line (e.g., changing directories), but it’s not too bad. I knew virtually nothing about compilers or running commands and figured out how to do it via Google and trial-and-error in like 20 minutes. I’ll try and get around posting a step-by-step guide at some point. (At least for Windows).
 
 Once you have opt.cc compiled into opt.exe, it’s pretty easy to compare layouts according to AdNW’s digram and trigram statistics. However, I’d recommend you read through the English section of the instructions for the optimizer (Anleitung.pdf) anyway to get some of the theoretical background behind how optimization and comparison proceeds.
+
+Before I compared the letter layouts, I changed the character set in standard.cfg to exclude punctuation entirely. I did this to compare letter layouts only. The optimizer needs "placeholder" characters, so I gave it characters that shouldn't appear in an English corpus (like 
+
+
 
 You’ll also need to change the character set in standard.cfg (unless you type German and want the default characters). Here are the lines I changed:
 
@@ -322,6 +343,21 @@ _,52
 ·,1
 
 ```
+
+Due to the nature of the particular corpus I chose (which has a lot of scripture references), I chose to separate out the semicolons, dashes, and colons associated with scripture references (demarcated above as v; v- and v:, respectively), since they will be handled separately with the numbers.
+
+For the base layer, we are only interested in the top 6 punctuation characters. While some of the numbers have a higher frequency (at least in this corpus) than the punctuation characters, there are good reasons for keeping the numbers together, which will be discussed below. If you combine the opening and closing smartquotes with the total for normal quotes, the six most frequent non-letter and non-number characters, in order of descending frequency, are:
+
+1. comma
+2. period
+3. double quotes
+4. close parenthesis
+5. open parenthesis
+6. apostrophe
+
+After these six come the colon, brackets, and so forth. These will appear on a different layer. The frequency differences are large enough that they are not likely to be due to statistical artifact. This order is markedly different from what the author of the MTGAP algorithm has come up with for prose ([see here](http://mtgap.bilfo.com/theory-of-letter-frequency.html)). He no doubt used a much larger overall corpus to generate his order, but due to to the similarity of my writing style to the author of the present corpus (for example, a tendency towards favoring complex multi-clause sentences over simple sentences, using lots of parenthetical clauses for explanatory purposes, enclosing new terms, words/phrases being discussed, and neologisms in double quotes, etc.), I feel confident in saying that the above order is a closer match to my particular writing style. If you want this exercise to be accurate *for you*, you will have to analyze your own writing and try to find a corpus that matches it well. Using pre-generated orders like those linked to works well if your writing is very normal -- I write more formally in "casual" discourse than almost everyone else I have met, and use much more complicated language and sentence structure than most people, so a "one size fits most" approach is a poor match *for me specifically*. As the saying goes, YMMV.
+
+
 
 ## Pre-optimization Considerations
 
