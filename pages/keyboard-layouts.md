@@ -20,15 +20,111 @@ title: Keyboard Layouts
 
 <br/>
 
-<div class="center">
-   <img src="/assets/images/keyboard-layouts/base.png"><br/><br/>
-   <img src="/assets/images/keyboard-layouts/shift.png"><br/><br/>
-   <img src="/assets/images/keyboard-layouts/num.png"><br/><br/>
-   <img src="/assets/images/keyboard-layouts/code.png"><br/><br/>
-   <img src="/assets/images/keyboard-layouts/sym.png"><br/><br/>
-   <img src="/assets/images/keyboard-layouts/func.png"><br/><br/>
-   <img src="/assets/images/keyboard-layouts/media.png"><br/><br/>
-</div>
+
+## Pre-optimization Considerations
+
+Before you spend time optimizing the character layout of your keyboard, you need to first make sure that you have an ergonomic keyboard, and that your work environment is setup properly. Failing to account for these things (which are really more important), no matter how good your character layout ends up being, will put you at a much higher risk for RSI and CTS.
+
+Optimizing the character layout of your keyboard without first dealing with your workstation ergonomics is like fixing a small leak in a ship while ignoring the gaping hole in the hull — any benefit you gain here will be vastly overshadowed by the gains from improving these other areas. Again, let me repeat myself, focusing on the character layout before settling these other matters is *not* wise, and I suggest you take some time to fix any deficiencies in your current equipment/habits before continuing.
+
+## Reasons Why You Should Not Optimize
+
+### Priorities
+
+Please have a look at [this page](https://steventammen.com/priorities/).
+
+Keyboard layout optimization must be taken as an investment of lower marginal benefit than many things before it. It is a worthy investment, but it is not the worthiest of your consideration unless several more important things have been taken care of beforehand.
+
+I would encourage you to go through that link and make sure you have those things in good order before you even consider sinking in time on the keyboard optimization front. Also consider how much you really type in your everyday life (and thus how big a priority optimization is): programmers and secretaries, for example, type far more than park rangers or bakers, so keyboard optimization makes more sense for them.
+
+### The Difficulty of Retraining Your Fingers
+
+To put it simply, if you are already at 100 WPM typing QWERTY, and aren’t facing or likely to face RSI, you need to consider if this exercise is worth your while. Optimized layouts (even the bad ones, so to speak), are very much more efficient than QWERTY, and they drastically reduce the amount of effort it takes to type. But there will be an adjustment period of weeks not days, and recovering your old speed will take time. This goes doubly for those of you already using a better layout like Dvorak, Colemak, or Workman. I promise you that you can do better than any one of those three, but the gains will not be earth-shattering.
+
+If the switch were easy or effortless, QWERTY would have ceased to exist long ago. As it is, however, you will be reduced to single digit WPMs for the first little bit, and your fingers will disobey you — you will have to rewire the neural connections in your brain that correspond to what we call “muscle memory.” If you have any sort of time-sensitive full-time occupation that forces you maintain your QWERTY skills (i.e., you can’t afford to go cold turkey and immerse yourself), it’s even harder because you’ll experience [proactive interference](https://en.wikipedia.org/wiki/Interference_theory#Proactive_interference) from already having QWERTY in muscle memory. That is to say, instead of “unlearning” QWERTY when you learn your other layout (replacing the old muscle memory with new muscle memory), the old muscle memory that you need to keep around will inhibit effective acquisition of the new muscle memory.
+
+Depending on your dedication and consistency in practice, getting back to your previous speed can take anywhere from a few weeks to a few months. Poor discipline and lack of self-control can even push this from “difficult” to “impossible” — just like many people have tried to quit smoking and failed, many have tried switching away from QWERTY and failed. I would suggest that you not waste your time if you are not willing or able to put in the work necessary to be successful.
+
+### QWERTY’s Ubiquitousness
+
+As mentioned above, holding QWERTY in muscle memory when learning a new layout results in proactive interference. For most people, the flipside, called [retroactive interference](https://en.wikipedia.org/wiki/Interference_theory#Retroactive_interference), also holds true. Learning another layout will typically result in a loss of QWERTY speed because more errors are made — when you are trying to type a letter, your finger “forgets” that you are typing QWERTY, and instead presses the key for the letter on your other layout. While this is a problem for everyone, some people, through practice, have been able to keep high speeds on two different layouts simultaneously (e.g., Dvorak and QWERTY). Learning two layouts that are more similar to each other (like QWERTY and Colemak) is more likely to result in retroactive interference (just how learning Italian if you speak Spanish is more likely to mess with your Spanish than if you learn German), while using different physical keyboards for different character layouts (e.g., using Dvorak on a Kinesis Advantage and QWERTY on normal row-staggered keyboards) can help prevent retroactive interference.
+
+The upshot of all this is that most people don’t continue to type with two different layouts in the long run — in other words, learning an optimized layout generally means you lose your QWERTY proficiency. The “problem” with this, of course, is that the rest of the world is designed for QWERTY and expects you to use it.
+
+Not being able to touch-type QWERTY means your productivity will take a hit whenever you have to type on it for some reason (e.g., working on someone else’s computer or taking the GRE). You will also have to contend with poorly designed keyboard shortcuts (i.e., those with QWERTY in mind), which usually only prove to be problematic in those programs that don’t let you change them (boo on them). These are unavoidable consequences that you will face because QWERTY has become the expected layout in our society -- if you find them unacceptable, stick with QWERTY.
+
+### The Animosity of Others
+
+Certain people get rather worked up any time someone mentions a layout other than QWERTY. My best guess is that this is because the superior efficiency of people who type on other layouts is a direct challenge to their self-perception as competent, effective workers. It's also possible that their defensiveness is a manifestation of the [sunk cost fallacy](https://en.wikipedia.org/wiki/Sunk_cost#Loss_aversion_and_the_sunk_cost_fallacy): having spent a significant amount of time learning to touch-type QWERTY, they don't want to admit that they picked a bad layout. There is also likely a degree of [choice-supportive bias](https://en.wikipedia.org/wiki/Choice-supportive_bias): similar to how people evangelize the make and model of the new car they bought to help convince themselves it was worth it, people are more likely to evangelize QWERTY after deciding to make it their keyboard layout.
+
+Whatever their motivations, people will frequently challenge your decision to use a layout other than QWERTY. If you are not the type of person that's cool taking heat for being different or constantly having to explain yourself, you may want to think twice about using a layout other than QWERTY.
+
+(Note: you will encounter a larger group of people that is not actively antogonistic but merely confused as to why you find using another layout necessary or prudent. By and large, people in this group are happy shrugging and letting you do your thing if that's what you want -- but they may still give you weird looks. YMMV)
+
+### Most Speed Considerations Are Layout Agnostic
+
+There is a very real possibility if you switch that the time lost in getting back up to speed would have been better spent honing your mastery of whatever layout you do currently use, because most of the ways you can accelerate your typing don’t depend on your layout. In other words, it may very well be better for you to spend a couple months increasing your QWERTY speed from 60 WPM to 100 WPM than getting up to 60 WPM on another layout.
+
+#### Practice
+
+There is no magic here. Optimizing your layout won’t immediately make you a faster typist, though it certainly has the potential to eventually. The thing that will make you a faster typist is practicing a layout until you breathe it and you dream about it. This is like every single other skill in existence; the more you practice, the better you get. 
+
+I want to here emphasize that not all practice is equal. Practice does not make perfect. Practice makes permanent (or, alternatively, “perfect practice makes perfect”). Because we tend to type a great deal in our day to day lives, there is a danger of just going on autopilot and plateauing. Whether or not you decide to continue on in this process, I can recommend that you pick up typing not as something one merely does, but as something one studies and perfects over time.
+
+Practice the most common digraphs and trigraphs in English (or your native language if not English). Lists can be found [here](http://scottbryce.com/cryptograms/stats.htm), [here](http://www.cse.unt.edu/~mgomathi/teaching/2009/csce5550/Lectures/Cipher-Example%202.pdf), and elsewhere through a simple Google search. If you consciously train yourself to type *sequences* rather than *letters*, your speed will increase at a much faster rate.
+
+To extend this concept even further, you should drill with [this repo](https://github.com/first20hours/google-10000-english), which has the 10,000 most common words in English. It does you little good to type uncommon or unusual words at a high speed because they compose a small portion of what you type (e.g., typing “zyzzyva” fast does you no good because genuses of weevils don’t come up in normal conversation). Getting very fast at words like “the”, “and”, “that” and so forth, however, will dramatically increase your speed because these words compose a large percentage of everything we type.
+
+#### Text Expansion
+
+If you really want to ramp up the speed, you should use text expansion to abbreviate at least the first couple hundred most common words and phrases in English, making, for example, “the” just “t”, “I want to” just “iwt”, and so on. By doing this alone, you can cut down on how many keys you have to physically press down by a huge percentage (at least for prose). You can actually do the same thing for common code constructs (e.g., the basic syntax of a for loop in Python), email signatures, and really anything else you can think of. Since I’m on Windows, I personally use AutoHotkey for this purpose, but there are plenty of options for this sort of thing. If your keyboard supports it, you may be able to do text expansion on the firmware level, making it operating system and device agnostic.
+
+Just like normal typing, you’ll need to practice this intentionally to get results, retraining your hands to type “t” every time your brain thinks “the”. You’ll also want to create a “theory” for your abbreviations, and come up with some patterns to reuse as your list grows (e.g., using consistent letter sequences for phrase enders — “iwt” for “I want to”, “hwt” for “he wants to”, “swt” for “she wants to”, etc.). A working knowledge of a brief-heavy stenographic theory will help you here.
+
+#### Modal Text Editing
+
+Whether you code or not, you should consider learning [Vim](http://www.vim.org/) bindings and modal text editing. While I explicitly optimized for some of Vim’s bindings (more on the reasoning for that later — specifically why I chose to attach myself to the Vim framework instead of building my own syntax from the ground up), learning them on any layout is much, much, better than being stuck in the land of GUIs and text editing by mouse. Vim happens to be very well laid out for QWERTY since it was designed for QWERTY, but other layouts like Colemak can easily adapt to it as well.
+
+In terms of implementing this, I would suggest you not pick up vanilla Vim or gVim, but rather [Spacemacs](http://spacemacs.org/) (which uses Emacs’ evil mode to emulate Vim commands) or [NeoVim](https://neovim.io/) (which improves on many of Vim's strengths and brings it into the 21st century).
+
+Because of [Org Mode](http://orgmode.org/), its support for non-leader key remapping of commands, and mnemonic key sequences for specialized commands (such as window commands), I personally believe Spacemacs is the superior choice for most people and situations. However, many others like [NeoVim](https://neovim.io/) combined with [Tmux](https://github.com/tmux/tmux) and [Zsh](http://www.zsh.org/). In my opinion, the decision between these two setups mostly comes down to how much you use Org Mode -- since I use Org Mode for basically everything that's not code, I use Spacemacs.
+
+#### Symbol Layers
+
+You can create layers for numbers and symbols (putting them on the home row or at least in favorable positions) while still using QWERTY for letters. These additional layers have nothing to do with letter layouts.
+
+#### Conclusion
+
+Most speed considerations are layout agnostic. If you are already a sufficiently fast typist with another layout, the opportunity cost of retraining may be better spent beefing up your current toolkit and optimizing other parts of your typing. No matter what you do, dedicated *intentional* practice can significantly improve your typing, and you shouldn’t switch without first considering if it is really the most rational decision under your circumstances. For the reasons why you *should* switch, read on.
+
+## Reasons Why You Should Optimize
+
+### Reduced Typing Effort
+
+Far and away the biggest benefit optimized keyboard layouts give is a greatly reduced overall typing effort. As will be discussed below, optimized layouts significantly reduce the amount of distance your fingers need to travel by putting frequently used keys in favorable positions (like the home row), and balance finger and hand distribution so that effort is spread out. They also strive to make frequent two-letter combinations (called digraphs) and three-letter combinations (called trigraphs) easy to type: he, th, tha, str, and so forth.
+
+It is perhaps easiest to demonstrate the benefits of optimized layouts by counterexample: using "problem words" from QWERTY.
+
+1. On QWERTY try typing the word "stewardesses." It should be immediately obvious what the problem here is: your left hand does all the work while your right hand just sits there doing nothing!
+2. Now try typing the word "minimum." Aside from being another example of one hand doing all the work, QWERTY's minimum has additional problems: you have to jump over the home row to get from M and N to I and U, and you have to use the same finger to type M and U in succession. As variables, these are usually called "row jumping" and "same-finger", respectively, and most optimized layouts try to minimize them as much as possible.
+
+Basically, optimized layouts have less words like QWERTY's "stewardesses" and "minimum" -- words that are hard to type, split the load unequally among fingers and/or hands, require your fingers to travel further, etc. Consequently, typing is less effortful on optimized layouts.
+
+### Reduced Repetitive Stress Injury (RSI)
+
+Theoretically, the reduced overall effort needed to type on an optimized layout could lead to a delay in onset and/or remission of symptoms for those suffering from RSI, but there currently isn't a great deal of statistically useful data out there (though anecdotal success stories abound, they are not verifiable, and may be demonstrating the power of the placebo effect rather than the power of optimized keyboard layouts). On the other hand, it would make sense if less effort over time led to less "repretitive stress" overall (even if science hasn't verified this yet), so giving it a shot may still be worth it.
+
+It is once more worth pointing out that a good keyboard and proper workstation ergonomics are much more important than a character layout ever will be on this front, so if you don't have these things in order, an optimized keyboard layout won't save you from RSI.
+
+### Increased Typing Speed
+
+While this is perhaps the most controversial of the benefits (and is yet to be verified in a rigorous way, like RSI reduction above), there is a theoretical basis for faster typing on optimized layouts. For example:
+
+- Optimized layouts require less overall finger travel distance, with most of the most frequent letters and combinations requiring no movement from the home row. Less required movement ought to lead to faster speeds, all other things being equal.
+- Optimized layouts have higher hand alternation than QWERTY. Hand alternation makes it easier to line up the next letter when typing the previous one, since your fingers on the next-letter hand will not be out of position from typing letters on the top or bottom rows. (Cf. the QWERTY digraphs "he" and "in". For the former -- an example of hand alternation -- E can easily be lined up while you are pressing the H key since they are on different hands despite being on different rows. For the latter, it is harder to line up N when you are pressing I since I is on the top row of the right hand and N is on the bottom row of the right hand). This too should theoretically lead to faster speeds.
+- Optimized layouts have less same-finger (as in QWERTY "fr" or "ed"). It is not possible to line up subsequent letters in any way for same-finger digraphs, making them the slowest letter combinations. It follows then that layouts with less same-finger combinations will enable faster typing.
+
+I'm sure there are other such features that could be mentioned in support of optimized layouts being faster (i.e., this list is not intended to be comprehensive); however, until rigorous studies are done, all of this is theoretical. The effects mentioned above are going to be much less significant than practice overall -- which is why some QWERTY typists like [Sean Wrona](https://www.youtube.com/watch?v=4GDusA21cEA) will destroy the vast majority of people who type on optimized layouts.
 
 ## Prior Studies of Keyboard Layouts
 
@@ -46,6 +142,11 @@ I suggest you go through the following links (and any of the others from [this p
 There are no doubt other sites out there that discuss these things. I certainly do not pretend to be the first nor most intelligent person that has ever worked on this problem, and wouldn't want anyone to get that impression. Of the methodology of the sites above, I like AdNW and MTGAP best. I'm planning on writing about all the parameters and a logical weighting scheme at some point. (See the outline below).
 
 ## Base Layer
+
+### TODO: command characters
+
+- Placing Space, Shift, Backspace, Enter, Tab, Delete, and Escape
+- Discussion of other keys for layers and their placement
 
 ### Setting up
 
@@ -73,45 +174,200 @@ Finally, I also tweaked AdNW's penalities regarding adjacent fingers. In the sto
 
 Here is a link to the config file I used during the optimization below. As discussed above, it has been modified from the original with respect to character set, individual key effort, and adjacency penalties.
 
-### Comparison
+### Letter Layout Comparison
 
-After typing in most of the optimized layouts I could find and formatting them the way that AdNW wants (with punctuation replaced with foreign characters), I arrived at the following text file:
-
-
-You could certainly find other layouts to compare if you like, but I think that this is representative of most (all?) of the layouts with any sort of real following, as well as most of the varying design philosophies. Here is the command I used to run the comparison, and the results of the comparison given my tweaked config file:
-
-
-As you can see, somewhat unsurprisingly, the two layouts that did best were AdNW and Buteck -- the very same layouts created with this optimizer. Rather than blindly accepting that these are superior, I took a closer look at the results, and noticed some interesting things.
-
-
-
-
-You’ll also need to change the character set in standard.cfg (unless you type German and want the default characters). Here are the lines I changed:
-
-```
-Zeichen 'äÄ'
-Zeichen 'öÖ'
-Zeichen 'üÜ'
-Zeichen '.'           # Nur ein Zeichen auf dieser Taste.
-Zeichen ','           # Only one symbol on this key.
-Zeichen 'ß'
+After typing in most of the optimized layouts I could find and formatting them the way that AdNW wants (with punctuation replaced with foreign characters to avoid punctution differences interfering), I arrived at the following list:
 
 ```
 
-And what I changed them into:
+kuäöüvgcljfhieaodtrnsëxyïßqbpwmz	AdNW
+qläpöüfudkëarenbgsitoïzwßhjvcymx	Arensito
+qwfgjypuläöasetdhniorüzxcvbkmëïß	Asset
+buäöüpclmfxhieaodtrnsëkyïßqjgwvz	Buteck
+äywdfjpluqöaersgbtnioüxzcvëkmhïß	Capewell
+qwfpgjluyäöarstdhneioüzxcvbkmëïß	Colemak
+äöüpyfgcrlëaoeuidhtnsïßqjkxbmwvz	Dvorak
+byouäkdclpqhieaömtsrnvxüëïßwgfjz	HIEAMSTRN
+käuypwlmfcöoaeidrnthsüqëïßzxvgbj	Klausler
+ypoujkdlcwäineaömhtsrüqzëïßbfgvx	MTGAP
+xvlcwkhgfqäuiaeosnrtdyöüëpzbmïßj	Neo2
+qwdfkjurläöasetgyniohüzxcvbpmëïß	Norman
+qgmlwbyuväödstnriaeohüzxcfjkpëïß	QGMLWB
+qwertyuiopäasdfghjklöüzxcvbnmëïß	QWERTY
+qdrwbjfupäöashtgyneoiüzxmcvklëïß	Workman
 
 ```
 
-Zeichen !'!
-Zeichen '.'
-Zeichen ')'
-Zeichen '"'           # Nur ein Zeichen auf dieser Taste.
-Zeichen ','           # Only one symbol on this key.
-Zeichen '('
+You could certainly find other layouts to compare if you like, but I think that this is representative of most (all?) of the layouts with any sort of real following, as well as most of the varying design philosophies. Here is the command I used to run the comparison (with a redirection operator to save the results in a text file):
 
 ```
 
-To determine what your character set should be, you’ll need to determine what punctuation you type most frequently (which will depend upon your use case). I did this with a short Python script and a text corpus from exactly the sort of thing that will compose the majority of my non-code typing in the future: exegetical Bible studies. I downloaded all the major studies from [Ichthys.com](http://ichthys.com), the main Bible study site I follow, [in RTF form](http://ichthys.com/zip-msword.ZIP). I then converted them into plain text files, and counted character frequencies. (The Greek and Hebrew scripts were not converting well for some reason, so I just straight converted without bothering with Unicode — all the Greek and Hebrew words got replaced with question marks, which means that the character frequency of ? is somewhat higher than it should be).
+opt -2 englisch.txt -3 englisch.txt -r bsptast.txt > layout_comparison.txt
+
+```
+
+And here are the results (stored in layout\_comparison.txt):
+
+```
+
+AdNW             285.318 total effort   214.073 positional effort    left right
+                   0.937 same finger rp  16.792 shift same finger top  3.4 12.3
+  kuäöü vgcljf    71.408 hand alternat.  22.772 shift hand alter. mid 39.3 32.4
+  hieao dtrnsë     2.018 inward/outward  24.998 inward or outward bot  3.9  8.8
+  xyïßq bpwmz      7.982 adjacent        19.508 shift adjacent    sum 46.6 53.4
+                   4.191 no hand altern. 44.391 two hand altern.
+                   3.043 seesaw           6.840 indir same finger
+                  7.8 11.5 12.0 15.3 --.- --.- 19.1 10.9 13.5  9.9 Sh  1.9  0.9
+
+
+Arensito         289.946 total effort   184.312 positional effort    left right
+                   1.030 same finger rp  11.674 shift same finger top  6.1  9.4
+  qläpö üfudkë    51.085 hand alternat.  46.686 shift hand alter. mid 34.5 31.8
+  arenb gsitoï     0.871 inward/outward  45.227 inward or outward bot  8.6  9.6
+  zwßhj vcymx     29.559 adjacent         7.596 shift adjacent    sum 49.2 50.8
+                  21.101 no hand altern. 23.628 two hand altern.
+                  12.160 seesaw           3.118 indir same finger
+                  9.9 11.8 12.0 15.5 --.- --.- 14.8 11.5 15.2  9.3 Sh  1.7  1.2
+
+
+Asset            322.384 total effort   193.371 positional effort    left right
+                   3.375 same finger rp   8.959 shift same finger top  6.1 10.3
+  qwfgj ypuläö    55.604 hand alternat.  41.362 shift hand alter. mid 39.3 32.3
+  asetd hniorü     1.102 inward/outward  38.363 inward or outward bot  7.0  4.9
+  zxcvb kmëïß     22.402 adjacent        10.968 shift adjacent    sum 52.4 47.6
+                  20.790 no hand altern. 28.814 two hand altern.
+                  11.069 seesaw           4.259 indir same finger
+                  9.4  8.6 17.2 17.3 --.- --.- 18.8  9.8 11.2  7.8 Sh  1.2  1.7
+
+
+Buteck           285.804 total effort   211.078 positional effort    left right
+                   1.154 same finger rp  17.098 shift same finger top  4.1 13.9
+  buäöü pclmfx    70.153 hand alternat.  26.616 shift hand alter. mid 39.3 32.4
+  hieao dtrnsë     2.155 inward/outward  26.035 inward or outward bot  4.3  6.0
+  kyïßq jgwvz      8.492 adjacent        15.637 shift adjacent    sum 47.7 52.3
+                   4.872 no hand altern. 43.351 two hand altern.
+                   3.441 seesaw           6.133 indir same finger
+                  8.9 11.5 12.0 15.3 --.- --.- 19.9 11.8 10.4 10.1 Sh  1.8  1.1
+
+
+Capewell         304.060 total effort   196.468 positional effort    left right
+                   1.805 same finger rp  14.905 shift same finger top  9.5  8.9
+  äywdf jpluqö    49.049 hand alternat.  52.016 shift hand alter. mid 34.7 31.6
+  aersg btnioü     0.965 inward/outward  46.488 inward or outward bot  5.9  9.4
+  xzcvë kmhïß     22.046 adjacent        13.096 shift adjacent    sum 50.1 49.9
+                  25.517 no hand altern. 22.938 two hand altern.
+                  15.852 seesaw           3.317 indir same finger
+                  9.8 13.7 10.9 15.6 --.- --.- 15.7 15.9  9.8  8.6 Sh  1.6  1.3
+
+
+Colemak          285.444 total effort   198.289 positional effort    left right
+                   1.062 same finger rp  14.014 shift same finger top  8.0  8.4
+  qwfpg jluyäö    58.159 hand alternat.  40.005 shift hand alter. mid 33.5 38.2
+  arstd hneioü     1.067 inward/outward  38.121 inward or outward bot  6.9  5.0
+  zxcvb kmëïß     17.319 adjacent         7.520 shift adjacent    sum 48.4 51.6
+                  16.546 no hand altern. 30.433 two hand altern.
+                  10.460 seesaw           5.302 indir same finger
+                  9.3  8.0 11.9 19.1 --.- --.- 19.2 14.6  8.9  9.0 Sh  1.1  1.8
+
+
+Dvorak           330.315 total effort   236.533 positional effort    left right
+                   2.547 same finger rp  12.731 shift same finger top  3.7 17.3
+  äöüpy fgcrlë    70.497 hand alternat.  34.173 shift hand alter. mid 37.0 31.2
+  aoeui dhtnsï     1.708 inward/outward  24.298 inward or outward bot  3.1  7.8
+  ßqjkx bmwvz     10.990 adjacent        20.175 shift adjacent    sum 43.8 56.2
+                   5.394 no hand altern. 44.995 two hand altern.
+                   2.901 seesaw           5.605 indir same finger
+                  9.9  7.3 12.1 14.4 --.- --.- 16.9 13.7 14.0 11.7 Sh  1.9  1.0
+
+
+HIEAMSTRN        287.727 total effort   207.916 positional effort    left right
+                   1.007 same finger rp  20.633 shift same finger top 13.0 13.8
+  byouä kdclpq    70.325 hand alternat.  25.717 shift hand alter. mid 32.1 32.0
+  hieaö mtsrnv     3.236 inward/outward  26.010 inward or outward bot  2.0  7.1
+  xüëïß wgfjz     10.414 adjacent         9.397 shift adjacent    sum 47.1 52.9
+                   4.274 no hand altern. 43.447 two hand altern.
+                   2.590 seesaw           6.623 indir same finger
+                  8.4  8.9 19.2 10.7 --.- --.- 19.6 11.9 10.2 11.2 Sh  1.8  1.0
+
+
+Klausler         320.539 total effort   216.033 positional effort    left right
+                   2.525 same finger rp  13.760 shift same finger top  7.1 13.5
+  käuyp wlmfcö    68.869 hand alternat.  34.978 shift hand alter. mid 38.3 33.4
+  oaeid rnthsü     0.713 inward/outward  25.948 inward or outward bot  2.0  5.8
+  qëïßz xvgbj     14.409 adjacent        12.525 shift adjacent    sum 47.3 52.7
+                   7.271 no hand altern. 43.742 two hand altern.
+                   3.397 seesaw           7.186 indir same finger
+                  9.9  8.0 14.6 14.8 --.- --.- 19.9 13.3  8.5 10.9 Sh  1.8  1.0
+
+
+MTGAP            288.626 total effort   204.923 positional effort    left right
+                   1.173 same finger rp   8.707 shift same finger top 13.7 13.4
+  ypouj kdlcwä    65.928 hand alternat.  41.043 shift hand alter. mid 34.1 29.0
+  ineaö mhtsrü     1.555 inward/outward  30.241 inward or outward bot  2.0  7.7
+  qzëïß bfgvx     18.755 adjacent         2.351 shift adjacent    sum 49.8 50.2
+                   8.156 no hand altern. 39.345 two hand altern.
+                   4.835 seesaw           5.307 indir same finger
+                 10.8  9.1 19.2 10.8 --.- --.- 15.7 14.7 10.7  9.0 Sh  1.8  1.0
+
+
+Neo2             463.868 total effort   228.161 positional effort    left right
+                   8.492 same finger rp   6.291 shift same finger top 10.0  9.8
+  xvlcw khgfqä    61.220 hand alternat.  40.347 shift hand alter. mid 37.0 34.1
+  uiaeo snrtdy     0.893 inward/outward  27.631 inward or outward bot  3.7  5.4
+  öüëpz bmïßj     11.842 adjacent         7.811 shift adjacent    sum 50.7 49.3
+                  13.278 no hand altern. 33.355 two hand altern.
+                   5.483 seesaw           8.141 indir same finger
+                  4.4  8.2 12.0 26.1 --.- --.- 23.2  8.0 10.9  7.1 Sh  1.6  1.2
+
+
+Norman           373.047 total effort   195.152 positional effort    left right
+                   6.572 same finger rp  19.395 shift same finger top  8.6 12.9
+  qwdfk jurläö    55.407 hand alternat.  41.026 shift hand alter. mid 37.4 27.9
+  asetg yniohü     1.251 inward/outward  35.363 inward or outward bot  7.0  6.2
+  zxcvb pmëïß     20.414 adjacent        10.699 shift adjacent    sum 53.0 47.0
+                  20.886 no hand altern. 28.566 two hand altern.
+                   9.966 seesaw           3.713 indir same finger
+                  9.4  8.6 18.9 16.1 --.- --.- 16.0 13.3 11.2  6.6 Sh  1.2  1.7
+
+
+QGMLWB           369.121 total effort   213.823 positional effort    left right
+                   4.929 same finger rp  13.822 shift same finger top 10.3  6.8
+  qgmlw byuväö    67.399 hand alternat.  30.030 shift hand alter. mid 32.4 39.3
+  dstnr iaeohü     1.122 inward/outward  25.015 inward or outward bot  6.9  4.4
+  zxcfj kpëïß     12.231 adjacent        12.714 shift adjacent    sum 49.6 50.4
+                   7.430 no hand altern. 39.779 two hand altern.
+                   3.488 seesaw           9.555 indir same finger
+                  5.3  8.8 14.4 21.1 --.- --.- 21.1 14.6  8.2  6.5 Sh  1.2  1.6
+
+
+QWERTY           611.112 total effort   403.527 positional effort    left right
+                   6.915 same finger rp   6.141 shift same finger top 28.7 20.7
+  qwert yuiopä    52.271 hand alternat.  41.580 shift hand alter. mid 22.6  9.8
+  asdfg hjklöü     1.110 inward/outward  38.156 inward or outward bot  7.0 11.2
+  zxcvb nmëïß     21.751 adjacent        10.982 shift adjacent    sum 58.3 41.7
+                  25.670 no hand altern. 27.131 two hand altern.
+                  13.273 seesaw           5.679 indir same finger
+                  9.4  8.6 18.9 21.4 --.- --.- 18.8  7.9 11.2  3.7 Sh  1.1  1.7
+
+
+Workman          303.174 total effort   190.144 positional effort    left right
+                   2.836 same finger rp   8.410 shift same finger top 13.3  6.9
+  qdrwb jfupäö    55.678 hand alternat.  51.527 shift hand alter. mid 30.3 35.0
+  ashtg yneoiü     1.132 inward/outward  38.829 inward or outward bot  7.8  6.6
+  zxmcv klëïß     18.289 adjacent        10.937 shift adjacent    sum 51.5 48.5
+                  18.203 no hand altern. 29.992 two hand altern.
+                   9.903 seesaw           5.456 indir same finger
+                  9.2 10.7 13.5 18.1 --.- --.- 15.6 14.6  9.2  9.1 Sh  1.0  1.9
+
+```
+
+As you can see, somewhat unsurprisingly, AdNW and Buteck (the layouts created with this optimizer) did very well. Colemak and HIEAMSTRN (which I shall henceforth call HIEAM because it's shorter) also did quite well.
+
+Rather than fiddling around with the weighting of parameters in the config file (which would change how parameters are combined, and therefore the total score for each layout), I find it easier to just compare the layouts on the various parameters by looking at them. By doing this, it is possible to see that HIEAM is comparable to the layouts with the lowest same-finger (AdNW and Colemak, for example), destroys all the other layouts on inward/outward ratio, is comparable to the layouts with the highest hand alternation (AdNW and Dvorak, for example), has a low score for see-saw, and has a relatively high percentage of inward and outward motions ("rolls") compared to many of the other latouts with low-same finger and high-alternation. When I get the time I'll get around to explaining why all this makes HIEAM the best choice, but for now, you can think of it as the best because it excels across all the factors generally thought to be relevant rather than being the best in only one or two areas.
+
+### Filling In Punctuation
+
+To determine what your punctuation character set should be, you’ll need to determine what punctuation you type most frequently (which will depend upon your use case). I did this with a short Python script and a text corpus from exactly the sort of thing that will compose the majority of my non-code typing in the future: exegetical Bible studies. I downloaded all the major studies from [Ichthys.com](http://ichthys.com), the main Bible study site I follow, [in RTF form](http://ichthys.com/zip-msword.ZIP). I then converted them into plain text files, and counted character frequencies. (The Greek and Hebrew scripts were not converting well for some reason, so I just straight converted without bothering with Unicode — all the Greek and Hebrew words got replaced with question marks, which means that the character frequency of ? is somewhat higher than it should be).
 
 [Here’s the Python script](https://steventammen.com/assets/files/keyboard-layouts/LetterFreq.py) I used to do this:
 
@@ -373,7 +629,7 @@ _,52
 
 ```
 
-Due to the nature of the particular corpus I chose (which has a lot of scripture references), I chose to separate out the semicolons, dashes, and colons associated with scripture references (demarcated above as v; v- and v:, respectively), since they will be handled separately with the numbers.
+Due to the nature of the particular corpus I chose (which has a lot of references to Bible verses), I chose to separate out the semicolons, dashes, and colons associated with Bible verse references (demarcated above as v; v- and v:, respectively), since they will be handled separately with the numbers.
 
 For the base layer, we are only interested in the top 6 punctuation characters. While some of the numbers have a higher frequency (at least in this corpus) than the punctuation characters, there are good reasons for keeping the numbers together, which will be discussed below. If you combine the opening and closing smartquotes with the total for normal quotes, the six most frequent non-letter and non-number characters, in order of descending frequency, are:
 
@@ -384,114 +640,67 @@ For the base layer, we are only interested in the top 6 punctuation characters. 
 5. open parenthesis
 6. apostrophe
 
-After these six come the colon, brackets, and so forth. These will appear on a different layer. The frequency differences are large enough that they are not likely to be due to statistical artifact. This order is markedly different from what the author of the MTGAP algorithm has come up with for prose ([see here](http://mtgap.bilfo.com/theory-of-letter-frequency.html)). He no doubt used a much larger overall corpus to generate his order, but due to to the similarity of my writing style to the author of the present corpus (for example, a tendency towards favoring complex multi-clause sentences over simple sentences, using lots of parenthetical clauses for explanatory purposes, enclosing new terms, words/phrases being discussed, and neologisms in double quotes, etc.), I feel confident in saying that the above order is a closer match to my particular writing style. If you want this exercise to be accurate *for you*, you will have to analyze your own writing and try to find a corpus that matches it well. Using pre-generated orders like those linked to works well if your writing is very normal -- I write more formally in "casual" discourse than almost everyone else I have met, and use much more complicated language and sentence structure than most people, so a "one size fits most" approach is a poor match *for me specifically*. As the saying goes, YMMV.
+After these six come the colon, square brackets, and so forth. These will appear on a different layer. The frequency differences are large enough that they are not likely to be due to statistical artifact. This order is markedly different from what the author of the MTGAP algorithm has come up with for prose ([see here](http://mtgap.bilfo.com/theory-of-letter-frequency.html)). He no doubt used a much larger overall corpus to generate his order, but due to to the similarity of my writing style to the author of the present corpus (for example, a tendency towards favoring complex multi-clause sentences over simple sentences, using lots of parenthetical clauses for explanatory purposes, enclosing new terms, words/phrases being discussed, and neologisms in double quotes, etc.), I feel confident in saying that the above order is a closer match to my particular writing style. If you want this exercise to be accurate *for you*, you will have to analyze your own writing and try to find a corpus that matches it well. Using pre-generated orders like those linked to works well if your writing is very normal -- I write more formally in "casual" discourse than almost everyone else I have met, and use much more complicated language and sentence structure than most people, so a "one size fits most" approach is a poor match *for me specifically*. As the saying goes, YMMV.
 
+After determining these 6 characters, I created 720 layouts to compare all the possible arrangements of them on the six keys available (six factorial, a permutation). I changed the character set in the config file to include the punctuaton (rather than the foreign characters used above), changed the layouts being compared, and once again used a command to store the output in a file:
 
+```
 
-## Pre-optimization Considerations
+opt -2 englisch.txt -3 englisch.txt -r bsptast.txt >hieam_punc.txt
 
-Before you spend time optimizing the character layout of your keyboard, you need to first make sure that you have an ergonomic keyboard, and that your work environment is setup properly. Failing to account for these things (which are really more important), no matter how good your character layout ends up being, will put you at a much higher risk for RSI and CTS.
+```
 
-Optimizing the character layout of your keyboard without first dealing with your workstation ergonomics is like fixing a small leak in a ship while ignoring the gaping hole in the hull — any benefit you gain here will be vastly overshadowed by the gains from improving these other areas. Again, let me repeat myself, focusing on the character layout before settling these other matters is *not* wise, and I suggest you take some time to fix any deficiencies in your current equipment/habits before continuing.
+At some point I'll get around to posting the spreadsheet where I sorted the all layouts, but for now, be content with just the 4 best:
 
-## Reasons Why You Should Not Optimize
+```
+HIEAM64          295.407 total effort   215.118 positional effort    left right
+                   1.114 same finger rp  19.943 shift same finger top 12.9 13.4
+  byou' kdclpq    70.243 hand alternat.  26.526 shift hand alter. mid 32.3 31.0
+  hiea, mtsrnv     3.241 inward/outward  26.090 inward or outward bot  3.5  6.9
+  x").( wgfjz     10.573 adjacent         9.099 shift adjacent    sum 48.7 51.3
+                   4.421 no hand altern. 43.359 two hand altern.
+                   2.661 seesaw           6.708 indir same finger
+                  8.2  8.9 18.6 13.0 --.- --.- 19.0 11.5  9.9 10.8 Sh  1.8  1.0
+                  
+HIEAM290         295.415 total effort   214.975 positional effort    left right
+                   1.114 same finger rp  19.943 shift same finger top 12.6 13.4
+  byou( kdclpq    70.243 hand alternat.  26.526 shift hand alter. mid 32.3 31.0
+  hiea, mtsrnv     3.241 inward/outward  26.090 inward or outward bot  3.7  6.9
+  x").' wgfjz     10.572 adjacent         9.099 shift adjacent    sum 48.7 51.3
+                   4.421 no hand altern. 43.359 two hand altern.
+                   2.661 seesaw           6.708 indir same finger
+                  8.2  8.9 18.6 13.0 --.- --.- 19.0 11.5  9.9 10.8 Sh  1.8  1.0
+                  
+HIEAM18          295.463 total effort   215.122 positional effort    left right
+                   1.114 same finger rp  19.943 shift same finger top 12.9 13.4
+  byou' kdclpq    70.243 hand alternat.  26.526 shift hand alter. mid 32.3 31.0
+  hiea. mtsrnv     3.241 inward/outward  26.090 inward or outward bot  3.5  6.9
+  x"),( wgfjz     10.573 adjacent         9.099 shift adjacent    sum 48.7 51.3
+                   4.421 no hand altern. 43.359 two hand altern.
+                   2.661 seesaw           6.708 indir same finger
+                  8.2  8.9 18.6 13.0 --.- --.- 19.0 11.5  9.9 10.8 Sh  1.8  1.0
 
-### Priorities
+HIEAM270         295.500 total effort   214.979 positional effort    left right
+                   1.114 same finger rp  19.943 shift same finger top 12.6 13.4
+  byou( kdclpq    70.243 hand alternat.  26.526 shift hand alter. mid 32.3 31.0
+  hiea. mtsrnv     3.241 inward/outward  26.090 inward or outward bot  3.7  6.9
+  x"),' wgfjz     10.572 adjacent         9.099 shift adjacent    sum 48.7 51.3
+                   4.421 no hand altern. 43.359 two hand altern.
+                   2.661 seesaw           6.708 indir same finger
+                  8.2  8.9 18.6 13.0 --.- --.- 19.0 11.5  9.9 10.8 Sh  1.8  1.0
+```
 
-Please have a look at [this page](https://steventammen.com/priorities/).
+While these 4 are about the same, they get noticeably worse from here (more same-finger, etc.). Since the ones with both parentheses on the bottom are better, the decision on which layout to use will mostly come down to how much you use commas compared to how much you use periods (a matter of frequency). Commas and periods are both common in coding, and used about equally as frequently (according to the [MTGAP orders](http://mtgap.bilfo.com/theory-of-letter-frequency.html) -- it really depends what language you are using, since Java uses periods more and C uses commas more, for example). People who use more complex sentence structure will tend to use commas more, while those who use simpler sentence structure will tend to use periods more. However, people that use a variety of punctuation (including semicolons, parentheses, em dashes, and colons) in addition to commas will probably end up using periods more even if they use complex sentence structure. (I fall into this last category -- I use complex sentence structure, but use enough alternate punctuation that the consistency of having a period every sentence overpowers the cases where a sentence has lots of commas).
 
-Keyboard layout optimization must be taken as an investment of lower marginal benefit than many things before it. It is a worthy investment, but it is not the worthiest of your consideration unless several more important things have been taken care of beforehand.
+People who do a lot of numerical data entry will want the period in a more favorable position. If you use either character in hotstrings, this will also have an effect. As will be discussed below, I use the period in place of the semicolon when entering Bible verse references via hotstring, so *for me*, it makes a lot more sense to have the period in the favorable position -- all the v; usage will fall under the period, meaning that "period use" (i.e. use of the key in total rather than the character) will far outweigh "comma use." 
 
-I would encourage you to go through that link and make sure you have those things in good order before you even consider sinking in time on the keyboard optimization front. Also consider how much you really type in your everyday life (and thus how big a priority optimization is): programmers and secretaries, for example, type far more than park rangers or bakers, so keyboard optimization makes more sense for them.
+If you hadn't picked up on it yet, these things vary by individual, so what works best for me may not work best for you. Part of the reason why I'm going through all the effort of explaining how I went about my own layout design is to show how it can be done on an individual basis.
 
-### The Difficulty of Retraining Your Fingers
+# TODO
 
-To put it simply, if you are already at 100 WPM typing QWERTY, and aren’t facing or likely to face RSI, you need to consider if this exercise is worth your while. Optimized layouts (even the bad ones, so to speak), are very much more efficient than QWERTY, and they drastically reduce the amount of effort it takes to type. But there will be an adjustment period of weeks not days, and recovering your old speed will take time. This goes doubly for those of you already using a better layout like Dvorak, Colemak, or Workman. I promise you that you can do better than any one of those three, but the gains will not be earth-shattering.
-
-If the switch were easy or effortless, QWERTY would have ceased to exist long ago. As it is, however, you will be reduced to single digit WPMs for the first little bit, and your fingers will disobey you — you will have to rewire the neural connections in your brain that correspond to what we call “muscle memory.” If you have any sort of time-sensitive full-time occupation that forces you maintain your QWERTY skills (i.e., you can’t afford to go cold turkey and immerse yourself), it’s even harder because you’ll experience [proactive interference](https://en.wikipedia.org/wiki/Interference_theory#Proactive_interference) from already having QWERTY in muscle memory. That is to say, instead of “unlearning” QWERTY when you learn your other layout (replacing the old muscle memory with new muscle memory), the old muscle memory that you need to keep around will inhibit effective acquisition of the new muscle memory.
-
-Depending on your dedication and consistency in practice, getting back to your previous speed can take anywhere from a few weeks to a few months. Poor discipline and lack of self-control can even push this from “difficult” to “impossible” — just like many people have tried to quit smoking and failed, many have tried switching away from QWERTY and failed. I would suggest that you not waste your time if you are not willing or able to put in the work necessary to be successful.
-
-### QWERTY’s Ubiquitousness
-
-As mentioned above, holding QWERTY in muscle memory when learning a new layout results in proactive interference. For most people, the flipside, called [retroactive interference](https://en.wikipedia.org/wiki/Interference_theory#Retroactive_interference), also holds true. Learning another layout will typically result in a loss of QWERTY speed because more errors are made — when you are trying to type a letter, your finger “forgets” that you are typing QWERTY, and instead presses the key for the letter on your other layout. While this is a problem for everyone, some people, through practice, have been able to keep high speeds on two different layouts simultaneously (e.g., Dvorak and QWERTY). Learning two layouts that are more similar to each other (like QWERTY and Colemak) is more likely to result in retroactive interference (just how learning Italian if you speak Spanish is more likely to mess with your Spanish than if you learn German), while using different physical keyboards for different character layouts (e.g., using Dvorak on a Kinesis Advantage and QWERTY on normal row-staggered keyboards) can help prevent retroactive interference.
-
-The upshot of all this is that most people don’t continue to type with two different layouts in the long run — in other words, learning an optimized layout generally means you lose your QWERTY proficiency. The “problem” with this, of course, is that the rest of the world is designed for QWERTY and expects you to use it.
-
-Not being able to touch-type QWERTY means your productivity will take a hit whenever you have to type on it for some reason (e.g., working on someone else’s computer or taking the GRE). You will also have to contend with poorly designed keyboard shortcuts (i.e., those with QWERTY in mind), which usually only prove to be problematic in those programs that don’t let you change them (boo on them). These are unavoidable consequences that you will face because QWERTY has become the expected layout in our society -- if you find them unacceptable, stick with QWERTY.
-
-### The Animosity of Others
-
-Certain people get rather worked up any time someone mentions a layout other than QWERTY. My best guess is that this is because the superior efficiency of people who type on other layouts is a direct challenge to their self-perception as competent, effective workers. It's also possible that their defensiveness is a manifestation of the [sunk cost fallacy](https://en.wikipedia.org/wiki/Sunk_cost#Loss_aversion_and_the_sunk_cost_fallacy): having spent a significant amount of time learning to touch-type QWERTY, they don't want to admit that they picked a bad layout. There is also likely a degree of [choice-supportive bias](https://en.wikipedia.org/wiki/Choice-supportive_bias): similar to how people evangelize the make and model of the new car they bought to help convince themselves it was worth it, people are more likely to evangelize QWERTY after deciding to make it their keyboard layout.
-
-Whatever their motivations, people will frequently challenge your decision to use a layout other than QWERTY. If you are not the type of person that's cool taking heat for being different or constantly having to explain yourself, you may want to think twice about using a layout other than QWERTY.
-
-(Note: you will encounter a larger group of people that is not actively antogonistic but merely confused as to why you find using another layout necessary or prudent. By and large, people in this group are happy shrugging and letting you do your thing if that's what you want -- but they may still give you weird looks. YMMV)
-
-### Most Speed Considerations Are Layout Agnostic
-
-There is a very real possibility if you switch that the time lost in getting back up to speed would have been better spent honing your mastery of whatever layout you do currently use, because most of the ways you can accelerate your typing don’t depend on your layout. In other words, it may very well be better for you to spend a couple months increasing your QWERTY speed from 60 WPM to 100 WPM than getting up to 60 WPM on another layout.
-
-#### Practice
-
-There is no magic here. Optimizing your layout won’t immediately make you a faster typist, though it certainly has the potential to eventually. The thing that will make you a faster typist is practicing a layout until you breathe it and you dream about it. This is like every single other skill in existence; the more you practice, the better you get. 
-
-I want to here emphasize that not all practice is equal. Practice does not make perfect. Practice makes permanent (or, alternatively, “perfect practice makes perfect”). Because we tend to type a great deal in our day to day lives, there is a danger of just going on autopilot and plateauing. Whether or not you decide to continue on in this process, I can recommend that you pick up typing not as something one merely does, but as something one studies and perfects over time.
-
-Practice the most common digraphs and trigraphs in English (or your native language if not English). Lists can be found [here](http://scottbryce.com/cryptograms/stats.htm), [here](http://www.cse.unt.edu/~mgomathi/teaching/2009/csce5550/Lectures/Cipher-Example%202.pdf), and elsewhere through a simple Google search. If you consciously train yourself to type *sequences* rather than *letters*, your speed will increase at a much faster rate.
-
-To extend this concept even further, you should drill with [this repo](https://github.com/first20hours/google-10000-english), which has the 10,000 most common words in English. It does you little good to type uncommon or unusual words at a high speed because they compose a small portion of what you type (e.g., typing “zyzzyva” fast does you no good because genuses of weevils don’t come up in normal conversation). Getting very fast at words like “the”, “and”, “that” and so forth, however, will dramatically increase your speed because these words compose a large percentage of everything we type.
-
-#### Text Expansion
-
-If you really want to ramp up the speed, you should use text expansion to abbreviate at least the first couple hundred most common words and phrases in English, making, for example, “the” just “t”, “I want to” just “iwt”, and so on. By doing this alone, you can cut down on how many keys you have to physically press down by a huge percentage (at least for prose). You can actually do the same thing for common code constructs (e.g., the basic syntax of a for loop in Python), email signatures, and really anything else you can think of. Since I’m on Windows, I personally use AutoHotkey for this purpose, but there are plenty of options for this sort of thing. If your keyboard supports it, you may be able to do text expansion on the firmware level, making it operating system and device agnostic.
-
-Just like normal typing, you’ll need to practice this intentionally to get results, retraining your hands to type “t” every time your brain thinks “the”. You’ll also want to create a “theory” for your abbreviations, and come up with some patterns to reuse as your list grows (e.g., using consistent letter sequences for phrase enders — “iwt” for “I want to”, “hwt” for “he wants to”, “swt” for “she wants to”, etc.). A working knowledge of a brief-heavy stenographic theory will help you here.
-
-#### Modal Text Editing
-
-Whether you code or not, you should consider learning [Vim](http://www.vim.org/) bindings and modal text editing. While I explicitly optimized for some of Vim’s bindings (more on the reasoning for that later — specifically why I chose to attach myself to the Vim framework instead of building my own syntax from the ground up), learning them on any layout is much, much, better than being stuck in the land of GUIs and text editing by mouse. Vim happens to be very well laid out for QWERTY since it was designed for QWERTY, but other layouts like Colemak can easily adapt to it as well.
-
-In terms of implementing this, I would suggest you not pick up vanilla Vim or gVim, but rather [Spacemacs](http://spacemacs.org/) (which uses Emacs’ evil mode to emulate Vim commands) or [NeoVim](https://neovim.io/) (which improves on many of Vim's strengths and brings it into the 21st century).
-
-Because of [Org Mode](http://orgmode.org/), its support for non-leader key remapping of commands, and mnemonic key sequences for specialized commands (such as window commands), I personally believe Spacemacs is the superior choice for most people and situations. However, many others like [NeoVim](https://neovim.io/) combined with [Tmux](https://github.com/tmux/tmux) and [Zsh](http://www.zsh.org/). In my opinion, the decision between these two setups mostly comes down to how much you use Org Mode -- since I use Org Mode for basically everything that's not code, I use Spacemacs.
-
-#### Symbol Layers
-
-You can create layers for numbers and symbols (putting them on the home row or at least in favorable positions) while still using QWERTY for letters. These additional layers have nothing to do with letter layouts.
-
-#### Conclusion
-
-Most speed considerations are layout agnostic. If you are already a sufficiently fast typist with another layout, the opportunity cost of retraining may be better spent beefing up your current toolkit and optimizing other parts of your typing. No matter what you do, dedicated *intentional* practice can significantly improve your typing, and you shouldn’t switch without first considering if it is really the most rational decision under your circumstances. For the reasons why you *should* switch, read on.
-
-## Reasons Why You Should Optimize
-
-### Reduced Typing Effort
-
-Far and away the biggest benefit optimized keyboard layouts give is a greatly reduced overall typing effort. As will be discussed below, optimized layouts significantly reduce the amount of distance your fingers need to travel by putting frequently used keys in favorable positions (like the home row), and balance finger and hand distribution so that effort is spread out. They also strive to make frequent two-letter combinations (called digraphs) and three-letter combinations (called trigraphs) easy to type: he, th, tha, str, and so forth.
-
-It is perhaps easiest to demonstrate the benefits of optimized layouts by counterexample: using "problem words" from QWERTY.
-
-1. On QWERTY try typing the word "stewardesses." It should be immediately obvious what the problem here is: your left hand does all the work while your right hand just sits there doing nothing!
-2. Now try typing the word "minimum." Aside from being another example of one hand doing all the work, QWERTY's minimum has additional problems: you have to jump over the home row to get from M and N to I and U, and you have to use the same finger to type M and U in succession. As variables, these are usually called "row jumping" and "same-finger", respectively, and most optimized layouts try to minimize them as much as possible.
-
-Basically, optimized layouts have less words like QWERTY's "stewardesses" and "minimum" -- words that are hard to type, split the load unequally among fingers and/or hands, require your fingers to travel further, etc. Consequently, typing is less effortful on optimized layouts.
-
-### Reduced Repetitive Stress Injury (RSI)
-
-Theoretically, the reduced overall effort needed to type on an optimized layout could lead to a delay in onset and/or remission of symptoms for those suffering from RSI, but there currently isn't a great deal of statistically useful data out there (though anecdotal success stories abound, they are not verifiable, and may be demonstrating the power of the placebo effect rather than the power of optimized keyboard layouts). On the other hand, it would make sense if less effort over time led to less "repretitive stress" overall (even if science hasn't verified this yet), so giving it a shot may still be worth it.
-
-It is once more worth pointing out that a good keyboard and proper workstation ergonomics are much more important than a character layout ever will be on this front, so if you don't have these things in order, an optimized keyboard layout won't save you from RSI.
-
-### Increased Typing Speed
-
-While this is perhaps the most controversial of the benefits (and is yet to be verified in a rigorous way, like RSI reduction above), there is a theoretical basis for faster typing on optimized layouts. For example:
-
-- Optimized layouts require less overall finger travel distance, with most of the most frequent letters and combinations requiring no movement from the home row. Less required movement ought to lead to faster speeds, all other things being equal.
-- Optimized layouts have higher hand alternation than QWERTY. Hand alternation makes it easier to line up the next letter when typing the previous one, since your fingers on the next-letter hand will not be out of position from typing letters on the top or bottom rows. (Cf. the QWERTY digraphs "he" and "in". For the former -- an example of hand alternation -- E can easily be lined up while you are pressing the H key since they are on different hands despite being on different rows. For the latter, it is harder to line up N when you are pressing I since I is on the top row of the right hand and N is on the bottom row of the right hand). This too should theoretically lead to faster speeds.
-- Optimized layouts have less same-finger (as in QWERTY "fr" or "ed"). It is not possible to line up subsequent letters in any way for same-finger digraphs, making them the slowest letter combinations. It follows then that layouts with less same-finger combinations will enable faster typing.
-
-I'm sure there are other such features that could be mentioned in support of optimized layouts being faster (i.e., this list is not intended to be comprehensive); however, until rigorous studies are done, all of this is theoretical. The effects mentioned above are going to be much less significant than practice overall -- which is why some QWERTY typists like [Sean Wrona](https://www.youtube.com/watch?v=4GDusA21cEA) will destroy the vast majority of people who type on optimized layouts.
+- Add pictures and files above, proofread, polish
+- Transfer in progress thoughts (diacritics, use of emphasis, etc.) onto this page
+- Work on below
 
 ## Outline of Optimization
 
