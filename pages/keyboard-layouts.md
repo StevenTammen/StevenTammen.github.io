@@ -23,85 +23,15 @@ title: Keyboard Layouts
 
 ## Pre-optimization Considerations
 
-Before you spend time optimizing the character layout of your keyboard, you need to first make sure that you have an ergonomic keyboard, and that your work environment is setup properly. Failing to account for these things (which are really more important), no matter how good your character layout ends up being, will put you at a much higher risk for RSI and CTS.
+Before you spend time optimizing the character layout of your keyboard, you need to first make sure that you have a [properly designed keyboard](https:/steventammen.com/keyboards/), and that your [work environment is setup properly](https://steventammen.com/work-environment/). Failing to account for these things (which are really more important), no matter how good your character layout ends up being, will put you at a much higher risk for Repetitive Stress Injury (RSI) and Carpal Tunnel Syndrome (CTS).
 
 Optimizing the character layout of your keyboard without first dealing with your workstation ergonomics is like fixing a small leak in a ship while ignoring the gaping hole in the hull — any benefit you gain here will be vastly overshadowed by the gains from improving these other areas. Again, let me repeat myself, focusing on the character layout before settling these other matters is *not* wise, and I suggest you take some time to fix any deficiencies in your current equipment/habits before continuing.
-
-## Reasons Why You Should Not Optimize
-
-### Priorities
-
-Please have a look at [this page](https://steventammen.com/priorities/).
-
-Keyboard layout optimization must be taken as an investment of lower marginal benefit than many things before it. It is a worthy investment, but it is not the worthiest of your consideration unless several more important things have been taken care of beforehand.
-
-I would encourage you to go through that link and make sure you have those things in good order before you even consider sinking in time on the keyboard optimization front. Also consider how much you really type in your everyday life (and thus how big a priority optimization is): programmers and secretaries, for example, type far more than park rangers or bakers, so keyboard optimization makes more sense for them.
-
-### The Difficulty of Retraining Your Fingers
-
-To put it simply, if you are already at 100 WPM typing QWERTY, and aren’t facing or likely to face RSI, you need to consider if this exercise is worth your while. Optimized layouts (even the bad ones, so to speak), are very much more efficient than QWERTY, and they drastically reduce the amount of effort it takes to type. But there will be an adjustment period of weeks not days, and recovering your old speed will take time. This goes doubly for those of you already using a better layout like Dvorak, Colemak, or Workman. I promise you that you can do better than any one of those three, but the gains will not be earth-shattering.
-
-If the switch were easy or effortless, QWERTY would have ceased to exist long ago. As it is, however, you will be reduced to single digit WPMs for the first little bit, and your fingers will disobey you — you will have to rewire the neural connections in your brain that correspond to what we call “muscle memory.” If you have any sort of time-sensitive full-time occupation that forces you maintain your QWERTY skills (i.e., you can’t afford to go cold turkey and immerse yourself), it’s even harder because you’ll experience [proactive interference](https://en.wikipedia.org/wiki/Interference_theory#Proactive_interference) from already having QWERTY in muscle memory. That is to say, instead of “unlearning” QWERTY when you learn your other layout (replacing the old muscle memory with new muscle memory), the old muscle memory that you need to keep around will inhibit effective acquisition of the new muscle memory.
-
-Depending on your dedication and consistency in practice, getting back to your previous speed can take anywhere from a few weeks to a few months. Poor discipline and lack of self-control can even push this from “difficult” to “impossible” — just like many people have tried to quit smoking and failed, many have tried switching away from QWERTY and failed. I would suggest that you not waste your time if you are not willing or able to put in the work necessary to be successful.
-
-### QWERTY’s Ubiquitousness
-
-As mentioned above, holding QWERTY in muscle memory when learning a new layout results in proactive interference. For most people, the flipside, called [retroactive interference](https://en.wikipedia.org/wiki/Interference_theory#Retroactive_interference), also holds true. Learning another layout will typically result in a loss of QWERTY speed because more errors are made — when you are trying to type a letter, your finger “forgets” that you are typing QWERTY, and instead presses the key for the letter on your other layout. While this is a problem for everyone, some people, through practice, have been able to keep high speeds on two different layouts simultaneously (e.g., Dvorak and QWERTY). Learning two layouts that are more similar to each other (like QWERTY and Colemak) is more likely to result in retroactive interference (just how learning Italian if you speak Spanish is more likely to mess with your Spanish than if you learn German), while using different physical keyboards for different character layouts (e.g., using Dvorak on a Kinesis Advantage and QWERTY on normal row-staggered keyboards) can help prevent retroactive interference.
-
-The upshot of all this is that most people don’t continue to type with two different layouts in the long run — in other words, learning an optimized layout generally means you lose your QWERTY proficiency. The “problem” with this, of course, is that the rest of the world is designed for QWERTY and expects you to use it.
-
-Not being able to touch-type QWERTY means your productivity will take a hit whenever you have to type on it for some reason (e.g., working on someone else’s computer or taking the GRE). You will also have to contend with poorly designed keyboard shortcuts (i.e., those with QWERTY in mind), which usually only prove to be problematic in those programs that don’t let you change them (boo on them). These are unavoidable consequences that you will face because QWERTY has become the expected layout in our society -- if you find them unacceptable, stick with QWERTY.
-
-### The Animosity of Others
-
-Certain people get rather worked up any time someone mentions a layout other than QWERTY. My best guess is that this is because the superior efficiency of people who type on other layouts is a direct challenge to their self-perception as competent, effective workers. It's also possible that their defensiveness is a manifestation of the [sunk cost fallacy](https://en.wikipedia.org/wiki/Sunk_cost#Loss_aversion_and_the_sunk_cost_fallacy): having spent a significant amount of time learning to touch-type QWERTY, they don't want to admit that they picked a bad layout. There is also likely a degree of [choice-supportive bias](https://en.wikipedia.org/wiki/Choice-supportive_bias): similar to how people evangelize the make and model of the new car they bought to help convince themselves it was worth it, people are more likely to evangelize QWERTY after deciding to make it their keyboard layout.
-
-Whatever their motivations, people will frequently challenge your decision to use a layout other than QWERTY. If you are not the type of person that's cool taking heat for being different or constantly having to explain yourself, you may want to think twice about using a layout other than QWERTY.
-
-(Note: you will encounter a larger group of people that is not actively antogonistic but merely confused as to why you find using another layout necessary or prudent. By and large, people in this group are happy shrugging and letting you do your thing if that's what you want -- but they may still give you weird looks. YMMV)
-
-### Most Speed Considerations Are Layout Agnostic
-
-There is a very real possibility if you switch that the time lost in getting back up to speed would have been better spent honing your mastery of whatever layout you do currently use, because most of the ways you can accelerate your typing don’t depend on your layout. In other words, it may very well be better for you to spend a couple months increasing your QWERTY speed from 60 WPM to 100 WPM than getting up to 60 WPM on another layout.
-
-#### Practice
-
-There is no magic here. Optimizing your layout won’t immediately make you a faster typist, though it certainly has the potential to eventually. The thing that will make you a faster typist is practicing a layout until you breathe it and you dream about it. This is like every single other skill in existence; the more you practice, the better you get. 
-
-I want to here emphasize that not all practice is equal. Practice does not make perfect. Practice makes permanent (or, alternatively, “perfect practice makes perfect”). Because we tend to type a great deal in our day to day lives, there is a danger of just going on autopilot and plateauing. Whether or not you decide to continue on in this process, I can recommend that you pick up typing not as something one merely does, but as something one studies and perfects over time.
-
-Practice the most common digraphs and trigraphs in English (or your native language if not English). Lists can be found [here](http://scottbryce.com/cryptograms/stats.htm), [here](http://www.cse.unt.edu/~mgomathi/teaching/2009/csce5550/Lectures/Cipher-Example%202.pdf), and elsewhere through a simple Google search. If you consciously train yourself to type *sequences* rather than *letters*, your speed will increase at a much faster rate.
-
-To extend this concept even further, you should drill with [this repo](https://github.com/first20hours/google-10000-english), which has the 10,000 most common words in English. It does you little good to type uncommon or unusual words at a high speed because they compose a small portion of what you type (e.g., typing “zyzzyva” fast does you no good because genuses of weevils don’t come up in normal conversation). Getting very fast at words like “the”, “and”, “that” and so forth, however, will dramatically increase your speed because these words compose a large percentage of everything we type.
-
-#### Text Expansion
-
-If you really want to ramp up the speed, you should use text expansion to abbreviate at least the first couple hundred most common words and phrases in English, making, for example, “the” just “t”, “I want to” just “iwt”, and so on. By doing this alone, you can cut down on how many keys you have to physically press down by a huge percentage (at least for prose). You can actually do the same thing for common code constructs (e.g., the basic syntax of a for loop in Python), email signatures, and really anything else you can think of. Since I’m on Windows, I personally use AutoHotkey for this purpose, but there are plenty of options for this sort of thing. If your keyboard supports it, you may be able to do text expansion on the firmware level, making it operating system and device agnostic.
-
-Just like normal typing, you’ll need to practice this intentionally to get results, retraining your hands to type “t” every time your brain thinks “the”. You’ll also want to create a “theory” for your abbreviations, and come up with some patterns to reuse as your list grows (e.g., using consistent letter sequences for phrase enders — “iwt” for “I want to”, “hwt” for “he wants to”, “swt” for “she wants to”, etc.). A working knowledge of a brief-heavy stenographic theory will help you here.
-
-#### Modal Text Editing
-
-Whether you code or not, you should consider learning [Vim](http://www.vim.org/) bindings and modal text editing. While I explicitly optimized for some of Vim’s bindings (more on the reasoning for that later — specifically why I chose to attach myself to the Vim framework instead of building my own syntax from the ground up), learning them on any layout is much, much, better than being stuck in the land of GUIs and text editing by mouse. Vim happens to be very well laid out for QWERTY since it was designed for QWERTY, but other layouts like Colemak can easily adapt to it as well.
-
-In terms of implementing this, I would suggest you not pick up vanilla Vim or gVim, but rather [Spacemacs](http://spacemacs.org/) (which uses Emacs’ evil mode to emulate Vim commands) or [NeoVim](https://neovim.io/) (which improves on many of Vim's strengths and brings it into the 21st century).
-
-Because of [Org Mode](http://orgmode.org/), its support for non-leader key remapping of commands, and mnemonic key sequences for specialized commands (such as window commands), I personally believe Spacemacs is the superior choice for most people and situations. However, many others like [NeoVim](https://neovim.io/) combined with [Tmux](https://github.com/tmux/tmux) and [Zsh](http://www.zsh.org/). In my opinion, the decision between these two setups mostly comes down to how much you use Org Mode -- since I use Org Mode for basically everything that's not code, I use Spacemacs.
-
-#### Symbol Layers
-
-You can create layers for numbers and symbols (putting them on the home row or at least in favorable positions) while still using QWERTY for letters. These additional layers have nothing to do with letter layouts.
-
-#### Conclusion
-
-Most speed considerations are layout agnostic. If you are already a sufficiently fast typist with another layout, the opportunity cost of retraining may be better spent beefing up your current toolkit and optimizing other parts of your typing. No matter what you do, dedicated *intentional* practice can significantly improve your typing, and you shouldn’t switch without first considering if it is really the most rational decision under your circumstances. For the reasons why you *should* switch, read on.
 
 ## Reasons Why You Should Optimize
 
 ### Reduced Typing Effort
 
-Far and away the biggest benefit optimized keyboard layouts give is a greatly reduced overall typing effort. As will be discussed below, optimized layouts significantly reduce the amount of distance your fingers need to travel by putting frequently used keys in favorable positions (like the home row), and balance finger and hand distribution so that effort is spread out. They also strive to make frequent two-letter combinations (called digraphs) and three-letter combinations (called trigraphs) easy to type: he, th, tha, str, and so forth.
+Far and away the biggest benefit optimized keyboard layouts give is a greatly reduced overall typing effort. As will be discussed below, optimized layouts significantly reduce the amount of distance your fingers need to travel by putting frequently used keys in favorable positions (like the home row), and balance finger and hand distribution so that effort is spread out. They also strive to make frequent two-letter combinations (called digraphs) and three-letter combinations (called trigraphs) easy to type: he, th, tha, tho, and so forth.
 
 It is perhaps easiest to demonstrate the benefits of optimized layouts by counterexample: using "problem words" from QWERTY.
 
@@ -110,7 +40,7 @@ It is perhaps easiest to demonstrate the benefits of optimized layouts by counte
 
 Basically, optimized layouts have less words like QWERTY's "stewardesses" and "minimum" -- words that are hard to type, split the load unequally among fingers and/or hands, require your fingers to travel further, etc. Consequently, typing is less effortful on optimized layouts.
 
-### Reduced Repetitive Stress Injury (RSI)
+### Reduced Risk of RSI
 
 Theoretically, the reduced overall effort needed to type on an optimized layout could lead to a delay in onset and/or remission of symptoms for those suffering from RSI, but there currently isn't a great deal of statistically useful data out there (though anecdotal success stories abound, they are not verifiable, and may be demonstrating the power of the placebo effect rather than the power of optimized keyboard layouts). On the other hand, it would make sense if less effort over time led to less "repretitive stress" overall (even if science hasn't verified this yet), so giving it a shot may still be worth it.
 
@@ -125,6 +55,82 @@ While this is perhaps the most controversial of the benefits (and is yet to be v
 - Optimized layouts have less same-finger (as in QWERTY "fr" or "ed"). It is not possible to line up subsequent letters in any way for same-finger digraphs, making them the slowest letter combinations. It follows then that layouts with less same-finger combinations will enable faster typing.
 
 I'm sure there are other such features that could be mentioned in support of optimized layouts being faster (i.e., this list is not intended to be comprehensive); however, until rigorous studies are done, all of this is theoretical. The effects mentioned above are going to be much less significant than practice overall -- which is why some QWERTY typists like [Sean Wrona](https://www.youtube.com/watch?v=4GDusA21cEA) will destroy the vast majority of people who type on optimized layouts.
+
+## Reasons Why You Should Not Optimize
+
+### Priorities
+
+Please have a look at [this page](https://steventammen.com/priorities/).
+
+Keyboard layout optimization must be taken as an investment of lower marginal benefit than many things before it. It is a worthy investment, but it is not the worthiest of your consideration unless several more important things have been taken care of beforehand.
+
+I would encourage you to go through that link and make sure you have those things in good order before you even consider sinking in time on the keyboard optimization front. Also consider how much you really type in your everyday life (and thus how big a priority optimization is): programmers and secretaries, for example, type far more than park rangers or bakers, so keyboard optimization makes more sense for them.
+
+### The Difficulty of Retraining Your Fingers
+
+To put it simply, if you are already at 70ish WPM touch-typing QWERTY (or some other reasonably fast speed), and aren’t facing or likely to face RSI, you probably shouldn't bother switching. Optimized layouts (even the bad ones, so to speak), are very much more efficient than QWERTY, and they drastically reduce the amount of effort it takes to type. But there will be an adjustment period of weeks not days, and recovering your old speed will take time. This goes doubly for those of you already using a better layout like Dvorak, Colemak, or Workman. I promise you that you can do better than any one of those three, but the gains will not be earth-shattering.
+
+If the switch were easy or effortless, QWERTY would have ceased to exist long ago. As it is, however, you will be reduced to single digit WPMs for the first little bit, and your fingers will disobey you — you will have to rewire the neural connections in your brain that correspond to what we call “muscle memory.” If you have any sort of time-sensitive full-time occupation that forces you maintain your QWERTY skills (i.e., you can’t afford to go cold turkey and immerse yourself), it’s even harder because you’ll experience [proactive interference](https://en.wikipedia.org/wiki/Interference_theory#Proactive_interference) from already having QWERTY in muscle memory. That is to say, instead of “unlearning” QWERTY when you learn your other layout (replacing the old muscle memory with new muscle memory), the old muscle memory that you need to keep around will inhibit effective acquisition of the new muscle memory.
+
+Depending on your dedication and consistency in practice, getting back to your previous speed can take anywhere from a few weeks to a few months. Poor discipline and lack of self-control can even push this from “difficult” to “impossible." I would suggest that you not waste your time if you are not willing or able to put in the work necessary to be successful.
+
+### QWERTY’s Ubiquitousness
+
+As mentioned above, holding QWERTY in muscle memory when learning a new layout results in proactive interference. For most people, the flipside, called [retroactive interference](https://en.wikipedia.org/wiki/Interference_theory#Retroactive_interference), also holds true. Learning another layout will typically result in a loss of QWERTY speed because more errors are made — when you are trying to type a letter, your finger “forgets” that you are typing QWERTY, and instead presses the key for the letter on your other layout. While this is a problem for everyone, some people, through practice, have been able to keep high speeds on two different layouts simultaneously (e.g., Dvorak and QWERTY). Learning two layouts that are more similar to each other (like QWERTY and Colemak) is more likely to result in retroactive interference (just how learning Italian if you speak Spanish is more likely to mess with your Spanish than if you learn German), while using different physical keyboards for different character layouts (e.g., using Dvorak on a Kinesis Advantage and QWERTY on normal row-staggered keyboards) can help prevent retroactive interference.
+
+The upshot of all this is that most people don’t continue to type with two different layouts in the long run — in other words, learning an optimized layout generally means you lose your QWERTY proficiency. The “problem” with this, of course, is that the rest of the world is designed for QWERTY and expects you to use it.
+
+Not being able to touch-type QWERTY means your productivity will take a hit whenever you have to type on it for some reason (e.g., working on someone else’s computer or taking the GRE). You will also have to contend with keyoard shortcuts designed for QWERTY (such as Ctrl-Z, CTRL-X, CTRL-C, and Ctrl-V), which usually only prove to be problematic in those programs that don’t let you change them (boo on them). These are unavoidable consequences that you will face because QWERTY has become the expected layout in our society -- if you find them unacceptable, stick with QWERTY.
+
+### The Animosity of Others
+
+Certain people get rather worked up any time someone mentions a layout other than QWERTY. My best guess is that this is because the superior efficiency of people who type on other layouts is a direct challenge to their self-perception as competent, effective workers. It's also possible that their defensiveness is a manifestation of the [sunk cost fallacy](https://en.wikipedia.org/wiki/Sunk_cost#Loss_aversion_and_the_sunk_cost_fallacy): having spent a significant amount of time learning to touch-type QWERTY, they don't want to admit that they picked a bad layout. There is also likely a degree of [choice-supportive bias](https://en.wikipedia.org/wiki/Choice-supportive_bias): similar to how people evangelize the make and model of the new car they bought to help convince themselves it was worth it, people are more likely to evangelize QWERTY after deciding to make it their keyboard layout.
+
+Whatever their motivations, some people will challenge your decision to use a layout other than QWERTY. If you are not the type of person that's cool taking heat for being different or constantly having to explain yourself, you may want to think twice about using a layout other than QWERTY.
+
+(Note: you will encounter a larger group of people that is not actively antogonistic but merely confused as to why you find using another layout necessary or prudent. By and large, people in this group are happy shrugging and letting you do your thing if that's what you want -- but they may still give you weird looks. YMMV)
+
+### Most Speed Considerations Are Layout Agnostic
+
+There is a very real possibility if you switch that the time lost in getting back up to speed would have been better spent honing your mastery of whatever layout you do currently use, because most of the ways you can accelerate your typing don’t depend on your layout. In other words, it would probably be better for you to spend a couple months increasing your QWERTY speed from 70 WPM to 100 WPM than getting up to 70 WPM on another layout.
+
+#### Practice
+
+There is no magic here. Optimizing your layout won’t immediately make you a faster typist, though it certainly has the potential to eventually. The thing that will make you a faster typist is practicing a layout until you breathe it and you dream about it. This is like every single other skill in existence; the more you practice, the better you get. 
+
+I want to here emphasize that not all practice is equal. Practice does not make perfect. Practice makes permanent (or, alternatively, “perfect practice makes perfect”). Because we tend to type a great deal in our day to day lives, there is a danger of just going on autopilot and plateauing. Whether or not you decide to continue on in this process, I can recommend that you pick up typing not as something one merely does, but as something one studies and perfects over time.
+
+Practice the most common digraphs and trigraphs in English (or your native language if not English). Lists can be found [here](http://scottbryce.com/cryptograms/stats.htm), [here](http://www.cse.unt.edu/~mgomathi/teaching/2009/csce5550/Lectures/Cipher-Example%202.pdf), and elsewhere through a simple Google search. If you consciously train yourself to type *sequences* rather than *letters*, your speed will increase at a much faster rate.
+
+To extend this concept even further, you should drill with [this list](http://norvig.com/ngrams/count_1w.txt) and [this list](https://www.wordfrequency.info/free.asp?s=y), which have the most common words in English listed out by frequency. It does you little good to type uncommon or unusual words at a high speed because they compose a small portion of what you type (e.g., typing “zyzzyva” fast does you no good because genuses of weevils don’t come up in normal conversation). Getting very fast at words like “the”, “and”, “that” and so forth, however, will dramatically increase your speed because these words compose a large percentage of everything we type.
+
+### Targeting Weaknesses
+
+If you haven't used [Amphetype](https://code.google.com/archive/p/amphetype/) before, you should try it. It is a program that lets you track what things you type fast and what things you type slow (among other things).
+
+A common mistake many people make when learning skills is treating all practice as equally helpful. This is objectively false. As anyone who has ever learned a musical instrument can tell you, you improve much faster if you practice the hard sections in a piece rather than playing it all the way through a bunch of times. (Even though this is much less fun, you improve more). I call this "targeting weaknesses." If you target your weaknesses, you may improve many times faster than someone who thinks that all practice is basically the same.
+
+(Note: this same principle carries over into knowledge acquisition as well -- study what you don't know, not what you do.)
+
+#### Text Expansion
+
+If you really want to ramp up the speed, you should use text expansion to abbreviate at least the first couple hundred most common words and phrases in English, making, for example, “and” just “n”, “I want to” just “iwt”, and so on. By doing this alone, you can cut down on how many keys you have to physically press down by a huge percentage (at least for prose). You can actually do the same thing for common code constructs (e.g., the basic syntax of a for loop in Python), email signatures, and really anything else you can think of. Since I’m on Windows, I personally use AutoHotkey for this purpose, but there are plenty of options for this sort of thing. If your keyboard supports it, you may be able to do text expansion on the firmware level, making it operating system and device agnostic.
+
+Just like normal typing, you’ll need to practice this intentionally to get results, retraining your hands to type “n” every time your brain thinks “and”. You’ll also want to create a “theory” for your abbreviations, and come up with some patterns to reuse as your list grows (e.g., using consistent letter sequences for phrase enders — “iwt” for “I want to”, “hwt” for “he wants to”, “swt” for “she wants to”, etc.). A working knowledge of a brief-heavy stenographic theory will help you here.
+
+#### Number and Symbol Layers
+
+You can create layers for numbers and/or symbols (putting them in favorable positions) while still using QWERTY for letters. These additional layers have nothing to do with letter layouts.
+
+#### Conclusion
+
+Most speed considerations are layout agnostic. If you are already a sufficiently fast typist with another layout, the time spent regaining your old speed on anoher layout would probably be better spent beefing up your current toolkit and optimizing other parts of your typing. No matter what you do, dedicated *intentional* practice can significantly improve your typing, and you shouldn’t switch without first considering if it is really the most rational decision under your circumstances.
+
+## People Who Should Always Learn An Optimized Layout
+
+If you hunt-and-peck, it's going to take you a while to learn how to touch type anyway, so you may as well do it right the first time. Learning how to touch type is really a very important skill since a) it's faster, b) you can look at other things (like the screen) when you type, and c) you make less mistakes. The good news for you is that you should be able to get up to 20 WPM or so in a weekend, which shouldn't be all that much slower than your normal hunt-and-peck speed (i.e., you won't have quite the same magnitude of productivity loss that touch-typists switching will have).
+
+Additionally, young children or other people who have never learned how to type at all should learn an optimized layout from the get-go rather than QWERTY. If you are a parent reading this, please don't inflict uneccessary inefficiency on your child. It certainly doesn't have to be my layout (Colemak and Dvorak are both more widely available), but at least have them learn something that was actually thought through to improve the typing experience. The reason why QWERTY still exists (and measurements in feet and slugs instead of meters and kilograms, and shirt buttons, and ties, and...) is because people of one generation don't realize that systematic inefficiency can be easily overcome if you just think about what you teach your children.
 
 ## Prior Studies of Keyboard Layouts
 
