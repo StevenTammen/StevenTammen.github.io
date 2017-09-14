@@ -29,11 +29,9 @@ title: Keyboards
 
 - Optimization Considerations
    - Differences in Hand Morphology
-      - My Hand Morphology
    - Differences in Optimization Goals (speed vs ergonomics)
-      - My Optimization Goals (balance)
 - Physical Layout Design Variables
-   - Why Physical Layout Design Must Come First
+   - Why Physical Layout Design Must Come Before Character Design
    - Design Philosophy: Everything is a Variable
    - Comfort/Ergonomics
       - Split-Hand Design
@@ -41,7 +39,7 @@ title: Keyboards
       - Adjustable Wrist Pronation (“Roll”)
       - Adjustable Elbow Angle (“Yaw”)
       - Adjustable Typing Angle (“Pitch”)
-      - Neutral Position Wrist Wrests
+      - Neutral-Position Wrist Wrests
       - Column Stagger
       - Key Height Differentials
       - Concave Keywells
@@ -49,7 +47,7 @@ title: Keyboards
       - Keyswitch Travel Distance
       - Keycap Shaping
    - Typing Speed
-      - \*Concave Keywells
+      - Concave Keywells
       - Keyswitch Actuation Force
       - Keyswitch Travel Distance
       - Keycap Shaping
@@ -70,8 +68,8 @@ title: Keyboards
       - Replaceable Connection Mechanism Between Keyboard Halves
       - Replaceable Connection Mechanism To Computer
    - Functionality
-      - Keyboard Microcontroller and Firmware Programmability
-      - Key Backlighting
+      - Keyboard Microcontroller and Firmware
+      - Key Backlighting and Light Programmability
       - Signalling Mechanism For Mode Lock Engagement (e.g., CapsLock, NumLock)
       - Toggleable Noise For Key Actuation
 - Weighting of Physical Layout Design Factors
