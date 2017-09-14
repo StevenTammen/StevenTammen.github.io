@@ -23,7 +23,7 @@ title: Keyboard Layouts
 
 ## Pre-optimization Considerations
 
-Before you spend time optimizing the character layout of your keyboard, you need to first make sure that you have a [properly designed keyboard](https:/steventammen.com/keyboards/), and that your [work environment is setup properly](https://steventammen.com/work-environment/). Failing to account for these things (which are really more important), no matter how good your character layout ends up being, will put you at a much higher risk for Repetitive Stress Injury (RSI) and Carpal Tunnel Syndrome (CTS).
+Before you spend time optimizing the character layout of your keyboard, you need to first make sure that you have a [properly designed keyboard](https://steventammen.com/keyboards/), and that your [work environment is setup properly](https://steventammen.com/work-environment/). Failing to account for these things (which are really more important), no matter how good your character layout ends up being, will put you at a much higher risk for Repetitive Stress Injury (RSI) and Carpal Tunnel Syndrome (CTS).
 
 Optimizing the character layout of your keyboard without first dealing with your workstation ergonomics is like fixing a small leak in a ship while ignoring the gaping hole in the hull — any benefit you gain here will be vastly overshadowed by the gains from improving these other areas. Again, let me repeat myself, focusing on the character layout before settling these other matters is *not* wise, and I suggest you take some time to fix any deficiencies in your current equipment/habits before continuing.
 
