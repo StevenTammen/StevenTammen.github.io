@@ -64,7 +64,13 @@ Please have a look at [this page](https://steventammen.com/priorities/).
 
 Keyboard layout optimization must be taken as an investment of lower marginal benefit than many things before it. It is a worthy investment, but it is not the worthiest of your consideration unless several more important things have been taken care of beforehand.
 
-I would encourage you to go through that link and make sure you have those things in good order before you even consider sinking in time on the keyboard optimization front. Also consider how much you really type in your everyday life (and thus how big a priority optimization is): programmers and secretaries, for example, type far more than park rangers or bakers, so keyboard optimization makes more sense for them.
+I would encourage you to go through that link and make sure you have those things in good order before you even consider sinking in time on the keyboard optimization front.
+
+### You May Type Too Little Or Too Much For Keyboard Layout Optimization To Be Worth It
+
+If you do not type very much in your profession or hobbies outside of your profession, keyboard layout optimization will never be worth your while. You will never make up the time you spend making your layout more efficient because you will never type enough for the advantages to be realized.
+
+If you enter a lot of information in your profession or hobbies, however, it *still* may not be worth your while to optimize. Why? Because typing is incredibly inefficient compared to machine stenography (the kind that uses a [stenotype](https://en.wikipedia.org/wiki/Stenotype).
 
 ### The Difficulty of Retraining Your Fingers
 
