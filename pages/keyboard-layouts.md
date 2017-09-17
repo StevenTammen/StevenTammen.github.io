@@ -31,14 +31,14 @@ Optimizing the character layout of your keyboard without first dealing with your
 
 ### Reduced Typing Effort
 
-Far and away the biggest benefit optimized keyboard layouts give is a greatly reduced overall typing effort. As will be discussed below, optimized layouts significantly reduce the amount of distance your fingers need to travel by putting frequently used keys in favorable positions (like the home row), and balance finger and hand distribution so that effort is spread out. They also strive to make frequent two-letter combinations (called digraphs) and three-letter combinations (called trigraphs) easy to type: th, he, tha, ion, and so forth.
+Far and away the biggest benefit optimized keyboard layouts give is a greatly reduced overall typing effort. As will be discussed below, optimized layouts significantly reduce the amount of distance your fingers need to travel by putting frequently used keys in favorable positions (like the home row), and balance finger and hand distribution so that effort is spread out. They also strive to make frequent two-letter combinations (called digrams) and three-letter combinations (called trigrams) easy to type: th, he, tha, ion, and so forth.
 
 It is perhaps easiest to demonstrate the benefits of optimized layouts by counterexample: using "problem words" from QWERTY.
 
 1. On QWERTY try typing the word "stewardesses." It should be immediately obvious what the problem here is: your left hand does all the work while your right hand just sits there doing nothing!
-2. Now try typing the word "minimum." Aside from being another example of one hand doing all the work, QWERTY's minimum has additional problems: you have to jump over the home row to get from M and N to I and U, and you have to use the same finger to type M and U in succession. As variables, these are usually called "row jumping" and "same-finger", respectively, and most optimized layouts try to minimize them as much as possible.
+2. Now try typing the word "minimum." Aside from being another example of one hand doing all the work, QWERTY's minimum has additional problems: you have to jump over the home row to get from M and N to I and U, and you have to use the same finger to type M and U in succession. As variables, these are usually called "row jumping" (or "hurdling") and "same-finger", respectively, and most optimized layouts try to minimize them as much as possible.
 
-Basically, optimized layouts have less words like QWERTY's "stewardesses" and "minimum" -- words that are hard to type, split the load unequally among fingers and/or hands, require your fingers to travel further, etc. Consequently, typing is less effortful on optimized layouts.
+Basically, optimized layouts have less words like QWERTY's "stewardesses" and "minimum" -- words that are hard to type, split the load unequally among fingers and/or hands, require your fingers to travel further, require row jumps, etc. Consequently, typing is less effortful on optimized layouts.
 
 ### Reduced Risk of RSI
 
@@ -68,9 +68,48 @@ I would encourage you to go through that link and make sure you have those thing
 
 ### You May Type Too Little Or Too Much For Keyboard Layout Optimization To Be Worth It
 
-If you do not type very much in your profession or hobbies outside of your profession, keyboard layout optimization will never be worth your while. You will never make up the time you spend making your layout more efficient because you will never type enough for the advantages to be realized.
+If you already touch type on a layout like QWERTY or Dvorak, and you do not type very much in your profession or hobbies outside of your profession, keyboard layout optimization will never be worth your while. You will never make up the time you spend making a more efficient layout for your use case and learning it because you will never type enough for the advantages to be realized. This will be discussed more extensively in some of the sections below, but suffice it to say that the opportunity cost involved is great enough that most people probably shouldn't bother. There are some very zealous people that try to "sell" the ideas of optimized keyboard layouts far more than what the data allows. They are objectively better. But not worth 40+ hours of practice to switch better
 
-If you enter a lot of information in your profession or hobbies, however, it *still* may not be worth your while to optimize. Why? Because typing is incredibly inefficient compared to machine stenography (the kind that uses a [stenotype](https://en.wikipedia.org/wiki/Stenotype).
+
+### You May Be Better Served By Stenography
+
+**TL;DR version:** Steno is unarguably faster than typing, and certain people would be better served learning stenography instead of a more optimized keyboard layout. 
+
+In a vacuum, machine shorthand (aka stenography, commonly abbreviated "steno") is objectively superior to plain typing in just about every way. The world record for machine shorthand transcription is over 360 WPM. Think about that for a second. *Three hundred and sixty words per minute is really stinkin' fast*.
+
+If the idea of writing that fast intrigues you, you should read a series of articles --starting [here](https://stenoknight.com/SpeakFingers.html) -- written by Mirabai Knight, the stenographer behind Plover (the only free stenography program). Mirabai argues that there are reasons other than speed for steno (fluency of thought, for example). This is a good series, but strawmans keyboard layouts to an extent. For example, if you automatically space out punctuation and autocapitalize (just like stenography does), come up with shorthand forms for very common words and phrases (just like stenograpy does), and use a system of prefixes, suffixes, and phrase-enders according to personally-determined patterns (just like stenography does), all of the disparities cited in this series shrink significantly.
+
+In other words, if you start comparing apples-to-apples, while stenography still wins overall since phonetic input will always be faster/more efficient than orthographic input, the differences are not nearly as vast as protrayed here. (Note: I don't think Mirabai is at all at fault for drawing the comparisons -- most people don't use keyboards particularly effectively, so her points stand in the vast majority of cases).
+
+Why am I taking pains to qualify these claims? If stenography is simply better in the abstract, even if not by as much as advertised, why shouldn't everybody learn it? Well, the thing is, learning stenography is more than just learning a different character layout. For example, you have to learn:
+
+- How to press multiple keys at the same time (known as "chording"), sometimes with the same finger.
+- How to consciously distinguish phonemes in pronunciation (everyone does this unconsciously, but most people don't have any practice thinking about it).
+- How to split words into syllabifications to match outlines in the translation dictionary. (While the dictionary usually has outlines for multiple syllabifications, sometimes people will syllabify words in non-standard ways that aren't defined, and will need try other ways).
+- How to deal with the word boundary conflicts introduced from phonetic writing (for example, "we walked around the *lighthouse*" vs. "we walked around the *light house*").
+- How to deal with homophones (by, buy, bye; there, their, they're; etc.).
+- How to write the full list of words without phonetic outlines (a condition known as "brief solitude"). Most of these are very high frequency words, which is both good and bad -- you'll basically have to learn them all before you can write anything, but you'll learn them fast since you'll need to use them a lot.
+- etc.
+
+This isn't even comprehensive. Stenography is an entirely different text-entry paradigm than typing, and for people without any linguistics experience, the majority of the concepts and vocabulary introduced will be things you've never heard of before.
+
+The numbers vary on how long it takes for people to get to high speeds. There are people like [Stanley Sakai](http://stanographer.com/) who got to 225+ WPM in months. The thing is, Stan is also a polyglot (at the time of writing, listing proficiency in English, Korean, Dutch, German, Spanish, American Sign Language, and French on his resume), and already knew pen shorthand (Gregg) when he started machine shorthand. It took Mirabai a year and half to pass her 225's when studying part-time at a brick-and-mortar steno school. Ted Morin, Plover's current lead Dev, has been practicing stenography for [about 3 years](https://www.facebook.com/morinted/posts/10152184434552401) and is currently around 160 WPM. From my understanding, these people are on the fast end of things. A slightly more pessimistic (though balanced, in my view) take on stenography learning times can be seen [here](http://careyryan.com/stenotype-can-we-type-much-faster/). Also have a look at the [most recent statistics related to the Open Steno Project's Community Survey](http://plover.stenoknight.com/2017/08/responses-to-2017-osp-community-survey.html).
+
+So why am I including this section? Because if you are in a field that requires really fast input, there is nothing better than stenography. Such fields might include:
+
+- Transcriptionists (of any type)
+- Fields that require frequent "conversational" communication: emails, chatrooms, IRC, etc. Steno shines in conversational contexts because we can easily talk at 200+ WPM -- there are no mental speed bottlenecks in these contexts, so anything slower than speech will be a speed bottleneck.
+- Traditional steno fields like court-reporting, captioning, CART, etc.
+
+For basically everyone else, it's not worth learning stenography from a practical point of view (marginal benefit will never exceed marginal cost). I break here with Mirabai on the idea of writers and programmers learning stenography. Unless the majority of your writing is conversational (as mentioned above) or borders on conversational (such as writing character dialogue in novels), you will never be thinking at 200 WPM since you'll be considering word selection, connotation, tone, grammar, style, flow, etc. I also humbly submit that the idea that programmers think at 200 WPM is preposterous. I am studying computer science full time and am yet to come across someone who could even write pseudocode at anything approaching 200 WPM.
+
+Writers and programmers would of course be able to get their thoughts on screen faster with stenography, theoretically with less disruption to the mental flow of ideas. Here's a good quote from Mirabia's series:
+
+> I'm willing to bet that the act of qwerty typing slows down the thoughts of many people. When I type on a qwerty keyboard, I feel my mind splitting along four consecutive but overlapping tracks: One, the word I want to write. Two, the way it's spelled. I'm a pretty good speller, but English is weird enough that the process is never completely automatic. Three, the series of five to ten finger motions it takes to type it. Four, the error checking mechanism that iterates over the first three and confirms that the correct word choice, orthography, and letter position have appeared onscreen. Usually I'll have already started typing the next word when I spot a spelling or typing error in the previous one, and by the time I've pressed backspace ten times to correct two transposed letters, my train of thought will have gotten all tangled up and I'll have to pause for a second to remember what I was writing. Even when I try to pace myself and type more slowly than usual, I'll make an error like this every few sentences, and my flow of composition will have been interrupted half a dozen times by end of the paragraph. 
+
+I am not aware of any evidence that meets my baseline standard (methodologically-sound, peer-reviewed, double-blind scientific studies conducted by qualified and respected researchers without conflicts of interest and funded by entities without an axe to grind) to either support or refute such speculation. Therefore, I leave judgement up to the reader. I am fairly certain that Mirabai is right to an extent. I just don't think gains here will ever come close to offsetting the time required to learn stenography.
+
+The decision to utilize stenography or ignore it is obviously a personal one. However, the community is super friendly and willing to answer questions. I recommend taking a look at the [Plover Google Group](https://groups.google.com/forum/#!forum/ploversteno) and [Discord Channel](https://discordapp.com/channels/136953735426473984/136953735426473984) to talk to individuals into steno. I have been involved in both communities for a couple years now, and have stuck around even after I stopped actively trying to learn stenography.
 
 ### The Difficulty of Retraining Your Fingers
 
