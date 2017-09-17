@@ -20,7 +20,108 @@ title: Keyboard Layouts
 
 <br/>
 
+## Planned Eventual Structure For This PAge
 
+- Pre-optimization Considerations
+   - Reasons Why You Should Optimize
+      - Reduced Typing Effort
+      - Reduced Risk of RSI
+      - Increased Typing Speed
+   - Reasons Why You Should Not Optimize
+      - Priorities
+      - You May Type Too Little For Optimization/Switching To Be Worth It
+      - You May Be Better Served By Learning Stenography
+      - The Difficulty of Retraining Your Fingers
+      - QWERTY’s Ubiquitousness
+      - The Animosity of Others
+      - Most Speed Considerations Are Layout Agnostic
+   - People Who Should Always Learn An Optimized Layout
+   - Prior Studies of Keyboard Layouts
+- Optimization Considerations
+   - Differences in Hand Morphology
+      - My Hand Morphology
+   - Differences in Optimization Goals (speed vs ergonomics)
+      - My Optimization Goals (balance)
+   - Differences in Textual Corpus
+      - My Textual Corpus (Latin, Greek, Hebrew, Markdown, Org, LaTeX, programming, number entry)
+   - The Unavoidability of Opportunity Cost: Coming to an “Optimal Compromise”
+   - The Danger of Perfectionism
+- Character Layout Design Factors
+   - Finger Travel Distance
+   - Same Finger
+   - Indirect Same Finger
+   - Shift Same Finger
+   - Hand Alternation
+   - Two Hand Alternation
+   - Inward Motion Frequency
+   - Outward Motion Frequency
+   - Inward/Outward Motion Ratio
+   - Inward Roll Frequency
+   - Outward Roll Frequency
+   - Inward/Outward Roll Ratio
+   - Roll Conformity to Standards Based Upon Hand Physiology and Subjective Analysis
+   - Vertical Hand Shift (“Row Jumping”)
+   - Number of Movements Between Rows
+   - Horizontal Hand Shift (“Column Jumping”)
+   - Number of Movements Between Columns
+   - Finger Load Conformity to Standards Based on Hand Physiology and Subjective Analysis
+   - Hand Balance
+   - Adjacency
+   - Shift Adjacency
+   - Home Position %
+   - Favorable Position %
+   - Index Extension %
+   - Pinky Extension %
+- Weighting of Character Layout Design Variables
+   - Comparison Methods
+      - Layouts: Numerical Scores Based on Percentage-Based Weighting of Variables
+      - Individual Factors: Percent Difference Between Layouts
+      - Individual Factors: Normalization by Best Performing Layout
+   - General Approaches: Specialization vs. Jack of All Trades
+      - Imperfect Knowledge of Variable Importance in General
+      - Imperfect Knowledge of Variable Importance with Respect to Individual Differences
+- Preliminary Design Considerations
+   - Additional Keys vs. Layers
+   - The Most Efficient Methods of Accessing Layers: Leader Keys vs. Modifier Keys
+   - The Most Efficient Keys to Access Layers: Thumb Keys vs. Finger Keys
+   - Key Priority for a simple 40-Key Layout
+   - Key Priority for a Multilayer 40-Key Layout
+   - Subjective Key Weighting for a simple 40-Key Layout
+   - Subjective Key Weighting for a Multilayer 40-Key Layout
+   - Dual Use: Modifiers on the Home Row
+   - Key Scope: Usage Context Driving Availability
+      - Importance
+      - The Accessibility of Control Keys Across Layers
+      - The Accessibility of Modifier Keys Across Layers
+      - Space
+      - Esc
+   - Key Clustering Patterns
+      - Importance
+      - Numbers
+      - Navigation/Editing
+      - Mousing
+   - Grouping and Consistency: Why Computer Optimized Layouts May Not Always Be Superior
+      - A Brief Discussion of Human Cognition
+      - “Chunking”
+      - Key Frequency Considerations
+- Base Layer
+   - Reasons for Including All the Letters on the Base Layer
+   - Reasons for Keeping E off of the Thumbs
+   - A Comparison of Letter Layers
+      - HIEAM as Superior Choice
+   - Determining Which Punctuation Keys Should Go on the Base Layer
+   - Determining How to Lay Out the Punctuation Keys on the Base Layer
+   - Placement of the Space Key
+   - Placement and Usage of the Shift Key
+   - Placement of the hotstring key
+   - Entering Commands
+   - Entering Vim Normal Mode
+   - Entering Specialized Modes (e.g., Greek, Hebrew, logic)
+- Caveats
+   - Character frequencies are based on typing out all words; do not take into account text expansion/briefs
+   - Writing Corpuses Change Over Time
+   - Individual Physiological Factors Change Over Time (e.g., Arthritis)
+   
 ## Pre-optimization Considerations
 
 Before you spend time optimizing the character layout of your keyboard, you need to first make sure that you have a [well-designed keyboard](https://steventammen.com/keyboards/), and that your [work environment is setup properly](https://steventammen.com/work-environment/). Failing to account for these things (which are really more important), no matter how good your character layout ends up being, will put you at a much higher risk for Repetitive Stress Injury (RSI) and Carpal Tunnel Syndrome (CTS).
@@ -66,22 +167,22 @@ Keyboard layout optimization must be taken as an investment of lower marginal be
 
 I would encourage you to go through that link and make sure you have those things in good order before you even consider sinking in time on the keyboard optimization front.
 
-### You May Type Too Little Or Too Much For Keyboard Layout Optimization To Be Worth It
+### You May Type Too Little For Optimization/Switching To Be Worth It
 
-If you already touch type on a layout like QWERTY or Dvorak, and you do not type very much in your profession or hobbies outside of your profession, keyboard layout optimization will never be worth your while. You will never make up the time you spend making a more efficient layout for your use case and learning it because you will never type enough for the advantages to be realized. This will be discussed more extensively in some of the sections below, but suffice it to say that the opportunity cost involved is great enough that most people probably shouldn't bother. There are some very zealous people that try to "sell" the ideas of optimized keyboard layouts far more than what the data allows. They are objectively better. But not worth 40+ hours of practice to switch better
+If you already touch type QWERTY, and you do not type very much in your profession or hobbies outside of your profession, keyboard layout optimization will never be worth your while. This goes doubly for those of you already using a better layout like Dvorak, Colemak, or Workman. You will never make up the time you spend making a more efficient layout for your use case and learning it because you will never type enough for the advantages to be realized. This will be discussed more extensively in some of the sections below, but suffice it to say that the opportunity cost involved is great enough that most people probably shouldn't bother. There are some very zealous people that try to "sell" the idea of optimized keyboard layouts far more than what the data allows. They are objectively better. But not worth 50+ hours of practice to switch better. (Unless you are really worried about RSI).
 
 
-### You May Be Better Served By Stenography
+### You May Be Better Served By Learning Stenography
 
 **TL;DR version:** Steno is unarguably faster than typing, and certain people would be better served learning stenography instead of a more optimized keyboard layout. 
 
-In a vacuum, machine shorthand (aka stenography, commonly abbreviated "steno") is objectively superior to plain typing in just about every way. The world record for machine shorthand transcription is over 360 WPM. Think about that for a second. *Three hundred and sixty words per minute is really stinkin' fast*.
+In a vacuum, machine shorthand (aka stenography, commonly abbreviated "steno") is objectively superior to plain typing in just about every way. The world record for machine shorthand transcription is over 360 WPM. Think about that for a second. *Three hundred and sixty words per minute is mind-blowingly fast*.
 
-If the idea of writing that fast intrigues you, you should read a series of articles --starting [here](https://stenoknight.com/SpeakFingers.html) -- written by Mirabai Knight, the stenographer behind Plover (the only free stenography program). Mirabai argues that there are reasons other than speed for steno (fluency of thought, for example). This is a good series, but strawmans keyboard layouts to an extent. For example, if you automatically space out punctuation and autocapitalize (just like stenography does), come up with shorthand forms for very common words and phrases (just like stenograpy does), and use a system of prefixes, suffixes, and phrase-enders according to personally-determined patterns (just like stenography does), all of the disparities cited in this series shrink significantly.
+If the idea of writing that fast intrigues you, you should read a series of articles -- starting [here](https://stenoknight.com/SpeakFingers.html) -- written by Mirabai Knight, the stenographer behind Plover (the only free stenography program). Mirabai argues that there are reasons other than speed for steno (fluency of thought, for example). This is a good series, but strawmans keyboard layouts to an extent. For example, if you automatically space out punctuation and autocapitalize (just like stenography does), come up with shorthand forms for very common words and phrases (just like stenograpy does), and use a system of prefixes, suffixes, and phrase-enders according to personally-determined patterns (just like stenography does), all of the disparities cited in this series shrink significantly.
 
 In other words, if you start comparing apples-to-apples, while stenography still wins overall since phonetic input will always be faster/more efficient than orthographic input, the differences are not nearly as vast as protrayed here. (Note: I don't think Mirabai is at all at fault for drawing the comparisons -- most people don't use keyboards particularly effectively, so her points stand in the vast majority of cases).
 
-Why am I taking pains to qualify these claims? If stenography is simply better in the abstract, even if not by as much as advertised, why shouldn't everybody learn it? Well, the thing is, learning stenography is more than just learning a different character layout. For example, you have to learn:
+If stenography is simply better in the abstract, even if not by as much as advertised, why shouldn't everybody learn it? Well, the thing is, learning stenography is more than just learning a different character layout. For example, you have to learn:
 
 - How to press multiple keys at the same time (known as "chording"), sometimes with the same finger.
 - How to consciously distinguish phonemes in pronunciation (everyone does this unconsciously, but most people don't have any practice thinking about it).
@@ -93,17 +194,17 @@ Why am I taking pains to qualify these claims? If stenography is simply better i
 
 This isn't even comprehensive. Stenography is an entirely different text-entry paradigm than typing, and for people without any linguistics experience, the majority of the concepts and vocabulary introduced will be things you've never heard of before.
 
-The numbers vary on how long it takes for people to get to high speeds. There are people like [Stanley Sakai](http://stanographer.com/) who got to 225+ WPM in months. The thing is, Stan is also a polyglot (at the time of writing, listing proficiency in English, Korean, Dutch, German, Spanish, American Sign Language, and French on his resume), and already knew pen shorthand (Gregg) when he started machine shorthand. It took Mirabai a year and half to pass her 225's when studying part-time at a brick-and-mortar steno school. Ted Morin, Plover's current lead Dev, has been practicing stenography for [about 3 years](https://www.facebook.com/morinted/posts/10152184434552401) and is currently around 160 WPM. From my understanding, these people are on the fast end of things. A slightly more pessimistic (though balanced, in my view) take on stenography learning times can be seen [here](http://careyryan.com/stenotype-can-we-type-much-faster/). Also have a look at the [most recent statistics related to the Open Steno Project's Community Survey](http://plover.stenoknight.com/2017/08/responses-to-2017-osp-community-survey.html).
+The numbers vary on how long it takes for people to get to high speeds. There are people like [Stanley Sakai](http://stanographer.com/) who got to 225+ WPM in months. The thing is, Stan is also a polyglot (at the time of writing, listing proficiency in English, Korean, Dutch, German, Spanish, American Sign Language, and French on his resume), already knew pen shorthand (Gregg) when he started machine shorthand, and majored in linguistics in college. It took Mirabai a year and half to pass her 225's when studying part-time at a brick-and-mortar steno school. Ted Morin, Plover's current lead Dev, has been practicing stenography for [about 3 years](https://www.facebook.com/morinted/posts/10152184434552401) and is currently around 160 WPM. From my understanding, these people are on the fast end of things. A slightly more pessimistic (though balanced, in my view) take on stenography learning times can be seen [here](http://careyryan.com/stenotype-can-we-type-much-faster/). Also have a look at the [most recent statistics related to the Open Steno Project's Community Survey](http://plover.stenoknight.com/2017/08/responses-to-2017-osp-community-survey.html).
 
-So why am I including this section? Because if you are in a field that requires really fast input, there is nothing better than stenography. Such fields might include:
+So why am I including this section? Because if you are in a field that could benefit from really fast input, there is nothing better than stenography. Such fields might include:
 
 - Transcriptionists (of any type)
-- Fields that require frequent "conversational" communication: emails, chatrooms, IRC, etc. Steno shines in conversational contexts because we can easily talk at 200+ WPM -- there are no mental speed bottlenecks in these contexts, so anything slower than speech will be a speed bottleneck.
+- Fields that require frequent "conversational" communication: emails, chatrooms, IRC, etc. Steno shines in conversational contexts because we can easily talk at 200+ WPM -- there are no mental speed restrictions in these contexts, so any input method slower than speech will be a speed bottleneck.
 - Traditional steno fields like court-reporting, captioning, CART, etc.
 
 For basically everyone else, it's not worth learning stenography from a practical point of view (marginal benefit will never exceed marginal cost). I break here with Mirabai on the idea of writers and programmers learning stenography. Unless the majority of your writing is conversational (as mentioned above) or borders on conversational (such as writing character dialogue in novels), you will never be thinking at 200 WPM since you'll be considering word selection, connotation, tone, grammar, style, flow, etc. I also humbly submit that the idea that programmers think at 200 WPM is preposterous. I am studying computer science full time and am yet to come across someone who could even write pseudocode at anything approaching 200 WPM.
 
-Writers and programmers would of course be able to get their thoughts on screen faster with stenography, theoretically with less disruption to the mental flow of ideas. Here's a good quote from Mirabia's series:
+Writers and programmers would of course be able to get their thoughts on screen faster with stenography, theoretically with less disruption to the mental flow of ideas. Here's a good quote from Mirabai's series:
 
 > I'm willing to bet that the act of qwerty typing slows down the thoughts of many people. When I type on a qwerty keyboard, I feel my mind splitting along four consecutive but overlapping tracks: One, the word I want to write. Two, the way it's spelled. I'm a pretty good speller, but English is weird enough that the process is never completely automatic. Three, the series of five to ten finger motions it takes to type it. Four, the error checking mechanism that iterates over the first three and confirms that the correct word choice, orthography, and letter position have appeared onscreen. Usually I'll have already started typing the next word when I spot a spelling or typing error in the previous one, and by the time I've pressed backspace ten times to correct two transposed letters, my train of thought will have gotten all tangled up and I'll have to pause for a second to remember what I was writing. Even when I try to pace myself and type more slowly than usual, I'll make an error like this every few sentences, and my flow of composition will have been interrupted half a dozen times by end of the paragraph. 
 
@@ -111,11 +212,11 @@ I am not aware of any evidence that meets my baseline standard (methodologically
 
 The decision to utilize stenography or ignore it is obviously a personal one. However, the community is super friendly and willing to answer questions. I recommend taking a look at the [Plover Google Group](https://groups.google.com/forum/#!forum/ploversteno) and [Discord Channel](https://discordapp.com/channels/136953735426473984/136953735426473984) to talk to individuals into steno. I have been involved in both communities for a couple years now, and have stuck around even after I stopped actively trying to learn stenography.
 
+One further note here: if you pick up steno as a hobby to have fun and relax, it will pay dividends better than any other hobby I can think of, and it becomes worth it. The marginal cost/marginal benefit number crunching above presupposes doing steno for strictly utilitarian purposes rather than for fun.
+
 ### The Difficulty of Retraining Your Fingers
 
-To put it simply, if you are already at 70ish WPM (or some other reasonably fast speed) touch-typing QWERTY, and aren’t facing or likely to face RSI, you probably shouldn't bother switching. Optimized layouts (even the bad ones, so to speak), are very much more efficient than QWERTY, and they drastically reduce the amount of effort it takes to type. But there will be an adjustment period of weeks not days, and recovering your old speed will take time. This goes doubly for those of you already using a better layout like Dvorak, Colemak, or Workman. I promise you that you can do better than any one of those three, but the gains will not be earth-shattering.
-
-If the switch were easy or effortless, QWERTY would have ceased to exist long ago. As it is, however, you will be reduced to single digit WPMs for the first little bit, and your fingers will disobey you — you will have to rewire the neural connections in your brain that correspond to what we call “muscle memory.” If you have any sort of time-sensitive full-time occupation that forces you maintain your QWERTY skills (i.e., you can’t afford to go cold turkey and immerse yourself), it’s even harder because you’ll experience [proactive interference](https://en.wikipedia.org/wiki/Interference_theory#Proactive_interference) from already having QWERTY in muscle memory. That is to say, instead of “unlearning” QWERTY when you learn your other layout (replacing the old muscle memory with new muscle memory), the old muscle memory that you need to keep around will inhibit effective acquisition of the new muscle memory.
+The adjustment period whe switching from one layout to another will be on the order of weeks not days, and recovering your old speed will take time. If the switch were easy or effortless, QWERTY would have ceased to exist long ago. As it is, however, you will be reduced to single digit WPMs for the first little bit, and your fingers will disobey you — you will have to rewire the neural connections in your brain that correspond to what we call “muscle memory.” If you have any sort of time-sensitive full-time occupation that forces you maintain your QWERTY skills (i.e., you can’t afford to go cold turkey and immerse yourself), it’s even harder because you’ll experience [proactive interference](https://en.wikipedia.org/wiki/Interference_theory#Proactive_interference) from already having QWERTY in muscle memory. That is to say, instead of “unlearning” QWERTY when you learn your other layout (replacing the old muscle memory with new muscle memory), the old muscle memory that you need to keep around will inhibit effective acquisition of the new muscle memory.
 
 Depending on your dedication and consistency in practice, getting back to your previous speed can take anywhere from a few weeks to a few months. Poor discipline and lack of self-control can even push this from “difficult” to “impossible." I would suggest that you not waste your time if you are not willing or able to put in the work necessary to be successful.
 
@@ -145,7 +246,7 @@ There is no magic here. Optimizing your layout won’t immediately make you a fa
 
 I want to here emphasize that not all practice is equal. Practice does not make perfect. Practice makes permanent (or, alternatively, “perfect practice makes perfect”). Because we tend to type a great deal in our day to day lives, there is a danger of just going on autopilot and plateauing. Whether or not you decide to continue on in this process, I can recommend that you pick up typing not as something one merely does, but as something one studies and perfects over time.
 
-Practice the most common digraphs and trigraphs in English (or your native language if not English). Lists can be found [here](http://scottbryce.com/cryptograms/stats.htm), [here](http://www.cse.unt.edu/~mgomathi/teaching/2009/csce5550/Lectures/Cipher-Example%202.pdf), and elsewhere through a simple Google search. If you consciously train yourself to type *sequences* rather than *letters*, your speed will increase at a much faster rate.
+Practice the most common digrams and trigrams in English (or your native language if not English). Lists can be found [here](http://scottbryce.com/cryptograms/stats.htm), [here](http://www.cse.unt.edu/~mgomathi/teaching/2009/csce5550/Lectures/Cipher-Example%202.pdf), and elsewhere through a simple Google search. If you consciously train yourself to type *sequences* rather than *letters*, your speed will increase at a much faster rate.
 
 To extend this concept even further, you should drill with [this list](http://norvig.com/ngrams/count_1w.txt) or [this list](https://www.wordfrequency.info/free.asp?s=y), which have the most common words in English listed out by frequency. It does you little good to type uncommon or unusual words at a high speed because they compose a small portion of what you type (e.g., typing “zyzzyva” fast does you no good because genuses of weevils don’t come up in normal conversation). Getting very fast at words like “the”, “and”, “that” and so forth, however, will dramatically increase your speed because these words compose a large percentage of everything we type.
 
@@ -155,7 +256,7 @@ If you haven't used [Amphetype](https://code.google.com/archive/p/amphetype/) be
 
 A common mistake many people make when learning skills is treating all practice as equally helpful. This is objectively false. As anyone who has ever learned a musical instrument can tell you, you improve much faster if you practice the hard sections in a piece rather than playing it all the way through a bunch of times. (Even though this is much less fun, you improve more). I call this "targeting weaknesses." If you target your weaknesses, you may improve many times faster than someone who thinks that all practice is basically the same.
 
-(Note: this same principle carries over into knowledge acquisition as well -- study what you don't know, not what you do.)
+(Note: this same principle carries over into knowledge acquisition as well -- study what you don't know, not what you do).
 
 #### Text Expansion
 
@@ -165,7 +266,7 @@ Just like normal typing, you’ll need to practice this intentionally to get res
 
 #### Number and Symbol Layers
 
-You can create layers for numbers and/or symbols while still using QWERTY for letters. These additional layers have nothing to do with letter layouts, but will still increase your speed -- especially if you are a programmer or deal with information that includes lots of numbers (such as an accountant).
+You can create layers for numbers and/or symbols while still using QWERTY for letters. These additional layers have nothing to do with letter layouts, but will still increase your speed -- especially if you are a programmer or deal with information that includes lots of numbers.
 
 #### Conclusion
 
@@ -201,9 +302,9 @@ There are no doubt other sites out there that discuss these things. I certainly 
 
 ### Setting up
 
-The first step to designing a base layer is getting a letter layout. There are many different options that have been created over the years, and several optimizers that have been designed to create them (CarpalX, AdNW, MTGAP). I will be using the statistics from the AdNW C++ optimizer to compare layouts since I believe that it is the most thorough program available at the current time, and it is also highly adjustable.
+The first step to designing a base layer is getting a letter layout. There are many different options that have been created over the years, and several optimizers that have been designed to create them (CarpalX, AdNW, MTGAP). I will be using the statistics from the AdNW C++ optimizer to compare layouts since I believe that it is the most thorough and adjustable program available at the current time.
 
-To be able to run the AdNW optimizer, you’ll need to compile the C++ source. I used [MinGW](http://mingw.org/), which is a Windows port of the GCC (GNU Compiler Collection, for C, C++, ADA, etc.). You’ll need to be a little bit familiar with the command line (e.g., changing directories), but it’s not too bad. I knew virtually nothing about compilers or running commands and figured out how to do it via Google and trial-and-error in like 20 minutes. I’ll try and get around posting a step-by-step guide at some point. (At least for Windows).
+To be able to run the AdNW optimizer, you’ll need to compile the C++ source. I used [MinGW](http://mingw.org/), which is a Windows port of the GCC (GNU Compiler Collection, for C, C++, ADA, etc.). You’ll need to be a little bit familiar with the command line (e.g., changing directories), but it’s not too bad. I knew virtually nothing about compilers or running commands and figured out how to do it via Google and trial-and-error in like 20 minutes. I’ll try and get around to posting a step-by-step guide at some point. (At least for Windows).
 
 Once you have opt.cc compiled into opt.exe, it’s pretty easy to compare layouts according to AdNW’s digram and trigram statistics. However, I’d recommend you read through the English section of the instructions for the optimizer (Anleitung.pdf) anyway to get some of the theoretical background behind how optimization and comparison proceeds.
 
@@ -213,15 +314,15 @@ Before I compared the letter layouts, I changed the character set in standard.cf
 
 My weighting is based off of the subjective impression I get from typing, as well as some common sense. For example:
 
-- Given the fact that rows on keyboards are relatively straight (to allow for a relatively relaxed hand position and avoidance of stretching for top and bottom row keys) -- even for keyboards like the Kinesis Advantage that I type on -- the bottom row is easier to type for the shorter fingers (index, and pinky) while the top row is easier to type for the longer fingers (middle and ring). In what experimentation I've done, staggering the columns to exactly match a neutral hand position is actually a poor choice because it creates much larger inter-finger distances for keys on different rows, particularly if one key is on the top "row" while the other key is on the bottom "row." In other words, while the marginal benefit of a slighlty more ergonomic neutral position is small to moderate, the marginal cost of complicating digrams and trigrams on the same hand is much larger. The amount of column stagger on the Kinesis Advantage seems quite good to me -- it makes normal typing slightly more comfortable than on straight ortholinear keyboards, but does not interfere with same-hand digrams and trigrams very much. The differential key heights (e.g., the middle finger column is lower down than the ring finger column) on concave keyboards like this are a more effective way to deal with the different lengths of our fingers, in my opinion, since differential key heights don't mess with inter-row sequences nearly as much (at least from what limited testing I've done).
-- Finger flexion and extension is inherently easier physiologically than lateral movement (think clenching and unclenching a fist vs. splaying your fingers to high five someone). However, in the clase of the index and pinky fingers (the ones with possible lateral movement), I personally find pure lateral movement easier than extension (i.e., top row index and pinky keys). Your comfort level will probably depend on how stubby you pinky and index fingers are in comparison to your other fingers.
+- Given the fact that rows on keyboards are relatively straight (to allow for a mostly relaxed hand position while avoiding excessive stretching for top and bottom row keys) -- even for keyboards like the Kinesis Advantage -- the bottom row is easier to type for the shorter fingers (index, and pinky) while the top row is easier to type for the longer fingers (middle and ring). In what experimentation I've done, staggering the columns to exactly match a neutral hand position is actually a poor choice because it creates much larger inter-finger distances for keys on different rows, particularly if one key is on the top "row" while the other key is on the bottom "row." In other words, while the marginal benefit of a slighlty more ergonomic neutral position is small to moderate, the marginal cost of complicating digrams and trigrams on the same hand is much larger. The amount of column stagger on the Kinesis Advantage seems quite good to me -- it makes normal typing slightly more comfortable than on straight ortholinear keyboards, but does not interfere with same-hand digrams and trigrams very much. The differential key heights (e.g., the middle finger column is lower down than the ring finger column) on concave keyboards like the Kinesis Advantage are a more effective way to deal with the different lengths of our fingers, in my opinion, since differential key heights don't mess with inter-row sequences nearly as much (at least from what limited testing I've done).
+- Finger flexion and extension is inherently easier physiologically than lateral movement (think clenching and unclenching a fist vs. splaying your fingers out). However, in the clase of the index and pinky fingers (the ones with possible lateral movement), I personally find pure lateral movement easier than extension (i.e., top row index and pinky keys). Your comfort level will probably depend on how stubby you pinky and index fingers are in comparison to your other fingers.
 - Keys that require lateral movement also disrupt the overall hand position more than flexion and extension. In other words, it is easier to flex and extend a finger independent from other fingers than it is is to move it laterally... *so long as your fingers are long enough to make the flexion/extension*. Lateral index movement should be penalized over bottom row flexion, and lateral pinky movement should be penalized to a proportionally greater extent since the pinky is less independent from other fingers (particularly the ring finger) in its movement.
 - Lateral movement combined with flexion/extension is harder than either type of movement alone, and the overall travel distance is greater. (You can prove this geometrically by assuming square keycaps and calculating the difference between a side length and the diagonal of the square). These keys should be punished more heavily than lateral keys alone. (Especially for the pinky).
 - It is easier to move the thumb separately from the other fingers -- hence the lower weight on the big thumb key that requires movement. The third thumb key on either side -- used in my layout as the key to enter Normal mode for Vim -- moves the whole hand upwards some, in much the same way that top-row pinky keys do. Thumb keys after the first should require movement *outward* not *inward* -- having a tucked in thumb makes typing much more difficult, but outward thumb movement (assuming it is not too substantial) is quite comfortable.
 
-I'm wary of putting down any hard and fast rules without some rigorous scientific studies on the ergonomics/effortfulness of typing (HINT HINT academics). I think the logic I have put forward makes sense (and is line with my own personal experience), but other people may disagree. Feel free to read contrary views and run the optimization with a different weighting. (This ability to change optimization parameters is one of the reasons I favor AdNW as a program).
+I'm wary of putting down any hard and fast rules without some rigorous scientific studies on the ergonomics/effortfulness of typing (HINT HINT academics). I think the logic I have put forward makes sense (and it is line with my own personal experience), but other people may disagree. Feel free to read contrary views and run the optimization with a different weighting. (This ability to change optimization parameters is one of the reasons I favor AdNW as a program).
 
-Finally, I also tweaked AdNW's penalities regarding adjacent fingers. In the stock configuration, thumb-index "adjacency" is not penalized at all, index-middle adjacency is slightly penalized, middle-ring adjacency is slightly more penalized, and ring-pinky adjacency is heavily penalized. I agree with everything except the penalty regarding index-middle adjacency -- in my opinion, there should not be a penalty on this adjacency. I find that I do not have problems with these two fingers being adjacent at all -- unlike the other combinations which I find somewhat harder to type without errors (particularly ring-pinky). It's worth pointing out that some layouts like Colemak favor adjacency rather than penalizing it -- the logic being that it is easier to type two keys in one fluid motion on one hand than one key on either hand. The thing is, you can do this without the fingers being right next to each other. Fingers next to each are "more connected" (to use an extremely unscientific phrase), and therefore more likely to interfere with each other's movements. Thus, in my opinion, it is best to optimize for so-called "rolls" that are not adjacent (excepting index-middle). Michael (the creator of MTGAP) has [an interesting page up](https://mathematicalmulticore.wordpress.com/2010/01/09/should-a-keyboard-layout-optimize-for-hand-alternation-or-for-rolls/) regarding this idea, and I highly recommend you read it.
+Finally, I also tweaked AdNW's penalities regarding adjacent fingers. In the stock configuration, thumb-index "adjacency" is not penalized at all, index-middle adjacency is slightly penalized, middle-ring adjacency is slightly more penalized, and ring-pinky adjacency is heavily penalized. I agree with everything except the penalty regarding index-middle adjacency -- in my opinion, there should not be a penalty on this adjacency. I find that I do not have problems with these two fingers being adjacent at all -- unlike the other combinations which I find somewhat harder to type without errors (particularly ring-pinky). It's worth pointing out that some layouts like Colemak favor adjacency rather than penalizing it -- the logic being that it is easier to type two keys in one fluid motion on one hand than one key on either hand. The thing is, you can do this without the fingers being right next to each other. Fingers next to each are "more connected" (to use an extremely unscientific phrase), and therefore more likely to interfere with each other's movements. Thus, in my opinion, it is best to optimize for so-called "rolls" that are not adjacent (excepting index-middle).
 
 Here is a link to the config file I used during the optimization below. As discussed above, it has been modified from the original with respect to character set, individual key effort, and adjacency penalties.
 
@@ -230,7 +331,6 @@ Here is a link to the config file I used during the optimization below. As discu
 After typing in most of the optimized layouts I could find and formatting them the way that AdNW wants (with punctuation replaced with foreign characters to avoid punctution differences interfering), I arrived at the following list:
 
 ```
-
 kuäöüvgcljfhieaodtrnsëxyïßqbpwmz	AdNW
 qläpöüfudkëarenbgsitoïzwßhjvcymx	Arensito
 qwfgjypuläöasetdhniorüzxcvbkmëïß	Asset
@@ -246,21 +346,17 @@ qwdfkjurläöasetgyniohüzxcvbpmëïß	Norman
 qgmlwbyuväödstnriaeohüzxcfjkpëïß	QGMLWB
 qwertyuiopäasdfghjklöüzxcvbnmëïß	QWERTY
 qdrwbjfupäöashtgyneoiüzxmcvklëïß	Workman
-
 ```
 
 You could certainly find other layouts to compare if you like, but I think that this is representative of most (all?) of the layouts with any sort of real following, as well as most of the varying design philosophies. Here is the command I used to run the comparison (with a redirection operator to save the results in a text file):
 
 ```
-
 opt -2 englisch.txt -3 englisch.txt -r bsptast.txt > layout_comparison.txt
-
 ```
 
 And here are the results (stored in layout\_comparison.txt):
 
 ```
-
 AdNW             285.318 total effort   214.073 positional effort    left right
                    0.937 same finger rp  16.792 shift same finger top  3.4 12.3
   kuäöü vgcljf    71.408 hand alternat.  22.772 shift hand alter. mid 39.3 32.4
@@ -409,12 +505,11 @@ Workman          303.174 total effort   190.144 positional effort    left right
                   18.203 no hand altern. 29.992 two hand altern.
                    9.903 seesaw           5.456 indir same finger
                   9.2 10.7 13.5 18.1 --.- --.- 15.6 14.6  9.2  9.1 Sh  1.0  1.9
-
 ```
 
 As you can see, somewhat unsurprisingly, AdNW and Buteck (the layouts created with this optimizer) did very well. Colemak and HIEAMSTRN (which I shall henceforth call HIEAM because it's shorter) also did quite well.
 
-Rather than fiddling around with the weighting of parameters in the config file (which would change how parameters are combined, and therefore the total score for each layout), I find it easier to just compare the layouts on the various parameters by looking at them. By doing this, it is possible to see that HIEAM is comparable to the layouts with the lowest same-finger (AdNW and Colemak, for example), destroys all the other layouts on inward/outward ratio, is comparable to the layouts with the highest hand alternation (AdNW and Dvorak, for example), has a low score for see-saw, and has a relatively high percentage of inward and outward motions ("rolls") compared to many of the other latouts with low-same finger and high-alternation. When I get the time I'll get around to explaining why all this makes HIEAM the best choice, but for now, you can think of it as the best because it excels across all the factors generally thought to be relevant rather than being the best in only one or two areas.
+Rather than fiddling around with the weighting of parameters in the config file (which would change how parameters are combined, and therefore the total score for each layout), I find it easier to just compare the layouts on the various parameters by looking at them. By doing this, it is possible to see that HIEAM is comparable to the layouts with the lowest same-finger (AdNW and Colemak, for example), destroys all the other layouts on inward/outward ratio, is comparable to the layouts with the highest hand alternation (AdNW and Dvorak, for example), has a low score for see-saw, and has a relatively high percentage of inward and outward motions ("rolls"). (As for why this last thing is good, see [here](https://mathematicalmulticore.wordpress.com/2010/01/09/should-a-keyboard-layout-optimize-for-hand-alternation-or-for-rolls/). It seems that having *both* alternation and rolls provides the fastest overall speed, rather than just one or the other). When I have the time I'll get around to explaining why all this makes HIEAM the best choice, but for now, you can think of it as the best because it excels across all the factors generally thought to be relevant rather than being the best in only one or two areas and lacking in others.
 
 ### Filling In Punctuation
 
@@ -591,7 +686,6 @@ f.close()
 And [here is what it outputs](https://steventammen.com/assets/files/keyboard-layouts/LetterFreq.csv) given my corpus (your text editor will have to support Unicode to see everything properly):
 
 ```
-
 e,803528
 t,598843
 o,495798
@@ -677,10 +771,9 @@ _,52
 },2
 |,1
 ·,1
-
 ```
 
-Due to the nature of the particular corpus I chose (which has a lot of references to Bible verses), I chose to separate out the semicolons, dashes, and colons associated with Bible verse references (demarcated above as v; v- and v:, respectively), since they will be handled separately with the numbers.
+Due to the nature of the particular corpus I chose (which has a lot of references to Bible verses), I chose to separate out the semicolons, dashes, and colons associated with Bible verse references (demarcated above as v; v- and v:, respectively), since it makes the most sense to treat them separately with the numbers.
 
 For the base layer, we are only interested in the top 6 punctuation characters. While some of the numbers have a higher frequency (at least in this corpus) than the punctuation characters, there are good reasons for keeping the numbers together, which will be discussed below. If you combine the opening and closing smartquotes with the total for normal quotes, the six most frequent non-letter and non-number characters, in order of descending frequency, are:
 
@@ -691,14 +784,12 @@ For the base layer, we are only interested in the top 6 punctuation characters. 
 5. open parenthesis
 6. apostrophe
 
-After these six come the colon, square brackets, and so forth. These will appear on a different layer. The frequency differences are large enough that they are not likely to be due to statistical artifact. This order is markedly different from what the author of the MTGAP algorithm has come up with for prose ([see here](http://mtgap.bilfo.com/theory-of-letter-frequency.html)). He no doubt used a much larger overall corpus to generate his order, but due to to the similarity of my writing style to the author of the present corpus (for example, a tendency towards favoring complex multi-clause sentences over simple sentences, using lots of parenthetical clauses for explanatory purposes, enclosing new terms, words/phrases being discussed, and neologisms in double quotes, etc.), I feel confident in saying that the above order is a closer match to my particular writing style. If you want this exercise to be accurate *for you*, you will have to analyze your own writing and try to find a corpus that matches it well. Using pre-generated orders like those linked to works well if your writing is very normal -- I write more formally in "casual" discourse than almost everyone else I have met, and use much more complicated language and sentence structure than most people, so a "one size fits most" approach is a poor match *for me specifically*. As the saying goes, YMMV.
+After these six come the colon, square brackets, and so forth. These will appear on a different layer. The frequency differences are large enough that they are not likely to be due to statistical artifact. This order is markedly different from what the author of the MTGAP algorithm has come up with for prose ([see here](http://mtgap.bilfo.com/theory-of-letter-frequency.html)). He no doubt used a much larger overall corpus to generate his order, but due to to the similarity of my writing style to the author of the present corpus (for example, a tendency towards favoring complex multi-clause sentences over simple sentences, using lots of parenthetical clauses for explanatory purposes, enclosing new terms, words/phrases being discussed, and neologisms in double quotes, etc.), I feel confident in saying that the above order is a closer match to my particular writing style. If you want this exercise to be accurate *for you*, you will have to analyze your own writing and try to find a corpus that matches it well. Using pre-generated orders like those linked to works well if your writing is very normal -- I write more formally in "casual" discourse than almost everyone else I have met, and use much more complicated language and sentence structure than most people, so a "one size fits most" approach is a poor match *for me specifically*. As the saying goes, your mileage may vary.
 
-After determining these 6 characters, I created 720 layouts to compare all the possible arrangements of them on the six keys available (six factorial, a permutation). I changed the character set in the config file to include the punctuaton (rather than the foreign characters used above), changed the layouts being compared, and once again used a command to store the output in a file:
+After determining these 6 characters, I used a permutation generator to create 720 (six factorial) layouts to compare all the possible arrangements of them on the six keys available. I changed the character set in the config file to include the punctuaton (rather than the foreign characters used above), changed the layouts being compared, and once again used a command to store the output in a file:
 
 ```
-
-opt -2 englisch.txt -3 englisch.txt -r bsptast.txt >hieam_punc.txt
-
+opt -2 englisch.txt -3 englisch.txt -r bsptast.txt > hieam_punc.txt
 ```
 
 At some point I'll get around to posting the spreadsheet where I sorted the all layouts, but for now, be content with just the 4 best:
@@ -741,9 +832,9 @@ HIEAM270         295.500 total effort   214.979 positional effort    left right
                   8.2  8.9 18.6 13.0 --.- --.- 19.0 11.5  9.9 10.8 Sh  1.8  1.0
 ```
 
-While these 4 are about the same, they get noticeably worse from here (more same-finger, etc.). Since the ones with both parentheses on the bottom are better, the decision on which layout to use will mostly come down to how much you use commas compared to how much you use periods (a matter of frequency). Commas and periods are both common in coding, and used about equally as frequently (according to the [MTGAP orders](http://mtgap.bilfo.com/theory-of-letter-frequency.html) -- it really depends what language you are using, since Java uses periods more and C uses commas more, for example). People who use more complex sentence structure will tend to use commas more, while those who use simpler sentence structure will tend to use periods more. However, people that use a variety of punctuation (including semicolons, parentheses, em dashes, and colons) in addition to commas will probably end up using periods more even if they use complex sentence structure. (I fall into this last category -- I use complex sentence structure, but use enough alternate punctuation that the consistency of having a period every sentence overpowers the cases where a sentence has lots of commas).
+While these 4 are about the same, they get noticeably worse from here (more same-finger, etc.). Since the ones with both parentheses on the bottom are better, the decision on which layout to use will mostly come down to how much you use commas compared to how much you use periods (a matter of frequency). Commas and periods are both common in coding, and used about equally as frequently (according to the [MTGAP orders](http://mtgap.bilfo.com/theory-of-letter-frequency.html) -- it really depends what language you are using, since Java uses periods more and C uses commas more, for example). People who use more complex sentence structure will tend to use commas more, while those who use simpler sentence structure will tend to use periods more. However, people that use a variety of punctuation (including semicolons, parentheses, em dashes, and colons) in addition to commas will probably end up using periods more even if they use complex sentence structure. (I fall into this last category -- I use complex sentence structure, but use enough alternate punctuation that the consistency of having a period every sentence probably overpowers the cases where sentences have lots of commas for apposition, etc.).
 
-People who do a lot of numerical data entry will want the period in a more favorable position. If you use either character in hotstrings, this will also have an effect. As will be discussed below, I use the period in place of the semicolon when entering Bible verse references via hotstring, so *for me*, it makes a lot more sense to have the period in the favorable position -- all the v; usage will fall under the period, meaning that "period use" (i.e. use of the key in total rather than the character) will far outweigh "comma use." 
+People who do a lot of numerical data entry will want the period in a more favorable position. If you use either character in hotstrings, this will also have an effect. As will be discussed below, I use the period in place of the semicolon when entering Bible verse references via hotstring, so *for me*, it makes a lot more sense to have the period in the favorable position -- all the v; usage will fall under the period, meaning that "period use" (i.e., use of the key in total rather than the character) will far outweigh "comma use." 
 
 If you hadn't picked up on it yet, these things vary by individual, so what works best for me may not work best for you. Part of the reason why I'm going through all the effort of explaining how I went about my own layout design is to show how it can be done on an individual basis.
 
@@ -752,181 +843,6 @@ If you hadn't picked up on it yet, these things vary by individual, so what work
 - Add pictures and files above, proofread, polish
 - Transfer in progress thoughts (diacritics, use of emphasis, etc.) onto this page
 - Work on below
-
-## Outline of Optimization
-
-### Introduction and Explanation of Methodology
-
-I have, in some form or another, been working on optimizing my keyboard layout for a couple years now. This is not to say I've spent a great deal of total time on it, or that you should automatically listen to me. There are plenty people much smarter than I who have worked on the problem and come up with different solutions. But I hope by documenting the process it might be made less mysterious overall, especially for people who haven't ever compiled C++ code from a shell instance and think that a genetic algorithm is something related to DNA.
-
-In this section I will first go over each of the relevant factors in optimization, then discuss how we ought to go about weighting them (which is really the tricky part). Finally, I will go over some of the preliminary design considerations that must be taken into account when designing a layout.
-
-- Optimization Considerations
-   - Differences in Hand Morphology
-      - My Hand Morphology
-   - Differences in Optimization Goals (speed vs ergonomics)
-      - My Optimization Goals (balance)
-   - Differences in Textual Corpus
-      - My Textual Corpus (Latin, Greek, Hebrew, German, French, Italian, Spanish, Markdown, Org, LaTeX, programming, number entry)
-   - The Unavoidability of Opportunity Cost: Coming to an “Optimal Compromise”
-   - The Danger of Perfectionism
-- Character Layout Design Factors
-   - Finger Travel Distance
-   - Same Finger
-   - Indirect Same Finger
-   - Shift Same Finger
-   - Hand Alternation
-   - Two Hand Alternation
-   - Inward Motion Frequency
-   - Outward Motion Frequency
-   - Inward/Outward Motion Ratio
-   - Inward Roll Frequency
-   - Outward Roll Frequency
-   - Inward/Outward Roll Ratio
-   - Roll Conformity to Standards Based Upon Hand Physiology and Subjective Analysis
-   - Vertical Hand Shift (“Row Jumping”)
-   - Number of Movements Between Rows
-   - Horizontal Hand Shift (“Column Jumping”)
-   - Number of Movements Between Columns
-   - Finger Load Conformity to Standards Based on Hand Physiology and Subjective Analysis
-   - Hand Balance
-   - Adjacency
-   - Shift Adjacency
-   - Home Position %
-   - Favorable Position %
-   - Index Extension %
-   - Pinky Extension %
-- Weighting of Character Layout Design Variables
-   - Comparison Methods
-      - Layouts: Numerical Scores Based on Percentage-Based Weighting of Variables
-      - Individual Factors: Percent Difference Between Layouts
-      - Individual Factors: Normalization by Best Performing Layout
-   - General Approaches: Specialization vs. Jack of All Trades
-      - Imperfect Knowledge of Variable Importance in General
-      - Imperfect Knowledge of Variable Importance with Respect to Individual Differences
-- Preliminary Design Considerations
-   - Additional Keys vs. Layers
-   - The Most Efficient Methods of Accessing Layers: Leader Keys vs. Modifier Keys
-   - The Most Efficient Keys to Access Layers: Thumb Keys vs. Finger Keys
-   - Key Priority for a simple 40-Key Layout
-   - Key Priority for a Multilayer 40-Key Layout
-   - Subjective Key Weighting for a simple 40-Key Layout
-   - Subjective Key Weighting for a Multilayer 40-Key Layout
-   - Dual Use: Modifiers on the Home Row
-   - Key Scope: Usage Context Driving Availability
-      - Importance
-      - The Accessibility of Control Keys Across Layers
-      - The Accessibility of Modifier Keys Across Layers
-      - Space
-      - Esc
-   - Key Clustering Patterns
-      - Importance
-      - Numbers
-      - Navigation/Editing
-      - Mousing
-   - Grouping and Consistency: Why Computer Optimized Layouts May Not Always Be Superior
-      - A Brief Discussion of Human Cognition
-      - “Chunking”
-      - Key Frequency Considerations
-- Base Layer
-   - Reasons for Including All the Letters on the Base Layer
-   - Reasons for Keeping E off of the Thumbs
-   - A Comparison of Letter Layers
-      - HIEAM as Superior Choice
-   - Determining Which Punctuation Keys Should Go on the Base Layer
-   - Determining How to Lay Out the Punctuation Keys on the Base Layer
-   - Placement of the Space Key
-   - Placement and Usage of the Shift Key
-   - Using , for Entering Navigation/Editing Mode
-      - {,} Alone Toggles on Navigation/Editing Mode
-      - {,}{Spc} Acts as Normal
-      - {, down}{Spc}{, up} Enters Vim Normal Mode With Spacemacs Leader Key Toggled
-   - Using ) for Entering Commands
-      - {)} Alone Focuses Command Box
-      - Command structure: {)}{letters/numbers}{Spc/Enter/Tab etc.}
-      - {)}{Spc} Acts as Normal
-   - Using . for Entering Greek/Hebrew/etc. Mode
-      - Either Greek or Hebrew is active mode: switch with ) commands
-      - {.} Alone Toggles on Greek/Hebrew Mode (Whichever is active)
-      - {.}{Spc} Acts as Normal
-      - Hbr and grk hotstrings (hbr —> “Hebrew: ”) activate respective mode: used when listing what a word is in both languages regardless of current active mode on . key
-- TODO Explain Nav Layer
-- TODO Explain Greek Layer
-- TODO Explain Shift Layers
-- TODO Explain Number Layers
-- TODO Explain Code Layer
-- TODO Explain Symbol Layer
-- TODO Explain Function Layer
-- TODO Explain Media Layer
-- Caveats
-   - Character frequencies based on typing out all words; do not take into account text expansion/briefs
-   - Writing Corpuses Change Over Time
-   - Individual Physiological Factors Change Over Time (e.g., Arthritis)
-
-## Punctuation results from ADNW Optimizer Evaluation
-
-```
-
-HIEAM            278.108 total effort   189.249 positional effort    left right
-                   1.118 same finger rp  19.943 shift same finger top 12.9 13.4
-  byou' kdclpq    70.243 hand alternat.  26.526 shift hand alter. mid 32.3 31.0
-  hiea. mtsrnv     3.240 inward/outward  26.086 inward or outward bot  3.5  6.9
-  x)",( wgfjz     10.621 adjacent         9.099 shift adjacent    sum 48.7 51.3
-       ┬á           4.421 no hand altern. 43.359 two hand altern.
-                   2.661 seesaw           6.645 indir same finger
-                  8.2  8.6 18.9 13.0 --.- --.- 19.0 11.5  9.9 10.8 Sh  1.8  1.0
-
-
-CommaMid         278.146 total effort   189.254 positional effort    left right
-                   1.118 same finger rp  19.943 shift same finger top 12.9 13.4
-  byou' kdclpq    70.243 hand alternat.  26.526 shift hand alter. mid 32.3 31.0
-  hiea, mtsrnv     3.240 inward/outward  26.086 inward or outward bot  3.5  6.9
-  x)".( wgfjz     10.621 adjacent         9.099 shift adjacent    sum 48.7 51.3
-       ┬á           4.421 no hand altern. 43.359 two hand altern.
-                   2.661 seesaw           6.645 indir same finger
-                  8.2  8.6 18.9 13.0 --.- --.- 19.0 11.5  9.9 10.8 Sh  1.8  1.0
-
-
-ParensPreferred  279.941 total effort   189.530 positional effort    left right
-                   1.242 same finger rp  19.943 shift same finger top 12.9 13.4
-  byou' kdclpq    70.243 hand alternat.  26.526 shift hand alter. mid 32.3 31.0
-  hiea. mtsrnv     3.310 inward/outward  25.962 inward or outward bot  3.5  6.9
-  x()," wgfjz     10.502 adjacent         9.082 shift adjacent    sum 48.7 51.3
-       ┬á           4.421 no hand altern. 43.359 two hand altern.
-                   2.609 seesaw           6.627 indir same finger
-                  8.2  8.6 18.6 13.3 --.- --.- 19.0 11.5  9.9 10.8 Sh  1.8  1.0
-
-
-ParensPreferred2 279.945 total effort   189.530 positional effort    left right
-                   1.242 same finger rp  19.943 shift same finger top 12.9 13.4
-  byou' kdclpq    70.243 hand alternat.  26.526 shift hand alter. mid 32.3 31.0
-  hiea. mtsrnv     3.308 inward/outward  25.963 inward or outward bot  3.5  6.9
-  x)(," wgfjz     10.492 adjacent         9.099 shift adjacent    sum 48.7 51.3
-       ┬á           4.421 no hand altern. 43.359 two hand altern.
-                   2.610 seesaw           6.626 indir same finger
-                  8.2  8.6 18.6 13.3 --.- --.- 19.0 11.5  9.9 10.8 Sh  1.8  1.0
-
-
-PeriodBot        286.922 total effort   192.021 positional effort    left right
-                   1.308 same finger rp  19.943 shift same finger top 12.9 13.4
-  byou' kdclpq    70.243 hand alternat.  26.526 shift hand alter. mid 31.4 31.0
-  hiea" mtsrnv     3.256 inward/outward  25.897 inward or outward bot  4.4  6.9
-  x).,( wgfjz     10.539 adjacent         9.099 shift adjacent    sum 48.7 51.3
-       ┬á           4.421 no hand altern. 43.359 two hand altern.
-                   2.627 seesaw           6.958 indir same finger
-                  8.2  8.6 19.8 12.1 --.- --.- 19.0 11.5  9.9 10.8 Sh  1.8  1.0
-
-
-SwapApos         281.110 total effort   189.254 positional effort    left right
-                   1.246 same finger rp  19.943 shift same finger top 12.9 13.4
-  byou" kdclpq    70.243 hand alternat.  26.526 shift hand alter. mid 32.3 31.0
-  hiea. mtsrnv     3.282 inward/outward  25.958 inward or outward bot  3.5  6.9
-  x)',( wgfjz     10.535 adjacent         9.099 shift adjacent    sum 48.7 51.3
-       ┬á           4.421 no hand altern. 43.359 two hand altern.
-                   2.629 seesaw           6.699 indir same finger
-                  8.2  8.6 18.9 13.0 --.- --.- 19.0 11.5  9.9 10.8 Sh  1.8  1.0
-                  
-```
 
 ## Unorganized Thoughts
 
@@ -940,13 +856,12 @@ SwapApos         281.110 total effort   189.254 positional effort    left right
       - Deciding to release a key takes 0 seconds if done immediately after pressing it, and between 0 and 0.125 seconds if not done immediately after pressing it.
    - Each up movement takes 0.25 seconds to complete
    - For cases of same finger, it takes between 0.125 and 0.25 seconds to move the finger in question from one location to another
-
-### TODO: add Excel Results Table
+- TODO: add Excel Results Sheet
 
 ### Available double-tap triggers:
 
-- code code
-- sym sym
+- ,,
+- ..
 - yy
 - jj
 - xx
@@ -954,19 +869,17 @@ SwapApos         281.110 total effort   189.254 positional effort    left right
 
 ### Available double-tap triggers when not in code mode:
 - ((
-- ‘’
+- ))
+- ''
+- ""
 
 Not in code mode: keyboard/program keeps track if inside unclosed quotes, “ key will then use single quote to automatically nest (allows us to use ‘ key in accents). “” —> “‘
 
-Redesign Vim modal editing by matching most frequent commands to most frequent letters/symbols, assuming that these letters will be placed in favorable positions on kb layouts, making the vim bindings (relatively) layout independent. < Job for more dedicated/full-time person
-
-Placement of sym layer with right thumb because sym will not be prepended/followed by numbers which require right thumb while code can be (e.g., [1, 2, 3] or 5>3). Assuming accessing shift layer not much difference between code and sym layers.
+Redesign Vim modal editing by matching most frequent commands to most frequent letters/symbols, assuming that these letters will be placed in favorable positions on kb layouts, making the vim bindings (relatively) layout independent. < Job for more dedicated/full-time person, marginal benefit not worth marginal cost for individuals.
 
 Command keys (Enter, Tab, Bkspc, Del) go on outer pinkies because don’t want to press them accidentally, not used in rolls/key combinations. Enter goes opposite punctuation. Also frequency considerations.
 
-Punctuation always followed by space/enter can go on shift layer off home row since won’t mess with same finger for most circumstances (: used as punc goes here — used as leader, accessed on number layer — typical disadvantages from holding down don’t apply with thumb key never followed by space). - also goes here so it can be accessed by leader in a home position instead of only accessible by hold-down on middle finger extension. Esc on this layer too.
-
-/ on left due to URLS: more words starting/ending with consonants than vowels (?)
+TODO: add table of frequency of letters that start and begin words. Show how consonant (right) side is always more likely to start and begin words, and therefore punctuation and leading/trailing symbol characters (\*/ etc. for Org, / for URLS, etc.) should be on vowel side.
 
 ## Other Languages: Goal
 
