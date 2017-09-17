@@ -20,7 +20,7 @@ title: Keyboard Layouts
 
 <br/>
 
-## Planned Eventual Structure For This PAge
+## Planned Eventual Structure For This Page
 
 - Pre-optimization Considerations
    - Reasons Why You Should Optimize
