@@ -8,6 +8,7 @@ header: Steven Tammen
 
 ## Recent Activity
 
+09/18/17   Added [Typing Versus Stenography](https://steventammen.com/typing-versus-stenography/) <br/>
 09/16/17   Worked on [Keyboard Layouts](https://steventammen.com/keyboard-layouts/) <br/>
 09/06/17   Added [Keyboards](https://steventammen.com/keyboards/) <br/>
 09/01/17   Updated most pages <br/>
