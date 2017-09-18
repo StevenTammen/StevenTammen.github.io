@@ -50,6 +50,7 @@ Note: Pages that have an asterisk before them are still in progress to some degr
 
 - [Dictionary Generator](https://steventammen.com/dictionary-generator/)
 - \*[Steno Layouts](https://steventammen.com/steno-layouts/)
+- [Typing Versus Stenography](https://steventammen.com/typing-versus-stenography/)
 
 ### Writing
 
