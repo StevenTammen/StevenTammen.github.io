@@ -26,7 +26,7 @@ If the idea of writing that fast intrigues you, you should read a series of arti
 
 In other words, if you start comparing apples-to-apples, while stenography still wins overall since phonetic input will always be faster/more efficient than orthographic input, the differences are not nearly as vast as protrayed here. When I get the time I am going to go through the series point by point and highlight the observations and comparisons that don't apply to properly designed typing setups. (Note: I don't think Mirabai is at all at fault for making the observations and drawing the comparisons -- most people don't use keyboards particularly effectively, so her points stand in the vast majority of cases).
 
-### The Opportunity Cost: Time Investment
+## The Opportunity Cost: Time Investment
 
 If stenography is simply better in the abstract, even if not by as much as advertised, why shouldn't everybody learn it? Well, the thing is, learning stenography is more than just learning a different character layout. For example, you have to learn:
 
