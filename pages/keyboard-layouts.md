@@ -18,8 +18,6 @@ title: Keyboard Layouts
    
 </div>
 
-<br/>
-
 ## Planned Eventual Structure For This Page
 
 - Pre-optimization Considerations
