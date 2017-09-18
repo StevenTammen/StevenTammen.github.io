@@ -16,6 +16,8 @@ title: Typing Versus Stenography
      <img src="https://steventammen.github.io/assets/images/Prose.png" height="30" width="30">
    </a>
 
+## General Comparison
+
 In a vacuum, machine shorthand (aka stenography, commonly abbreviated "steno") is objectively superior to plain typing in just about every way. The world record for machine shorthand transcription is over 360 WPM. Think about that for a second. *Three hundred and sixty words per minute is mind-blowingly fast*.
 
 If the idea of writing that fast intrigues you, you should read a series of articles -- starting [here](https://stenoknight.com/SpeakFingers.html) -- written by Mirabai Knight, the stenographer behind Plover (a free, open source stenography program). Mirabai argues that there are reasons other than speed for steno (fluency of thought, for example). This is a good series, but strawmans keyboard layouts to an extent. For example, if in your typing you automatically space out punctuation and autocapitalize (just like stenography does), come up with shorthand forms for very common words and phrases (just like stenograpy does), and use a system of prefixes, suffixes, and phrase-enders according to personally-determined patterns (just like stenography does), all of the disparities cited in this series shrink significantly.
@@ -36,6 +38,8 @@ This isn't even comprehensive. Stenography is an entirely different text-entry p
 
 The numbers vary on how long it takes for people to get to high speeds. There are people like [Stanley Sakai](http://stanographer.com/) who got to 225+ WPM in months. The thing is, Stan is also a polyglot (at the time of writing, listing proficiency in English, Korean, Dutch, German, Spanish, American Sign Language, and French on his resume), already knew pen shorthand (Gregg) when he started machine shorthand, and majored in linguistics in college. It took Mirabai a year and half to pass her 225's when studying part-time at a brick-and-mortar steno school. Ted Morin, Plover's current lead Dev, has been practicing stenography for [about 3 years](https://www.facebook.com/morinted/posts/10152184434552401) and is currently around 160 WPM. From my understanding, these people are on the fast end of things. A slightly more pessimistic (though balanced, in my view) take on stenography learning times can be seen [here](http://careyryan.com/stenotype-can-we-type-much-faster/). Also have a look at the [most recent statistics related to the Open Steno Project's Community Survey](http://plover.stenoknight.com/2017/08/responses-to-2017-osp-community-survey.html).
 
+## Who Should Use What
+
 If you are in a field that could benefit from really fast input, there is nothing better than stenography. Such fields might include:
 
 - Transcriptionists (of any type)
@@ -50,6 +54,12 @@ Writers and programmers would of course be able to get their thoughts on screen 
 
 I am not aware of any evidence that meets my baseline standard (methodologically-sound, peer-reviewed, double-blind scientific studies conducted by qualified and respected researchers without conflicts of interest and funded by entities without an axe to grind) to either support or refute such speculation. Therefore, I leave judgement up to the reader. I am certain that Mirabai is right to an extent. I just don't think gains here will ever come close to offsetting the time required to learn stenography, especially since typing does not always have to be in the linear sense described here: the more briefs you use, the less typos, generally speaking, you will have, and the gap narrows. Intelligent use of the Ctrl + Backspace will also make correction significantly less disruptive, since you just reset your string of thought at the word level (rather than the character level).
 
+## TODO: frontloaded learning (stenography) vs. adding efficiency over time (typing)
+
+- [An excellent thread on GeekHack](https://geekhack.org/index.php?topic=16927.0) that deals with one fellow's super-efficient typing system.
+
+## Closing Thoughts
+
 The decision to utilize stenography or ignore it is obviously a personal one. However, the community is super friendly and willing to answer questions. I recommend taking a look at the [Plover Google Group](https://groups.google.com/forum/#!forum/ploversteno) and [Discord Channel](https://discordapp.com/channels/136953735426473984/136953735426473984) to talk to individuals into steno. I have been involved in both communities for a couple years now, and have stuck around somewhat even after I stopped actively trying to learn stenography. (They even put up with my attempts to [improve the character layout](https://groups.google.com/forum/#!topic/ploversteno/-sowdKC_bjU%5B1-25%5D) and [improve stenographic input devices](https://groups.google.com/forum/#!topic/ploversteno/aJ6PNMlvLEs)).
 
-One further note here: if you pick up steno as a hobby to have fun and relax, it will pay dividends better than most other hobbies, and it becomes worth it. The marginal cost/marginal benefit number crunching above presupposes doing steno for strictly utilitarian purposes rather than for other reasons.
+One further note here: if you pick up steno as a hobby to have fun and relax, it will pay dividends better than most other hobbies, and it *might* become worth it. The marginal cost/marginal benefit number crunching above presupposes that the only net benefit of steno is increased efficiency in text input.
