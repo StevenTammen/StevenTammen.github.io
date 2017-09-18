@@ -16,6 +16,8 @@ title: Typing Versus Stenography
      <img src="https://steventammen.github.io/assets/images/Prose.png" height="30" width="30">
    </a>
 
+</div>
+
 ## What Is Stenography And How Does It Compare To Typing?
 
 In a vacuum, machine shorthand (aka stenography, commonly abbreviated "steno") is objectively superior to plain typing in just about every way. The world record for machine shorthand transcription is over 360 WPM. Think about that for a second. *Three hundred and sixty words per minute is mind-blowingly fast*.
