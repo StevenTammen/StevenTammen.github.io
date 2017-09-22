@@ -37,6 +37,10 @@ Note: Pages that have an asterisk before them are still in progress to some degr
 - \*[Rain Gear](https://steventammen.com/rain-gear/)
 - \*[Work Environment](https://steventammen.com/work-environment/)
 
+### Health
+
+- [Cystic Acne](https://steventammen.com/cystic-acne/)
+
 ### Learning
 
 - \*[Learning Styles](https://steventammen.com/learning-styles/)
@@ -50,7 +54,6 @@ Note: Pages that have an asterisk before them are still in progress to some degr
 
 - [Dictionary Generator](https://steventammen.com/dictionary-generator/)
 - \*[Steno Layouts](https://steventammen.com/steno-layouts/)
-- [Typing Versus Stenography](https://steventammen.com/typing-versus-stenography/)
 
 ### Writing
 
