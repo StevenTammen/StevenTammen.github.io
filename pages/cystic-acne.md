@@ -94,7 +94,7 @@ Thankfully, I grew out of the timid phase. (It helped that I was competitive and
 
 What all of this has to do with acne is this -- I never try to downplay the severity of it or the negative effects it has on me. I don't try to be all macho and strong just for the sake of not burdening others. I also don't pretend everything is OK if it's not. Having cystic acne really stinks -- full stop. Trying to act all upbeat and say it's not so bad will do you more harm in the long run than good, because it's not true.
 
-Of course, you don't want to go around making a bigger deal of things than necessary. I personally despise people fishing for pity. I don't want pity. I want to be treated like a normal human being, one who just happens to have a chronic illness outside of my control.
+Of course, you don't want to go around making a bigger deal of things than necessary. I myself am not a fan of people fishing for pity. I don't want pity. I want to be treated like a normal human being, one who just happens to have a chronic illness outside of my control.
 
 ## Final thoughts
 
