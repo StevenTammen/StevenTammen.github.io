@@ -37,7 +37,7 @@ Let's dispense with some of the popular wisdom first -- for some people, acne is
 - I prioritize sleep and avoid the sort of cramming that forces inconsistent sleeping schedules (e.g., I have never pulled an all-nighter in college). I regularly get 9 hours of sleep a night.
 - While I haven't exercised as consistently as I would have liked, I am in pretty good shape (I'm just under 6'5'' and around 185 lbs).
 
-This covers most of the common things that people think acne is caused by: a bad diet, drinking/smoking/steroids, poor hygiene, stress, lack of sleep, poor fitness. Now, I am of course not some sort of lifestyle zen master. I could be better. But the point is that I'm not deficient in these areas; the acne I suffer from cannot reasonably be blamed on shortcomings here.
+This covers most of the common things that people think acne is caused by: a bad diet, drinking/smoking/drugs, poor hygiene, stress, lack of sleep, poor fitness. Now, I am of course not some sort of lifestyle zen master. I could be better. But the point is that I'm not deficient in these areas; the acne I suffer from cannot reasonably be blamed on shortcomings here.
 
 I have come across many people over the years who seem to think that persistent, cystic acne is some sort of easily treatable condition that I've just failed to research enough. "Why don't you just use Exposed Skincare or Proactiv? Don't you know they make products for this stuff?"
 
@@ -51,7 +51,7 @@ I am thankful to be a person that does not derive most of my self-worth from my 
 
 This being said, I do not enjoy the self-consciousness that cystic acne invariably brings. Sometimes friends and acquaintances will comment, not realizing that we are in fact quite aware of our condition. Cystic acne is painful -- it's not like blemishes can simply escape our notice in the mirror, because any pressure on them will send arcs of pain coursing through our nerves.
 
-Even for the most rational of us, who strive to separate a condition ultimately out of our control from self-esteem, the connection exists. Humans are irredeemably irrational in some areas, and this is unfortunately one of them. It doesn't matter much that it doesn't make any logical sense -- sometimes it's easy to feel like a lesser human being simply from being plagued by a chronic illness visible to others.
+Even for the most rational of us, who strive to separate a condition ultimately out of our control from self-esteem, the connection exists. Humans are irredeemably irrational in some areas, and this is unfortunately one of them. It doesn't matter much that it doesn't make any logical sense -- sometimes it's easy to feel like a lesser human being because one is plagued by a chronic illness visible to others.
 
 ## My Tips For Fellow Sufferers
 
