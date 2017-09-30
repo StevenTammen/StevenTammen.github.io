@@ -33,7 +33,7 @@ Let's dispense with some of the popular wisdom first -- for some people, acne is
 - I eat a pretty clean diet: lots of vegetables, fish for omega-3's, low-no processed sugar, etc.
 - I do not consume alcohol, smoke, or do other drugs (such as anabolic steroids).
 - I have had a consistent skin care regimen for years. I regularly take showers, exfoliate, and moisturize my skin. I don't ever let personal hygiene take a backseat to circumstances or being tired.
-- I manage stress better than most college students do. I have read multiple books on stress management, human cognition, and the effects of cortisol and epinephrine on the body.
+- I manage stress better than most college students do. (Not that I'm perfect in this area).
 - I prioritize sleep and avoid the sort of cramming that forces inconsistent sleeping schedules (e.g., I have never pulled an all-nighter in college). I regularly get 9 hours of sleep a night.
 - While I haven't exercised as consistently as I would have liked, I am in pretty good shape (I'm just under 6'5'' and around 185 lbs).
 
@@ -76,8 +76,6 @@ You may also want to avoid Paleo mommy bloggers and the like. It's not that thes
 This is a gripe that the alternative medicine people are actually right about. Modern medicine does sometimes forgo treating an underlying condition in lieu of its symptoms, and acne is a good example. Antibiotics will probably help your acne temporarily -- and if your acne is of the teenage, hormonal variety, that may be all you need. But for those of us who actually have a chronic problem with cystic acne, antibiotics are not addressing the root cause (whatever that may be). Longer term use of antibiotics is also something I'm leery of, both on a personal level (there's not much science on how safe it is long-term; our bodies depend on a whole host of good bacteria that get wiped out too), and on a societal level (we don't want to speed up the development of antibiotic resistant superbug strains like MRSA).
 
 The trick is, of course, finding out what the root cause is *for you*. Unfortunately, I don't think I have it all figured out in my case. My acne definitely flares when I am under heavy stress (like finals week) and when my immune system gets compromised (like when I'm sick). Other than these things, I haven't been able to put my finger on any one thing that is causing the underlying condition.
-
-I am just starting a ketogenic elimination diet where I forgo dairy, grains/legumes (most especially wheat), and all carbs except vegetables, since some people have reported n=1 success by doing such things. (I am also starting 16/8 intermittent fasting to regulate mTor levels/induce autophagy and make getting into ketosis easier). I was sort of hoping the isotretinoin would work so I wouldn't have to be so uptight about my diet for the rest of my life, but it's looking like I may be in it for the long haul. If any of these things work for me (on more than a placebo level), I'll report back. I do wish that this was based on more science and less anecdata, but like I prefaced this page with, the science isn't really there yet, so this is the best we've got.
 
 ### Don't Get Depressed About It
 
