@@ -212,7 +212,7 @@ Practice the most common digrams and trigrams in English (or your native languag
 
 To extend this concept even further, you should drill with [this list](http://norvig.com/ngrams/count_1w.txt) or [this list](https://www.wordfrequency.info/free.asp?s=y), which have the most common words in English listed out by frequency. It does you little good to type uncommon or unusual words at a high speed because they compose a small portion of what you type (e.g., typing “zyzzyva” fast does you no good because genuses of weevils don’t come up in normal conversation). Getting very fast at words like “the”, “and”, “that” and so forth, however, will dramatically increase your speed because these words compose a large percentage of everything we type.
 
-### Targeting Weaknesses
+#### Targeting Weaknesses
 
 If you haven't used [Amphetype](https://code.google.com/archive/p/amphetype/) before, you should try it. It is a program that lets you track what things you type fast and what things you type slow (among other things).
 
@@ -238,7 +238,7 @@ Most speed considerations are layout agnostic. If you are already a sufficiently
 
 If you hunt-and-peck, it's going to take you a while to learn how to touch type anyway, so you may as well do it right the first time. Learning how to touch type is really a very important skill since a) it's faster, b) you can look at other things (like the screen) when you type, and c) you make less mistakes. The good news for you is that you should be able to get up to 20 WPM or so in a weekend, which shouldn't be all that much slower than your normal hunt-and-peck speed (i.e., you won't have quite the same magnitude of productivity loss that touch-typists switching will have).
 
-Additionally, young children or other people who have never learned how to type at all should learn an optimized layout from the get-go rather than QWERTY. If you are a parent reading this, please don't inflict uneccessary inefficiency on your child. It certainly doesn't have to be my layout (Colemak and Dvorak are both more widely available), but at least have them learn something that was actually thought through.
+Additionally, young children or other people who have never learned how to type at all should learn an optimized layout from the get-go rather than QWERTY. If you are a parent reading this, please don't inflict uneccessary inefficiency on your child. It certainly doesn't have to be my layout (Colemak and Dvorak are both more widely available), but at least have them learn something that was actually designed for modern input devices. QWERTY was in fact probably a pretty decent layout given the relevant optimization considerations of the 1870's (e.g., spacing out the letters in digrams to avoid typewriter lever jamming). However, it's not the 1870's anymore, and just how we retired the typewriter when better input devices came along, so too should we retire QWERTY, because better keyboard layouts have arrived.
 
 ## Prior Studies of Keyboard Layouts
 
