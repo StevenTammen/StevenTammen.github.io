@@ -40,6 +40,7 @@ Note: Pages that have an asterisk before them are still in progress to some degr
 ### Health
 
 - [Cystic Acne](https://steventammen.com/cystic-acne/)
+- \*[Ketosis And Ketogenic Eating](https://steventammen.com/keto/)
 
 ### Learning
 
@@ -47,6 +48,7 @@ Note: Pages that have an asterisk before them are still in progress to some degr
 
 ### Philosophy
 
+- \*[Being Opinionated](https://steventammen.com/being-opinionated/)
 - \*[Life Purpose](https://steventammen.com/life-purpose/)
 - [Priorities](https://steventammen.com/priorities/)
 
