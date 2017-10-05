@@ -76,11 +76,11 @@ If you already have opinions about how to go about finding a compatible partner,
 
 You should focus initially on forming opinions for important issues that will have a significant impact on your success and well being. See my [page on priorities](https://steventammen.com/priorities/).
 
-### In The Long Terms
+### In The Long Term
 
 Everything. Why? Because research-based opinions lead to improvements (sometimes large, sometimes small), and the aggregation of such improvements can lead to to substantial advantages. [Here's a good article on the concept](https://blog.bufferapp.com/what-would-happen-if-you-improved-everything-by-1-the-science-of-marginal-gains).
 
-I often joke with people that know me about "suboptimal underwear." Yeah, I'm opinionated about what underwear should and shouldn't be. ([See here](http://snarkynomad.com/the-best-mens-underwear-for-every-guy-out-there/) for an excellent treatment of the subject). It's amusing because it seems like such a trivial matter to be opinionated about. But in the long term, taking evidence-based positions on small matters (like underwear design) will add up to significant advantages.
+I often joke with people that know me about "suboptimal underwear." Yeah, I'm opinionated about what underwear should and shouldn't be. ([See here](http://snarkynomad.com/the-best-mens-underwear-for-every-guy-out-there/) for an excellent treatment of the subject). It's amusing because it seems like such a trivial matter to be opinionated about. But in the long term, taking evidence-based positions on small matters (like underwear design) can result in 
 
 ## You Don't Need To Be Closed Minded To Be Opinionated
 
