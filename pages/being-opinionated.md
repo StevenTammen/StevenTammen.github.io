@@ -22,7 +22,7 @@ title: Being Opinionated
 
 ### Age Discrimination And Truth's Relationship With Experience
 
-As is typical (according to psychologists), as I have gotten older I have gotten more opinionated. The difference is I'm in my 20's not in my 60's. I have been in conversations with many people my senior who are surprised by all the various positions I hold. As a general rule of thumb, the bigger the gap between my age and my interlocutor's age, the more likely they are to be dismissive of what I have to say, or even offended that I would presume to know better than them.
+As is typical (according to psychologists), as I have gotten older, I have gotten more opinionated. The difference is I'm in my 20's not in my 60's. I have been in conversations with many people my senior who are surprised by all the various positions I hold. As a general rule of thumb, the bigger the gap between my age and my interlocutor's age, the more likely they are to be dismissive of what I have to say, or even offended that I would presume to know better than them.
 
 The thing is, objective truth has exactly nothing to do with age, appearance, etc. A dishevelled homeless fellow has just as much claim on truth as a wizened academic with 40 years of experience in their field. Now, statistically speaking, the latter is probably right more than the former, but in each and every case, the veracity of their arguments must be evaluated to determine who is right and who is wrong. Nobody gets a pass from fact-checking and critique simply because they are old.
 
@@ -74,7 +74,7 @@ If you already have opinions about how to go about finding a compatible partner,
 
 ### In The Short Term
 
-You should focus initially on forming opinios for important issues that will have a significant impact on your success and well being. See my [page on priorities](https://steventammen.com/priorities/).
+You should focus initially on forming opinions for important issues that will have a significant impact on your success and well being. See my [page on priorities](https://steventammen.com/priorities/).
 
 ### In The Long Terms
 
