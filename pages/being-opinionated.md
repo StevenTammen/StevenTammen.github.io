@@ -28,13 +28,13 @@ The thing is, objective truth has exactly nothing to do with age, appearance, et
 
 This is not to minimize the importance that experience has. Experience is a very necessary component of determining truth in this world. However, helpful experience is only loosely associated with age. While it's politically incorrect to say so, some people never amount to anything in their lives. For all their long years, they learn relatively little, do relatively little, and leave nothing of worth behind when they die. Particularly in our society of hedonistic consumerism, many people fail to realize even a fraction of their potential.
 
-On the other hand, there are plenty of dedicated young people who achieve great things in their youth. Alexander conquered most of the known world before he hit 32. Mozart wrote his substantial musical corpus before his early death at 35. Put simply, the idea that you have to be old to have valuable things to contribute is rubbish.
+On the other hand, there are plenty of dedicated young people who achieve great things in their youth. Alexander conquered most of the known world before he hit 32. Mozart wrote his substantial corpus before his early death at 35. Put simply, the idea that you have to be old to have valuable things to contribute is rubbish.
 
 What all this has to do with the rest of the information on this page is this: everyone, regardless of age, is allowed to hold strong opinions if they have the *bona fides* to justify their opinions.
 
 ### Experiential Bias
 
-I commonly run into people who thing that truth is somehow related to scholarly opinion. It seems like a harmless presupposition, but leads to a great deal of dismissive behavior towards the views of non-academics, and a subsequent overvaluation of the opinions of a few.
+I commonly run into people who think that truth is somehow related to scholarly opinion. It seems like a harmless presupposition, but leads to a great deal of dismissive behavior towards the views of non-academics, and an overvaluation of the views of a few.
 
 When you think about it, professional academics are actually biased. Their research is their livelihood. What would happen if they discovered that their research had little practical applicability and few realizable benefits? Would they do the intellectually honest thing and state such dispassionately? One would hope. But you would be naive to believe that the academy is some sort of self-policing body of truth-seekers. Rather, it is political and monetized. (Some fields more so than others).
 
@@ -52,7 +52,7 @@ You can't improve things if you don't have opinions about what is "better" and w
 
 ### Having Strong Opinions Encourages You To Ditch Subjectivism
 
-In our postmodern western society, it is popular practice to pretend not to have opinions to avoid treading on the feelings of others. The problem with this is that creates a society more interested in preserving cetain demographics' fabricated cultural narratives than in figuring out what is actually true.
+In our postmodern western society, it is popular practice to pretend not to have opinions to avoid treading on the feelings of others. The problem with this is that it creates a society more interested in preserving a facade of politeness than in figuring out what is actually true.
 
 For example, we are taught in diversity classes that all cultures are equally valuable and should be respected. The problem is, this is objectively false. Cultures in which women are strictly property -- those in which they can be raped, trafficked, and sold into prostitution without consequence to the male perpetrators because of cultural mores -- these are inferior cultures. It boggles my mind that people don't get this.
 
@@ -60,7 +60,7 @@ Being willing to put down a flag that says "here's what I believe and why" natur
 
 ### Having Strong Opinions Encourages You To Examine Your Life
 
-As the famous Socrates quote goes, "the unexamined life is not worth living." I'm not sure I'd go quite that far, but I am convinced that starting to examine why the way things are is a necessary first step to achieving one's full potential.
+As the famous Socrates quote goes, "the unexamined life is not worth living." I'm not sure I'd go quite that far, but I am convinced that starting to examine why things are the way they are is a necessary first step to achieving one's full potential.
 
 Particularly if you adopt an "everything is up for debate" attitude (i.e., a willingness to "slaughter the sacred cow," so to speak), you can start reasoning out why you believe what you do. Most people are entirely unaware of their reasons for believing things (such as peer pressure, marketing, political manipulation, religious dogma, etc.). If you become a person that thinks through everything, you will have an inestimable leg up on such people -- a system of opinions based on the reasons mentioned above can be misleading and even harmful to one's well being, but a system of opinions built on a solid foundation of evidence will always lead you aright.
 
@@ -68,7 +68,7 @@ Particularly if you adopt an "everything is up for debate" attitude (i.e., a wil
 
 You will be much less susceptible to fall for outrageous claims and scams if you already have opinions on whatever it is that is being targeted. For example, there is a lot of marketing rubbish on the internet about "life coaching." For a simple one time fee, you can pay a self-stylized guru to help you get a girlfriend, fix your social anxiety, become more confident, land your dream job, etc.
 
-If you already have opinions about how to go about finding a compatible partner, how to go about minimizing social friction and awkwardness, how to go about bolstering one's confidence through positive thought patterns, and how to go about interviewing properly and presenting your qualifications and experience in a professional and effective manner, you won't be impressed by the unrelaistic promises and vague testimonials.
+If you already have opinions about how to go about finding a compatible partner, how to go about minimizing social friction and awkwardness, how to go about bolstering one's confidence, and how to go about interviewing properly and presenting your qualifications and experience in a professional and effective manner, you won't be impressed by the unrelaistic promises and vague testimonials.
 
 ## What Sorts Of Things Should You Hold Opinions On?
 
@@ -78,9 +78,9 @@ You should focus initially on forming opinions for important issues that will ha
 
 ### In The Long Terms
 
-Everything. Why? [Because marginal gains, that's why](https://blog.bufferapp.com/what-would-happen-if-you-improved-everything-by-1-the-science-of-marginal-gains).
+Everything. Why? Because research-based opinions lead to improvements (sometimes large, sometimes small), and the aggregation of such improvements can lead to to substantial advantages. [Here's a good article on the concept](https://blog.bufferapp.com/what-would-happen-if-you-improved-everything-by-1-the-science-of-marginal-gains).
 
-I often joke with people that know me about "suboptimal underwear." Yeah, I'm opinionated about what underwear should and shouldn't be. ([See here](http://snarkynomad.com/the-best-mens-underwear-for-every-guy-out-there/) for an excellent treatment of the subject). It's amusing because it seems like such a trivial matter to be opinionated about. But in the long term, taking evidence-based positions on small matters (like underwear) will add up to significant advantages.
+I often joke with people that know me about "suboptimal underwear." Yeah, I'm opinionated about what underwear should and shouldn't be. ([See here](http://snarkynomad.com/the-best-mens-underwear-for-every-guy-out-there/) for an excellent treatment of the subject). It's amusing because it seems like such a trivial matter to be opinionated about. But in the long term, taking evidence-based positions on small matters (like underwear design) will add up to significant advantages.
 
 ## You Don't Need To Be Closed Minded To Be Opinionated
 
