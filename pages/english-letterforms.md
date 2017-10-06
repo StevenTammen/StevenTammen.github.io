@@ -33,11 +33,11 @@ title: English Letterforms
 
 1. Come up with different variants of regular print letterforms
 2. Evaluate forms based on
-  a. Travel distance (“ink consumed”)
-  b. Number of distinct direction changes (corners/180 degree turns/“direction-changing loops” rather than wide loops)
-  c. Distinguishability from other letters/letter combinations
-  d. Recognizablity, i.e., how easy it is to tell that the form reresents `___` print letter
-  e. Broad detail vs. fine detail (broad detail is better for faster speeds/enables faster speeds)
+   a. Travel distance (“ink consumed”)
+   b. Number of distinct direction changes (corners/180 degree turns/“direction-changing loops” rather than wide loops)
+   c. Distinguishability from other letters/letter combinations
+   d. Recognizablity, i.e., how easy it is to tell that the form reresents `___` print letter
+   e. Broad detail vs. fine detail (broad detail is better for faster speeds/enables faster speeds)
 3. Pick the best form for each letter
 
 ## Dotting and Crossing
