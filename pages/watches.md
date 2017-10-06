@@ -67,7 +67,7 @@ title: Watches
 
 - Vostok Amphibia with crystal flattening and and increasing WR with increasing pressure -- only possible with PMMA crystal. Quite ingenious and allows for looser tolerances -- but not necessary superior than brute forcing crystal construction in functionality. (Though much more elegant a solution).
 - Traditional case-back sealing with o-rings and pressure testing is just silly. Every time watch gets opened, o-ring has to be replaced and watch must be tested (failure = possible repair costs).
-- 2-piece locking system with gasket is superior. Reusable, works 100% of the time if assembled correctly. Increasing pressures again lead to better sealing. (cf. again Vostok Amphibia's design).
+- 2-piece locking system with gasket is superior. Reusable, works 100% of the time if assembled correctly. Increasing pressures lead to better sealing. (cf. again Vostok Amphibia's design).
 - Theoretically better to have Viton for gaskets/o-rings, but kind of overkill for no very good reason. Would increase prices since compound is proprietary.
    
 ## Face
@@ -80,7 +80,7 @@ title: Watches
    - Clutters face more
    - readability will always be higher without explicit minutes
 - The 3, 6, 9 and 12 positions (or 6, 12, 18 and 0 for 24 hour time) should be distinguished from the other hour markers, and 12/0 should be clearly distinguished from the others.
-- I advocate not marking numbers explicitly (using only 12 lines/triangles/whatever): same positions are used in distinguishing hours and minutes (so will only get used, at best, in some readings), and numbers will obscure readability in other cases. If you want to mark anything, it should be hours not minutes, because we read a minutes positon 23 times every day more than an hour position (at least theoretically). However, see discussion of 12 and 24 hour movements below (reading a 12 hour face with 1-12 numbering as 13-0 will be confusing and unhelpful).
+- I advocate not marking numbers explicitly (using only 12 lines/triangles/whatever): same positions are used in distinguishing hours and minutes (so will only get used, at best, in some readings), and numbers will obscure readability in other cases. If you want to mark anything, it should be hours not minutes, because we read a minutes position 23 times every day more than an hour position (at least theoretically). However, see discussion of 12 and 24 hour movements below (reading a 12 hour face with 1-12 numbering as 13-0 will be confusing and unhelpful).
 - Minutes hand should be noticeably longer than hours hand. Hours hand should not be too short, however, but easily readable.
 - Hands/markings should have high contrast with face. A black face with white marking is optimal since most lume paints on white (or at least a light color).
 
@@ -89,8 +89,8 @@ title: Watches
 - Quartz mechanism
    - More accurate (less time drift), shock resistant, longer lasting
    - But relies on a battery/capacitor
-   - Temperature regulated, slected/calibrated (cf. Seiko 9F) would be best, but not really worth it
-   - Still typically 3 seconds/moth off. Most mechanicals (even the good ones) are seconds a *day* off.
+   - Temperature regulated, selected/calibrated (cf. Seiko 9F) would be best, but not really worth it
+   - Still typically 3 seconds/month off. Most mechanicals (even the good ones) are seconds a *day* off.
 - Jeweled movement mechanism
 
 ## 12 vs. 24 Hour Format
@@ -109,9 +109,9 @@ title: Watches
 
 ## Power
 
-- Options: battery, solar, kinetic (i.e., automatic mechanical movement powered by movement of body).
-- Non-battery options can break (compromise overall longevity of watch if they are made poorly), have to send to "special place" (proprietary service centered) to get repaired.
-- If battery powered, should be able to take the long-lasting 10+ year batteries. Should be a common, not-proprietary format.
+- Options: battery, solar, kinetic (i.e.,  capacitor mechanism powered by movement of body).
+- Non-battery options can break (compromise overall longevity of watch if they are made poorly), have to send to "special place" (proprietary service center) to get repaired.
+- If battery powered, should be able to take the long-lasting 10+ year batteries. Should be a common, not-proprietary, format.
 
 ## Illumination
 
@@ -119,7 +119,7 @@ title: Watches
    - Lume has several advantages over tritium: tritium has a ~12 year half life, making it's usable lifespan within 20 years. Lume paint has a theoretically longer lifespan, and is easier to reapply (than tritium insets).
    - Lume should be applied over as large an area as possible with as many layers as possible (on dial and bezel, if applicable).
    - Prefereably a variety that is bright and long lasting
-   - Visibility increased by trying to set the lume to a wavelength close to # which appears brightest to human eyes (some variety of light green).
+   - Visibility increased by trying to set the lume to a wavelength close to the number which appears brightest to human eyes (some variety of light green).
    - As with general face design, the 3, 6, 9 and 12 positions (or 6, 12, 18 and 0 for 24 hour time) should be distinguished from the other lumed hour markers, and 12/0 should be clearly distinguished from all the others. Different shapes.
 - Also best to have some form of active illumination to light up whole face.
    - Indiglo-esque backlight?
@@ -146,7 +146,7 @@ title: Watches
    - Should have some features to make it more grippable
 - Complications
    - Date only. Want to keep dial clean and readable.
-   - Doesn't really matter where it goes so long as 3, 6, 9, 12 clearly distinguished. Theoreticlly best in middle.
+   - Doesn't really matter where it goes so long as 3, 6, 9, 12 clearly distinguished. Theoretically best in middle.
    - Should have a quick-set option
    - Should be able to set date without adjusting time
    - Keep it simple: no perpetual calendar. More moving parts/possiblity to break.
@@ -159,6 +159,6 @@ title: Watches
 
 ## Todo
 
-- Jumping hours hand -- saves energy, increases hours readability (at the cost of making incremental time telling with hour hands impossible). Worth?
+- Jumping hours hand -- saves energy, increases hours readability (at the cost of making incremental time telling with hours hand impossible). Worth?
 - Compass bezel to aid in making more efficient directional changes based on bearing shown on watch face (for digital compass watches)
 - Think about watch features: stopwatch, countdown, better to have multiple on digital watch, split between two watches?
