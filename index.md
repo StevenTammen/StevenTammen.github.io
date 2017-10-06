@@ -18,7 +18,7 @@ header: Steven Tammen
 
 ## Worthy Projects
 
-This is a list of physical products, software programs, and companies that I think should exist but currently do not. I am unsure how many (if any) I will be able to make progress on given my busy schedule. I would prefer to keep everything open source (including designs for physical products), but if somebody wants to take any of these to market, I would be happy to explain in excruciating detail how I would design/implement each thing free of charge. In other words, I would rather that they exist in a proprietary form than in no form at all, even though I would prefer that they exist in an open source form.
+This is a list of physical products, software programs, and companies that I think should exist but currently do not. I am unsure how many (if any) I will be able to make progress on given my busy schedule. I would prefer to keep everything open source (including designs for physical products), but if somebody wants to take any of these to market, I would be happy to explain in excruciating detail how I would design/implement each thing. In other words, I would rather that they exist in a proprietary form than in no form at all, even though I would prefer that they exist in an open source form.
 
 If you think you can help in any way or are just curious about my thoughts, please email me at [steven@steventammen.com](mailto:steven@steventammen.com). I plan to write more fully on each of these ideas when I get the time. (I'll link to these more full explanations as they are available).
 
