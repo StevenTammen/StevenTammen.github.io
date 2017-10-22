@@ -253,7 +253,7 @@ I suggest you go through the following links (and any of the others from [this p
 - [Workman](http://workmanlayout.org/)
 - [Maltron](http://www.adnw.de/uploads/Main/Malt-Artikel/Malt-Artikel.pdf)
 
-There are no doubt other sites out there that discuss these things. I certainly do not pretend to be the first nor most intelligent person that has ever worked on this problem, and wouldn't want anyone to get that impression. Of the methodology of the sites above, I like AdNW and MTGAP best. I'm planning on writing about all the parameters and a logical weighting scheme at some point. (See the outline below).
+There are no doubt other sites out there that discuss these things. I certainly do not pretend to be the first nor most intelligent person that has ever worked on this problem, and wouldn't want anyone to get that impression. Of the methodology of the sites above, I like AdNW and MTGAP best. I'm planning on writing about all the parameters and a logical weighting scheme at some point. (See the outline above).
 
 ## Base Layer
 
