@@ -89,7 +89,7 @@ You can help improve the site itself by submitting pull requests with design imp
 
 For pull requests requiring significant amounts of work, it would be a good idea to check with me early on to make sure I approve of the changes or enhancements being considered. I don't want to put you in a situation where you put a lot of work into something that I wouldn't ultimately use.
 
-### Benevolent Dictator For Life Powers
+### Restrictions on Contribution
 
 I enjoy working with other people -- and benefit immensely from constructive criticism and new perspectives -- but ultimately, decisions about the direction of this site come down to me. In particular, this means that I alone will choose:
 
@@ -97,11 +97,7 @@ I enjoy working with other people -- and benefit immensely from constructive cri
 2. which improvements find their way into the main repository, and 
 3. how things are shared and licensed
 
-I want to be transparent about this: all contributions to this site are subject to the three statements above. Now, I am perfectly happy to discuss my reasoning for any given decision I make. As a human being, I am subject to many [cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases) that can lead to irrational decision-making, meaning that I am sometimes wrong (just like everybody is from time to time). If you think I am wrong, tell me *why*. I can't promise that I'll always change my mind to agree with you, but I can promise that I will give your view as fair a hearing as I can.
-
-If it works out that there is a writing topic that you are really passionate about but I am not (for whatever reason), or something you think should be changed but I do not (for whatever reason), or work that you did that you don't want to be opensourced under copyleft (for whatever reason), it is better all the way around if you create a site of your own to do things your way (I'd be happy to help and contribute!).
-
-What I envision, in the long run, is a community of people writing about the things they are passionate about, freely helping each other improve while at the same time maintaining their own autonomy. This encourages the collaboration that open source projects are known for without causing the conflicts of leadership that they are also known for.
+I want to be transparent about this: all contributions to this site are subject to the three statements above.
 
 # Copyright and Terms of Use
 
