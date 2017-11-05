@@ -1,7 +1,6 @@
 ---
 layout: layout
 title: Home
-header: Steven Tammen
 ---
 
 <h1 class="center"> Home </h1>
