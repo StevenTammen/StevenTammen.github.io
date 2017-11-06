@@ -20,7 +20,7 @@ To allow for selective forwarding and automatic categorization, I have several d
    </tr>
    <tr>
     <td>Content Improvements</td>
-    <td><a href="mailto:content@steventammen.com">edits@steventammen.com</a></td>
+    <td><a href="mailto:edits@steventammen.com">edits@steventammen.com</a></td>
    </tr>
    <tr>
     <td>Design Improvements</td>
