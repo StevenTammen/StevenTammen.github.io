@@ -48,8 +48,6 @@ HSTS is enabled to prevent downgrade attacks, SSL stripping, and cookie hijackin
 
 I use a Kanban-esque [Waffle.io board](https://waffle.io/StevenTammen/steventammen.github.io) to track all of the things that I am currently working on, plan to work on soon, or plan to work on eventually. Put simply, this is where you should start if you want to contribute to this site, because this is the roadmap for the future. If you see something you want to help with, I'd be happy to have your assistance.
 
-Over time, if you take on an active role in development, I'll add you as a collaborator on GitHub, and you'll be able to edit pages and the Waffle.io board directly, with write permissions to the repository.
-
 This is the side of contribution that is structured: groups of people work together to achieve planned goals in an orderly fashion.
 
 ### Ad Hoc Contributions
