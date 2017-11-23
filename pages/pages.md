@@ -17,6 +17,7 @@ Note: Pages that have an asterisk before them are still in progress to some degr
 
 - \*[Backpacks](https://steventammen.com/backpacks/)
 - \*[Erasers](https://steventammen.com/erasers/)
+- \*[Fabrics](https://steventammen.com/fabrics/)
 - \*[Gear Evaluation](https://steventammen.com/gear-evaluation/)
 - \*[Guns](https://steventammen.com/guns/)
 - \*[Keyboards](https://steventammen.com/keyboards/)
