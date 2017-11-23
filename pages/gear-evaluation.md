@@ -20,7 +20,7 @@ title: Gear Evaluation
 
 ## Outline
 
-- [Please Note: This Page Is In Progress](#please-note--this-page-is-in-progress)
+- [Please Note: This Page Is In Progress](#please-note-this-page-is-in-progress)
 - [Variables](#variables)
 - [Selection](#selection)
 
