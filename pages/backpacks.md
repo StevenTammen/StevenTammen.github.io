@@ -20,7 +20,7 @@ title: Backpacks
 
 ## Outline
 
-- [Please Note: This Page Is In Progress](#please-note--this-page-is-in-progress)
+- [Please Note: This Page Is In Progress](#please-note-this-page-is-in-progress)
 - [Optimization Variables](#optimization-variables)
   * [Sweat Management](#sweat-management)
   * [Weight Distribution System](#weight-distribution-system)
