@@ -31,7 +31,7 @@ title: Fabrics
   * [Merino Wool Vs. Alpaca Shape Retention](#merino-wool-vs-alpaca-shape-retention)
   * [Fabric Needs To:](#fabric-needs-to)
   * [Wool](#wool)
-  * [Wool Vs. Tencel Vs. Poly/Nylon](#wool-vs-tencel-vs-poly-nylon)
+  * [Wool Vs. Tencel Vs. Poly/Nylon](#wool-vs-tencel-vs-polynylon)
   * [Other Factors:](#other-factors)
   * [Tencel Research](#tencel-research)
 
