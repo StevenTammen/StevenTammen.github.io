@@ -20,9 +20,9 @@ title: Erasers
 
 ## Outline
 
-- [Please Note: This Page Is In Progress](#please-note--this-page-is-in-progress)
+- [Please Note: This Page Is In Progress](#please-note-this-page-is-in-progress)
 - [Recommended Reading](#recommended-reading)
-- [Foam Erasers, Sakura Arch Sleeve Design](#foam-erasers--sakura-arch-sleeve-design)
+- [Foam Erasers, Sakura Arch Sleeve Design](#foam-erasers-sakura-arch-sleeve-design)
 - [Detail work](#detail-work)
 - [Shading and art stuff](#shading-and-art-stuff)
 - [My Picks](#my-picks)
