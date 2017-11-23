@@ -20,7 +20,7 @@ title: Keto
 
 ## Outline
 
-- [Please Note: This Page Is In Progress](#please-note--this-page-is-in-progress)
+- [Please Note: This Page Is In Progress](#please-note-this-page-is-in-progress)
 - [About Ketosis](#about-ketosis)
 - [Starting List of Foods](#starting-list-of-foods)
 - [Best Fruits And Vegetables For Keto](#best-fruits-and-vegetables-for-keto)
