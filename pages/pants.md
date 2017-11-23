@@ -20,7 +20,7 @@ title: Pants
 
 ## Outline
 
-- [Please Note: This Page Is In Progress](#please-note--this-page-is-in-progress)
+- [Please Note: This Page Is In Progress](#please-note-this-page-is-in-progress)
 - [Always wearing pants](#always-wearing-pants)
 - [Pockets](#pockets)
 - [Zippers](#zippers)
