@@ -20,10 +20,10 @@ title: Guns
 
 ## Outline
 
-- [Please Note: This Page Is In Progress](#please-note--this-page-is-in-progress)
+- [Please Note: This Page Is In Progress](#please-note-this-page-is-in-progress)
 - [Caliber](#caliber)
 - [Frame](#frame)
-- [Trigger/Safeties](#trigger-safeties)
+- [Trigger/Safeties](#triggersafeties)
 - [Sights](#sights)
 - [Weapon Lights](#weapon-lights)
 - [My Picks](#my-picks)
