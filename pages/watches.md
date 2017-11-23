@@ -20,7 +20,7 @@ title: Watches
 
 ## Outline
 
-- [Please Note: This Page Is In Progress](#please-note--this-page-is-in-progress)
+- [Please Note: This Page Is In Progress](#please-note-this-page-is-in-progress)
 - [Watch Type](#watch-type)
 - [Case](#case)
 - [Crystal](#crystal)
@@ -34,7 +34,7 @@ title: Watches
 - [Straps](#straps)
 - [Mechanical Watch Specific](#mechanical-watch-specific)
 - [Options/Extensibility](#options-extensibility)
-- [Todo:](#todo-)
+- [Todo:](#todo)
 - [My Pick](#my-pick)
 
 ## Please Note: This Page Is In Progress
