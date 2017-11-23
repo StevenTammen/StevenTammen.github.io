@@ -20,7 +20,7 @@ title: Keyboard Layouts
 
 ## Outline
 
-- [Please Note: This Page Is In Progress](#please-note--this-page-is-in-progress)
+- [Please Note: This Page Is In Progress](#please-note-this-page-is-in-progress)
 - [Tentative Eventual Structure For This Page](#tentative-eventual-structure-for-this-page)
 - [Pre-optimization Considerations](#pre-optimization-considerations)
 - [Reasons Why You Should Optimize](#reasons-why-you-should-optimize)
@@ -32,7 +32,7 @@ title: Keyboard Layouts
   * [You May Type Too Little For Optimization/Switching To Be Worth It](#you-may-type-too-little-for-optimization-switching-to-be-worth-it)
   * [You May Be Better Served By Learning Stenography](#you-may-be-better-served-by-learning-stenography)
   * [The Difficulty of Retraining Your Fingers](#the-difficulty-of-retraining-your-fingers)
-  * [QWERTY’s Ubiquitousness](#qwerty-s-ubiquitousness)
+  * [QWERTY’s Ubiquitousness](#qwertys-ubiquitousness)
   * [The Animosity of Others](#the-animosity-of-others)
   * [Most Speed Considerations Are Layout Agnostic](#most-speed-considerations-are-layout-agnostic)
     + [Practice](#practice)
@@ -43,7 +43,7 @@ title: Keyboard Layouts
 - [People Who Should Always Learn An Optimized Layout](#people-who-should-always-learn-an-optimized-layout)
 - [Prior Studies of Keyboard Layouts](#prior-studies-of-keyboard-layouts)
 - [Base Layer](#base-layer)
-  * [TODO: command characters](#todo--command-characters)
+  * [TODO: command characters](#todo-command-characters)
   * [Setting up](#setting-up)
   * [Letter Layout Comparison](#letter-layout-comparison)
   * [Filling In Punctuation](#filling-in-punctuation)
