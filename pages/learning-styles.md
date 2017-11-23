@@ -20,7 +20,7 @@ title: Learning Styles
 
 ## Outline
 
-- [Please Note: This Page Is In Progress](#please-note--this-page-is-in-progress)
+- [Please Note: This Page Is In Progress](#please-note-this-page-is-in-progress)
 - [Print as Superior Medium for Information Transmission](#print-as-superior-medium-for-information-transmission)
 
 ## Please Note: This Page Is In Progress
