@@ -20,11 +20,11 @@ title: Pencils
 
 ## Outline
 
-- [Please Note: This Page Is In Progress](#please-note--this-page-is-in-progress)
+- [Please Note: This Page Is In Progress](#please-note-this-page-is-in-progress)
 - [Basic Idea](#basic-idea)
 - [Width](#width)
 - [Advancing mechanism](#advancing-mechanism)
-- [Research: Lamy 2000 (Pencil balance)](#research--lamy-2000--pencil-balance-)
+- [Research: Lamy 2000 (Pencil balance)](#research-lamy-2000-pencil-balance)
 - [My Pick](#my-pick)
 
 ## Please Note: This Page Is In Progress
