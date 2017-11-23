@@ -20,7 +20,7 @@ title: Motorcycles
 
 ## Outline
 
-- [Please Note: This Page Is In Progress](#please-note--this-page-is-in-progress)
+- [Please Note: This Page Is In Progress](#please-note-this-page-is-in-progress)
 - [Safety](#safety)
 - [Electric Motorcycles](#electric-motorcycles)
 - [Windscreens and Fairings](#windscreens-and-fairings)
