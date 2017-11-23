@@ -20,11 +20,11 @@ title: English Letterforms
 
 ## Outline
 
-- [Please Note: This Page Is In Progress](#please-note--this-page-is-in-progress)
+- [Please Note: This Page Is In Progress](#please-note-this-page-is-in-progress)
 - [Cursive Vs. Print](#cursive-vs-print)
 - [Basic Design Methodology](#basic-design-methodology)
 - [Dotting And Crossing](#dotting-and-crossing)
-- [TODO: Other Section Ideas](#todo--other-section-ideas)
+- [TODO: Other Section Ideas](#todo-other-section-ideas)
 
 ## Please Note: This Page Is In Progress
 
