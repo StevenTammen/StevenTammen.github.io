@@ -20,7 +20,7 @@ title: Screen Reading
 
 ## Outline
 
-- [Please Note: This Page Is In Progress](#please-note--this-page-is-in-progress)
+- [Please Note: This Page Is In Progress](#please-note-this-page-is-in-progress)
 - [Recommended Reading](#recommended-reading)
   * [General print vs screens](#general-print-vs-screens)
   * [Cognitive maps](#cognitive-maps)
