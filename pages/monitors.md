@@ -20,7 +20,7 @@ title: Monitors
 
 ## Outline
 
-- [Please Note: This Page Is In Progress](#please-note--this-page-is-in-progress)
+- [Please Note: This Page Is In Progress](#please-note-this-page-is-in-progress)
 - [Essential Features](#essential-features)
 - [Preferable Features](#preferable-features)
 - [4k vs Multiple HD Monitors](#4k-vs-multiple-hd-monitors)
