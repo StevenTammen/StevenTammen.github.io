@@ -20,14 +20,14 @@ title: Life Purpose
 
 ## Outline
 
-- [Please Note: This Page Is In Progress](#please-note--this-page-is-in-progress)
-- [Argument 1: Objective morality exists](#argument-1--objective-morality-exists)
-  * [Propositon 1: If objective morality does not exist, then no actions are worse than any other actions](#propositon-1--if-objective-morality-does-not-exist--then-no-actions-are-worse-than-any-other-actions)
-  * [Proposition 2: Some actions are worse than other actions](#proposition-2--some-actions-are-worse-than-other-actions)
-  * [Conclusion: Objective morality exists](#conclusion--objective-morality-exists)
-- [Argument 2: It is possible to have a life purpose](#argument-2--it-is-possible-to-have-a-life-purpose)
-  * [Proposition 1: Knowing right is a necessary but not sufficient condition for having right intent](#proposition-1--knowing-right-is-a-necessary-but-not-sufficient-condition-for-having-right-intent)
-  * [TODO: Finish filling out argument and explaining](#todo--finish-filling-out-argument-and-explaining)
+- [Please Note: This Page Is In Progress](#please-note-this-page-is-in-progress)
+- [Argument 1: Objective morality exists](#argument-1-objective-morality-exists)
+  * [Propositon 1: If objective morality does not exist, then no actions are worse than any other actions](#propositon-1-if-objective-morality-does-not-exist-then-no-actions-are-worse-than-any-other-actions)
+  * [Proposition 2: Some actions are worse than other actions](#proposition-2-some-actions-are-worse-than-other-actions)
+  * [Conclusion: Objective morality exists](#conclusion-objective-morality-exists)
+- [Argument 2: It is possible to have a life purpose](#argument-2-it-is-possible-to-have-a-life-purpose)
+  * [Proposition 1: Knowing right is a necessary but not sufficient condition for having right intent](#proposition-1-knowing-right-is-a-necessary-but-not-sufficient-condition-for-having-right-intent)
+  * [TODO: Finish filling out argument and explaining](#todo-finish-filling-out-argument-and-explaining)
 
 ## Please Note: This Page Is In Progress
 
