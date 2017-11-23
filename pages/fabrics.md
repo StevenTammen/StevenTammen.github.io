@@ -20,8 +20,8 @@ title: Fabrics
 
 ## Outline
 
-- [Please Note: This Page Is In Progress](#please-note--this-page-is-in-progress)
-- [TODO: Fabric Properties](#todo--fabric-properties)
+- [Please Note: This Page Is In Progress](#please-note-this-page-is-in-progress)
+- [TODO: Fabric Properties](#todo-fabric-properties)
   * [Heat Transfer basics](#heat-transfer-basics)
   * [General Fabric Characteristics](#general-fabric-characteristics)
   * [Wool Vs. Synthetics](#wool-vs-synthetics)
@@ -29,10 +29,10 @@ title: Fabrics
   * [Tencel](#tencel)
   * [Clothing Color And Thermoregulation](#clothing-color-and-thermoregulation)
   * [Merino Wool Vs. Alpaca Shape Retention](#merino-wool-vs-alpaca-shape-retention)
-  * [Fabric Needs To:](#fabric-needs-to-)
+  * [Fabric Needs To:](#fabric-needs-to)
   * [Wool](#wool)
   * [Wool Vs. Tencel Vs. Poly/Nylon](#wool-vs-tencel-vs-poly-nylon)
-  * [Other Factors:](#other-factors-)
+  * [Other Factors:](#other-factors)
   * [Tencel Research](#tencel-research)
 
 ## Please Note: This Page Is In Progress
