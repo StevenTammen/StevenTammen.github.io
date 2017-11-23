@@ -20,10 +20,10 @@ title: Pencil Leads
 
 ## Outline
 
-- [Please Note: This Page Is In Progress](#please-note--this-page-is-in-progress)
+- [Please Note: This Page Is In Progress](#please-note-this-page-is-in-progress)
 - [Lead Grade](#lead-grade)
 - [Lead Width](#lead-width)
-- [Sizing Comparisons: 0.3mm to 0.9mm](#sizing-comparisons--03mm-to-09mm)
+- [Sizing Comparisons: 0.3mm to 0.9mm](#sizing-comparisons-03mm-to-09mm)
 - [My Pick](#my-pick)
 
 ## Please Note: This Page Is In Progress
