@@ -18,6 +18,18 @@ title: Priorities
    
 </div>
 
+## Table of Contents
+
+- [Limited Time](#limited-time)
+- [Determining Importance](#determining-importance)
+    + [1. Certainty on matters of existential reality and one's purpose in life](#1-certainty-on-matters-of-existential-reality-and-one-s-purpose-in-life)
+    + [2. Purposefully cultivated and frequently exercised habits of discipline and thought](#2-purposefully-cultivated-and-frequently-exercised-habits-of-discipline-and-thought)
+    + [3. Stable and strong interpersonal relationships](#3-stable-and-strong-interpersonal-relationships)
+    + [4. An implemented and disciplined routine of intellectual expansion through reading](#4-an-implemented-and-disciplined-routine-of-intellectual-expansion-through-reading)
+    + [5. An implemented and disciplined exercise routine that includes both aerobic and anaerobic training](#5-an-implemented-and-disciplined-exercise-routine-that-includes-both-aerobic-and-anaerobic-training)
+    + [6. An implemented and disciplined common-sense diet](#6-an-implemented-and-disciplined-common-sense-diet)
+- [Other Priorities](#other-priorities)
+
 ## Limited Time
 
 An axiom of existence is the limited nature of time. With normal life responsibilities, there are only so many things that we can spend time on. The more we build discipline and focus, the more we can get to, given our particular set of circumstances. But we will never be able to get to everything. It is necessary that we decide on a method for determining what we focus on, and structure our lives from most important to least important.
