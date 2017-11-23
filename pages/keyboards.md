@@ -20,9 +20,9 @@ title: Keyboards
 
 ## Outline
 
-- [Please Note: This Page Is In Progress](#please-note--this-page-is-in-progress)
+- [Please Note: This Page Is In Progress](#please-note-this-page-is-in-progress)
 - [Good Options](#good-options)
-- [TODO: Complete Outline](#todo--complete-outline)
+- [TODO: Complete Outline](#todo-complete-outline)
 
 ## Please Note: This Page Is In Progress
 
