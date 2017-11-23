@@ -20,13 +20,13 @@ title: Clothing
 
 ## Outline
 
-- [Please Note: This Page Is In Progress](#please-note--this-page-is-in-progress)
+- [Please Note: This Page Is In Progress](#please-note-this-page-is-in-progress)
 - [Everyday Clothes](#everyday-clothes)
 - [Dressy Clothes](#dressy-clothes)
 - [Work Clothes](#work-clothes)
 - [Exercise Clothes](#exercise-clothes)
-- [In Colder Weather, Add](#in-colder-weather--add)
-- [TODO: Other Section Ideas](#todo--other-section-ideas)
+- [In Colder Weather, Add](#in-colder-weather-add)
+- [TODO: Other Section Ideas](#todo-other-section-ideas)
 
 ## Please Note: This Page Is In Progress
 
