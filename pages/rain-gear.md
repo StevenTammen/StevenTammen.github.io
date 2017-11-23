@@ -20,7 +20,7 @@ title: Rain Gear
 
 ## Outline
 
-- [Please Note: This Page Is In Progress](#please-note--this-page-is-in-progress)
+- [Please Note: This Page Is In Progress](#please-note-this-page-is-in-progress)
 - [Waterproofing](#waterproofing)
 - [Main Idea](#main-idea)
 
