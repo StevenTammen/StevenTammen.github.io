@@ -20,7 +20,7 @@ title: Steno Layouts
 
 ## Outline
 
-- [Please Note: This Page Is In Progress](#please-note--this-page-is-in-progress)
+- [Please Note: This Page Is In Progress](#please-note-this-page-is-in-progress)
 - [Frequency](#frequency)
 - [Layout On Stenotype](#layout-on-stenotype)
 - [Top key on coda side](#top-key-on-coda-side)
