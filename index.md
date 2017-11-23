@@ -7,13 +7,13 @@ title: Home
 
 ## Recent Activity
 
+11/22/17   Slightly updated many pages. Worked a lot on backpacks.md <br/>
 09/16/17   Worked on [Keyboard Layouts](https://steventammen.com/keyboard-layouts/) <br/>
 09/06/17   Added [Keyboards](https://steventammen.com/keyboards/) <br/>
 09/01/17   Updated most pages <br/>
 08/27/17   Updated [Priorities](https://steventammen.com/priorities); added [Life Purpose](https://steventammen.com/life-purpose/) <br/>
 08/20/17   Published [Priorities](https://steventammen.com/priorities)<br/>
 08/13/17   Worked on [Keyboard Layouts](https://steventammen.com/keyboard-layouts/); updated layout images <br/>
-08/12/17   Added [Learning Styles](https://steventammen.com/learning-styles/) and [Priorities](https://steventammen.com/priorities) <br/>
 
 ## Worthy Projects
 
