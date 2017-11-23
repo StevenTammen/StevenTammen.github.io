@@ -20,7 +20,7 @@ title: Every Day Carry
 
 ## Outline
 
-- [Please Note: This Page Is In Progress](#please-note--this-page-is-in-progress)
+- [Please Note: This Page Is In Progress](#please-note-this-page-is-in-progress)
 - [Distinction between Every Day Carry and Everyday Carry](#distinction-between-every-day-carry-and-everyday-carry)
 - [Components](#components)
 - [Distribution](#distribution)
