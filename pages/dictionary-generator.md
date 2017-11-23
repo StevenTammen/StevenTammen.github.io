@@ -18,6 +18,16 @@ title: Dictionary Generator
    
 </div>
 
+## Table of Contents
+
+- [Disclaimer](#disclaimer)
+- [The Problem](#the-problem)
+- [The Idea](#the-idea)
+- [An Example](#an-example)
+- [Implementation](#implementation)
+- [Flaws and Criticisms](#flaws-and-criticisms)
+- [Closing Remarks](#closing-remarks)
+
 ## Disclaimer
 
 I have been watching Plover for a long time, but haven't actually learned very much steno yet (at least physically). Part of this is because the SOFT/HRUF is still yet to ship, and part of it also is because I have been very busy. What I'm trying to say is that my comments should be taken with a large helping of salt. It is entirely possible that there are things in the software that I'm not aware of or am misinformed about. I'm also looking at this primarily from the perspective of a non-programmer, so there is probably a hint of rose colored glasses here; that is to say, what I think might be simple to implement may in fact be much more difficult than I know.
