@@ -7,7 +7,7 @@ title: Home
 
 ## Recent Activity
 
-11/22/17   Slightly updated many pages. Worked a lot on backpacks.md <br/>
+11/22/17   Slightly updated many pages. Worked a lot on [Backpacks](https://steventammen.com/backpacks/) <br/>
 09/16/17   Worked on [Keyboard Layouts](https://steventammen.com/keyboard-layouts/) <br/>
 09/06/17   Added [Keyboards](https://steventammen.com/keyboards/) <br/>
 09/01/17   Updated most pages <br/>
