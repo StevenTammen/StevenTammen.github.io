@@ -20,7 +20,7 @@ title: Work Environment
 
 ## Outline
 
-- [Please Note: This Page Is In Progress](#please-note--this-page-is-in-progress)
+- [Please Note: This Page Is In Progress](#please-note-this-page-is-in-progress)
 - [Overview](#overview)
 - [Keyboard](#keyboard)
 - [Monitor](#monitor)
