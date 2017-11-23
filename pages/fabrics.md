@@ -1,5 +1,5 @@
 ---
-permalink: /Fabrics/
+permalink: /fabrics/
 layout: layout
 title: Fabrics
 ---
