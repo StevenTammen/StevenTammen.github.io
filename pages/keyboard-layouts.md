@@ -29,7 +29,7 @@ title: Keyboard Layouts
   * [Increased Typing Speed](#increased-typing-speed)
 - [Reasons Why You Should Not Optimize](#reasons-why-you-should-not-optimize)
   * [Priorities](#priorities)
-  * [You May Type Too Little For Optimization/Switching To Be Worth It](#you-may-type-too-little-for-optimization-switching-to-be-worth-it)
+  * [You May Type Too Little For Optimization/Switching To Be Worth It](#you-may-type-too-little-for-optimizationswitching-to-be-worth-it)
   * [You May Be Better Served By Learning Stenography](#you-may-be-better-served-by-learning-stenography)
   * [The Difficulty of Retraining Your Fingers](#the-difficulty-of-retraining-your-fingers)
   * [QWERTY’s Ubiquitousness](#qwertys-ubiquitousness)
