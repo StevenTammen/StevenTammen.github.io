@@ -22,7 +22,7 @@ title: Priorities
 
 - [Limited Time](#limited-time)
 - [Determining Importance](#determining-importance)
-    + [1. Certainty on matters of existential reality and one's purpose in life](#1-certainty-on-matters-of-existential-reality-and-one-s-purpose-in-life)
+    + [1. Certainty on matters of existential reality and one's purpose in life](#1-certainty-on-matters-of-existential-reality-and-ones-purpose-in-life)
     + [2. Purposefully cultivated and frequently exercised habits of discipline and thought](#2-purposefully-cultivated-and-frequently-exercised-habits-of-discipline-and-thought)
     + [3. Stable and strong interpersonal relationships](#3-stable-and-strong-interpersonal-relationships)
     + [4. An implemented and disciplined routine of intellectual expansion through reading](#4-an-implemented-and-disciplined-routine-of-intellectual-expansion-through-reading)
