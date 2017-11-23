@@ -20,13 +20,13 @@ title: Multitools
 
 ## Outline
 
-- [Please Note: This Page Is In Progress](#please-note--this-page-is-in-progress)
+- [Please Note: This Page Is In Progress](#please-note-this-page-is-in-progress)
 - [Discussed Models](#discussed-models)
 - [LM Pros](#lm-pros)
 - [LM Possible Improvements](#lm-possible-improvements)
 - [Vic Pros](#vic-pros)
 - [Vic Possible Improvements](#vic-possible-improvements)
-- [Multitools' Role in EDC](#multitools--role-in-edc)
+- [Multitools' Role in EDC](#multitools-role-in-edc)
 - [My Picks](#my-picks)
 
 ## Please Note: This Page Is In Progress
