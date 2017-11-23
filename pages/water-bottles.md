@@ -20,14 +20,14 @@ title: Water Bottles
 
 ## Outline
 
-- [Please Note: This Page Is In Progress](#please-note--this-page-is-in-progress)
+- [Please Note: This Page Is In Progress](#please-note-this-page-is-in-progress)
 - [Materials Concerns](#materials-concerns)
-  * [Plastics: Bisphenols, Pthalates, and Endocrine Disruption](#plastics--bisphenols--pthalates--and-endocrine-disruption)
+  * [Plastics: Bisphenols, Pthalates, and Endocrine Disruption](#plastics-bisphenols-pthalates-and-endocrine-disruption)
   * [Stainless steel](#stainless-steel)
   * [Borosilicate Glass](#borosilicate-glass)
   * [Silicone](#silicone)
 - [Mouth Width](#mouth-width)
-- [TODO:](#todo-)
+- [TODO:](#todo)
 - [My Pick](#my-pick)
 
 ## Please Note: This Page Is In Progress
