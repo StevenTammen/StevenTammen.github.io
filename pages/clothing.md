@@ -7,131 +7,103 @@ title: Clothing
 <div class="center">
 
    <h1>Clothing</h1>
-   
+
    <a href="https://github.com/StevenTammen/steventammen.github.io/edit/master/pages/clothing.md" target="_blank">
      <img src="https://steventammen.github.io/assets/images/GitHub.png" height="30" width="30">
    </a> &nbsp; &nbsp;
-   
+
    <a href="http://prose.io/#StevenTammen/steventammen.github.io/edit/master/pages/clothing.md" target="_blank">
      <img src="https://steventammen.github.io/assets/images/Prose.png" height="30" width="30">
    </a>
-   
+
 </div>
 
-## Everyday
+## Outline
+
+- [Please Note: This Page Is In Progress](#please-note--this-page-is-in-progress)
+- [Everyday Clothes](#everyday-clothes)
+- [Dressy Clothes](#dressy-clothes)
+- [Work Clothes](#work-clothes)
+- [Exercise Clothes](#exercise-clothes)
+- [In Colder Weather, Add](#in-colder-weather--add)
+- [TODO: Other Section Ideas](#todo--other-section-ideas)
+
+## Please Note: This Page Is In Progress
+
+This means, among other things, that:
+
+- Some of the content is not fleshed out, so you should not read more into things than exactly what is there.
+- Some sections might have things marked as "TODOs" (e.g., questions or things that must be done). These TODOs should not be taken to be representative of truth in any respect, and indicate areas that need more research and thought. If you have particular knowledge in things related to these, you can help! (Please see: [contribution guidelines](https://github.com/StevenTammen/steventammen.github.io#contribution-guidelines)).
+- There probably will not be any section that pulls everything together in an easily understandable way.
+
+This does not mean that:
+
+- I am not firmly convinced of the veracity of all the content currently published. If I am not sure of something, I don't push it to the website. (This doesn't mean that I won't ever change my positions if I come to learn that I am in error, but that I strive, as much as possible, to only push content to the website if I am absolutely certain that it is true).
+- This page cannot be helpful to you in its present form. If you are aware of the limitations of the current state, you may find this page helpful long before I officially publish it.
+
+## Everyday Clothes
 
 - [Shirt](https://www.railriders.com/men-versatac-light-shirt-p-1021.html?cPath=104_111)
 - [Belt](https://www.originalsoegear.com/collections/belts/products/cobra-riggers-belt-size-26-to-40-with-velcro-lining)
 - [Underwear](https://www.yathletics.com/products/silverair-merino-wool-boxer-brief)
 - [Pants](https://www.railriders.com/men-versatac-ultra-light-pants-p-994.html?cPath=104_110)
-- [Socks](https://www.injinji.com/liner-crew-nuwool.html/)
-- [Compression](https://www.amazon.com/gp/product/B008LW6SW8/)
-- [Shoes](http://www.topoathletic.com/mens-st-2?color=27)
+- [Vibram's KSO Evo](https://www.amazon.com/Vibram-Mens-KSO-Cross-Training/dp/B0108T2TT2)
+- [Vibram's Trek Ascent Insulated](http://us.vibram.com/shop/fivefingers/men/outdoor/trek-ascent-insulated/M53.html) (when it's too cold for the KSO's)
+
+## Dressy Clothes
+
+- [Button-Down Shirt](https://woolandprince.com/collections/dress-shirts/products/dress-shirt-blue-stripe)
+- [Underwear](https://www.yathletics.com/products/silverair-merino-wool-boxer-brief) (same as above)
+- [Suit](https://www.outerboro.cc/collections/bundle-packs/products/motile-breeze-suit)
+- [Toe Socks](https://www.injinji.com/liner-crew-nuwool.html/)
+- [Dress Shoes](https://www.lemsshoes.com/shop/mens-nine2five-black.html)
+
+## Work Clothes
+
+- Same shirt, belt, underwear and pants as everyday clothes
+- [Toe Socks](https://www.injinji.com/liner-crew-nuwool.html/) (same as above)
+- [Second Sock Layer](https://darntough.com/collections/mens-bike/products/breakaway-micro-crew-ultra-light) (worn to minimize rubbing)
 - [Work Boots](https://www.amazon.com/gp/product/B00AMLEPI0/)
 
-## Dressy
+## Exercise Clothes
 
-- [Shoes](https://www.lemsshoes.com/shop/mens-nine2five-black.html)
-- [Belt](https://www.amazon.com/Ultimate-Concealed-Carry-Leather-Belt/dp/B01C297SQU/)
-- [Suit](https://www.outerboro.cc/collections/bundle-packs/products/motile-breeze-suit)
+- [Short Sleeve Baselayer](http://www.qorkit.com/qor-16-5-lightweight-tee-dfd6bc.html)
+- [Underwear](https://www.yathletics.com/products/silverair-merino-wool-boxer-brief) (same as above)
+- [Cheap Synthetic Shorts](https://www.amazon.com/Champion-Short-Pockets-Black-LARGE/dp/B000J9YQOS/)
+- [Vibram's KSO Evo](https://www.amazon.com/Vibram-Mens-KSO-Cross-Training/dp/B0108T2TT2) (same as above)
 
-## Fabric
+## In Colder Weather, Add
 
-### Heat transfer basics
+- [Short Sleeve Baselayer](http://www.qorkit.com/qor-16-5-lightweight-tee-dfd6bc.html)
+- [Long Sleeve Baselayer](http://www.qorkit.com/qor-17-5-merino-crew-ls-c51b06.html)
+- [Compression Calf Sleeves](https://www.amazon.com/gp/product/B008LW6SW8/)
 
-- <http://www.sjsu.edu/people/craig.cisar/courses/kin256/s1/LEC-2-rev09---Therm-Env-and-Cloth-.ppt>
+## TODO: Other Section Ideas
 
-### General Fabric characteristics
-
-- <http://blog.outdoorherbivore.com/camp-tips/clothing/>
-- <http://snarkynomad.com/why-merino-wool-t-shirts-are-the-best-travel-t-shirts/>
-- <http://www.survivalistboards.com/showthread.php?t=79756>
-
-### Wool vs synthetics
-
-- <https://backpackinglight.com/comfort_moisture_transport_wool_synthetic_clothing/>
-
-### Overstated claims of wicking fabrics
-
-- <http://hprc-online.org/blog/is-wicking-apparel-as-201ccool201d-as-you-think>
-- <http://scholarworks.wmich.edu/cgi/viewcontent.cgi?article=1190&context=masters_theses>
-- <http://www.ayfcoaching.com/AcuCustom/Sitename/Documents/DocumentItem/04Kicklighter.pdf>
-
-### Tencel
-
-- <http://www.thetextilethinktank.org/important-properties-tencel-fibers/>
-- <http://www.academia.edu/8619889/COMFORT_AND_PROTECTION_PROPERTIES_OF_TENCEL_COTTON_BLENDS>
-- <http://www.academia.edu/26251973/AN_OVERVIEW_ON_THE_INFLUENCE_OF_FABRIC_STRUCTURAL_PARAMETERS_IN_SPORTS_INTIMATE_APPARELS>
-- <http://bushcraftusa.com/forum/threads/tencel-lyocell-fabric.182558/>
-
-### Clothing color and thermoregulation
-
-- <http://io9.gizmodo.com/5903956/the-physics-that-explain-why-you-should-wear-black-this-summer>
-- <http://physics.stackexchange.com/questions/78616/is-dark-clothes-for-winter-light-for-summer-relevant#101204>
-
-### Merino wool vs. alpaca shape retention
-
-- <http://snarkynomad.com/why-merino-wool-t-shirts-are-the-best-travel-t-shirts/> (comments: ctrl-f: "alpaca")
-- <https://backpackinglight.com/forums/topic/81962/>
-- Alpaca does not have the extreme bending strength that Merino has, and so can loose it's shape/form easier. However, this is easily remedied by putting a small amount of spandex, lycra or the like in with it. Plus, lighter/thinner garments like baselayers by nature, will have less problem with losing shape than their heavier sweater versions.
-   - Bending strength is much more important to me, especially with a baselayer. I would hate a garment that loosened up around the sleeves and neck after a couple of days, especially since I roll up my sleeves often.
-Just "adding lycra or spandex" to fix that issue isn't great, because those fibers hold odor. 90% of the reason I use wool over synthetics is to avoid odor, not the properties of the fabric itself.
-- <https://www.reddit.com/r/knitting/comments/rygy2/whats_the_warmest_wool/>
-
-### Fabric needs to:
-- Not be uncomfortable, itch, chafe (the softer the better)
-- Dry reasonably quickly (the faster the better)
-- Wick moisture away from skin to a reasonable degree (the more the better)
-- Be reasonably breathable (the more the better)
-- Insulate when wet
-- Not smell even after repeated, sweaty use (have a microenvironment that prevents bacterial proliferation)
-- Be light colored (for summer use: reflection of radiated heat from sun > reflected internal body heat: we are not pigeons. For winter use: when worn under other layers, light colors reflect more internal radiative heat than dark colors)
-- Have enough absorption to still wick sweat even if the external surface is blocked (like sitting against something or wearing a pack)
-- Be durable under normal use conditions (the more the better)
-- Have good shape retention (therefore, not alpaca wool)
-- Water resistant (if possible)
-- Windproof/wind resistant (if possible)
-- Spark resistant (not fully fireproof but won't melt on your skin either) -- the more the better
-- Be light: layering (fleece/down, shell) is superior to a heavy a single heavy shirt that you cannot take off
-- Natural, biodegradable, renewable
-- Static resistant
-- Stain resistant
-- Wrinkle resistant
-- Resists pilling
-
-### Wool
-- Has unique property of absorbing sweat while leaving the space next to your skin absolutely dry all the way up until the point it gets fully saturated at ~30% its own weight. Synthetic fibers like polyester will wick sweat, but will feel cold and clammy against your skin because the water is external to the fibers (these materials do not absorb any appreciable amount of water into the fibers). Cotton and other cellulosic fibers (Rayon, Modal, Tencel/Lyocell) will absorb liquid water between fibers (losing their insulative capacities by filling up air pockets), and thus will not be dry next your skin.
-- Evaporative cooling effect is spaced out over time compared to the synthetics (would you rather get chilled for a short period of time, or be cooled by gradual evaporation over a longer period?), and you won't experience radiative heat loss in addition to evaporative cooling like you would with wet cellulosic fabrics.
-   - During strenuous activity in high heat high humidity situations, evaporative cooling will not keep up, so it is more a factor of which cooling type you would rather have once you come inside into air conditioning. During high heat low humidity situations, moisture control doesn't really matter since evaporative cooling will actually work: loose fitting, breathable clothes are the answer in such circumstances.
-   - Evaporative cooling occurs on the external surface of synthetic fibers (where the water is), making them cooler than their surroundings. The evaporation of water from within wool particles still cools off the surrounding area, but the portion of the fiber in contact with your skin will not have the cold, clammy feeling.
-Anti-bacterial due to the microstructure of fibers (no external water, which bacteria need to survive -- bacteria cause odor, not sweat itself). This is entirely natural, requires no chemical treatments, and will last the lifetime of the clothing (as opposed to a finite number of washes).
-- If evaporative cooling is a factor, it is theoretically more beneficial for evaporation to occur at the skin level rather than clothing level (i.e., the fabric should be vapor permeable, meaning that water vapor can transit the fabric). Sweating then having the liquid get wicked to the outside of the shirt and evaporate away from your body will not have an appreciable effect on body temperature (Wmich study). Since merino wool, Tencel, and most performance synthetics are all vapor permeable, this will not be a source of significant differences between the fabrics (as compared to, say, a synthetic shirt that was not vapor permeable, which would have the net effect of cooking you inside). Note that this discussion of is not related to "breathability" in the sense of air permeability: while this can increase air circulation and hence cooling by convection, it only really becomes relevant if there is some form of air movement to begin with (such as wind or airflow from rapid movement). (Wmich study)
-- Sorption: heat released from the exothermic reaction whereby water attaches itself to the inside of wool fibers -- is still somewhat controversial within the scholarly literature, but it is generally agreed that it does not have any appreciable effect on body temperature (so cannot be viewed as a strong disadvantage during hotter parts of the year or strong advantage during the cooler parts of the year).
-- When fabric is in contact with things that block its exterior (such as a plastic chair back or a backpack), you still want some form of absorption so that you shirt does not stick to you. Synthetics will not have anywhere for the water to go so they will accumulate moisture and stick to you, while cellulosic fabrics will absorb the sweat interstitially and will likewise stick to you. In such a situation, wool is the only type of fiber that can deal with moisture without feeling wet and clingy on the skin.
-
-### Wool vs Tencel vs Poly
-- Tencel: softer than silk, more wicking than polyester (is this the same kind of wicking though?), more breathable than cotton, odor resistant
-- Wool: only material that maintains insulation when wet while still be absorptive, odor resistant, sorption (?)
-   - Ibex, Minus 33, Io, Stoic, Icebreaker, SmartWool
-- Polyester when working out at home: cheap, durable, and smell doesn't matter
-
-### Other factors:
-- UPF -- UV resistance and sun protection (change when wet?)
-- Wool = better insulation from radiative heating of sun (direct sunlight won't heat as much as a cellulose based fiber?)
-- Coming in from sweating outside into air conditioning: no insulation due to wet Tencel in this circumstance leads to radiative heat loss
-
-
-## TODO
-
-- reason for cobra rigger’s belt vs CCW leather
-- reason for Crew vs OTC socks (or vice versa?)
-- reason for sunglasses shape (comparison of geometries)
-- Even if other people’s evaluations weren’t a factor, would high-visibility shirt/pants/backpack be desirable? Certain colors tire the eyes?
-- Color of pants, vest, shirt (printing, shows wetness, heat from sun, hides stains). How baggy should clothing be?
-- Color/material underwear? Socks?
+- Reason for cobra rigger’s belt vs. normal leather
+   - Vastly superior in any emergency weight bearing situations, inside velcro can anchor multitool holder, doesn't wear out like many leather belts do.
+- Reason for Crew vs. OTC socks vs. some other height
+   - Best to have calf component separate so that it can work with VFFs or other shoes that one doesn't typically wear socks with. Therefore, lower socks.
+- Even if other people’s evaluations weren’t a factor, would high-visibility shirt/pants be desirable for better safety?
+   - No. While some of the reason these colors are so effective is their completely unnatural hue (which wouldn't go way with more people wearing them), we would not want to "dilute" the eye-catching effect by having everyone wear them. Imagine trying to spot a motorcyclist wearing a high-viz yellow vest if he was moving in front of a crowd of pedestrians on the sidewalk all wearing identical vests.
+   - So these colors should be reserved for people that really benefit from wearing them.
+- Color of pants, shirt, base layers (printing, shows wetness, heat from sun, hides stains).
+   - If you concealed carry printing is more of a factor than for the rest of us. Darker colors don't print as much.
+   - Lighter colors show wetness more.
+   - Lighter colors reflect sunlight better and don't heat up as fast.
+   - Most stains from everyday life (at least in my experience) are reddish or brownish: blood, ketchup, tomato sauce, chocolate, etc. Choosing a dark red or maroon color is a good way to handle these types of stains. (You should obviously try to wash out spills etc. as soon as possible).
+      - Some people argue for white since it can be bleached if you stain it. The problem is that it shows stains so well that stains will be very visible until you do this. So unless you always carry around a spare shirt to change into, you'll have very unprofessional stains quite visible.
+- How baggy should clothing be?
+   - Tight clothing wicks moisture off the skin better.
+   - Baggy clothing allows for more air-cooling via convection.
+   - Tight clothing is bad if you're not in good shape -- if you gain weight, you may not want to or be able to wear it.
+   - Baggy, untucked shirts make it much easier to conceal a firearm.
+- Color of underwear? Socks?
+   - Underwear should be some dark color that doesn't stain. (Nobody likes underwear stains). Black underwear does this best.
+   - Socks should be a professional color to make them transferable across contexts. Dark grey is my preference (since it goes with both khaki and navy/black), but black is always safe too.
 - Color: psychological factors (look more intelligent, etc.). Actual science behind this?
+   - Need to do more research, but appears to be split. Some support for sports teams succeeding if they wear red.
 - Is there any purpose to shirt collars?
-- Tencel Research
-   - Surface of tencel hydrophilic or hydrophobic, how this affects feeling against skin
-   - Hygroscopic — measure of water absorption (look at Lenzing lit.: does wool absorb more vapor than Tencel?)
-   - Can a shirt be 100% Tencel, or does it need that 5% spandex? How does this affect odor resistance longterm?
+   - If you need to hang something around your neck, particularly if it is a load of some kind, a collar can ensure no skin contact. 
+   - Collars also give more sun protection, especially if turned up.
+   - Other than these things, not really.

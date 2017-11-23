@@ -7,29 +7,47 @@ title: Multitools
 <div class="center">
 
    <h1>Multitools</h1>
-   
+
    <a href="https://github.com/StevenTammen/steventammen.github.io/edit/master/pages/multitools.md" target="_blank">
      <img src="https://steventammen.github.io/assets/images/GitHub.png" height="30" width="30">
    </a> &nbsp; &nbsp;
-   
+
    <a href="http://prose.io/#StevenTammen/steventammen.github.io/edit/master/pages/multitools.md" target="_blank">
      <img src="https://steventammen.github.io/assets/images/Prose.png" height="30" width="30">
    </a>
-   
+
 </div>
 
-## Current Picks
+## Outline
 
-### Compact
+- [Please Note: This Page Is In Progress](#please-note--this-page-is-in-progress)
+- [Discussed Models](#discussed-models)
+- [LM Pros](#lm-pros)
+- [LM Possible Improvements](#lm-possible-improvements)
+- [Vic Pros](#vic-pros)
+- [Vic Possible Improvements](#vic-possible-improvements)
+- [Multitools' Role in EDC](#multitools--role-in-edc)
+- [My Picks](#my-picks)
 
-[Leatherman Squirt PS4](https://www.amazon.com/Leatherman-831195-Squirt-Black-Keychain/dp/B0032Y2OT6/)
+## Please Note: This Page Is In Progress
 
-### Full size
+This means, among other things, that:
+
+- Some of the content is not fleshed out, so you should not read more into things than exactly what is there.
+- Some sections might have things marked as "TODOs" (e.g., questions or things that must be done). These TODOs should not be taken to be representative of truth in any respect, and indicate areas that need more research and thought. If you have particular knowledge in things related to these, you can help! (Please see: [contribution guidelines](https://github.com/StevenTammen/steventammen.github.io#contribution-guidelines)).
+- There probably will not be any section that pulls everything together in an easily understandable way.
+
+This does not mean that:
+
+- I am not firmly convinced of the veracity of all the content currently published. If I am not sure of something, I don't push it to the website. (This doesn't mean that I won't ever change my positions if I come to learn that I am in error, but that I strive, as much as possible, to only push content to the website if I am absolutely certain that it is true).
+- This page cannot be helpful to you in its present form. If you are aware of the limitations of the current state, you may find this page helpful long before I officially publish it.
+
+## Discussed Models
 
 LM = [Leatherman Charge TTI](https://www.amazon.com/Leatherman-Charge-Multi-Tool-Stainless-Leather/dp/B019EN7RWC) <br/>
-Vic = [Victorinox SwissTool Spirit](https://www.amazon.com/gp/product/B0002T5YNW/)
+Vic = [Victorinox SwissTool Spirit](https://www.amazon.com/gp/product/B0002T5YNW/) <br/>[Leatherman Squirt PS4](https://www.amazon.com/Leatherman-831195-Squirt-Black-Keychain/dp/B0032Y2OT6/)
 
-### LM Pros
+## LM Pros
 
 - One-handed opening blades
 - S30v steel
@@ -40,12 +58,12 @@ Vic = [Victorinox SwissTool Spirit](https://www.amazon.com/gp/product/B0002T5YNW
 - Better wire cutters
 - A pocket clip that is one of the best available on any pocket knife.
 
-### LM Possible Improvements
+## LM Possible Improvements
 
 - Make smaller tools accessible without opening
 - Make bit drivers less stubby so that they could get into tighter places
 
-### Vic Pros
+## Vic Pros
 
 - All tools accessible from outside
 - All tools lock
@@ -53,7 +71,7 @@ Vic = [Victorinox SwissTool Spirit](https://www.amazon.com/gp/product/B0002T5YNW
 - Handle design is very good for pliers ergonomically -- doesn’t really inhibit use of other tools
 - Rounded edges are comfortable to hold
 
-### Vic Possible Improvements
+## Vic Possible Improvements
 
 - Move away from riveting everything together -- use something that can be loosened/tightened/taken apart/replaced
 - Slightly narrower pliers
@@ -98,3 +116,8 @@ Vic = [Victorinox SwissTool Spirit](https://www.amazon.com/gp/product/B0002T5YNW
    - Cutting Hook (for cutting things without the fear of scoring them like you might wth a knife -- more important to have if you don't carry a small plain edge, but useful even if you do just to be sure)
    - Wire Stripping/Scraping Tool (See SwissTool Spirit)
 - Some people think bit-drivers are the best thing since sliced bread, but for an EDC multitool, they don't make very much sense (since you only commonly need a medium phillips and small/medium/large flatheads). A socket/driver combination tool ([example](https://www.amazon.com/gp/product/B00327HT5W/)) makes way more sense.
+
+## My Picks
+
+- [Victorinox SwissTool Spirit](https://www.amazon.com/gp/product/B0002T5YNW/) 
+- [Leatherman Squirt PS4](https://www.amazon.com/Leatherman-831195-Squirt-Black-Keychain/dp/B0032Y2OT6/)

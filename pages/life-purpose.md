@@ -7,23 +7,40 @@ title: Life Purpose
 <div class="center">
 
    <h1>Life Purpose</h1>
-   
+
    <a href="https://github.com/StevenTammen/steventammen.github.io/edit/master/pages/life-purpose.md" target="_blank">
      <img src="https://steventammen.github.io/assets/images/GitHub.png" height="30" width="30">
    </a> &nbsp; &nbsp;
-   
+
    <a href="http://prose.io/#StevenTammen/steventammen.github.io/edit/master/pages/life-purpose.md" target="_blank">
      <img src="https://steventammen.github.io/assets/images/Prose.png" height="30" width="30">
    </a>
-   
+
 </div>
 
 ## Outline
 
-The arguments on this page are arranged in the following order:
+- [Please Note: This Page Is In Progress](#please-note--this-page-is-in-progress)
+- [Argument 1: Objective morality exists](#argument-1--objective-morality-exists)
+  * [Propositon 1: If objective morality does not exist, then no actions are worse than any other actions](#propositon-1--if-objective-morality-does-not-exist--then-no-actions-are-worse-than-any-other-actions)
+  * [Proposition 2: Some actions are worse than other actions](#proposition-2--some-actions-are-worse-than-other-actions)
+  * [Conclusion: Objective morality exists](#conclusion--objective-morality-exists)
+- [Argument 2: It is possible to have a life purpose](#argument-2--it-is-possible-to-have-a-life-purpose)
+  * [Proposition 1: Knowing right is a necessary but not sufficient condition for having right intent](#proposition-1--knowing-right-is-a-necessary-but-not-sufficient-condition-for-having-right-intent)
+  * [TODO: Finish filling out argument and explaining](#todo--finish-filling-out-argument-and-explaining)
 
-1. Objective morality exists
-2. It is possible to have a life purpose
+## Please Note: This Page Is In Progress
+
+This means, among other things, that:
+
+- Some of the content is not fleshed out, so you should not read more into things than exactly what is there.
+- Some sections might have things marked as "TODOs" (e.g., questions or things that must be done). These TODOs should not be taken to be representative of truth in any respect, and indicate areas that need more research and thought. If you have particular knowledge in things related to these, you can help! (Please see: [contribution guidelines](https://github.com/StevenTammen/steventammen.github.io#contribution-guidelines)).
+- There probably will not be any section that pulls everything together in an easily understandable way.
+
+This does not mean that:
+
+- I am not firmly convinced of the veracity of all the content currently published. If I am not sure of something, I don't push it to the website. (This doesn't mean that I won't ever change my positions if I come to learn that I am in error, but that I strive, as much as possible, to only push content to the website if I am absolutely certain that it is true).
+- This page cannot be helpful to you in its present form. If you are aware of the limitations of the current state, you may find this page helpful long before I officially publish it.
 
 ## Argument 1: Objective morality exists
 
@@ -119,7 +136,7 @@ The first proposition is true by definition. The second proposition was proved i
 1. Knowing right is a necessary but not sufficient condition for having right intent
 2. Having right intent is a necessary but not sufficient condition for doing right
 3. Doing right is a sufficient condition for having a life purpose
-5. Given that the above implications hold, it is possible to have a life purpose (i.e., if propositions 1-3 are true, the statement "I have a life purpose" can be true)
+4. Given that the above implications hold, it is possible to have a life purpose (i.e., if propositions 1-3 are true, the statement "I have a life purpose" can be true)
 
 To put this into propositions, if
 
@@ -133,7 +150,7 @@ Then
 1. i → k
 2. r → i
 3. r → l
-5. (i → k) ∧ (r → i) ∧ (r → l) ∧ l is not a contradiction
+4. (i → k) ∧ (r → i) ∧ (r → l) ∧ l is not a contradiction
 
 To show that a proposition is not a contradiction, all that is necessary is to show a single case in which the proposition is true. This can be easily done for the proposition (i → k) ∧ (r → i) ∧ (r → l) ∧ l using a truth table:
 

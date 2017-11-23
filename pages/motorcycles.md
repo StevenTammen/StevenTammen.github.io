@@ -7,20 +7,40 @@ title: Motorcycles
 <div class="center">
 
    <h1>Motorcycles</h1>
-   
+
    <a href="https://github.com/StevenTammen/steventammen.github.io/edit/master/pages/motorcycles.md" target="_blank">
      <img src="https://steventammen.github.io/assets/images/GitHub.png" height="30" width="30">
    </a> &nbsp; &nbsp;
-   
+
    <a href="http://prose.io/#StevenTammen/steventammen.github.io/edit/master/pages/motorcycles.md" target="_blank">
      <img src="https://steventammen.github.io/assets/images/Prose.png" height="30" width="30">
    </a>
-   
+
 </div>
 
-## Current Pick
+## Outline
 
-- [Zero DSR](http://www.zeromotorcycles.com/zero-ds/specs.php?model=dsr)
+- [Please Note: This Page Is In Progress](#please-note--this-page-is-in-progress)
+- [Safety](#safety)
+- [Electric Motorcycles](#electric-motorcycles)
+- [Windscreens and Fairings](#windscreens-and-fairings)
+- [Hand Guards](#hand-guards)
+- [Riding Position](#riding-position)
+- [Loud Pipes](#loud-pipes)
+- [My Pick](#my-pick)
+
+## Please Note: This Page Is In Progress
+
+This means, among other things, that:
+
+- Some of the content is not fleshed out, so you should not read more into things than exactly what is there.
+- Some sections might have things marked as "TODOs" (e.g., questions or things that must be done). These TODOs should not be taken to be representative of truth in any respect, and indicate areas that need more research and thought. If you have particular knowledge in things related to these, you can help! (Please see: [contribution guidelines](https://github.com/StevenTammen/steventammen.github.io#contribution-guidelines)).
+- There probably will not be any section that pulls everything together in an easily understandable way.
+
+This does not mean that:
+
+- I am not firmly convinced of the veracity of all the content currently published. If I am not sure of something, I don't push it to the website. (This doesn't mean that I won't ever change my positions if I come to learn that I am in error, but that I strive, as much as possible, to only push content to the website if I am absolutely certain that it is true).
+- This page cannot be helpful to you in its present form. If you are aware of the limitations of the current state, you may find this page helpful long before I officially publish it.
 
 ## Safety
 
@@ -55,7 +75,7 @@ title: Motorcycles
     - Again, visible gear, especially tail-lights
     - When you stop behind a car ahead of you, leave enough space to take evasive actions if someone behind isn’t stopping. Check your mirrors when stopped.
     - Position yourself away from oncoming traffic, if applicable.
-    
+
 ## Electric Motorcycles
 
 - You should watch [this video](https://www.youtube.com/watch?v=1ggZEfq9JX4). Electric bikes destroy ICE bikes across every single metric you can compare them on (except for ease of refueling -- which doesn't matter for ranges at or below ~100 miles -- and up-front cost). Like the guy in the video, it's not the environmental stuff or even low maintenance that draws me to electric bikes, but the instant torque at all engine RPMs and lack of shifting required, particularly when cornering: not having to shift lets you just focus on your lines instead of worrying about downshifting to get more torque, etc. The other stuff is just icing on the cake.
@@ -126,3 +146,7 @@ title: Motorcycles
 - Many situations where loud pipes might have some use in protecting you (e.g., riding right next to someone/in their blind spot such that they have the possibility of merging into you) are completely avoided by proper defensive driving. You should strive to never be in close proximity with cars for extended distances, especially in their blindspots, unless you have to be. Same deal goes for being by bicycles: try to put space between you and them in whatever way possible. Quiet pipes won’t pose as large a threat to them if you take pains to minimize the times you are near them.
 - Loud pipes can startle cyclists or other drivers and cause them to act unexpectedly (horns can arguably have the same effect, but you don’t use your horns with great frequency, and drivers/cyclists/pedestrians, especially those who have been at it for a significant amount of time, have a reflex reaction to horns along the lines of — “I better move back over / not continue walking forward, someone is already occupying/will soon occupy that space”). Surprise rarely leads to positive reactions (one of the reasons it is so important in military strategy), so thus we want to avoid surprising other people on the road. Loud pipes (especially combined with hooliganry) do the opposite. (On the other hand, quietly coming up behind someone has the potential to surprise them too, so there are arguments on both sides).
 - Wind noise at highway speed will drown out reasonably loud exhaust (in the ballpark of 80-85 dB), and hearing is thus similar to that of bikes with quiet exhaust, but at lower speeds, riders of quieter bikes will have a much better capacity to hear things around them. Most accidents happen at lower speeds in an urban (rather than freeway) environment. (The extent to which better hearing will improve your safety or the safety of others is of course debatable, but being able to hear better is certainly superior to not being able to hear well. I am of the opinion that any additional information I have is worth more than what other people have because I control myself but have no way to influence them; I can make more efficient use of additional auditory input than other drivers, on the whole).
+
+## My Pick
+
+- [Zero DSR](http://www.zeromotorcycles.com/zero-ds/specs.php?model=dsr)

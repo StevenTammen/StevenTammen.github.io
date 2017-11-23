@@ -7,20 +7,48 @@ title: Watches
 <div class="center">
 
    <h1>Watches</h1>
-   
+
    <a href="https://github.com/StevenTammen/steventammen.github.io/edit/master/pages/watches.md" target="_blank">
      <img src="https://steventammen.github.io/assets/images/GitHub.png" height="30" width="30">
    </a> &nbsp; &nbsp;
-   
+
    <a href="http://prose.io/#StevenTammen/steventammen.github.io/edit/master/pages/watches.md" target="_blank">
      <img src="https://steventammen.github.io/assets/images/Prose.png" height="30" width="30">
    </a>
-   
+
 </div>
 
-## Current Pick
+## Outline
 
-- [Casio Lineage Solar Multiband 6 Watch](https://www.amazon.com/gp/product/B00M0ESOCA/)
+- [Please Note: This Page Is In Progress](#please-note--this-page-is-in-progress)
+- [Watch Type](#watch-type)
+- [Case](#case)
+- [Crystal](#crystal)
+- [Bezels](#bezels)
+- [Waterproofing](#waterproofing)
+- [Face](#face)
+- [Movement](#movement)
+- [12 vs. 24 Hour Format](#12-vs-24-hour-format)
+- [Power](#power)
+- [Illumination](#illumination)
+- [Straps](#straps)
+- [Mechanical Watch Specific](#mechanical-watch-specific)
+- [Options/Extensibility](#options-extensibility)
+- [Todo:](#todo-)
+- [My Pick](#my-pick)
+
+## Please Note: This Page Is In Progress
+
+This means, among other things, that:
+
+- Some of the content is not fleshed out, so you should not read more into things than exactly what is there.
+- Some sections might have things marked as "TODOs" (e.g., questions or things that must be done). These TODOs should not be taken to be representative of truth in any respect, and indicate areas that need more research and thought. If you have particular knowledge in things related to these, you can help! (Please see: [contribution guidelines](https://github.com/StevenTammen/steventammen.github.io#contribution-guidelines)).
+- There probably will not be any section that pulls everything together in an easily understandable way.
+
+This does not mean that:
+
+- I am not firmly convinced of the veracity of all the content currently published. If I am not sure of something, I don't push it to the website. (This doesn't mean that I won't ever change my positions if I come to learn that I am in error, but that I strive, as much as possible, to only push content to the website if I am absolutely certain that it is true).
+- This page cannot be helpful to you in its present form. If you are aware of the limitations of the current state, you may find this page helpful long before I officially publish it.
 
 ## Watch Type
 
@@ -43,7 +71,7 @@ title: Watches
 - Case size: 38-40mm is proably the sweet spot of readability vs bulkiness.
    - Smaller = lighter, less likely to get in the way, impair movement, hit things, etc. But harder to read at a glance.
    - Bigger = easier to read. But heavier, bulkier, etc.
-   
+
 ## Crystal
 
 - Worth shelling out for a better crystal material in my opinion. Scratches on face will affect readability of watch over time, particularly with materials that are soft enough to accumulate quite a few scratches.
@@ -69,7 +97,7 @@ title: Watches
 - Traditional case-back sealing with o-rings and pressure testing is just silly. Every time watch gets opened, o-ring has to be replaced and watch must be tested (failure = possible repair costs).
 - 2-piece locking system with gasket is superior. Reusable, works 100% of the time if assembled correctly. Increasing pressures lead to better sealing. (cf. again Vostok Amphibia's design).
 - Theoretically better to have Viton for gaskets/o-rings, but kind of overkill for no very good reason. Would increase prices since compound is proprietary.
-   
+
 ## Face
 
 - Dial free from brand name and other info: best readability. Stuff can go on the back of the case.
@@ -127,14 +155,14 @@ title: Watches
    - Balance factors such as lifespan of light, drain on battery, readability, price.
    - Should light evenly.
    - Should not totally nuke night vision.
-   
+
 ## Straps
 
 - NATO, without a doubt. More secure, doesn't matter if a spring-bar breaks, extra length means you can put over sleeves etc., easily swappable/replaceable.
 - Nylon = easy to clean, strong, can be made to be comfortable.
 - Holes should have something to prevent fraying (sonic welding, e.g.).
 - Heavy duty, corrosion resistant hardware (e.g., stainless steel).
-   
+
 ## Mechanical Watch Specific
 
 - Movement should be hackable (seconds hand stops when crown is pulled out).
@@ -150,15 +178,19 @@ title: Watches
    - Should have a quick-set option
    - Should be able to set date without adjusting time
    - Keep it simple: no perpetual calendar. More moving parts/possiblity to break.
-   
+
 ## Options/Extensibility
 
 - Should have spare parts available along with the watch (spring bars, dials, replacement crystals, bezels, etc.).
 - Make as many of the aspects customizable as possible (e.g., lug  curvature).
 - Design webapp for the the designing of custom faces. Print Lume automatically with specialized printer?
 
-## Todo
+## Todo:
 
 - Jumping hours hand -- saves energy, increases hours readability (at the cost of making incremental time telling with hours hand impossible). Worth?
 - Compass bezel to aid in making more efficient directional changes based on bearing shown on watch face (for digital compass watches)
 - Think about watch features: stopwatch, countdown, better to have multiple on digital watch, split between two watches?
+
+## My Pick
+
+- [Casio Lineage Solar Multiband 6 Watch](https://www.amazon.com/gp/product/B00M0ESOCA/)

@@ -7,16 +7,41 @@ title: Screen Reading
 <div class="center">
 
    <h1>Screen Reading</h1>
-   
+
    <a href="https://github.com/StevenTammen/steventammen.github.io/edit/master/pages/screen-reading.md" target="_blank">
      <img src="https://steventammen.github.io/assets/images/GitHub.png" height="30" width="30">
    </a> &nbsp; &nbsp;
-   
+
    <a href="http://prose.io/#StevenTammen/steventammen.github.io/edit/master/pages/screen-reading.md" target="_blank">
      <img src="https://steventammen.github.io/assets/images/Prose.png" height="30" width="30">
    </a>
-   
+
 </div>
+
+## Outline
+
+- [Please Note: This Page Is In Progress](#please-note--this-page-is-in-progress)
+- [Recommended Reading](#recommended-reading)
+  * [General print vs screens](#general-print-vs-screens)
+  * [Cognitive maps](#cognitive-maps)
+- [My Hypotheses and Thoughts](#my-hypotheses-and-thoughts)
+  * [Cognitive Maps](#cognitive-maps)
+  * [Cognitive Maps and Short Term Memory Effects](#cognitive-maps-and-short-term-memory-effects)
+  * [Cognitive Maps and Long Term Memory Effects](#cognitive-maps-and-long-term-memory-effects)
+  * [Other Screen Reading Considerations](#other-screen-reading-considerations)
+
+## Please Note: This Page Is In Progress
+
+This means, among other things, that:
+
+- Some of the content is not fleshed out, so you should not read more into things than exactly what is there.
+- Some sections might have things marked as "TODOs" (e.g., questions or things that must be done). These TODOs should not be taken to be representative of truth in any respect, and indicate areas that need more research and thought. If you have particular knowledge in things related to these, you can help! (Please see: [contribution guidelines](https://github.com/StevenTammen/steventammen.github.io#contribution-guidelines)).
+- There probably will not be any section that pulls everything together in an easily understandable way.
+
+This does not mean that:
+
+- I am not firmly convinced of the veracity of all the content currently published. If I am not sure of something, I don't push it to the website. (This doesn't mean that I won't ever change my positions if I come to learn that I am in error, but that I strive, as much as possible, to only push content to the website if I am absolutely certain that it is true).
+- This page cannot be helpful to you in its present form. If you are aware of the limitations of the current state, you may find this page helpful long before I officially publish it.
 
 ## Recommended Reading
 
@@ -69,29 +94,29 @@ Cognitive maps are the determinative factor in organizing information efficientl
   - No scrolling! Scrolling leads to higher cognitive load and worse comprehension.
   - But enable a scrolling mode to allow for superior scanning ability and avoiding page breaks in the middle of sections you need to read/re-read. (Scrolling is much better for scanning a large amount of content — which is why it is so common for web pages).
   - Landscape for things that ordinarily have one column of text on two pages (like paperbacks and other books) and portrait for things where you have two/three columns on one letter-sized page (like many journal articles).
-  
+
 ### Cognitive Maps and Short Term Memory Effects
 
 - I hypothesize that there exists a "moving window" of near perfect cognitive map recall. In this state of recall, one should be able to know immediately if something is within window or not.
   - For short enough sources, the entire source may be in the window of near perfect cognitive map recall. For longer sources, it may just be most recently read part.
   - The near perfect cognitive map in the recently read window is in *short term memory* -- it will fade quickly with time. Forcing attention away (e.g., engaging in a different activity) will likely make the cognitive map decay faster. After this "short-term cognitive map" decays completely, differences in recall/information location will fade or at least be significantly reduced. ⇒ Discrimination between "recent" (i.e., in window = very complete cognitive map) and "not recent" (i.e., not in window = less complete cognitive map) is *temporary* and not encoded in memory for longer term information retention.
   - This concept likely works on a spectrum, with a less clear cut window (i.e., it is likely a continuum towards less good cognitive maps rather than a one-and-done cutoff point). General idea:
-  
+
 <img src="/assets/images/screen-reading/Memory_CognitiveMaps.png">
-  
+
 - The magnitude of the enhanced cognitive map due to recent reading effect, the range of reading that effect applies too, how long it takes to decay under normal conditons, and how long it takes to decay with changes in attention probably all vary on continuums according to individual and circumstantial factors.
 - Recap: Ability to judge information location as "recent" or "not recent" stems from enhanced cognitive maps that are an artifact of recent reading and will fade over time. After a certain cutoff point (going back in text(s) read), there will be no discernable difference in ability to locate information over "baseline" levels. After sufficient time has past/someone has focused on something else to the detriment of temporary cognitive maps long enough (or some combination thereof), all text will be at the baseline level.
   - All this explains how in the aforementioned study where there was a series of “nearly linear” pages (approximating sections read in order in a chapter, e.g.), there was not a strong correlation between how close first guesses were to actual location and the number of pages opened. (Expected behavior: that guesses in same general area of linear progression even if not in right article first time would lead to less overall pages needing to be opened — because subjects remembered content proximity and relative time distance, i.e., whether the target was “near the beginning of the progression” or “near the end of the progression”).
     - “When participants were wrong in their ﬁrst guess about the location of a target fact [*i.e., they were outside of their near perfect recall window*], the efﬁciency of their search (in terms of the number of pages that they looked in) was no better than might be expected by chance, and not helped by prior reading of the document. These ﬁndings suggest that recall of location is ‘all or nothing’ [*which is to be expected at "baseline" levels without enhanced temporary cognitive maps*]. This suggestion is supported by the correlational analysis in Experiment 2 which found no relation between the size of the error in the page ﬁrst opened and the length of the subsequent search in terms of number-of-pages visited.”
     - “This evidence for structure maps in terms of documents ﬁrst searched in does not extend to the number of pages opened during search. When participants do not know where ﬁrst to look, their performance appears to be at chance, with some extremely long searches.”
     - “The writing and scale-checking activities served to separate the read and search phase, by about 15 min. Once these were completed the search phase began.”
-    
+
 ### Cognitive Maps and Long Term Memory Effects
 
  - Decays in cognitive maps from long term memory are an entirely different phenomenon from the loss of the temporary enhanced cognitive maps just discussed (and must be treated as separate). Now we are talking about memory decay that explains how you are better able to remember what you read several hours ago vs. 3 days ago.
  - These memory differences due to decay from memory in the long term are probably much smaller in magnitude than the decays experienced from enhanced cognitive maps dropping from short term memory.
  - Differences depend on lurking variables (e.g., the strength of different neural networks with respect to things in the cognitive map can vary, meaning that some information is better remembered because of better interconnectivity with already assimilated knowledge).
-    
+
 ### Other Screen Reading Considerations 
 
 - Ought to have intuitive highlighting, underlining, annotation (with ability to link to words, sentences, or paragraphs; ability to convert handwriting to text — for search etc. — but keep handwriting; ability to put links in notes; ability to customize how/when annotations show, hover bahvior, etc.), bookmarking (with instantaneous ability to set and remove multiple bookmarks, some means for bookmarks to be descriptive of the text they mark, and easy commands to go to specific bookmarks). Should be able to press and drag for highlighting and underlining, but also be able to use tap selection: 1 tap = word, 2 taps = sentence, 3 taps = paragraph. (Be able to adjust how fast taps must be in succession to register).

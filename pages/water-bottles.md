@@ -7,22 +7,42 @@ title: Water Bottles
 <div class="center">
 
    <h1>Water Bottles</h1>
-   
+
    <a href="https://github.com/StevenTammen/steventammen.github.io/edit/master/pages/water-bottles.md" target="_blank">
      <img src="https://steventammen.github.io/assets/images/GitHub.png" height="30" width="30">
    </a> &nbsp; &nbsp;
-   
+
    <a href="http://prose.io/#StevenTammen/steventammen.github.io/edit/master/pages/water-bottles.md" target="_blank">
      <img src="https://steventammen.github.io/assets/images/Prose.png" height="30" width="30">
    </a>
-   
+
 </div>
 
-## Current Pick
+## Outline
 
-- [Grayl Filtration Bottle](https://www.amazon.com/GRAYL-Ultralight-Purifier-FILTER-BOTTLE/dp/B01C6HAYCS/)
-   - Should probably wait until fluoride filtration gets implemented (in the works?). For backcountry use fluoride isn't a factor, but for municipal use, where some places still insist on flourinating water, lack of flouride filitration is problematic.   
-   
+- [Please Note: This Page Is In Progress](#please-note--this-page-is-in-progress)
+- [Materials Concerns](#materials-concerns)
+  * [Plastics: Bisphenols, Pthalates, and Endocrine Disruption](#plastics--bisphenols--pthalates--and-endocrine-disruption)
+  * [Stainless steel](#stainless-steel)
+  * [Borosilicate Glass](#borosilicate-glass)
+  * [Silicone](#silicone)
+- [Mouth Width](#mouth-width)
+- [TODO:](#todo-)
+- [My Pick](#my-pick)
+
+## Please Note: This Page Is In Progress
+
+This means, among other things, that:
+
+- Some of the content is not fleshed out, so you should not read more into things than exactly what is there.
+- Some sections might have things marked as "TODOs" (e.g., questions or things that must be done). These TODOs should not be taken to be representative of truth in any respect, and indicate areas that need more research and thought. If you have particular knowledge in things related to these, you can help! (Please see: [contribution guidelines](https://github.com/StevenTammen/steventammen.github.io#contribution-guidelines)).
+- There probably will not be any section that pulls everything together in an easily understandable way.
+
+This does not mean that:
+
+- I am not firmly convinced of the veracity of all the content currently published. If I am not sure of something, I don't push it to the website. (This doesn't mean that I won't ever change my positions if I come to learn that I am in error, but that I strive, as much as possible, to only push content to the website if I am absolutely certain that it is true).
+- This page cannot be helpful to you in its present form. If you are aware of the limitations of the current state, you may find this page helpful long before I officially publish it.
+
 ## Materials Concerns
 
 ### Plastics: Bisphenols, Pthalates, and Endocrine Disruption
@@ -71,7 +91,11 @@ title: Water Bottles
    - <http://www.whiteblaze.net/forum/showthread.php/115595-Wide-or-narrow-mouth-bottles-and-why>
 
 
-## TODO
+## TODO:
 
 - Collapsible/folding water bottles?
 - Best stainless double wall vacuum insulated water bottle?
+
+## My Pick
+
+- [Grayl Filtration Bottle](https://www.amazon.com/GRAYL-Ultralight-Purifier-FILTER-BOTTLE/dp/B01C6HAYCS/).  

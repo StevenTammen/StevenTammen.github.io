@@ -7,18 +7,61 @@ title: Keyboard Layouts
 <div class="center">
 
    <h1>Keyboard Layouts</h1>
-   
+
    <a href="https://github.com/StevenTammen/steventammen.github.io/edit/master/pages/keyboard-layouts.md" target="_blank">
      <img src="https://steventammen.github.io/assets/images/GitHub.png" height="30" width="30">
    </a> &nbsp; &nbsp;
-   
+
    <a href="http://prose.io/#StevenTammen/steventammen.github.io/edit/master/pages/keyboard-layouts.md" target="_blank">
      <img src="https://steventammen.github.io/assets/images/Prose.png" height="30" width="30">
    </a>
-   
+
 </div>
 
-## Planned Eventual Structure For This Page
+## Outline
+
+- [Please Note: This Page Is In Progress](#please-note--this-page-is-in-progress)
+- [Tentative Eventual Structure For This Page](#tentative-eventual-structure-for-this-page)
+- [Pre-optimization Considerations](#pre-optimization-considerations)
+- [Reasons Why You Should Optimize](#reasons-why-you-should-optimize)
+  * [Reduced Typing Effort](#reduced-typing-effort)
+  * [Reduced Risk of RSI](#reduced-risk-of-rsi)
+  * [Increased Typing Speed](#increased-typing-speed)
+- [Reasons Why You Should Not Optimize](#reasons-why-you-should-not-optimize)
+  * [Priorities](#priorities)
+  * [You May Type Too Little For Optimization/Switching To Be Worth It](#you-may-type-too-little-for-optimization-switching-to-be-worth-it)
+  * [You May Be Better Served By Learning Stenography](#you-may-be-better-served-by-learning-stenography)
+  * [The Difficulty of Retraining Your Fingers](#the-difficulty-of-retraining-your-fingers)
+  * [QWERTY’s Ubiquitousness](#qwerty-s-ubiquitousness)
+  * [The Animosity of Others](#the-animosity-of-others)
+  * [Most Speed Considerations Are Layout Agnostic](#most-speed-considerations-are-layout-agnostic)
+    + [Practice](#practice)
+    + [Targeting Weaknesses](#targeting-weaknesses)
+    + [Text Expansion](#text-expansion)
+    + [Number and Symbol Layers](#number-and-symbol-layers)
+    + [Conclusion](#conclusion)
+- [People Who Should Always Learn An Optimized Layout](#people-who-should-always-learn-an-optimized-layout)
+- [Prior Studies of Keyboard Layouts](#prior-studies-of-keyboard-layouts)
+- [Base Layer](#base-layer)
+  * [TODO: command characters](#todo--command-characters)
+  * [Setting up](#setting-up)
+  * [Letter Layout Comparison](#letter-layout-comparison)
+  * [Filling In Punctuation](#filling-in-punctuation)
+
+## Please Note: This Page Is In Progress
+
+This means, among other things, that:
+
+- Some of the content is not fleshed out, so you should not read more into things than exactly what is there.
+- Some sections might have things marked as "TODOs" (e.g., questions or things that must be done). These TODOs should not be taken to be representative of truth in any respect, and indicate areas that need more research and thought. If you have particular knowledge in things related to these, you can help! (Please see: [contribution guidelines](https://github.com/StevenTammen/steventammen.github.io#contribution-guidelines)).
+- There probably will not be any section that pulls everything together in an easily understandable way.
+
+This does not mean that:
+
+- I am not firmly convinced of the veracity of all the content currently published. If I am not sure of something, I don't push it to the website. (This doesn't mean that I won't ever change my positions if I come to learn that I am in error, but that I strive, as much as possible, to only push content to the website if I am absolutely certain that it is true).
+- This page cannot be helpful to you in its present form. If you are aware of the limitations of the current state, you may find this page helpful long before I officially publish it.
+
+## Tentative Eventual Structure For This Page
 
 - Pre-optimization Considerations
    - Reasons Why You Should Optimize
@@ -119,7 +162,7 @@ title: Keyboard Layouts
    - Character frequencies are based on typing out all words; do not take into account text expansion/briefs
    - Writing Corpuses Change Over Time
    - Individual Physiological Factors Change Over Time (e.g., Arthritis)
-   
+
 ## Pre-optimization Considerations
 
 Before you spend time optimizing the character layout of your keyboard, you need to first make sure that you have a [well-designed keyboard](https://steventammen.com/keyboards/), and that your [work environment is setup properly](https://steventammen.com/work-environment/). Failing to account for these things (which are really more important), no matter how good your character layout ends up being, will put you at a much higher risk for Repetitive Stress Injury (RSI) and Carpal Tunnel Syndrome (CTS).
@@ -799,157 +842,3 @@ While these 4 are about the same, they get noticeably worse from here (more same
 People who do a lot of numerical data entry will want the period in a more favorable position. If you use either character in hotstrings, this will also have an effect. As will be discussed below, I use the period in place of the semicolon when entering Bible verse references via hotstring, so *for me*, it makes a lot more sense to have the period in the favorable position -- all the v; usage will fall under the period, meaning that "period use" (i.e., use of the key in total rather than the character) will far outweigh "comma use." 
 
 If you hadn't picked up on it yet, these things vary by individual, so what works best for me may not work best for you. Part of the reason why I'm going through all the effort of explaining how I went about my own layout design is to show how it can be done on an individual basis.
-
-# TODO
-
-- Add pictures and files above, proofread, polish
-- Transfer in progress thoughts (diacritics, use of emphasis, etc.) onto this page
-- Work on below
-
-## Unorganized Thoughts
-
-### Tap vs. hold:
-
-- For the sake of easy numbers, let’s assume a few things:
-   - Selecting a key to press takes 0.25 seconds (the decisionmaking time to press this key instead of that key )
-      - The decisionmaking time for a second down movement of a key will be less, assuming the presses are next to each other in the key-stream (i.e., aa or aba instead of abca or abcda). Presses directly contiguous take between 0 and 0.125 seconds rather than normal 0.25; presses indirectly contiguous take between 0.125 and 0.25 seconds. These reductions are due to the fact that the cognitive load of this second press is less than acquiring an entirely different key to press.
-   - The decisionmaking process for pressing down another key begins as soon as the down movement for the prior key begins, or, in the case of a key getting pressed for a second time, as soon as the first up movement is completed, or, in the case of same finger, as soon as the up movement of the first key is completed.
-   - each down movement takes 0.25 seconds to complete 
-      - Deciding to release a key takes 0 seconds if done immediately after pressing it, and between 0 and 0.125 seconds if not done immediately after pressing it.
-   - Each up movement takes 0.25 seconds to complete
-   - For cases of same finger, it takes between 0.125 and 0.25 seconds to move the finger in question from one location to another
-- TODO: add Excel Results Sheet
-
-### Available double-tap triggers:
-
-- ,,
-- ..
-- yy
-- jj
-- xx
-- qq
-
-### Available double-tap triggers when not in code mode:
-- ((
-- ))
-- ''
-- ""
-
-Not in code mode: keyboard/program keeps track if inside unclosed quotes, “ key will then use single quote to automatically nest (allows us to use ‘ key in accents). “” —> “‘
-
-Redesign Vim modal editing by matching most frequent commands to most frequent letters/symbols, assuming that these letters will be placed in favorable positions on kb layouts, making the vim bindings (relatively) layout independent. < Job for more dedicated/full-time person, marginal benefit not worth marginal cost for individuals.
-
-Command keys (Enter, Tab, Bkspc, Del) go on outer pinkies because don’t want to press them accidentally, not used in rolls/key combinations. Enter goes opposite punctuation. Also frequency considerations.
-
-TODO: add table of frequency of letters that start and begin words. Show how consonant (right) side is always more likely to start and begin words, and therefore punctuation and leading/trailing symbol characters (\*/ etc. for Org, / for URLS, etc.) should be on vowel side.
-
-## Other Languages: Goal
-
-To be able to type Latin, German, French, Italian, and Spanish on the normal English layer without dead keys or other complicated methods of character entry and without interfering with Markdown, Org, or LaTeX markup syntax. As much as allowable by optimization constraints, the characters should be easy to memorize (:e —> ë rather than ^e —> ë) and consistent (if ]e —> œ, then it would make sense to use ]a —> æ; pattern: ] + letter —> ligature).
-
-### Character priority:
-
-- ,{letter}
-- .{letter}
-- ){letter}
-- {letter}(
-- ‘{letter}
-- :{letter}  =  {letter}\`
-- characters on non-thumb keys on Code and Sym layers, prioritized by memorability (see below)
-
-Can’t use $ (thumb key > other fingers) since it is used in LaTeX for the inline/display modes of mathematical expressions. (It would be possible to track the opening/closing similar to \` code blocks in MD, but in some circumstances you might want to retain the ability to write accents within an expression.)
-
-Thus far in my layout, ,{letter} is being used to jump into the navigation layer/toggle normal mode in Vim, .{letter} is being used to jump into Greek/Hebrew mode, and ){letter} is being used in command mode. The navigation and command modes are obviously more important than diacritics, and for me the Greek/Hebrew mode is more important as well since I type these languages more frequently than non-English languages with the Latin alphabet (including Latin itself). YMMV
-
-### Memorability considerations:
-- \| looks like a macron
-- ( looks like a breve or inverted breve
-- ) looks like a breve or inverted breve
-- { looks kind of like a caron
-- } looks kind of like a caron
-- : looks like an umlaut/a dieresis
-- A typographically smartened ‘ in the middle of a word looks like an acute accent (ex’ample)
-- \` looks like a grave accent
-- ^ looks like a circumflex accent for Latin scripts (the Greek/Cyrillic circumflex is a tilde accent or inverted breve) or inverted caron
-- ~ looks like a tilde accent/the top part of the Spanish letter eñe (ñ)
-- The Spanish letter eñe (ñ) looks like n
-- , looks like the tail used to form a French c-cedilla (ç), a Romanian t-comma (ț), and a Romanian s-comma (ș).
-- A c-cedilla (ç) looks like c, a t-comma (ț) looks like t, and an s-comma (ș) looks like s.
-- The German ß is phonetically similar to s, but looks kind of like a capital B
-- / looks like the slash in the Norwegian/Danish ø
-- \ looks like the slash in the Norwegian/Danish ø, except facing the wrong way
-- 0 looks like the circle above the Norwegian/Danish/Swedish å
-- The Spanish inverted question mark (¿) looks like ?
-- The Spanish inverted exclamation mark (¡) looks like !
-
-### Accents
-
-(in order of frequency: Latin > German, French, Italian > Spanish; presupposing prose mode not code mode; organized by decreasing freq. below)
-
-- macron
-   - o(
-   - ( never used after letter
-- acute accent
-   - ‘o
-   - ‘ only used before t, s, ve
-- umlaut/dieresis
-   - :o
-   - : never used before letter
-- grave accent
-   - o\`
-   - \` after resets hand for next, code
-- circumflex
-   - ^o
-   - ^ before follows superscript ^{}
-
-Track open \`code blocks\` (markdown) similar to open “. Code mode activated (and hence accents disabled, including grave) in open code blocks.
-
-Brackets are not used with numerical superscripts (e.g., 1.2 x 10^8) in normal use. However, when the superscript is text, brackets become necessary to eliminate ambiguity: this^superscripted text vs. this^{superscripted text}. Thus, ^ before will never cause conflicts since text based superscripts will always use brackets.
-
-No breve is needed since the absence of a macron indicates a short syllable.
-
-### Letters and Ligatures 
-
-(in order of frequency: Latin > German, French, Italian > Spanish; presupposing prose mode not code mode)
-
-German
-
-- ß eszett
-   - s(
-   - ( >> ‘ for these: ‘s, bot diag>top
-
-French
-
-- ç c-cedilla
-   - c(
-- œ oe ligature
-   - ]e
-   - ] before rather than [ after avoids SF
-- æ ae ligature
-   - ]a 
-
-Spanish
-
-- ñ eñe
-   - n(
-- ¿ inverted ?
-   - ?{letter}
-- ¡ inverted !
-   - !{letter}
-
-You should customize the typing of diacritics for your use case by looking at character frequency. Since most folks have no use for an automatic layer for Greek/Hebrew and also don’t need macrons, .{letter} and {letter}( should be used for different things.
-
-## Hotstrings/Briefs
-
-KB Briefing: Python script, top 100 or 200 words by freq in english language, use csv file to list word and possible briefs, check possible briefs against Spanish/French/Italian/German/Latin words, use script to match up (non-conflicting) possible briefs to the words that lead to the maximum amount of typing saved.
-
-## AHK Dual Script Modding
-
-- Sending key combinations in combinators
-- Being able to easily toggle how Dual sends keys (send-mode input vs send-mode event).
-- Making it easy to make all keys (even those that are not dual role keys) send their character on key-up rather than key-down. Consistency would make the “lag effect” (which lessens the faster you go) much easier to bear at slower speeds.
-- Figure out non-base-layer hotstrings. Also figure out how to send key combinations in key sequences (e.g., Ctrl+Bkspc, Ctrl+Del).
-- Hotstrings for “. o” —> O etc. (auto-capitalize first words of sentences)? Do with foreign letters too?
-- Make shift work with macroned letters etc.
-- Alt lock (for unicode symbols)?
-

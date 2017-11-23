@@ -7,20 +7,38 @@ title: Pencils
 <div class="center">
 
    <h1>Pencils</h1>
-   
+
    <a href="https://github.com/StevenTammen/steventammen.github.io/edit/master/pages/pencils.md" target="_blank">
      <img src="https://steventammen.github.io/assets/images/GitHub.png" height="30" width="30">
    </a> &nbsp; &nbsp;
-   
+
    <a href="http://prose.io/#StevenTammen/steventammen.github.io/edit/master/pages/pencils.md" target="_blank">
      <img src="https://steventammen.github.io/assets/images/Prose.png" height="30" width="30">
    </a>
-   
+
 </div>
 
-## Current Pick
+## Outline
 
-- [Pentel Original Quicker Clicker](http://www.pentel.com/store/quicker-clicker-mechanical-pencil-original-config) (discontinued but available on eBay)
+- [Please Note: This Page Is In Progress](#please-note--this-page-is-in-progress)
+- [Basic Idea](#basic-idea)
+- [Width](#width)
+- [Advancing mechanism](#advancing-mechanism)
+- [Research: Lamy 2000 (Pencil balance)](#research--lamy-2000--pencil-balance-)
+- [My Pick](#my-pick)
+
+## Please Note: This Page Is In Progress
+
+This means, among other things, that:
+
+- Some of the content is not fleshed out, so you should not read more into things than exactly what is there.
+- Some sections might have things marked as "TODOs" (e.g., questions or things that must be done). These TODOs should not be taken to be representative of truth in any respect, and indicate areas that need more research and thought. If you have particular knowledge in things related to these, you can help! (Please see: [contribution guidelines](https://github.com/StevenTammen/steventammen.github.io#contribution-guidelines)).
+- There probably will not be any section that pulls everything together in an easily understandable way.
+
+This does not mean that:
+
+- I am not firmly convinced of the veracity of all the content currently published. If I am not sure of something, I don't push it to the website. (This doesn't mean that I won't ever change my positions if I come to learn that I am in error, but that I strive, as much as possible, to only push content to the website if I am absolutely certain that it is true).
+- This page cannot be helpful to you in its present form. If you are aware of the limitations of the current state, you may find this page helpful long before I officially publish it.
 
 ## Basic Idea
 
@@ -54,3 +72,7 @@ title: Pencils
 - <http://www.fountainpennetwork.com/forum/topic/42931-lamy-2000-pencil/>
 - <http://www.fountainpennetwork.com/forum/index.php/topic/227631-lamy-2000-and-the-origins-of-lamy-design/>
 - <http://davesmechanicalpencils.blogspot.com/2009/09/lets-talk-mechanical-pencils-with-lamy.html>
+
+## My Pick
+
+- [Pentel Original Quicker Clicker](http://www.pentel.com/store/quicker-clicker-mechanical-pencil-original-config) (discontinued but available on eBay)
