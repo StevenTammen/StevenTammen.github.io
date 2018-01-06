@@ -40,6 +40,7 @@ This does not mean that:
 
 ## Good Options
 
+- [Iris Keyboard](https://keeb.io/products/iris-keyboard-split-ergonomic-keyboard?variant=2650505052190)
 - [Dactyl Keyboard](https://github.com/adereth/dactyl-keyboard)
 - [Kinesis Advantage 2](https://www.kinesis-ergo.com/shop/advantage2/)
 - [Unikeyboard Diverge 3](https://unikeyboard.io/product/diverge/)
@@ -99,7 +100,7 @@ This does not mean that:
 
 ## TODO: My Pick
 
-[Iris](https://keeb.io/products/iris-keyboard-split-ergonomic-keyboard?variant=2650505052190) keyboard
+[Iris Keyboard](https://keeb.io/products/iris-keyboard-split-ergonomic-keyboard?variant=2650505052190)
 
 - Bluetooth: http://handheldsci.com/kb
    - LED power consumption (should stay under 200mA): https://geekhack.org/index.php?topic=75611.0
