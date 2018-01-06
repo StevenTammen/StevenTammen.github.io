@@ -22,11 +22,11 @@ title: Links
 
 ### [alexvermeer.com](https://alexvermeer.com/)
 
-This is one of my favorite sites. Lots of useful information on a variety of topics, wth an emphasis on productivity.
+This is one of my favorite sites. Lots of useful information on a variety of topics, with an emphasis on productivity.
 
 Good pages to look at:
 
-- [Life Hacking](https://alexvermeer.com/life-hacking/) (not the lame bandwagon variety, but the real variety)
+- [Life Hacking](https://alexvermeer.com/life-hacking/)
 - [Planning](https://alexvermeer.com/8760hours/)
 - [Limiting Procrastination](https://alexvermeer.com/limit-procrastination/)
 
@@ -64,7 +64,29 @@ An excellent resource for learning philosophy. The quality is a bit uneven, as s
 
 Good pages to look at:
 
-- [Kant's Moral Philosophy](https://plato.stanford.edu/entries/kant-moral/)
+- [Metaphysics](https://plato.stanford.edu/entries/metaphysics/)
 - [Epistemology](https://plato.stanford.edu/entries/epistemology/)
-- [Plato's Ethics](https://plato.stanford.edu/entries/plato-ethics/)
-- [Pragmatism](https://plato.stanford.edu/entries/pragmatism/)
+- [Virtue Ethics](https://plato.stanford.edu/entries/ethics-virtue/)
+- [Kant's Moral Philosophy](https://plato.stanford.edu/entries/kant-moral/)
+
+### [philosophyofbrains.com](http://philosophyofbrains.com/)
+
+Philosophy of mind meets neuroscience and pedantry. What more could you want?
+
+Good pages to look at:
+
+- [Surfing Uncertainty: Prediction, Action, and the Embodied Mind](http://philosophyofbrains.com/2015/12/14/surfing-uncertainty-prediction-action-and-the-embodied-mind.aspx)
+- [Neurotypical subjective experience is caused by a hippocampal simulation](http://philosophyofbrains.com/2017/05/01/neurotypical-subjective-experience-is-caused-by-a-hippocampal-simulation.aspx) (Note: I disagree with this piece's conclusions, but find it a fascinating read)
+- [The Ontology, Epistemology, and Methodology of Linguistics](http://philosophyofbrains.com/2017/12/01/1-ontology-epistemology-methodology-linguistics.aspx)
+
+### [eatingacademy.com](http://eatingacademy.com/)
+
+Ketosis, lipidology, scientific methodology, flaws in nutritional standards, perils of observational epidemiology, and more.
+
+Good pages to look at:
+
+- [Do Calories Matter?](http://eatingacademy.com/nutrition/do-calories-matter)
+- [The straight dope on cholesterol – Part I](http://eatingacademy.com/nutrition/the-straight-dope-on-cholesterol-part-i)
+- [Ketosis – advantaged or misunderstood state? (Part I)](http://eatingacademy.com/nutrition/ketosis-advantaged-or-misunderstood-state-part-i)
+- [Ketosis – advantaged or misunderstood state? (Part II)](http://eatingacademy.com/nutrition/ketosis-advantaged-or-misunderstood-state-part-ii)
+
