@@ -42,11 +42,7 @@ title: Keyboard Layouts
     + [Conclusion](#conclusion)
 - [People Who Should Always Learn An Optimized Layout](#people-who-should-always-learn-an-optimized-layout)
 - [Prior Studies of Keyboard Layouts](#prior-studies-of-keyboard-layouts)
-- [Base Layer](#base-layer)
-  * [TODO: command characters](#todo-command-characters)
-  * [Setting up](#setting-up)
-  * [Letter Layout Comparison](#letter-layout-comparison)
-  * [Filling In Punctuation](#filling-in-punctuation)
+- [My Layout](#my-layout)
 
 ## Please Note: This Page Is In Progress
 
