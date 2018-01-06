@@ -102,15 +102,15 @@ This does not mean that:
 
 [Iris Keyboard](https://keeb.io/products/iris-keyboard-split-ergonomic-keyboard?variant=2650505052190)
 
-- Bluetooth: http://handheldsci.com/kb
-   - LED power consumption (should stay under 200mA): https://geekhack.org/index.php?topic=75611.0
+- Bluetooth: <http://handheldsci.com/kb>
+   - LED power consumption (should stay under 200mA): <https://geekhack.org/index.php?topic=75611.0>
 - Kailh Silvers with trimmed Gateron white springs (~25g actuation force, short distance to actuation, long distance to bottom out).
 - Stainless plates, with midsection for durability
-- https://www.amazon.com/Flyboys-Mapstrap/dp/B01DAMTSX4/ (Leg straps: will need attachment on back of case. Stable? Shift when standing?).
+- <https://www.amazon.com/Flyboys-Mapstrap/dp/B01DAMTSX4/> (Leg straps: will need attachment on back of case. Stable? Shift when standing?).
 - LED backlight on F-key row
-   - For instant layer identification in peripheral/at a glance, allow maximum shinethrough https://www.amazon.com/X-keys-Single-Transparent-Keycaps-pk-10/dp/B00FYO8EDC/
+   - For instant layer identification in peripheral/at a glance, allow maximum shinethrough <https://www.amazon.com/X-keys-Single-Transparent-Keycaps-pk-10/dp/B00FYO8EDC/>
 - Other keys: PimpMyKeyboard flat keys for 1u
    - No backlight on these: don’t want to work totally in dark, so backlight only useful for layer indication (waste of money/energy otherwise).
-   - https://www.quora.com/Is-working-at-a-computer-in-the-dark-bad-for-your-eyes
-- Two 1.5u keys from https://www.shapeways.com/product/CH2JJBLWM/1-x-150?optionId=27111245 for main thumb keys.
+   - <https://www.quora.com/Is-working-at-a-computer-in-the-dark-bad-for-your-eyes>
+- Two 1.5u keys from <https://www.shapeways.com/product/CH2JJBLWM/1-x-150?optionId=27111245> for main thumb keys.
 - Match colors to home positions (black everywhere but home position, white home position; however, clear F-keys, as mentioned above).
