@@ -302,6 +302,6 @@ There are no doubt other sites out there that discuss these things. I certainly 
 
 My current layout is hosted in [this repository](https://github.com/StevenTammen/hieam).
 
-While much thought has gone into the layout, I'm holding off on formally writing it all up until I have enough time to do it properly. Many factors went into design, such as character frequency, distribution of consonants and vowels in words, leader key versus modifier key considerations, consistency and cognitive load, autospacing and autocapitalization, and so forth. Most all keys are accessible from the combination of the base, shift, and number layers, with only a few infrequently used keys requiring access from a less convenient layer.
+While much thought has gone into the layout, I'm holding off on formally writing it all up until I have enough time to do it properly. Many factors went into the design, such as character frequency, distribution of consonants and vowels in words, leader key versus modifier key considerations, consistency and cognitive load, autospacing and autocapitalization, and so forth. Most all keys are accessible from the combination of the base, shift, and number layers, with only a few infrequently used keys requiring access from a less convenient layer.
 
 Please check back later for a much more thorough explanation of the design.
