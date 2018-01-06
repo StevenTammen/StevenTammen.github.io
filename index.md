@@ -7,6 +7,7 @@ title: Home
 
 ## Recent Activity
 
+01/06/18   Worked on [Keyboard Layouts](https://steventammen.com/keyboard-layouts/) and [Keyboards](https://steventammen.com/keyboards/)<br/>
 11/22/17   Slightly updated many pages. Worked a lot on [Backpacks](https://steventammen.com/backpacks/) <br/>
 09/16/17   Worked on [Keyboard Layouts](https://steventammen.com/keyboard-layouts/) <br/>
 09/06/17   Added [Keyboards](https://steventammen.com/keyboards/) <br/>
