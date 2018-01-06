@@ -300,27 +300,8 @@ There are no doubt other sites out there that discuss these things. I certainly 
 
 ## My Layout
 
-While much thought has gone into the layout below, I'm holding off on formally writing it all up until I have enough time to do it properly. Many factors went into design, such as character frequency, distribution of consonants and vowels in words, leader key versus modifier key considerations, consistency and cognitive load, autospacing and autocapitalization, and so forth. Most all keys are accessible from the combination of the base, shift, and number layers, with only a few infrequently used keys requiring access from a less convenient layer.
+My current layout is hosted in [this repository](https://github.com/StevenTammen/hieam).
 
-<div class="center">
-   <h3>Base Layer</h3>
-   <img src = "https://steventammen.com/assets/images/keyboard-layouts/base.png">
-   <h3>Number Layer</h3>
-   <img src = "https://steventammen.com/assets/images/keyboard-layouts/num.png">
-   <h3>Shift Layer</h3>
-   <img src = "https://steventammen.com/assets/images/keyboard-layouts/shift.png">
-   <h3>Command Layer</h3>
-   <img src = "https://steventammen.com/assets/images/keyboard-layouts/command.png">
-   <h3>Window Layer</h3>
-   <img src = "https://steventammen.com/assets/images/keyboard-layouts/window.png">
-   <h3>Mouse Layer</h3>
-   <img src = "https://steventammen.com/assets/images/keyboard-layouts/mouse.png">
-   <h3>Steno Layer</h3>
-   <img src = "https://steventammen.com/assets/images/keyboard-layouts/steno.png">
-</div>
+While much thought has gone into the layout, I'm holding off on formally writing it all up until I have enough time to do it properly. Many factors went into design, such as character frequency, distribution of consonants and vowels in words, leader key versus modifier key considerations, consistency and cognitive load, autospacing and autocapitalization, and so forth. Most all keys are accessible from the combination of the base, shift, and number layers, with only a few infrequently used keys requiring access from a less convenient layer.
 
-I have not yet started the last three layers (and probably won't for a while as they are not as essential), but have the others entirely completed in the form of two autohotkey scripts in this repository (remap.ahk and expand.ahk). I included my modified version of [iswitchw](https://github.com/tvjg/iswitchw), a window switching autohotkey application. My version will only pull windows from the current virtual desktop (instead of from all non-hidden windows). I used a very useful [DLL file](https://github.com/Ciantic/VirtualDesktopAccessor) for accessing virtual desktops, courtesy of Jari Pennanen. I also included my slightly tweaked versions of [Dual](https://github.com/lydell/dual), an autohotkey library that allows for the creation of dual-role keys and lag-free key combinations.
-
-The Tab switching, desktop switching, and launching capabilities included in the layout have dependencies on the Chrome extension [Fast Tab Switcher](https://chrome.google.com/webstore/detail/fast-tab-switcher/jkhfenkikopkkpboaipgllclaaehgpjf), the virtual desktop manager [Virtuawin](http://virtuawin.sourceforge.net/), and the app launcher [Launchy](http://www.launchy.net/), respectively. I did not modify any of these applications except for setting the switch to desktop hotkeys in Virtuawin to be Alt + FKey (e.g., Alt + F1 for the first virtual desktop), with the exception of the 4th virtual desktop, which uses Ctrl + F4 instead (for obvious reasons).
-
-Note that all of this is very rough at the moment, with no documentation support. I wanted to get my layout working as quickly as possible, and did not prioritize maintainability and elegance this go around. Since I haven't done any extensive unit testing, there are probably at least a few bugs in the ~4000 lines of code. Any contributions are welcome and appreciated.
+Please check back later for a much more thorough explanation of the design.
