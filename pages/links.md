@@ -40,13 +40,15 @@ Good pages to look at:
 - [Estimation Techniques](http://www.drbunsen.org/snakes-on-a-plane/)
 - [The Text Triumverate](http://www.drbunsen.org/the-text-triumvirate/)
 
-### [thesimplebrief.com](http://www.thesimplebrief.com/)
+### [thesimplebrief.com](http://www.thesimplebrief.com/) and [Melody's Associated Youtube Channel](https://www.youtube.com/channel/UCJDnq0lpZiWDhLLOyUOcwBg)
 
-Minimalism, organization, lifestyle, and stenography. One of the more true blogs on this list. I like this site a lot.
+Minimalism, organization, lifestyle, and stenography. I like these resources a lot, and consider them some of the best on minimalism and organization.
 
 Good pages to look at:
 
+- [Top Organization and Household Tips](https://www.youtube.com/watch?v=gB-cAYxtXFg)
 - [Rational Organization](http://www.thesimplebrief.com/introduction-to-organization/)
+- [Elevated Organization](https://www.youtube.com/watch?v=eVqPvh81ZZY)
 - [Rethinking Necessity](http://www.thesimplebrief.com/rethink2/)
 - [Adapting Steno Dictionaries](http://www.thesimplebrief.com/how-to-make-marks-dictionary-work-for-you/)
 
@@ -76,7 +78,7 @@ Philosophy of mind meets neuroscience and pedantry. What more could you want?
 Good pages to look at:
 
 - [Surfing Uncertainty: Prediction, Action, and the Embodied Mind](http://philosophyofbrains.com/2015/12/14/surfing-uncertainty-prediction-action-and-the-embodied-mind.aspx)
-- [Neurotypical subjective experience is caused by a hippocampal simulation](http://philosophyofbrains.com/2017/05/01/neurotypical-subjective-experience-is-caused-by-a-hippocampal-simulation.aspx) (Note: I disagree with this piece's conclusions, but find it a fascinating read)
+- [Neurotypical subjective experience is caused by a hippocampal simulation](http://philosophyofbrains.com/2017/05/01/neurotypical-subjective-experience-is-caused-by-a-hippocampal-simulation.aspx) (Note: I disagree with this piece's conclusions, but find it an excellent conversation starter when discussing philosophy of mind and consciousness with others)
 - [The Ontology, Epistemology, and Methodology of Linguistics](http://philosophyofbrains.com/2017/12/01/1-ontology-epistemology-methodology-linguistics.aspx)
 
 ### [eatingacademy.com](http://eatingacademy.com/)
