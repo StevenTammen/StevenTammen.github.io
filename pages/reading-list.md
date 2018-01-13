@@ -18,6 +18,13 @@ title: Reading List
 
 </div>
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [How This Page Is Structured](#how-this-page-is-structured)
+- [Escaping The Cave](#escaping-the-cave)
+- [Understanding The Fallibility of Human Reason](#understanding-the-fallibility-of-human-reason)
+
 ## Introduction
 
 I've never been a terribly big fan of these sorts of pages. Mostly what seems to end up happening is website authors linking to some rubbish and getting kickbacks from affiliate links. (Or, less nefariously, linking to friends' content, or content that only fits their narrow worldviews).
@@ -88,4 +95,4 @@ Book Practical Applicability: Bias and irrationality lead to poor decisionmaking
 
 Book Main Idea: Self-justification and rationalization are more powerful than most people can imagine, and occur with frightening regularity.
 
-Book Practical Applicability: Like biases and irrationality above, learning about self-justification and rationalization is unquestionably the first step to overcoming them. This book also serves as a chilling reminder that people don't suddenly wake up and find themselves evil, but slip into moral decay through a long string of almost imperceptible self-justifications and rationalizations. In otherwords, it reminds one of the banality of evil.
+Book Practical Applicability: Like biases and irrationality above, learning about self-justification and rationalization is unquestionably the first step to overcoming them. This book also serves as a chilling reminder that people don't suddenly wake up and find themselves evil, but slip into moral decay through a long string of almost imperceptible self-justifications and rationalizations. In other words, it reminds one of the banality of evil.
