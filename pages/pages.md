@@ -45,6 +45,7 @@ Note: Pages that have an asterisk before them are still in progress to some degr
 ### Learning
 
 - \*[Learning Styles](https://steventammen.com/learning-styles/)
+- [Reading List](https://steventammen.com/reading-list)
 
 ### Philosophy
 
