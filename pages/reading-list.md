@@ -77,7 +77,7 @@ One of the most important things to do after questioning what people are telling
 
 **Category Main Idea:** As humans, we are biased and irrational in many ways, with a large proportion of these being outside of most people's awareness. Consequently, many people are far more sure of themselves and their beliefs than they should be.
 
-**Category Practical Applicability:** Learning how to examine your own biases and irrational beliefs is at the heart of good decisionmaking. Learning about your own biases is also helpful in cultivating empathy for others.
+**Category Practical Applicability:** Learning how to examine your own biases, irrational beliefs, self-justifications, and so forth is critical for good decisionmaking. Learning about your own biases is also helpful in cultivating empathy for others.
 
 ### [Plato's *Apology of Socrates*](http://www.gutenberg.org/ebooks/1656)
 
