@@ -35,7 +35,7 @@ Now, I certainly don't pretend to be particularly qualified as a recommender. Bu
 
 ## How This Page Is Structured
 
-Rather than simply dump a big list of sources upon you, I have broken things out by category. Each section has a brief introduction that seeks to explain the main idea and practical applicability of the content contained theirein, and I have done the same thing for each book. While I would not impose a hard order on reading things, I would suggest reading things by category. That is, rather than skipping around all the time, it might be more valuable to focus on one overarching topic at a time. I would also suggest starting with the category titled "Escaping The Cave" if you are not familiar with such things as media bias, the influence of public relations and marketing on percepton and consumption, and so forth.
+Rather than simply dump a big list of books upon you, I have broken things out by category. Each section has a brief introduction that seeks to explain the main idea and practical applicability of the content contained theirein, and I have done the same thing for each book. While I would not impose a hard order on reading things, I would suggest reading things by category. That is, rather than skipping around all the time, it might be more valuable to focus on one overarching topic at a time. I would also suggest starting with the category titled ["Escaping The Cave"](#escaping-the-cave) if you are not familiar with such things as media bias, the influence of public relations and marketing on percepton and consumption, and so forth.
 
 ## Escaping The Cave
 
