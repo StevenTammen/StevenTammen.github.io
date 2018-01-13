@@ -20,7 +20,7 @@ title: Reading List
 
 ## Introduction
 
-I've never been a terribly big fan of these sorts of pages. Mostly what seems to end up happening is website authors linking to some rubbish and getting kickbacks from affiliate links. (Or, less nefariously, linking to friends content, or content that only fits their narrow worldviews).
+I've never been a terribly big fan of these sorts of pages. Mostly what seems to end up happening is website authors linking to some rubbish and getting kickbacks from affiliate links. (Or, less nefariously, linking to friends' content, or content that only fits their narrow worldviews).
 
 With this being said, I am very much in favor of reading multiple people's views, and believe that cultivated reading lists are a decidedly good thing when done well. We live in an age of information overload -- it can be difficult to cut through the vast swathes of useless and/or manipulative writings to find productive things to read. Starting with someone else's list of "greatest hits" is a good way to efficiently jumpstart productive reading.
 
@@ -82,10 +82,10 @@ Book Practical Applicability: A classic work, Plato's *Apology of Socrates* give
 
 Book Main Idea: In a rapidly changing world, the biases and stereotypes that help us process an overload of complex information inevitably distort what we would like to believe is reality.
 
-Book Practical Applicability: Bias and irrationality lead to poor decisionmaking and overcondifence. Becoming aware of ones own biases and irrational beliefs is more than half the battle to overcoming them.
+Book Practical Applicability: Bias and irrationality lead to poor decisionmaking and overcondifence. Becoming aware of one's own biases and irrational beliefs is more than half the battle to overcoming them.
 
 ### [*Mistakes Were Made (but Not by Me): Why We Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts*](https://www.amazon.com/Mistakes-Were-Made-but-Not/dp/0544574788/)
 
 Book Main Idea: Self-justification and rationalization are more powerful than most people can imagine, and occur with frightening regularity.
 
-Book Practical Applicability: Like biases and irrationality above, learning about self-justification and rationalization is unquestionably the first step to overcoming them. This book also helps make one a bit less unforgiving with respect to attributing motives to others: people may be selfish and manipulative, but they typically don't start out intending to be that way.
+Book Practical Applicability: Like biases and irrationality above, learning about self-justification and rationalization is unquestionably the first step to overcoming them. This book also serves as a chilling reminder that people don't suddenly wake up and find themselves evil, but slip into moral decay through a long string of almost imperceptible self-justifications and rationalizations. In otherwords, it reminds one of the banality of evil.
