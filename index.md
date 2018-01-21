@@ -19,6 +19,8 @@ title: Home
 
 ## Starting Up A Blog
 
+#### January 20, 2018
+
 I've toyed with the idea of blogging for a while now. Part of my initial hesitancy was/is that blogs are these ugly static beasts wherein information never gets updated.
 
 When doing most things in my life, I break patterns in "non-backwards-compatible" ways, as they say. I'll flip-flop positions, try new things that are exactly the opposite of things I'd previously tried, and go through quick iterative sprints, as much as possible, to figure out what "best" is in a given circumstance. In other words, when I'm in the "research and thought stage" for any particular topic, my views change with great frequency.
@@ -35,6 +37,8 @@ And this concludes blog post number one. Probably to be made into a real page at
 
 
 ## Having A Website And Complications Therein
+
+#### January 20, 2018
 
 A question I have gotten from several people in the few months I've had my site up is "what's the point?" It's a good question.
 
