@@ -7,14 +7,13 @@ title: Home
 
 ## Recent Activity
 
-01/20/18   Posted configuration README on Github. Moved worthy projects to separate page. Started blog (see below). <br/>
+01/20/18   Posted [configuration README](https://github.com/StevenTammen/config) on Github. Moved [worthy projects](https://steventammen.com/worthy-projects/) to a separate page. Started blog (see below). <br/>
 01/12/18   Published [Reading List](https://steventammen.com/reading-list)<br/>
 01/06/18   Worked on [Keyboard Layouts](https://steventammen.com/keyboard-layouts/) and [Keyboards](https://steventammen.com/keyboards/)<br/>
 11/22/17   Slightly updated many pages. Worked a lot on [Backpacks](https://steventammen.com/backpacks/) <br/>
 09/16/17   Worked on [Keyboard Layouts](https://steventammen.com/keyboard-layouts/) <br/>
 09/06/17   Added [Keyboards](https://steventammen.com/keyboards/) <br/>
 09/01/17   Updated most pages <br/>
-08/27/17   Updated [Priorities](https://steventammen.com/priorities); added [Life Purpose](https://steventammen.com/life-purpose/) <br/>
 
 # Recent Blog Posts
 
