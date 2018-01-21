@@ -7,6 +7,7 @@ title: Home
 
 ## Recent Activity
 
+01/20/18   Posted configuration README on Github. Moved worthy projects to separate page. Started blog (see below). <br/>
 01/12/18   Published [Reading List](https://steventammen.com/reading-list)<br/>
 01/06/18   Worked on [Keyboard Layouts](https://steventammen.com/keyboard-layouts/) and [Keyboards](https://steventammen.com/keyboards/)<br/>
 11/22/17   Slightly updated many pages. Worked a lot on [Backpacks](https://steventammen.com/backpacks/) <br/>
@@ -15,49 +16,93 @@ title: Home
 09/01/17   Updated most pages <br/>
 08/27/17   Updated [Priorities](https://steventammen.com/priorities); added [Life Purpose](https://steventammen.com/life-purpose/) <br/>
 
-## Worthy Projects
+# Recent Blog Posts
 
-This is a list of physical products, software programs, and companies that I think should exist but currently do not. I am unsure how many (if any) I will be able to make progress on given my busy schedule. I would prefer to keep everything open source (including designs for physical products), but if somebody wants to take any of these to market, I would be happy to explain in excruciating detail how I would design/implement each thing. In other words, I would rather that they exist in a proprietary form than in no form at all, even though I would prefer that they exist in an open source form.
+## Starting Up A Blog
 
-If you think you can help in any way or are just curious about my thoughts, please email me at [steven@steventammen.com](mailto:steven@steventammen.com). I plan to write more fully on each of these ideas when I get the time. (I'll link to these more full explanations as they are available).
+I've toyed with the idea of blogging for a while now. Part of my initial hesitancy was/is that blogs are these ugly static beasts wherein information never gets updated.
 
-### Physical Products
+When doing most things in my life, I break patterns in "non-backwards-compatible" ways, as they say. I'll flip-flop positions, try new things that are exactly the opposite of things I'd previously tried, and go through quick iterative sprints, as much as possible, to figure out what "best" is in a given circumstance. In other words, when I'm in the "research and thought stage" for any particular topic, my views change with great frequency.
 
-- Development of an open source, split-hand, concacave, columnar, portable, ergonomic keyboard -- one that takes design cues from the [Dactyl Keyboard](https://github.com/adereth/dactyl-keyboard) while slimming down the number of keys and adding built-in adjustability. Try to get an assembly/distribution service of some sort in place to bring ergonomic, split-hand, concave keyboards to the masses.
-- Development of an open source, ergonomic, finger-controlled trackball that allows for a perfectly straight wrist and low pronation.
-- Development of an open source, side-actuated mechanical pencil: an update of the now-discontinued [Pentel Original Quicker Clicker](http://www.pentel.com/store/quicker-clicker-mechanical-pencil-original-config). Make it easy to take apart, and make parts replaceable.
-- Development of an open source, fully waterproof (i.e., submersible) multi-purpose backpack: an update of the now-discontinued [Ortlieb Flight 27](http://www.wiggle.fr/sac-a-dos-ortlieb-flight-27-litres-avec-tizip/).
+To the uninitiated this would seem like madness. How can you be fully convinced that X is best only to say 5 days later that X is rubbish and Y is much better? Is that not contradictory?
 
-### Software Programs
+It's all about how you approach problem-solving, and mostly boils down to definition of terms. To me, "best" is a mapping of my subjective understanding onto objective reality. That is to say, there is an "objective best" that exists for a specific set of input parameters (what we might call circumstantial variables). Then there is the "best" that I have bumped in to at present. This latter "best" is the X that changes to Y. The former one may or may not be X or Y. It may not even exist at present.
 
-- Development of an open source, cross-platform keyboard program that supports key remapping, hotstrings, layers, macros, running programs through a hotstring/macro, opening URLs in the default browser through a hotstring/macro, and so forth. Also develop a spin-off project for implementing as meany features as possible on the firmware level. (Perhaps contributing to [QMK firmware](https://github.com/qmk/qmk_firmware/)?)
-- Development of an open source, cross-platform program to enable Vim/Spacemacs emulation across the entire operating system environment (configurable by .vimrc/.spacemacs files just like Vim/Spacemacs). Focus on making uneditable text selectable, links/menus accessible by keyboard, and commands consistent across programs.
-- Development of customizable real-time previews for Emacs Org-mode objects to improve the editing experience
-  - See [Typora](https://typora.io/) for an example of this being done with Markdown.
-  - Similar to current support for LaTeX blocks: commands to display the source versus displaying the output.
-  - Extend concept to source blocks (with options for line numbers, syntax highlighting, etc.), verse blocks, quote blocks, etc. Remove markup from working environment except when necessary. Text in blocks should be editable in the formatted display output.
-  - Also create auto-preview for tables with full borders, cell highlighting, header formatting, etc. Make tables editable with styling applied all the time.
-  - Work on WYSIWYG implementation of footnotes and [org-ref](https://github.com/jkitchin/org-ref) citations and labels so that footnotes and citations appear how they would in a published document. Enable customization of what gets displayed, and in what format.
-  - Give additional configuration options for the inline display of images in Org mode (scaling, alignment, etc.).
-  - Support for shortcodes, to be replaced by stylized output within the buffer itself. (Cf. typical shortcodes in templating programs).
-  - Have commands to show/hide source across the entire document for all object types, show/hide source across the entire document for one object type, and show/hide source for the object currently under the cursor. Do not automatically show source upon cursor hover to prevent disruption to cursor tracking when editing -- use activation key sequences instead.
-  - Shortcuts for easily removing text from current markup object (e.g., delete "#+BEGIN\_SRC" and "#+END\_SRC", bold markup, etc.) and changing the type of object.
-- Development of an open source universal electronic publishing standard (for novels, reference books, articles, etc.)
-- Development of an open source, cross-platform e-reading program, to be used (non-exclusively) with the standard above. Also develop API for using the optimally designed reading interface in web pages.
-- Development of an open source, narrowly scoped networking platform to connect people with others who either do or do not match them quantitatively across attributes. Allow user-defined rankings of attribute importance, and also allow for privatization of attributes (obviously keep data secure). Try to not to limit use cases (e.g., by trying to funnel users into using the platform as a dating app, a business networking app, etc.) and focus on designing an intelligent algorithm to give people an option for having a quantitative base for forming relationships with others -- to take the guesswork out of finding people *like* you (for hobby groups, discussion groups, potential partners, etc.) and people *unlike* you (for getting perspective, having intelligent debates, etc.). Try to enforce a standard of honesty to make results meaningful.
-  - Provide options for copious amounts of user-feedback throughout the whole process, and use data analytics to improve the algorithm's predictive power over time.
-- Development of an open source, crowd-driven charity app. Focus on completely eliminating overhead and organizing local (or international) groups of volunteers to effectively get stuff done. Have options for users to self-identify in fields related to their talents. For example, a person in building construction can declare so and get matched with people with complementary skills or access to materials -- like a person with organization/leadership skills, a person with supply chain/procurement skills, and a person who has access to a cement-mixer, bulldozer, and paving equipment from his day-job connections. Such a team might accomplish heavy construction tasks like helping lay the foundation for a new women's shelter or clearing a plot of land/paving it to give additional parking space to a volunteer health center. Have built in apprenticeship/knowledge-building aspect: make it easy for inexperienced people to get hands on experience across many different fields without paying for formal education. (Strive to get certifications in place in the long term to make it, combined with MOOC classes from places like edX and Coursera, a full replacement for paid education). Also figure out some way to sort and analyze the validity and urgency of requests for assistance to most effectively prioritize aid.
-  - Start out in a narrowly defined field, such as construction/remodelling, website/app development, medical care, etc. to make sure the quality is top notch. Branch out across the volunteering spectrum as resources allow.
-- Development of an open source translation platform for international scholarship, allowing multilingul academics to widen access to research that would otherwise be language-restricted. Work to enable a feedback and correction system for the translations, and perhaps even get into natural language processing and AI/machine learning to automate some of the translation (in the long term).
-- Development of an open source peer-review scholarship platform to free academia from paywalls, journal exclusivity and snobbishness, and ideas of "publish once and don't update." Much more emphasis on continuous improvement than static content in journals. Try to focus on objective criteria (e.g., problems in research methodology, ideas for replicability and generalizability) over subjective opinions of work. Try to get it accepted by influential academics across many fields to get research in an environment more conducive to actual rapid knowledge advancement: dynamic, open source content vs. static paywall-protected scholarship. Also allow non-academic professionals in related fields to offer their feedback to better connect the perspectives from the ivory tower and the real world.
-  - Also try to generalize it to internet content in general. The internet has a vast amount of knowledge, but not all of it is correct/verifiable, and some of it is downright misleading. Creating an environment for academics and knowledgeable laymen to filter the junk from the interesting, useful information for the rest of us would be *huge* in increasing the overall usefulness of internet research across fields.
-  - Try not to fall prey to fallacious thinking related to the argument from authority: encourage real discussion, even if it includes dissenting or unpopular opinions. Try to make the system based on data and evidence as much as possible.
-- Development of an open source app for connecting homeschooling families in communities and helping them organize effective curricula for their children. Enable scheduling around experts/parents with different focuses to give diverse experiences, and allow for matching families based upon shared interests and perspectives.
-- Development of an open-source program for practicing reading clock faces, both of the 12 and 24 hour variety. Also have option for training on 12 hour faces with rollover times (13:00, 14:00, etc.) in the afternoon.
+If all this seems impenetrable and abstract, it's just to say that there are complications when translating shifting human thought into the likes of "blog posts." I obsessively update my thinking according to new data, and blog posts, if not prefaced with verbose disclaimers in the manner of "warning: this writing represents my views on 01/20/18, which may or may not have much to do with I think now" have the danger of presenting things as "done" without having a built in way to edit and refine them over time. Hence why I was sticking with "pages," which can be updated freely over time since they don't have dates attached to them.
 
-### Companies
+However, as I've thought more about it, these things can co-exist. You can write blog posts representing your thought a particular moment in time without feeling like you have to keep the post updated... because if it gets to that point, you should probably write a page on it anyway and spell things out more thoroughly. Maintaining a semantic distinction between "immutable, snapshot content" (i.e., blog posts) and "dynamic, thorough content" (i.e., pages) makes it easy for me to document my day to day thought for myself (and others, by extension) through blogging, while also maintaining a "cutting edge" version of things in dynamic pages that get regular updates. So as long as no one gets the impression that blog posts are the end of what can be said about something, they can be a helpful addition to the site.
 
-- A healthy fast food company with responsible sourcing. For example, a better burger: 1/3 lb. organic grass-fed/grass-finished ground beef patty, organic freshly-milled whole wheat bun, organic grass-fed cheddar cheese slice, organic tomato ketchup (minimally sweetened with a low glycemic sweetner like coconut palm sugar, and absolutely free from high-fructose corn syrup), organic romaine leaves.
-  - Encourage the purchase of 1 serving of leafy green vegetables (spinach, kale, etc.) and 1 serving of non-starchy vegetables (broccoli, cauliflower, Brussels sprouts, etc.) with every entree purchase -- create tasty recipes to get more people to eat them. Try to make the cost of adding these healthy options low to encourage the purchase of them.
-  - Avoid inflating prices simply because it would be possible to (the supply for healthy, responsibly-sourced, fast food is just about non-existent). Try to create a sustainable business model to fill this market need in the long haul.
-  - Could follow a "have it all" type of restuarant model (burgers, Mexican food, pizza, Asian food, etc.), or create different store models managed under one brand.
+And this concludes blog post number one. Probably to be made into a real page at some point.
+
+
+## Having A Website And Complications Therein
+
+A question I have gotten from several people in the few months I've had my site up is "what's the point?" It's a good question.
+
+### Table of Contents
+
+- [Bad Reasons To Have a Website](#bad-reasons-to-have-a-website)
+- [Good Reasons To Have a Website](#good-reasons-to-have-a-website)
+- [Hypocrisy](#hypocrisy)
+- [On Naming Websites](#on-naming-websites)
+- [On Anonymity](#on-anonymity)
+
+### Bad Reasons To Have a Website
+
+First, some reasons I think are lame. A lot of people recommend you have a website to showcase your CV/Resume, your projects, and "what skills and experience you bring to the table." (You know the type of arguments, and the nauseating language employed therein).
+
+To be perfectly honest, this is exactly the sort of corporate standardization and conformity that drives me nuts. In other words, this is *exactly the opposite of a good reason* for having your own website. Anyone who has been around me in real life knows that marketing and public relations are two of the things in life that make me legitimately wrathful. You can couch them in terms of "communicating the benefits of your product," "customer management," etc., but when it comes down to it, the disciplines teach you how to spin blatant lies and nonsense. They are mediums of unethical manipulation of vulnerable people that aren't aware of the bias in presentation, either due to systemic enforcement of ignorance by companies, the government, and so forth for selfish gain, or simply because they have never had the corruption of the system exposed to them in a stark, no-holds-barred, manner. See [here](https://steventammen.com/reading-list/#escaping-the-cave) for some recommended reading on the subject.
+
+All this to say, I think it is a very bad idea to create a website and publish content solely to make yourself appear like a qualified, interesting person. That's falseness and insincerity, and if you do it, shame on you. With as little truth as there is in how we interact with each other nowadays, making up stuff to sound intelligent is all the more despicable. Particularly if it leads to you getting a job/promotion over a more qualified person who was unwilling to "play the game" of  truth twisting and self-aggrandizement.
+
+Now, with that big one out of the way, here's a few other things to avoid:
+
+- Hosting a website/writing to preach your views to others as holy dogma that must not be questioned.
+- Hosting a website/writing to stir up resentment between groups of people (think politically, racially, etc.). In other words, demagoguery.
+- Hosting a website/writing to insult, vilify, or harm any group of people, even if they are morally backwards and might kind of deserve it. Hate begets hate, not progress.
+- Hosting a website/writing to troll others. Trolling is fun but not constructive.
+
+I could go on, but you get the idea. Don't be evil/insensitive/rude. The prohibition against trolling bears repeating. It is satisfying to get people worked up without them knowing you are not serious, but it is more satisfying to help them see the truth of the matters that they are irrationally emotional about. (Taking pains to not become a white knight in so doing).
+
+### Good Reasons To Have a Website
+
+I found a quote that almost perfectly encapsulates my main reason for having a website. From the middle of [this excellent piece](http://paulgraham.com/hundred.html):
+
+> The word "essay" comes from the French verb "essayer", which means "to try". An essay, in the original sense, is something you write to try to figure something out. This happens in software too. I think some of the best programs were essays, in the sense that the authors didn't know when they started exactly what they were trying to write.
+
+In other words, I write for me. It's selfish. Getting everything "on paper" so that I can more clearly see relationships in information and reason about it helps me figure stuff out. Even if I weren't publishing things on the internet, I'd still do more or less do what I do, since it's how progress in thought is attained.
+
+But there's benefit to publishing these "essays," these stabs at the truth. What are they, you ask? Well there are several:
+
+- I'm kinda dumb sometimes. Other people are kinda smart sometimes. The synthesis of these means that I can learn a lot from what other people say/think about what I write.
+  - This is basically what the open source movement is all about: multiple people lead to higher quality projects since sometimes we all make mistakes and benefit from others' perspectives.
+- [No problem should ever have to be solved twice](http://www.catb.org/~esr/faqs/hacker-howto.html#believe2). (You should really read that all the way through. It's absolutely fantastic). Sharing knowledge is important.
+- "Putting it out there" makes me take things more seriously because people can fact check me and contradict me if I'm wrong. Humans have a nasty habit of rationalizing their actions and committing intellectual suicide-by-self-justification. If I commit such sins when I lock up my writing in a journal, I'll never know. If I commit such sins when I publish something, someone is bound to tell me, either nicely and constructively, or gloatingly and rudely. Either way, I'll know that I messed up somewhere, and won't get trapped by self-delusion.
+
+### Hypocrisy
+
+An astute observer might note that I have actually published my CV/Resume on my website, and do mention my side projects in what I write. What gives then? I thought websites were to put your thoughts out there to make them better? How does posting such things help?
+
+You see, the thing is, I'm not against resumes, or portfolios, or other things of the sort. I'm against websites existing simply because people want to paint themselves as more educated or qualified than they really are. That is, I'm against these things serving as a marketing medium, not the things themselves.
+
+Here's how I view it: an ethically constructed resume or CV accurately records skills, experiences and qualifications for an individual without embellishing or misrepresenting. It is concise, factual, and descriptive. It is not vague and does not promise more than what is there. A person should be prepared to defend the exact wording of every phrase included in the document without qualification.
+
+The same thing would go for the now-ubiquitous "elevator pitch." It is a decidedly good thing to be able to briefly summarize why you are an attractive value proposition -- to objectively lay out what things you bring to the table. But there should not be rhetoric or showboating or anything like that in this. It should be kept matter-of-fact. And people who lie or misrepresent themselves in any part of the job-seeking process should be punished swiftly and severely.
+
+### On Naming Websites
+
+Having an uncommon enough last name let me obtain firstlast.com, which I think is ideal. Several people have told me that they think it is really pretentious to have a website named after myself, but I would contend that that is simply a bias people hold because of all the stupid self-promoting websites scorned above.
+
+The thing common to this website is me. I don't have any one particular interest, so a website named after any one of them singularly (e.g., efficient-text-entry.com) would prove to be misleading in many circumstances. An arbitrarily name works fine for large companies (e.g., Amazon) or specific projects (e.g., [hypothes.is](https://web.hypothes.is/)), but doesn't make a lot of sense for individuals.
+
+If you make a habit of tooting your own horn in everything you write then that is obnoxious and you should stop. But I'm not going to change my website name to something unrelated to my personal name (or feel bad about setting things up this way) since I am the thing that most clearly ties all the content together on this site: these are *my* thoughts.
+
+### On Anonymity
+
+Some people also argue for writing anonymously. I'm not one of them. If you don't have the guts to put your name behind what you are writing, then you probably shouldn't be writing it. Getting "doxxed" is only a problem if you aren't enough of a man (or woman) to associate your name with your views.
+
+Letting people know who you really are is actually something *in support of* posting a CV/Resume, portfolio, etc. I use heuristics a lot to decide who I should even contemplate listening to, and to me, not knowing the real author of something is more of a red flag than learning that the author had 2.7 GPA and and dropped out of college.
+
+Why? Because, for example, people drop out of college for all kinds of reasons. They get fed up with the political correctness and mysterious expense categories they have no control over. They get sick of watching how the University pats itself on the back for its students' successes when usually said students succeeded almost entirely on their own drive and determination, sometimes despite the University.
+
+Now don't get me wrong. The brokenness of higher education (and validity of MOOCs and experiential learning) does not equate into a blanket condemnation of the system. (This is ultimately a topic for a separate post). What I was getting at is that people and circumstances are complicated, and I at least won't arbitrarily judge them without hearing their take on their path. But people who won't give any information about themselves? My first instinct (verified through experience over time) is to think that they're hiding something.
