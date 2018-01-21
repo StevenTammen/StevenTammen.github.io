@@ -47,6 +47,10 @@ Note: Pages that have an asterisk before them are still in progress to some degr
 - \*[Learning Styles](https://steventammen.com/learning-styles/)
 - [Reading List](https://steventammen.com/reading-list)
 
+### Opinion
+
+- \*[Worthy Projects](https://steventammen.com/worthy-projects/)
+
 ### Philosophy
 
 - \*[Life Purpose](https://steventammen.com/life-purpose/)
