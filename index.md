@@ -112,7 +112,7 @@ Now don't get me wrong. The brokenness of higher education (and validity of MOOC
 
 ## Using PuTTY and Emacs' Tramp On Windows
 
-#### January 20, 2018
+#### January 22, 2018
 
 ### Table of Contents
 
@@ -162,7 +162,7 @@ Here's a good list of basic commands to get started:
 | Open eshell                           | `Spc Spc eshell`                 | `M-x eshell`    |
 | Open system shell with M-x shell      | `Spc Spc shell`                  | `M-x shell`     |
 
-
+<br/>
 In the commands above, `Spc Spc` is Spacemacs' equivalent to `M-x`. In Spacemacs, you can also open your default shell type with `Spc '`. You can customize this with code in your .spacemacs file. For example, to make eshell the default shell:
 
 ```lisp
