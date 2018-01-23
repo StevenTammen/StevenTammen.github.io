@@ -186,7 +186,7 @@ Tramp works great for not having to bother with the nitty-gritty details of remo
 
 Accessing files directly with Tramp certainly beats always having to keep track of remote shells and sessions. But it is still a bit of a pain typing out something like `/plink:nike:/path/to/file` whenever I want to access a remote file. There is also the irritating fact that using, e.g., `Spc f f` starts you off in the current directory, and on Windows, starting a path with `/` will leave a `c:/` prepended (which you have to delete when entering a remote file path).
 
-To make it all easier, I wrote a simple Authotkey hotstring to expand out pl{Spc} to /plink:nike:~/ (nike is the name in PuTTY I gave the remote connection to my school's servers, tammen@nike.cs.uga.edu). It's smart enough to delete the c:/, and it even includes some delay before starting on the remote file path to give helm (an autocompletion package that I use in Spacemacs) time to catch up. You can, of course, include this in part of a larger Autohotkey script (i.e., one that does other things too). Here's the code:
+To make it all easier, I wrote a simple [Authotkey](https://www.autohotkey.com/) hotstring to expand out pl{Spc} to /plink:nike:~/ (nike is the name in PuTTY I gave the remote connection to my school's servers, tammen@nike.cs.uga.edu). It's smart enough to delete the c:/, and it even includes some delay before starting on the remote file path to give helm (an autocompletion package that I use in Spacemacs) time to catch up. You can, of course, include this in part of a larger Autohotkey script (i.e., one that does other things too). Here's the code:
 
 ```
 ; Defines a hotstring for a PuTTY remote connection called 'nike'
@@ -197,4 +197,4 @@ To make it all easier, I wrote a simple Authotkey hotstring to expand out pl{Spc
 	return
 ```
 
-The last thing you may want to do is add this autohotkey script and the shortcut to activate Pageant to your Windows startup sequence so that all this stuff happens automatically.
+The last thing you may want to do is add this Autohotkey script and the shortcut to activate Pageant to your Windows startup sequence so that all this stuff happens automatically.
