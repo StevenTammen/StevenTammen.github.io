@@ -7,7 +7,7 @@ title: Home
 
 ## Recent Activity
 
-01/22/18   Blog post: [Using PuTTY and Emacs' Tramp On Windows](#using-putty-and-emacs-tramp-on-windows)
+01/22/18   Blog post: [Using PuTTY and Emacs' Tramp On Windows](#using-putty-and-emacs-tramp-on-windows) <br/>
 01/20/18   Posted [configuration README](https://github.com/StevenTammen/config) on Github. Moved [worthy projects](https://steventammen.com/worthy-projects/) to a separate page. Started blog (see below). <br/>
 01/12/18   Published [Reading List](https://steventammen.com/reading-list)<br/>
 01/06/18   Worked on [Keyboard Layouts](https://steventammen.com/keyboard-layouts/) and [Keyboards](https://steventammen.com/keyboards/)<br/>
